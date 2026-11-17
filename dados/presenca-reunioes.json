@@ -1,0 +1,2299 @@
+{
+ "fonte": "https://www.cmbh.mg.gov.br/transparencia/vereadores/relatorio-individualizado-reuniao",
+ "observacao": "Relatórios por reunião (XLSX) das reuniões posteriores ao último mês da tabela mensal. Provisório: ausências ainda podem ser justificadas até o 5º dia útil do mês seguinte. Códigos: P presente; F, AJ, LM, SR como na tabela mensal; AUS ausente sem tipo informado na planilha.",
+ "coletadoEm": "2026-11-17T00:46:33.553Z",
+ "reunioes": [
+  {
+   "titulo": "91ª Reunião Ordinária - 03/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/91a_reuniao_ordinaria_-_03-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 3,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "F",
+     "eventos": 4,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 2
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Lucas Ganem",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 3
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 3
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 3
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 4,
+     "presenteEm": 4
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "92ª Reunião Ordinária - 04/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/92a_reuniao_ordinaria_-_04-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 4,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Lucas Ganem",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 1,
+     "presenteEm": 1
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "93ª Reunião Ordinária - 05/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/93a_reuniao_ordinaria_-_05-11-2026_0.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 5,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "F",
+     "eventos": 8,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "AUS",
+     "eventos": 8,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 8,
+     "presenteEm": 8
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "94ª Reunião Ordinária - 06/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/94a_reuniao_ordinaria_-_06-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 6,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Reinaldinho",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rubão",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 9,
+     "presenteEm": 8
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "95ª Reunião Ordinária - 09/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/95a_reuniao_ordinaria_-_09-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 9,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 4
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Reinaldinho",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rubão",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "96ª Reunião Ordinária - 10/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/96a_reuniao_ordinaria_-_10-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 10,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 4
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Reinaldinho",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rubão",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "97ª Reunião Ordinária - 11/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/97a_reuniao_ordinaria_-_11-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 11,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Reinaldinho",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rubão",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 6,
+     "presenteEm": 6
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "98ª Reunião Ordinária - 12/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/98a_reuniao_ordinaria_-_12-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 12,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 8
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Reinaldinho",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rubão",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 9
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 10,
+     "presenteEm": 10
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  },
+  {
+   "titulo": "99ª Reunião Ordinária - 13/11/2026",
+   "url": "https://www.cmbh.mg.gov.br/sites/default/files/presenca_plenario/[user-last-login-yyyy]/[user-last-login-m]/99a_reuniao_ordinaria_-_13-11-2026.xlsx",
+   "ano": 2026,
+   "mes": 11,
+   "dia": 13,
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Braulio Lara",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Bruno Miranda",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Diego Sanches",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "codigo": "F",
+     "eventos": 7,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Edmar Branco",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Flávia Borja",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Helton Junior",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Irlan Melo",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Iza Lourença",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "José Ferreira",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Juhlia Santos",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 5
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Luiza Dulci",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Maninho Félix",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Marilda Portela",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 6
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pablo Almeida",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pedro Patrus",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Professora Marli",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Professora Nara",
+     "codigo": "AUS",
+     "eventos": 7,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Reinaldinho",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rubão",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 0
+    },
+    {
+     "nome": "Rudson Paixão",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Tileléo",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Trópia",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Uner Augusto",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Vile",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    },
+    {
+     "nome": "Wanderley Porto",
+     "codigo": "P",
+     "eventos": 7,
+     "presenteEm": 7
+    }
+   ],
+   "coletadoEm": "2026-11-17T00:46:33.553Z"
+  }
+ ]
+}

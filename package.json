@@ -1,0 +1,14 @@
+{
+  "name": "radar-bh",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Radar BH: o que cada vereador de Belo Horizonte faz, só com dados oficiais da CMBH.",
+  "scripts": {
+    "coletar": "node scripts/coletar.js",
+    "site": "node scripts/gerar-site.js",
+    "atualizar": "node scripts/coletar.js && node scripts/gerar-site.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

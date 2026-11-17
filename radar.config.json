@@ -1,0 +1,8 @@
+{
+ "_explicacao": "Canal para o público avisar erros. tipo 'link': cole em 'url' o link do formulário. Se o link tiver {vereador}, o site troca pelo nome do vereador do cartão (veja o README para gerar esse link no Google Forms). tipo 'email': preencha 'endereco' (use um e-mail só do projeto). Enquanto estiver vazio, o site avisa que o canal ainda não foi configurado.",
+ "correcao": {
+  "tipo": "link",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeV30hDwu1Y0a9GoP6AVeFpLi-iMJs02IP7kbMtF0vjUMeFcQ/viewform?usp=pp_url&entry.612592252={vereador}",
+  "endereco": ""
+ }
+}

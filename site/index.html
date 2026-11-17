@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar BH: presença dos vereadores</title>
+  <meta name="description" content="Presença de cada vereador de Belo Horizonte nas reuniões do Plenário, só com dados oficiais da Câmara Municipal.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="limite">
+      <p class="marca"><span class="ondas" aria-hidden="true">((•))</span> RADAR <strong>BH</strong></p>
+      <h1>O vereador foi às reuniões?</h1>
+      <p class="sub">Presença de cada vereador de Belo Horizonte nas reuniões do Plenário da Câmara, mês a mês. Só dados oficiais, com link para a fonte.</p>
+      <p class="atualizado" id="atualizado">Carregando dados…</p>
+    </div>
+  </header>
+
+  <main class="limite">
+    <section class="como-ler" aria-labelledby="como-ler-titulo">
+      <h2 id="como-ler-titulo">Como ler</h2>
+      <ul class="legenda">
+        <li><span class="dia c-P">P</span> Presente</li>
+        <li><span class="dia c-F">F</span> Falta</li>
+        <li><span class="dia c-AJ">AJ</span> Ausência justificada</li>
+        <li><span class="dia c-LM">LM</span> Licença médica</li>
+        <li><span class="dia c-SR">SR</span> Licença sem salário</li>
+        <li><span class="dia c-AUS">AUS</span> Ausente, tipo ainda não informado</li>
+        <li><span class="dia c-vazio">–</span> Sem registro</li>
+      </ul>
+      <p>Cada quadradinho é um dia em que houve reunião no Plenário. A Câmara só publica os dias com reunião. Ausências do mês mais recente ainda podem ser justificadas até o 5º dia útil do mês seguinte, então uma <b>F</b> ou <b>AUS</b> recente pode virar <b>AJ</b>.</p>
+      <p>O mês em andamento aparece como <b>provisório</b>: ele vem do relatório oficial de cada reunião e é trocado pela tabela mensal da Câmara quando ela sair.</p>
+      <p>Isto não é nota nem opinião: mostramos o mesmo dado, com a mesma regra, para todos os vereadores.</p>
+    </section>
+
+    <div class="filtro">
+      <label for="busca">Procurar vereador ou partido</label>
+      <input id="busca" type="search" placeholder="Ex.: Patrus, PT, PL" autocomplete="off">
+    </div>
+
+    <p class="contagem" id="contagem" aria-live="polite"></p>
+    <ol class="lista" id="lista"></ol>
+
+    <section id="fora" hidden>
+      <h2>Também tiveram presença registrada neste mandato</h2>
+      <p>Pessoas que aparecem na presença oficial, mas não estão na lista atual de vereadores da Câmara. Em geral são suplentes que exerceram o mandato por um tempo, ou vereadores que se afastaram.</p>
+      <ol class="lista" id="lista-fora"></ol>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <div class="limite">
+      <h2>De onde vêm os números</h2>
+      <p>Da página <a id="fonte-presenca" href="https://www.cmbh.mg.gov.br/transparencia/vereadores/presenca-mensal-consolidada">Presença Mensal Consolidada</a>, do <a href="https://www.cmbh.mg.gov.br/transparencia/vereadores/relatorio-individualizado-reuniao">Relatório Individualizado por Reunião</a> (mês em andamento) e da <a href="https://www.cmbh.mg.gov.br/vereadores">lista de vereadores</a> do site oficial da Câmara Municipal de Belo Horizonte. Um robô copia esses dados uma vez por dia. As contas (somas por vereador) são nossas.</p>
+      <p>Contatos mostrados são só os públicos, de gabinete.</p>
+      <section class="correcao" id="correcao" aria-labelledby="correcao-titulo">
+        <h2 id="correcao-titulo">Achou um erro?</h2>
+        <p id="correcao-acao">O canal para avisar erros ainda está sendo configurado.</p>
+        <p>Cada aviso é conferido com a fonte oficial. Se o erro for nosso, corrigimos e registramos aqui embaixo. Se o dado estiver errado no próprio site da Câmara, você também pode pedir a correção lá, pelo <a href="https://www.cmbh.mg.gov.br/participe/fale-com-a-camara" target="_blank" rel="noopener">Fale com a Câmara</a>.</p>
+        <h3>Correções feitas</h3>
+        <p id="sem-correcoes">Nenhuma até agora.</p>
+        <ul id="lista-correcoes" hidden></ul>
+      </section>
+    </div>
+  </footer>
+
+  <template id="tpl-vereador">
+    <li class="cartao">
+      <details>
+        <summary>
+          <img class="foto" alt="" loading="lazy" width="64" height="75">
+          <span class="ident">
+            <span class="nome"></span>
+            <span class="partido"></span>
+          </span>
+          <span class="numeros">
+            <span class="principal"></span>
+            <span class="detalhe"></span>
+          </span>
+        </summary>
+        <div class="corpo">
+          <div class="meses"></div>
+          <p class="links"></p>
+        </div>
+      </details>
+    </li>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

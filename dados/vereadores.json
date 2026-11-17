@@ -1,0 +1,696 @@
+{
+ "fonte": "https://www.cmbh.mg.gov.br/vereadores",
+ "coletadoEm": "2026-11-17T00:46:33.553Z",
+ "vereadores": [
+  {
+   "slug": "arruda",
+   "nome": "Arruda",
+   "partido": "REPUBLICANOS",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/arruda_0.jpg?itok=fcFnnzYf",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/arruda",
+   "nomeCivil": "Enedino José de Arruda",
+   "partidoCompleto": "REPUBLICANOS - Republicanos",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1305",
+   "sala": "A-303",
+   "email": "ver.arruda@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "braulio-lara",
+   "nome": "Braulio Lara",
+   "partido": "NOVO",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/braulio_lara.jpg?itok=O8ldJE2q",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/braulio-lara",
+   "nomeCivil": "Braulio Alves Silva Lara",
+   "partidoCompleto": "NOVO - Partido Novo",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1307/1308",
+   "sala": "A-301",
+   "email": "ver.brauliolara@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "bruno-miranda",
+   "nome": "Bruno Miranda",
+   "partido": "PDT",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/bruno_miranda.jpeg?itok=8kQUxNdq",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/bruno-miranda",
+   "nomeCivil": "Bruno Martuchele de Sales",
+   "partidoCompleto": "PDT - Partido Democrático Trabalhista",
+   "mandatos": [
+    "2009–2012",
+    "2014–2016",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1330",
+   "sala": "A-306",
+   "email": "ver.brunomiranda@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "cláudio-do-mundo-novo",
+   "nome": "Cláudio do Mundo Novo",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/claudio_do_mundo_novo.jpg?itok=XS2BQFd0",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/cl%C3%A1udio-do-mundo-novo",
+   "nomeCivil": "Claudio Mota Campos",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1413",
+   "sala": "B-322",
+   "email": "ver.claudiodomundonovo@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "cleiton-xavier",
+   "nome": "Cleiton Xavier",
+   "partido": "UNIÃO",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/cleiton_xavier-2.png?itok=LhqSVOXO",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/cleiton-xavier",
+   "nomeCivil": "Cleiton Xavier da Silva",
+   "partidoCompleto": "União Brasil - União Brasil",
+   "mandatos": [
+    "2022–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1147",
+   "sala": "A-308",
+   "email": "ver.cleitonxavier@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "diego-sanches",
+   "nome": "Diego Sanches",
+   "partido": "SOLIDARIEDADE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/diego_sanches_2.jpg?itok=5PxAaXOs",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/diego-sanches",
+   "nomeCivil": "Diego de Souza Sanches",
+   "partidoCompleto": "SOLIDARIEDADE - Solidariedade",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1426",
+   "sala": "B-315",
+   "email": "ver.diegosanches@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "dr-bruno-pedralva",
+   "nome": "Dr. Bruno Pedralva",
+   "partido": "PT",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/dr_bruno_pedralva.jpeg?itok=we8s6tdp",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/dr-bruno-pedralva",
+   "nomeCivil": "Bruno Abreu Gomes",
+   "partidoCompleto": "PT - Partido dos Trabalhadores",
+   "mandatos": [
+    "2023–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3472-9193",
+   "sala": "B-318",
+   "email": "ver.brunopedralva@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "dra-michelly-siqueira",
+   "nome": "Dra. Michelly Siqueira",
+   "partido": "PRD",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/dra_michelly_siqueira.jpg?itok=1Q6F4yyK",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/dra-michelly-siqueira",
+   "nomeCivil": "Michelly Caroline Luiz Pereira de Siqueira",
+   "partidoCompleto": "PRD - Partido Renovação Democrática",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3472-9055",
+   "sala": "B-304",
+   "email": "ver.dramichellysiqueira@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "edmar-branco-0",
+   "nome": "Edmar Branco",
+   "partido": "PCdoB",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/edmar_branco_0.jpg?itok=J5Rcy3Js",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/edmar-branco-0",
+   "nomeCivil": "Edmar Martins Cabral da Cruz",
+   "partidoCompleto": "PCdoB - Partido Comunista do Brasil",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1126",
+   "sala": "A-312",
+   "email": "ver.edmarbranco@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "fernanda-pereira-altoé",
+   "nome": "Fernanda Pereira Altoé",
+   "partido": "NOVO",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/fernanda_pereira_altoe.jpeg?itok=KIFsb2KI",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/fernanda-pereira-alto%C3%A9",
+   "nomeCivil": "Fernanda Elisa Pereira Altoé",
+   "partidoCompleto": "NOVO - Partido Novo",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1159/1160",
+   "sala": "B-214",
+   "email": "ver.fernandapereira@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "flávia-borja",
+   "nome": "Flávia Borja",
+   "partido": "PODE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/flavia_borja.jpeg?itok=Fne8nLpi",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/fl%C3%A1via-borja",
+   "nomeCivil": "Flávia Ferreira Borja Pinto",
+   "partidoCompleto": "PODE - Podemos",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555- 1184",
+   "sala": "B-305",
+   "email": "ver.flaviaborja@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "helinho-da-farmácia",
+   "nome": "Helinho da Farmácia",
+   "partido": "PSD",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/helinho_da_farmacia.jpeg?itok=VctRe8Wx",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/helinho-da-farm%C3%A1cia",
+   "nomeCivil": "Helio Medeiros Correa",
+   "partidoCompleto": "PSD - Partido Social Democrático",
+   "mandatos": [
+    "2017–2020",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1186 / 1187 / 1401",
+   "sala": "A-304",
+   "email": "ver.heliodafarmacia@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "helton-junior",
+   "nome": "Helton Junior",
+   "partido": "PSD",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/helton_junior_0.jpg?itok=U5njdRHe",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/helton-junior",
+   "nomeCivil": "Helton Vieira Fernandes Junior",
+   "partidoCompleto": "PSD - Partido Social Democrático",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3472-9355",
+   "sala": "B-302",
+   "email": "ver.heltonjunior@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "irlan-melo",
+   "nome": "Irlan Melo",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/vereador_irlan_2.jpg?itok=70P1w-EL",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/irlan-melo",
+   "nomeCivil": "Irlan Chaves de Oliveira Melo",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2017–2020",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1153 / 1154 / 1412 / 1332",
+   "sala": "A-314",
+   "email": "ver.irlanmelo@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "iza-lourença",
+   "nome": "Iza Lourença",
+   "partido": "PSOL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/iza_lourenca.jpeg?itok=4NE8mDzu",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/iza-louren%C3%A7a",
+   "nomeCivil": "Izabella Lourença Amorim Romualdo",
+   "partidoCompleto": "PSOL - Partido Socialismo e Liberdade",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31)3555-1205",
+   "sala": "B-216",
+   "email": "ver.izalourenca@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "janaina-cardoso",
+   "nome": "Janaina Cardoso",
+   "partido": "UNIÃO",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/janaina_cardoso_0.jpg?itok=YfTQa6HX",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/janaina-cardoso",
+   "nomeCivil": "Janaina Ester Cardoso",
+   "partidoCompleto": "União Brasil - União Brasil",
+   "mandatos": [
+    "2023–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1202",
+   "sala": "A-307",
+   "email": "ver.janainacardoso@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "josé-ferreira",
+   "nome": "José Ferreira",
+   "partido": "PODE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/jose_ferreira.png?itok=m_Qej-Qs",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/jos%C3%A9-ferreira",
+   "nomeCivil": "José de Jesus Ferreira",
+   "partidoCompleto": "PODE - Podemos",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1145",
+   "sala": "B-306",
+   "email": "ver.joseferreira@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "juhlia-santos",
+   "nome": "Juhlia Santos",
+   "partido": "PSOL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/juhlia_santos.jpg?itok=sUdExxl-",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/juhlia-santos",
+   "nomeCivil": "Juhlia André Santos",
+   "partidoCompleto": "PSOL - Partido Socialismo e Liberdade",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1420",
+   "sala": "B-319",
+   "email": "ver.juhliasantos@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "juninho-los-hermanos",
+   "nome": "Juninho Los Hermanos",
+   "partido": "AVANTE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/juninho_los_hermanos.jpg?itok=vlaLgxHI",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/juninho-los-hermanos",
+   "nomeCivil": "Wagner Mariano Júnior",
+   "partidoCompleto": "AVANTE - Avante",
+   "mandatos": [
+    "2013–2016",
+    "2017–2020",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1151 / 1152 / 1341 / 1421",
+   "sala": "A-305",
+   "email": "ver.juninholoshermanos@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "loíde-gonçalves",
+   "nome": "Loíde Gonçalves",
+   "partido": "MDB",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/loide_goncalves_0.jpg?itok=8vitmq0l",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/lo%C3%ADde-gon%C3%A7alves",
+   "nomeCivil": "Elizete Loide Gonçalves Tavares",
+   "partidoCompleto": "MDB - Movimento Democrático Brasileiro",
+   "mandatos": [
+    "2023–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1155",
+   "sala": "A-310",
+   "email": "ver.loidegoncalves@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "luiza-dulci",
+   "nome": "Luiza Dulci",
+   "partido": "PT",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/luiza_dulci.jpg?itok=pk2SdNGs",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/luiza-dulci",
+   "nomeCivil": "Luiza Borges Dulci",
+   "partidoCompleto": "PT - Partido dos Trabalhadores",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1128",
+   "sala": "B-321",
+   "email": "ver.luizadulci@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "maninho-félix",
+   "nome": "Maninho Félix",
+   "partido": "PSD",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/maninho_felix.jpeg?itok=Iep4v40h",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/maninho-f%C3%A9lix",
+   "nomeCivil": "Glauton Santiago Felix De Jesus",
+   "partidoCompleto": "PSD - Partido Social Democrático",
+   "mandatos": [
+    "2019–2020",
+    "2023–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3472-9240 / 9239 (31) 3555-1194 / 1195",
+   "sala": "B-209",
+   "email": "ver.maninhofelix@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "marilda-portela",
+   "nome": "Marilda Portela",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/marilda_portela.jpg?itok=01mpoTYY",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/marilda-portela",
+   "nomeCivil": "Marilda de Castro Portela",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2017–2020",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1172 / 1173 / 1324 / 1404",
+   "sala": "B-309",
+   "email": "ver.marildaportela@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "neném-da-farmácia",
+   "nome": "Neném da Farmácia",
+   "partido": "MOBILIZA",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/nenem_da_farmacia.jpg?itok=ERA1Spg_",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/nen%C3%A9m-da-farm%C3%A1cia",
+   "nomeCivil": "Mozair José Braga",
+   "partidoCompleto": "MOBILIZA - Mobilização Nacional",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1161",
+   "sala": "B-316",
+   "email": "ver.nenemdafarmacia@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "osvaldo-lopes-0",
+   "nome": "Osvaldo Lopes",
+   "partido": "PODE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/osvaldo_lopes.jpg?itok=0bn8_0vA",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/osvaldo-lopes-0",
+   "nomeCivil": "Osvaldo Lopes De Oliveira Júnior",
+   "partidoCompleto": "PODE - Podemos",
+   "mandatos": [
+    "2016–2017",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1352",
+   "sala": "B-314",
+   "email": "ver.osvaldolopes@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "pablo-almeida",
+   "nome": "Pablo Almeida",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/pablo_almeida.jpg?itok=jtIEycwT",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/pablo-almeida",
+   "nomeCivil": "Phablo Gomes Almeida",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1178",
+   "sala": "B-301",
+   "email": "ver.pabloalmeida@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "pedro-patrus",
+   "nome": "Pedro Patrus",
+   "partido": "PT",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/pedro_patrus.png?itok=WFTxpRq8",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/pedro-patrus",
+   "nomeCivil": "Pedro Luiz Neves Victer Ananias",
+   "partidoCompleto": "PT - Partido dos Trabalhadores",
+   "mandatos": [
+    "2013–2016",
+    "2017–2020",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1323/1224",
+   "sala": "A-313",
+   "email": "ver.pedropatrus@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "pedro-rousseff",
+   "nome": "Pedro Rousseff",
+   "partido": "PT",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/pedro_rousseff.jpg?itok=hSOhU3bj",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/pedro-rousseff",
+   "nomeCivil": "Pedro Farah Rousseff",
+   "partidoCompleto": "PT - Partido dos Trabalhadores",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1182",
+   "sala": "A-315",
+   "email": "ver.pedrorousseff@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "professor-juliano-lopes",
+   "nome": "Professor Juliano Lopes",
+   "partido": "PODE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/professor_juliano_lopes.jpg?itok=Lw9GNk8e",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/professor-juliano-lopes",
+   "nomeCivil": "Juliano Lopes Lobato",
+   "partidoCompleto": "PODE - Podemos",
+   "mandatos": [
+    "2013–2016",
+    "2017–2020",
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1301 / 1302",
+   "sala": "B-215",
+   "email": "ver.julianolopes@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "professora-marli",
+   "nome": "Professora Marli",
+   "partido": "PP",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/professora_marli.jpg?itok=PECinh6F",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/professora-marli",
+   "nomeCivil": "Marli Aparecida de Aro Ferreira",
+   "partidoCompleto": "PP - Progressistas",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1176 / 1177",
+   "sala": "B-313",
+   "email": "ver.professoramarli@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "professora-nara",
+   "nome": "Professora Nara",
+   "partido": "REDE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/professora_nara.png?itok=Js-1Qv99",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/professora-nara",
+   "nomeCivil": "Nara Lucia De Paula Fan",
+   "partidoCompleto": "REDE - Rede Sustentabilidade",
+   "mandatos": [],
+   "telefone": "3555-1150",
+   "sala": "B-217",
+   "email": "ver.professoranara@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "reinaldinho-0",
+   "nome": "Reinaldinho",
+   "partido": "PSDB",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/reinaldinho.jpg?itok=kB2rxcnh",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/reinaldinho-0",
+   "nomeCivil": "Reinaldo Oliveira Batista",
+   "partidoCompleto": "PSDB - Partido da Social Democracia Brasileira",
+   "mandatos": [
+    "2026–2028"
+   ],
+   "telefone": "3555-1166",
+   "sala": "B-317",
+   "email": "ver.reinaldinho@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "rubão-0",
+   "nome": "Rubão",
+   "partido": "PODE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/rubao_0.jpg?itok=JNbWpS7o",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/rub%C3%A3o-0",
+   "nomeCivil": "Rubem Rodrigues de Oliveira Junior",
+   "partidoCompleto": "PODE - Podemos",
+   "mandatos": [
+    "2021–2024",
+    "2026–2028"
+   ],
+   "telefone": "3555-1157",
+   "sala": "B-311",
+   "email": "ver.rubao@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "rudson-paixão",
+   "nome": "Rudson Paixão",
+   "partido": "SOLIDARIEDADE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/rudson_paixao_3.jpg?itok=QVfiYQm7",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/rudson-paix%C3%A3o",
+   "nomeCivil": "Rudson Felipe da Paixão",
+   "partidoCompleto": "SOLIDARIEDADE - Solidariedade",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1200",
+   "sala": "B-307",
+   "email": "ver.rudsonpaixao@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "sargento-jalyson",
+   "nome": "Sargento Jalyson",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/sargento_jalyson.jpg?itok=g3_V3r3p",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/sargento-jalyson",
+   "nomeCivil": "Jalyson Maycon Gonçalves",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-9360",
+   "sala": "B-303",
+   "email": "ver.sargentojalyson@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "tileléo",
+   "nome": "Tileléo",
+   "partido": "PP",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/tileleo.jpg?itok=fVhfdf_M",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/tilel%C3%A9o",
+   "nomeCivil": "Leonardo José Rodrigues Martins",
+   "partidoCompleto": "PP - Progressistas",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-9013",
+   "sala": "B-310",
+   "email": "ver.tileleo@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "trópia",
+   "nome": "Trópia",
+   "partido": "NOVO",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/marcela_tropia_1.jpg?itok=omrCtyO7",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/tr%C3%B3pia",
+   "nomeCivil": "Marcela De Lacerda Tropia",
+   "partidoCompleto": "NOVO - Partido Novo",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555- 1168/1169",
+   "sala": "A-316",
+   "email": "ver.marcelatropia@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "uner-augusto-0",
+   "nome": "Uner Augusto",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/uner_augusto_0.jpg?itok=NweIUgNT",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/uner-augusto-0",
+   "nomeCivil": "Uner Augusto de Carvalho Alvarenga",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1188",
+   "sala": "B 308",
+   "email": "ver.uneraugusto@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "vile-santos",
+   "nome": "Vile Santos",
+   "partido": "PL",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/vile.jpg?itok=qoO0eJ9f",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/vile-santos",
+   "nomeCivil": "Wili dos Santos",
+   "partidoCompleto": "PL - Partido Liberal",
+   "mandatos": [
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1418",
+   "sala": "B-320",
+   "email": "ver.vile@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "wagner-ferreira",
+   "nome": "Wagner Ferreira",
+   "partido": "REDE",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/wagner_ferreira.jpeg?itok=uPsCqRFc",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/wagner-ferreira",
+   "nomeCivil": "Wagner de Jesus Ferreira",
+   "partidoCompleto": "REDE - Rede Sustentabilidade",
+   "mandatos": [
+    "2023–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3472-9077",
+   "sala": "B-312",
+   "email": "ver.wagnerferreira@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  },
+  {
+   "slug": "wanderley-porto",
+   "nome": "Wanderley Porto",
+   "partido": "PRD",
+   "foto": "https://www.cmbh.mg.gov.br/sites/default/files/styles/vereador/public/wanderley_porto.jpg?itok=HkdD0iDU",
+   "perfil": "https://www.cmbh.mg.gov.br/vereadores/wanderley-porto",
+   "nomeCivil": "Wanderley de Araújo Porto Filho",
+   "partidoCompleto": "PRD - Partido Renovação Democrática",
+   "mandatos": [
+    "2021–2024",
+    "2025–2028"
+   ],
+   "telefone": "(31) 3555-1191 (31) 3472-9130",
+   "sala": "A-311",
+   "email": "ver.wanderleyporto@cmbh.mg.gov.br",
+   "perfilColetadoEm": "2026-11-17T00:28:06.314Z"
+  }
+ ]
+}

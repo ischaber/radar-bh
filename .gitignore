@@ -1,0 +1,9 @@
+# Manual de terceiros (direitos do autor): fica só no seu computador
+Como-criar-o-Radar-da-sua-cidade.pdf
+
+# Arquivos temporários da coleta
+*.tmp
+node_modules/
+
+# Configurações locais do Claude Code
+.claude/settings.local.json

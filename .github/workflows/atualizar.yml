@@ -1,0 +1,64 @@
+# Robô do Radar BH: todo dia de madrugada coleta a presença na CMBH, guarda os dados
+# no repositório e republica o site no GitHub Pages.
+# Se a coleta falhar ou vier estranha, o script para com erro, nada é gravado
+# nem publicado, e o site continua com a última versão boa.
+name: Atualizar dados e publicar
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # 03:17 em Brasília (o GitHub usa UTC); minuto "quebrado" para fugir do pico
+  workflow_dispatch: # botão "Run workflow" na aba Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # gravar os dados novos no repositório
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-bh
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Coletar na Câmara
+        if: github.event_name != 'push'
+        run: node scripts/coletar.js
+
+      - name: Gerar site
+        run: node scripts/gerar-site.js
+
+      - name: Guardar dados novos no repositório
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "radar-bh-robo"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados site/dados.json
+          if git diff --cached --quiet; then
+            echo "Nada mudou na Câmara desde a última coleta."
+          else
+            git commit -m "Dados atualizados em $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: publicar
+        uses: actions/deploy-pages@v4

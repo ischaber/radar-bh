@@ -1,0 +1,4 @@
+{
+ "_explicacao": "Quando o mesmo vereador aparece com nomes diferentes em páginas diferentes da CMBH. Chave: nome como aparece na fonte (sem acento, minúsculo). Valor: slug do perfil em /vereadores/<slug>.",
+ "vile": "vile-santos"
+}
