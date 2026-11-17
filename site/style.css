@@ -83,6 +83,9 @@ details[open] summary { border-bottom: 1px solid var(--linha); }
 .m-P { background: var(--P); color: var(--P-t); }
 .m-F { background: var(--F); color: var(--F-t); }
 .lista-longa { max-height: 360px; overflow-y: auto; margin-top: 6px; padding-right: 4px; }
+.segundo-turno { margin: 20px 0; padding: 16px; border: 1px solid var(--linha); border-radius: var(--raio); }
+.segundo-turno > p { margin: 0 0 8px; font-size: 14px; }
+.lista-turnos li { margin-bottom: 6px; line-height: 1.5; }
 .nominais { margin: 20px 0; padding: 16px; border: 1px solid var(--linha); border-radius: var(--raio); }
 .nominais > p { margin: 0 0 8px; font-size: 14px; }
 .lista-nominais { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }

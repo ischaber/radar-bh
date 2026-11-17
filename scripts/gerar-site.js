@@ -2,7 +2,7 @@
 // Não acessa a internet: só lê dados/.
 const fs = require("fs");
 const path = require("path");
-const { normalizar } = require("./lib/cmbh");
+const { normalizar, BASE } = require("./lib/cmbh");
 
 const RAIZ = path.join(__dirname, "..");
 // Tolera a marca BOM que o Bloco de Notas do Windows às vezes põe no início do arquivo.
@@ -150,6 +150,33 @@ const votacoesNominais = (nominais?.votacoes || []).map((vt, i) => {
   return { ...resto, contagem };
 });
 
+// Projetos de lei votados no Plenário em mais de uma reunião. A planilha não diz o turno; em BH o
+// PL passa por 2 turnos, então a votação seguinte costuma ser o 2º turno (mas pode ser veto etc.).
+const projetosPorChave = new Map();
+listaVotacoes.forEach(([data, nome, pi]) => {
+  const m = nome.match(/^PL\s*(\d+)\s*\/\s*(\d{2}|\d{4})\b/i);
+  if (!m) return;
+  const numero = Number(m[1]);
+  const ano = m[2].length === 2 ? 2000 + Number(m[2]) : Number(m[2]);
+  const chave = `${numero}/${ano}`;
+  if (!projetosPorChave.has(chave)) projetosPorChave.set(chave, { numero, ano, reunioes: new Map() });
+  projetosPorChave.get(chave).reunioes.set(data, pi);
+});
+const transcritas = new Set(votacoesNominais.map((vt) => `${vt.materia}|${vt.turno}`));
+const projetosVariasReunioes = [...projetosPorChave.values()]
+  .filter((p) => p.reunioes.size >= 2)
+  .map((p) => {
+    const materia = `PL ${p.numero}/${p.ano}`;
+    const reunioes = [...p.reunioes].sort((a, b) => a[0].localeCompare(b[0]));
+    return {
+      materia,
+      reunioes, // [[data, índice da planilha]]
+      proposicao: `${BASE}/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/${p.numero}/${p.ano}`,
+      segundoTurnoTranscrito: transcritas.has(`${materia}|2º turno`),
+    };
+  })
+  .sort((a, b) => b.reunioes.at(-1)[0].localeCompare(a.reunioes.at(-1)[0]) || a.materia.localeCompare(b.materia));
+
 const saida = {
   atualizadoEm: presenca.coletadoEm,
   periodo: {
@@ -186,6 +213,7 @@ const saida = {
   })),
   votacoes: votacoesDados ? { fonte: votacoesDados.fonte, planilhas, lista: listaVotacoes } : null,
   votacoesNominais: nominais ? { criterio: nominais.criterio, lista: votacoesNominais } : null,
+  projetosVariasReunioes: votacoesDados ? projetosVariasReunioes : null,
   foraDaListaAtual: [...nomesFora].map(([id, nome]) => ({ nome, presenca: registros.get(id) })),
 };
 

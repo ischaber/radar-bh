@@ -209,6 +209,35 @@
     });
   }
 
+  function montarSegundoTurno() {
+    var lista = dados.projetosVariasReunioes;
+    if (!lista || !lista.length) return;
+    document.getElementById("segundo-turno").hidden = false;
+    document.getElementById("segundo-turno-desde").textContent = dados.votacoes.planilhas.length ? dataBr(dados.votacoes.planilhas[0].data) : "";
+    var ul = document.getElementById("lista-segundo-turno");
+    lista.forEach(function (p, i) {
+      var li = el("li");
+      if (i >= 10) li.className = "a-mais";
+      li.append(el("b", null, p.materia), " ");
+      if (p.segundoTurnoTranscrito) li.append(el("span", "voto v-sim", "voto nominal transcrito"), " ");
+      var datas = el("span", "suave", "votado em ");
+      p.reunioes.forEach(function (r, j) {
+        if (j) datas.append(j === p.reunioes.length - 1 ? " e " : ", ");
+        datas.append(link(dados.votacoes.planilhas[r[1]].url, dataBr(r[0])));
+      });
+      li.append(datas, " · ", link(p.proposicao, "proposição"));
+      ul.append(li);
+    });
+    var acoes = document.getElementById("segundo-turno-acoes");
+    if (lista.length > 10) {
+      var mais = el("button", "ver-mais", "Ver todos os " + lista.length + " projetos");
+      mais.type = "button";
+      mais.addEventListener("click", function () { ul.classList.add("aberta"); mais.remove(); });
+      acoes.append(mais);
+    }
+    acoes.append(link(dados.votacoes.fonte, "Fonte oficial (relatório por reunião)"));
+  }
+
   function blocoHomenagens(v) {
     var b = el("div", "bloco");
     if (!dados.fontes.homenagens) return b;
@@ -330,6 +359,7 @@
     document.getElementById("fonte-presenca").href = d.fontes.presenca;
     montarCorrecao();
     montarNominais();
+    montarSegundoTurno();
 
     var lista = document.getElementById("lista");
     d.vereadores.slice().sort(function (a, b) { return a.nome.localeCompare(b.nome, "pt-BR"); })
