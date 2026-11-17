@@ -6,7 +6,8 @@
   "scripts": {
     "coletar": "node scripts/coletar.js",
     "site": "node scripts/gerar-site.js",
-    "atualizar": "node scripts/coletar.js && node scripts/gerar-site.js"
+    "extras": "node scripts/coletar-extras.js",
+    "atualizar": "node scripts/coletar.js && node scripts/coletar-extras.js && node scripts/gerar-site.js"
   },
   "engines": {
     "node": ">=20"

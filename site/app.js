@@ -83,6 +83,57 @@
     }
   }
 
+  function blocoComissoes(v) {
+    var b = el("div", "bloco");
+    if (!v.comissoes) return b;
+    b.append(el("h4", "titulo-bloco", "Comissões"));
+    if (!v.comissoes.length) {
+      b.append(el("p", "suave", "Não aparece em nenhuma comissão na página oficial do vereador."));
+      return b;
+    }
+    var ul = el("ul", "lista-simples");
+    v.comissoes.forEach(function (c) {
+      var li = el("li");
+      li.append(el("b", null, (c.cargo || "Participa") + ": "), link(c.url, c.comissao.replace(/^Comissão de /, "")));
+      ul.append(li);
+    });
+    b.append(ul);
+    return b;
+  }
+
+  function blocoHomenagens(v) {
+    var b = el("div", "bloco");
+    if (!dados.fontes.homenagens) return b;
+    b.append(el("h4", "titulo-bloco", "Homenagens em reunião solene"));
+    var fonte = dados.fontes.homenagens + "?field_home_vereador_value=" + encodeURIComponent(v.nome);
+    if (!v.homenagens.length) {
+      var p = el("p", "suave", "Nenhuma desde janeiro de 2025. ");
+      p.append(link(fonte, "Conferir na Câmara"));
+      b.append(p);
+      return b;
+    }
+    var hoje = new Date().toISOString().slice(0, 10);
+    var ul = el("ul", "lista-simples");
+    v.homenagens.forEach(function (h, i) {
+      var li = el("li");
+      if (i >= 5) li.className = "a-mais";
+      var data = h.data.split("-").reverse().join("/");
+      li.append(el("span", "suave", data + (h.data > hoje ? " (agendada)" : "") + " · "), document.createTextNode(h.homenageado + " "), el("span", "suave", "— " + h.tipo));
+      ul.append(li);
+    });
+    b.append(ul);
+    var rodape = el("p", "acoes-bloco");
+    if (v.homenagens.length > 5) {
+      var mais = el("button", "ver-mais", "Ver todas as " + v.homenagens.length);
+      mais.type = "button";
+      mais.addEventListener("click", function () { ul.classList.add("aberta"); mais.remove(); });
+      rodape.append(mais);
+    }
+    rodape.append(link(fonte, "Fonte oficial das homenagens"));
+    b.append(rodape);
+    return b;
+  }
+
   function cartao(v, fora) {
     var node = document.getElementById("tpl-vereador").content.firstElementChild.cloneNode(true);
     var foto = node.querySelector(".foto");
@@ -102,7 +153,14 @@
       det.append(el("span", d.falta ? "tem-falta" : null, d.txt));
     });
 
+    var extras = [];
+    if (v.comissoes) extras.push(plural(v.comissoes.length, "comissão", "comissões"));
+    if (dados.fontes.homenagens && !fora) extras.push(plural(v.homenagens.length, "homenagem", "homenagens"));
+    if (extras.length) node.querySelector(".numeros").append(el("span", "extras", extras.join(" · ")));
+
+    if (!fora) node.querySelector(".corpo").prepend(blocoComissoes(v), blocoHomenagens(v));
     var meses = node.querySelector(".meses");
+    meses.before(el("h4", "titulo-bloco", "Presença no Plenário"));
     (v.presenca ? v.presenca.meses : []).slice().reverse().forEach(function (m) {
       var bloco = el("div", "mes");
       var h3 = el("h3", null, MESES[m.mes] + " de " + m.ano);

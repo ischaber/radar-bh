@@ -38,6 +38,13 @@ jobs:
         if: github.event_name != 'push'
         run: node scripts/coletar.js
 
+      # Homenagens e comissões: se falhar, a presença é publicada mesmo assim
+      # e o passo aparece em amarelo na aba Actions.
+      - name: Coletar homenagens e comissões
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: node scripts/coletar-extras.js
+
       - name: Gerar site
         run: node scripts/gerar-site.js
 

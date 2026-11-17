@@ -80,6 +80,30 @@ for (const m of todosOsMeses) {
   }
 }
 
+// ---------- Extras: comissões e homenagens (opcionais; o site funciona sem eles) ----------
+const extra = (n) => (fs.existsSync(path.join(RAIZ, "dados", n)) ? ler(n) : null);
+const comissoesDados = extra("comissoes.json");
+const homenagensDados = extra("homenagens.json");
+const comissoesPorSlug = new Map((comissoesDados?.vereadores || []).map((v) => [v.slug, v.comissoes]));
+const homenagensPorSlug = new Map();
+const homenagensSemDono = [];
+const nomesForaChaves = new Set([...nomesFora.values()].map((n) => normalizar(n)));
+// Alguns tipos vêm em CAIXA ALTA na fonte; só a caixa é ajustada, o texto não muda.
+const caixa = (t) => (t === t.toUpperCase() ? t.charAt(0) + t.slice(1).toLowerCase() : t);
+for (const h of homenagensDados?.homenagens || []) {
+  // O campo "Vereador" é texto livre: tenta o nome inteiro e, se não achar, partes separadas por vírgula, "e" ou "/".
+  const chaveNome = (s) => normalizar(s).replace(/^(vereadora|vereador|ver)\s+/, "");
+  let slugs = [porChave.get(chaveNome(h.vereador))].filter(Boolean);
+  if (!slugs.length) slugs = h.vereador.split(/\s*(?:,|;|\/|\se\s)\s*/).map((p) => porChave.get(chaveNome(p))).filter(Boolean);
+  if (!slugs.length && !nomesForaChaves.has(chaveNome(h.vereador))) homenagensSemDono.push(h.vereador);
+  for (const s of new Set(slugs)) {
+    if (!homenagensPorSlug.has(s)) homenagensPorSlug.set(s, []);
+    homenagensPorSlug.get(s).push({ data: h.data, homenageado: h.homenageado, tipo: caixa(h.tipo) });
+  }
+}
+if (homenagensSemDono.length)
+  console.warn(`Aviso: homenagens sem vereador identificado (${homenagensSemDono.length}): ${[...new Set(homenagensSemDono)].join(" | ")}`);
+
 const saida = {
   atualizadoEm: presenca.coletadoEm,
   periodo: {
@@ -94,6 +118,9 @@ const saida = {
     reunioes: porReuniao.fonte || null,
     vereadores: fonteVereadores,
     vereadoresColetadosEm: vereadoresEm,
+    homenagens: homenagensDados?.fonte || null,
+    homenagensDesde: homenagensDados ? "2025-01-01" : null,
+    comissoesColetadasEm: comissoesDados?.coletadoEm || null,
   },
   vereadores: vereadores.map((v) => ({
     slug: v.slug,
@@ -106,6 +133,8 @@ const saida = {
     sala: v.sala,
     email: v.email,
     presenca: registros.get(v.slug) || null,
+    comissoes: comissoesPorSlug.get(v.slug) || null,
+    homenagens: homenagensPorSlug.get(v.slug) || [],
   })),
   foraDaListaAtual: [...nomesFora].map(([id, nome]) => ({ nome, presenca: registros.get(id) })),
 };

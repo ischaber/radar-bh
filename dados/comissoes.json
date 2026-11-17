@@ -1,0 +1,892 @@
+{
+ "fonte": "https://www.cmbh.mg.gov.br/vereadores/<vereador>/comissoes",
+ "coletadoEm": "2026-11-17T01:33:27.982Z",
+ "vereadores": [
+  {
+   "slug": "arruda",
+   "nome": "Arruda",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    }
+   ]
+  },
+  {
+   "slug": "braulio-lara",
+   "nome": "Braulio Lara",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "bruno-miranda",
+   "nome": "Bruno Miranda",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  },
+  {
+   "slug": "cláudio-do-mundo-novo",
+   "nome": "Cláudio do Mundo Novo",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    }
+   ]
+  },
+  {
+   "slug": "cleiton-xavier",
+   "nome": "Cleiton Xavier",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    }
+   ]
+  },
+  {
+   "slug": "diego-sanches",
+   "nome": "Diego Sanches",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    }
+   ]
+  },
+  {
+   "slug": "dr-bruno-pedralva",
+   "nome": "Dr. Bruno Pedralva",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    }
+   ]
+  },
+  {
+   "slug": "dra-michelly-siqueira",
+   "nome": "Dra. Michelly Siqueira",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  },
+  {
+   "slug": "edmar-branco-0",
+   "nome": "Edmar Branco",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    }
+   ]
+  },
+  {
+   "slug": "fernanda-pereira-altoé",
+   "nome": "Fernanda Pereira Altoé",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Relator",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "flávia-borja",
+   "nome": "Flávia Borja",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "helinho-da-farmácia",
+   "nome": "Helinho da Farmácia",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "helton-junior",
+   "nome": "Helton Junior",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  },
+  {
+   "slug": "irlan-melo",
+   "nome": "Irlan Melo",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    }
+   ]
+  },
+  {
+   "slug": "iza-lourença",
+   "nome": "Iza Lourença",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    }
+   ]
+  },
+  {
+   "slug": "janaina-cardoso",
+   "nome": "Janaina Cardoso",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Relator",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "josé-ferreira",
+   "nome": "José Ferreira",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "juhlia-santos",
+   "nome": "Juhlia Santos",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  },
+  {
+   "slug": "juninho-los-hermanos",
+   "nome": "Juninho Los Hermanos",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "loíde-gonçalves",
+   "nome": "Loíde Gonçalves",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    }
+   ]
+  },
+  {
+   "slug": "luiza-dulci",
+   "nome": "Luiza Dulci",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    }
+   ]
+  },
+  {
+   "slug": "maninho-félix",
+   "nome": "Maninho Félix",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "marilda-portela",
+   "nome": "Marilda Portela",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    }
+   ]
+  },
+  {
+   "slug": "neném-da-farmácia",
+   "nome": "Neném da Farmácia",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    }
+   ]
+  },
+  {
+   "slug": "osvaldo-lopes-0",
+   "nome": "Osvaldo Lopes",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    }
+   ]
+  },
+  {
+   "slug": "pablo-almeida",
+   "nome": "Pablo Almeida",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-patrus",
+   "nome": "Pedro Patrus",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-rousseff",
+   "nome": "Pedro Rousseff",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Relator",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    }
+   ]
+  },
+  {
+   "slug": "professor-juliano-lopes",
+   "nome": "Professor Juliano Lopes",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": []
+  },
+  {
+   "slug": "professora-marli",
+   "nome": "Professora Marli",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "professora-nara",
+   "nome": "Professora Nara",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Direitos Humanos, Habitação, Igualdade Racial e Defesa do Consumidor",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/direitos-humanos-habita%C3%A7%C3%A3o-igualdade-racial-e-defesa-do-consumidor"
+    },
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  },
+  {
+   "slug": "reinaldinho-0",
+   "nome": "Reinaldinho",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    }
+   ]
+  },
+  {
+   "slug": "rubão-0",
+   "nome": "Rubão",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    }
+   ]
+  },
+  {
+   "slug": "rudson-paixão",
+   "nome": "Rudson Paixão",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Saúde e Saneamento",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/sa%C3%BAde-e-saneamento"
+    },
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Vice-Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    }
+   ]
+  },
+  {
+   "slug": "sargento-jalyson",
+   "nome": "Sargento Jalyson",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    }
+   ]
+  },
+  {
+   "slug": "tileléo",
+   "nome": "Tileléo",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/educa%C3%A7%C3%A3o-ci%C3%AAncia-tecnologia-cultura-desporto-lazer-e-turismo"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 286/2026 - Emendas Impositivas",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769d246df5019d8c20ab6422c1"
+    }
+   ]
+  },
+  {
+   "slug": "trópia",
+   "nome": "Trópia",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    },
+    {
+     "comissao": "Comissão de Mulheres",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mulheres"
+    },
+    {
+     "comissao": "Comissão de Orçamento e Finanças Públicas",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/or%C3%A7amento-e-finan%C3%A7as-p%C3%BAblicas"
+    }
+   ]
+  },
+  {
+   "slug": "uner-augusto-0",
+   "nome": "Uner Augusto",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    },
+    {
+     "comissao": "Comissão de Mobilidade Urbana, Indústria, Comércio e Serviços",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/mobilidade-urbana-ind%C3%BAstria-com%C3%A9rcio-e-servi%C3%A7os"
+    }
+   ]
+  },
+  {
+   "slug": "vile-santos",
+   "nome": "Vile Santos",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Legislação e Justiça",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/legisla%C3%A7%C3%A3o-e-justi%C3%A7a"
+    }
+   ]
+  },
+  {
+   "slug": "wagner-ferreira",
+   "nome": "Wagner Ferreira",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 16/2025 - Contratos de ônibus",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f7694f97f4a0194ffd9707213f7"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  },
+  {
+   "slug": "wanderley-porto",
+   "nome": "Wanderley Porto",
+   "coletadoEm": "2026-11-17T01:33:27.982Z",
+   "comissoes": [
+    {
+     "comissao": "Comissão de Meio Ambiente, Defesa dos Animais e Política Urbana",
+     "cargo": "Presidente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/meio-ambiente-defesa-dos-animais-e-pol%C3%ADtica-urbana"
+    },
+    {
+     "comissao": "Comissão de Administração Pública e Segurança Pública",
+     "cargo": "Membro Suplente",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/administra%C3%A7%C3%A3o-p%C3%BAblica-e-seguran%C3%A7a-p%C3%BAblica"
+    },
+    {
+     "comissao": "Comissão Especial de Estudo - Requerimento 186/2025 - Gastronomia, Moda e Turismo em BH",
+     "cargo": "Membro Efetivo",
+     "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/comissoes/temporarias/estudo/2c907f769850743701985b5a8d191474"
+    }
+   ]
+  }
+ ]
+}

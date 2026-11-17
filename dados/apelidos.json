@@ -1,4 +1,7 @@
 {
- "_explicacao": "Quando o mesmo vereador aparece com nomes diferentes em páginas diferentes da CMBH. Chave: nome como aparece na fonte (sem acento, minúsculo). Valor: slug do perfil em /vereadores/<slug>.",
- "vile": "vile-santos"
+ "_explicacao": "Quando o mesmo vereador aparece com nomes diferentes em páginas diferentes da CMBH (inclusive com erro de digitação na fonte). Chave: nome como aparece na fonte (sem acento, minúsculo, sem 'Vereador(a)'). Valor: slug do perfil em /vereadores/<slug>.",
+ "vile": "vile-santos",
+ "dr michelly siqueira": "dra-michelly-siqueira",
+ "pedro roussef": "pedro-rousseff",
+ "professor juliana lopes": "professor-juliano-lopes"
 }

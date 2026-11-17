@@ -66,6 +66,15 @@ h2 { font-size: 19px; margin: 0 0 8px; }
 details[open] summary { border-bottom: 1px solid var(--linha); }
 
 .corpo { padding: 12px; }
+.titulo-bloco { font-size: 15px; margin: 4px 0 8px; }
+.corpo > .links { border-top: 1px solid var(--linha); padding-top: 10px; margin-top: 12px; }
+.bloco { margin-bottom: 14px; }
+.bloco:empty { display: none; }
+.lista-simples { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: 15px; }
+.lista-simples .a-mais { display: none; }
+.lista-simples.aberta .a-mais { display: list-item; }
+.ver-mais { font: inherit; font-size: 14px; color: var(--azul); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; }
+.extras { color: var(--suave); font-size: 14px; }
 .mes { margin-bottom: 10px; }
 .mes h3 { font-size: 14px; margin: 0 0 4px; color: var(--suave); font-weight: 600; }
 .dias { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -85,7 +94,7 @@ a.dia { text-decoration: none; }
 a.dia:hover, a.dia:focus-visible { outline: 2px solid var(--azul); outline-offset: 1px; }
 .selo { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--AJ-t); background: var(--AJ); padding: 1px 6px; border-radius: 4px; vertical-align: 1px; }
 .nota-mes { margin: 0 0 6px; font-size: 13px; color: var(--suave); }
-.links { font-size: 14px; margin: 8px 0 0; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.links, .acoes-bloco { font-size: 14px; margin: 8px 0 0; display: flex; flex-wrap: wrap; gap: 4px 16px; }
 
 .rodape { border-top: 1px solid var(--linha); padding: 20px 0 40px; font-size: 15px; color: var(--suave); }
 .rodape h2 { color: var(--texto); }

@@ -7,6 +7,7 @@ Por enquanto: **presença nas reuniões do Plenário**, mandato 2025–2028.
 
 ```
 scripts/coletar.js     baixa do site da CMBH → dados/*.json   (1 requisição a cada 10 s, como pede o robots.txt)
+scripts/coletar-extras.js  homenagens em reunião solene e comissões → dados/homenagens.json, dados/comissoes.json
 scripts/gerar-site.js  dados/*.json → site/dados.json         (sem internet)
 scripts/conferir.js    compara a presença mensal com o XLSX de cada reunião → dados/conferencia.json
 site/                  página estática (index.html, app.js, style.css, dados.json)
