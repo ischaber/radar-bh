@@ -145,7 +145,7 @@ const votacoesNominais = (nominais?.votacoes || []).map((vt, i) => {
     votosPorSlug.get(slug).push([i, voto]);
   }
   for (const [k, n] of Object.entries(vt.totais || {}))
-    if (contagem[k] !== n) throw new Error(`${vt.materia} ${vt.turno}: a ficha diz ${n} "${k}", a transcrição tem ${contagem[k] || 0}. Confira dados/votos-nominais.json.`);
+    if ((contagem[k] || 0) !== n) throw new Error(`${vt.materia} ${vt.turno}: a ficha diz ${n} "${k}", a transcrição tem ${contagem[k] || 0}. Confira dados/votos-nominais.json.`);
   const { votos, ...resto } = vt;
   return { ...resto, contagem };
 });

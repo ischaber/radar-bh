@@ -78,6 +78,7 @@ details[open] summary { border-bottom: 1px solid var(--linha); }
 .voto, .marca { display: inline-block; font-size: 12px; font-weight: 700; padding: 1px 7px; border-radius: 4px; min-width: 64px; text-align: center; }
 .v-sim { background: var(--P); color: var(--P-t); }
 .v-nao { background: var(--F); color: var(--F-t); }
+.v-abs { background: var(--AJ); color: var(--AJ-t); }
 .v-nv, .m-q { background: var(--vazio); color: var(--vazio-t); }
 .v-pres, .m-X { background: var(--LM); color: var(--LM-t); }
 .m-P { background: var(--P); color: var(--P-t); }

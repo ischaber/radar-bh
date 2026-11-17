@@ -103,7 +103,7 @@
 
   function dataBr(iso) { return iso.split("-").reverse().join("/"); }
 
-  var CLASSE_VOTO = { "Sim": "v-sim", "Não": "v-nao", "Não votou": "v-nv", "Presidência": "v-pres" };
+  var CLASSE_VOTO = { "Sim": "v-sim", "Não": "v-nao", "Abstenção": "v-abs", "Não votou": "v-nv", "Presidência": "v-pres" };
 
   function blocoVotosNominais(v) {
     var b = el("div", "bloco");
@@ -197,11 +197,12 @@
       t.append(el("b", null, vt.materia + " · " + vt.turno), el("span", "suave", " · " + dataBr(vt.data) + " · " + vt.reuniao));
       var tot = el("p");
       tot.append(el("b", null, vt.resultado), " · ");
-      ["Sim", "Não", "Não votou"].forEach(function (k, i) {
+      ["Sim", "Não", "Abstenção", "Não votou"].forEach(function (k, i) {
+        if (k === "Abstenção" && !vt.contagem[k]) return;
         if (i) tot.append(" · ");
         tot.append(el("span", "voto " + CLASSE_VOTO[k], k + ": " + (vt.contagem[k] || 0)));
       });
-      var em = el("p", "suave", vt.ementa + (vt.autoria ? " Autoria: " + vt.autoria + "." : ""));
+      var em = el("p", "suave", ((vt.ementa || "") + (vt.autoria ? " Autoria: " + vt.autoria + "." : "") + (vt.quorum ? " Quórum: " + vt.quorum.toLowerCase() + "." : "")).trim());
       var lk = el("p", "acoes-bloco");
       lk.append(link(vt.ficha, "Ficha oficial da votação (PDF)"), link(vt.proposicao, "Proposição na Câmara"));
       li.append(t, tot, em, lk);
