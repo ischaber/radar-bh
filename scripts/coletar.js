@@ -78,7 +78,7 @@ const AUSENCIAS = new Set(["F", "AJ", "LM", "SR"]);
 function lerListaReunioes(html) {
   return [...html.matchAll(/<a href="([^"]+\.xlsx)">([\s\S]*?)<\/a>/g)].map((m) => {
     const titulo = texto(m[2]).replace(/^Relatório Individualizado de Presença - /, "");
-    const [, dia, mes, ano] = (titulo.match(/ - (\d{2})\/(\d{2})\/(\d{4})/) || []).map(Number);
+    const [, dia, mes, ano] = (titulo.match(/(\d{2})[\/.-](\d{2})[\/.-](\d{4})/) || decodeURIComponent(m[1]).match(/(\d{2})-(\d{2})-(\d{4})(?:_\d+)?\.xlsx$/) || []).map(Number);
     if (!dia) falhar(`não entendi a data da reunião "${titulo}"`);
     return { titulo: titulo.replace(/\s*\(data de publicação.*$/, ""), url: m[1], ano, mes, dia };
   });

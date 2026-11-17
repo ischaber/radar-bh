@@ -104,6 +104,52 @@ for (const h of homenagensDados?.homenagens || []) {
 if (homenagensSemDono.length)
   console.warn(`Aviso: homenagens sem vereador identificado (${homenagensSemDono.length}): ${[...new Set(homenagensSemDono)].join(" | ")}`);
 
+// ---------- Votações por reunião (participação) e votos nominais transcritos ----------
+const chaveVereador = (s) => porChave.get(normalizar(s).replace(/^(vereadora|vereador|ver)\s+/, ""));
+const votacoesDados = extra("votacoes.json");
+const listaVotacoes = []; // [data, nome da matéria, índice da planilha]
+const planilhas = [];
+const marcasPorSlug = new Map();
+for (const r of (votacoesDados?.reunioes || []).filter((r) => !r.erro)) {
+  const pi = planilhas.push({ data: r.data, titulo: r.titulo, url: r.url }) - 1;
+  const idxEventos = r.eventos.map((e, i) => (e.inicio ? -1 : listaVotacoes.push([r.data, e.nome, pi]) - 1));
+  for (const v of r.vereadores) {
+    const slug = chaveVereador(v.nome);
+    if (!slug) continue;
+    if (!marcasPorSlug.has(slug)) marcasPorSlug.set(slug, {});
+    const m = marcasPorSlug.get(slug);
+    idxEventos.forEach((gi, i) => {
+      if (gi >= 0) m[gi] = v.marcas[i] || "?";
+    });
+  }
+}
+// cada vereador: uma letra por votação da lista ("-" = não estava na planilha daquela reunião)
+const marcasTexto = (slug) => {
+  const m = marcasPorSlug.get(slug);
+  if (!m) return null;
+  return listaVotacoes.map((_, i) => m[i] || "-").join("");
+};
+
+const nominais = extra("votos-nominais.json");
+const votosPorSlug = new Map();
+const votacoesNominais = (nominais?.votacoes || []).map((vt, i) => {
+  const contagem = {};
+  for (const [nome, voto] of Object.entries(vt.votos)) {
+    contagem[voto] = (contagem[voto] || 0) + 1;
+    const slug = chaveVereador(nome);
+    if (!slug) {
+      console.warn(`Aviso: voto nominal de "${nome}" (${vt.materia}) sem vereador identificado.`);
+      continue;
+    }
+    if (!votosPorSlug.has(slug)) votosPorSlug.set(slug, []);
+    votosPorSlug.get(slug).push([i, voto]);
+  }
+  for (const [k, n] of Object.entries(vt.totais || {}))
+    if (contagem[k] !== n) throw new Error(`${vt.materia} ${vt.turno}: a ficha diz ${n} "${k}", a transcrição tem ${contagem[k] || 0}. Confira dados/votos-nominais.json.`);
+  const { votos, ...resto } = vt;
+  return { ...resto, contagem };
+});
+
 const saida = {
   atualizadoEm: presenca.coletadoEm,
   periodo: {
@@ -135,7 +181,11 @@ const saida = {
     presenca: registros.get(v.slug) || null,
     comissoes: comissoesPorSlug.get(v.slug) || null,
     homenagens: homenagensPorSlug.get(v.slug) || [],
+    marcasVotacoes: marcasTexto(v.slug),
+    votosNominais: votosPorSlug.get(v.slug) || [],
   })),
+  votacoes: votacoesDados ? { fonte: votacoesDados.fonte, planilhas, lista: listaVotacoes } : null,
+  votacoesNominais: nominais ? { criterio: nominais.criterio, lista: votacoesNominais } : null,
   foraDaListaAtual: [...nomesFora].map(([id, nome]) => ({ nome, presenca: registros.get(id) })),
 };
 

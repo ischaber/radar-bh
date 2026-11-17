@@ -101,6 +101,114 @@
     return b;
   }
 
+  function dataBr(iso) { return iso.split("-").reverse().join("/"); }
+
+  var CLASSE_VOTO = { "Sim": "v-sim", "Não": "v-nao", "Não votou": "v-nv", "Presidência": "v-pres" };
+
+  function blocoVotosNominais(v) {
+    var b = el("div", "bloco");
+    var vn = dados.votacoesNominais;
+    if (!vn) return b;
+    b.append(el("h4", "titulo-bloco", "Como votou (votações nominais transcritas)"));
+    if (!v.votosNominais.length) {
+      b.append(el("p", "suave", "Nenhum voto deste vereador nas votações transcritas até agora."));
+      return b;
+    }
+    var ul = el("ul", "lista-simples");
+    v.votosNominais.forEach(function (par) {
+      var vt = vn.lista[par[0]], voto = par[1];
+      var li = el("li");
+      li.append(el("span", "voto " + (CLASSE_VOTO[voto] || ""), voto), " ",
+        link(vt.ficha, vt.materia + " (" + vt.turno + ")"),
+        el("span", "suave", " · " + dataBr(vt.data) + " · " + vt.resultado));
+      ul.append(li);
+    });
+    b.append(ul);
+    return b;
+  }
+
+  function contarMarcas(s) {
+    var c = { P: 0, F: 0, X: 0, total: 0 };
+    for (var i = 0; i < s.length; i++) {
+      var m = s.charAt(i);
+      if (m === "-") continue;
+      c.total++;
+      if (c[m] !== undefined) c[m]++;
+    }
+    return c;
+  }
+
+  function itemVotacao(i, marca) {
+    var vt = dados.votacoes.lista[i], pl = dados.votacoes.planilhas[vt[2]];
+    var li = el("li");
+    var rotulo = { P: "presente", F: "ausente", X: "presidindo" }[marca] || "sem registro";
+    li.append(el("span", "marca m-" + (marca === "?" ? "q" : marca), rotulo), " ",
+      el("span", "suave", dataBr(vt[0]) + " · "), document.createTextNode(vt[1] + " "), link(pl.url, "planilha"));
+    return li;
+  }
+
+  function blocoVotacoes(v) {
+    var b = el("div", "bloco");
+    if (!dados.votacoes || !v.marcasVotacoes) return b;
+    var c = contarMarcas(v.marcasVotacoes);
+    if (!c.total) return b;
+    b.append(el("h4", "titulo-bloco", "Votações no Plenário"));
+    var p = el("p");
+    var desde = dados.votacoes.planilhas.length ? dataBr(dados.votacoes.planilhas[0].data) : "";
+    p.append("Registrou presença em ", el("b", null, String(c.P)), " de " + plural(c.total, "votação", "votações") + (desde ? " desde " + desde : ""));
+    if (c.X) p.append(" e presidiu a sessão em " + plural(c.X, "outra", "outras"));
+    p.append(".");
+    b.append(p);
+    b.append(el("p", "suave nota-mes", "Presença registrada não diz como votou. Ausência numa votação pode ter justificativa. A lista oficial de relatórios por reunião só alcança as reuniões a partir de " + desde + "; antes disso, só há a presença por dia."));
+    var faltou = [];
+    for (var i = v.marcasVotacoes.length - 1; i >= 0; i--) if (v.marcasVotacoes.charAt(i) === "F") faltou.push(i);
+    if (faltou.length) {
+      var t = el("p", null, "Ausente nestas votações:");
+      var ul = el("ul", "lista-simples");
+      faltou.slice(0, 8).forEach(function (i) { ul.append(itemVotacao(i, "F")); });
+      b.append(t, ul);
+    }
+    var acoes = el("p", "acoes-bloco");
+    var todas = el("button", "ver-mais", "Ver todas as " + c.total + " votações");
+    todas.type = "button";
+    todas.addEventListener("click", function () {
+      var ul2 = el("ul", "lista-simples lista-longa");
+      for (var i = v.marcasVotacoes.length - 1; i >= 0; i--) {
+        var m = v.marcasVotacoes.charAt(i);
+        if (m !== "-") ul2.append(itemVotacao(i, m));
+      }
+      acoes.before(ul2);
+      todas.remove();
+    });
+    acoes.append(todas, link(dados.votacoes.fonte, "Fonte oficial (relatório por reunião)"));
+    b.append(acoes);
+    return b;
+  }
+
+  function montarNominais() {
+    var vn = dados.votacoesNominais;
+    if (!vn || !vn.lista.length) return;
+    document.getElementById("nominais").hidden = false;
+    document.getElementById("nominais-criterio").textContent = vn.criterio;
+    var ul = document.getElementById("lista-nominais");
+    vn.lista.slice().reverse().forEach(function (vt) {
+      var li = el("li", "nominal");
+      var t = el("p", "nominal-titulo");
+      t.append(el("b", null, vt.materia + " · " + vt.turno), el("span", "suave", " · " + dataBr(vt.data) + " · " + vt.reuniao));
+      var tot = el("p");
+      tot.append(el("b", null, vt.resultado), " · ");
+      ["Sim", "Não", "Não votou"].forEach(function (k, i) {
+        if (i) tot.append(" · ");
+        tot.append(el("span", "voto " + CLASSE_VOTO[k], k + ": " + (vt.contagem[k] || 0)));
+      });
+      var em = el("p", "suave", vt.ementa + (vt.autoria ? " Autoria: " + vt.autoria + "." : ""));
+      var lk = el("p", "acoes-bloco");
+      lk.append(link(vt.ficha, "Ficha oficial da votação (PDF)"), link(vt.proposicao, "Proposição na Câmara"));
+      li.append(t, tot, em, lk);
+      ul.append(li);
+    });
+  }
+
   function blocoHomenagens(v) {
     var b = el("div", "bloco");
     if (!dados.fontes.homenagens) return b;
@@ -154,11 +262,15 @@
     });
 
     var extras = [];
+    if (v.marcasVotacoes) {
+      var cv = contarMarcas(v.marcasVotacoes);
+      if (cv.total) extras.push("presente em " + cv.P + " de " + cv.total + " votações");
+    }
     if (v.comissoes) extras.push(plural(v.comissoes.length, "comissão", "comissões"));
     if (dados.fontes.homenagens && !fora) extras.push(plural(v.homenagens.length, "homenagem", "homenagens"));
     if (extras.length) node.querySelector(".numeros").append(el("span", "extras", extras.join(" · ")));
 
-    if (!fora) node.querySelector(".corpo").prepend(blocoComissoes(v), blocoHomenagens(v));
+    if (!fora) node.querySelector(".corpo").prepend(blocoVotosNominais(v), blocoVotacoes(v), blocoComissoes(v), blocoHomenagens(v));
     var meses = node.querySelector(".meses");
     meses.before(el("h4", "titulo-bloco", "Presença no Plenário"));
     (v.presenca ? v.presenca.meses : []).slice().reverse().forEach(function (m) {
@@ -217,6 +329,7 @@
       "Mandato 2025–2028 · reuniões de " + MESES[de.mes] + "/" + de.ano + " a " + ateTxt + " · dados copiados em " + quando;
     document.getElementById("fonte-presenca").href = d.fontes.presenca;
     montarCorrecao();
+    montarNominais();
 
     var lista = document.getElementById("lista");
     d.vereadores.slice().sort(function (a, b) { return a.nome.localeCompare(b.nome, "pt-BR"); })

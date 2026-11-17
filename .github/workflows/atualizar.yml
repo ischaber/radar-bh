@@ -45,6 +45,11 @@ jobs:
         continue-on-error: true
         run: node scripts/coletar-extras.js
 
+      - name: Coletar votações de cada reunião
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: node scripts/coletar-votacoes.js
+
       - name: Gerar site
         run: node scripts/gerar-site.js
 
