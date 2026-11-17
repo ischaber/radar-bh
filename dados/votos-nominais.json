@@ -1,6 +1,6 @@
 {
  "_explicacao": "Votos nominais transcritos à mão das fichas oficiais de votação (PDF escaneado da CMBH). Cada votação tem link para a ficha. Ao acrescentar uma votação: copie o bloco, preencha todos os campos, confira que os totais batem com os impressos na ficha e rode npm run site. Nomes como aparecem na ficha; dados/apelidos.json resolve variações.",
- "criterio": "Projetos de lei votados nominalmente no Plenário a partir de novembro de 2026, transcritos da ficha oficial de votação de cada um. A lista cresce conforme as fichas são publicadas e transcritas; votações anteriores ainda não foram transcritas.",
+ "criterio": "Critério: todo projeto de lei votado nominalmente em 2º turno no Plenário (a votação que decide se o projeto segue para sanção), a partir de novembro de 2026, transcrito da ficha oficial de votação. O 1º turno do PL 813/2026 foi a primeira ficha transcrita e fica como referência. A lista cresce conforme as fichas são publicadas; votações anteriores ainda não foram transcritas.",
  "votacoes": [
   {
    "materia": "PL 813/2026",
