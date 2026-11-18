@@ -180,6 +180,13 @@ const projetosVariasReunioes = [...projetosPorChave.values()]
 
 // ---------- Custeio Parlamentar (gastos de gabinete por mês) ----------
 const custeioDados = extra("custeio.json");
+// O site mostra só a gestão 2025–2028. As contas de correio (Serviços Postais) chegam no mês seguinte ao
+// serviço; as pagas em janeiro/2025 provavelmente são de dezembro/2024, ainda no mandato anterior (ex.: um
+// ex-vereador, Professor Claudiney Dulim, aparece só com correios nesse mês). Elas saem dos totais e aparecem
+// à parte, com aviso. A nota não informa o período, por isso o texto diz "provavelmente".
+const DO_MANDATO_ANTERIOR = (mes, item) => mes === "2025-01" && item[0] === "Serviços Postais";
+const AVISO_MANDATO_ANTERIOR =
+  "Correios pagos em janeiro/2025 não entram no total: a conta chega no mês seguinte ao serviço, então provavelmente é de dezembro/2024, ainda no mandato anterior.";
 const custeioPorSlug = new Map();
 const custeioSemDono = new Set();
 const mesAtual = new Date().toISOString().slice(0, 7);
@@ -191,7 +198,17 @@ for (const [mes, m] of Object.entries(custeioDados?.meses || {})) {
       continue;
     }
     if (!custeioPorSlug.has(slug)) custeioPorSlug.set(slug, []);
-    custeioPorSlug.get(slug).push([mes, v.valor]);
+    // [mês, total desta gestão, itens?, itens possivelmente do mandato anterior?]
+    // itens = [[tipo, valor, idNota|null], ...] quando o detalhamento foi coletado
+    if (!v.itens) {
+      custeioPorSlug.get(slug).push([mes, v.valor]);
+      continue;
+    }
+    const itens = v.itens.map((i) => [i[0], i[1], i[2]]);
+    const anterior = itens.filter((i) => DO_MANDATO_ANTERIOR(mes, i));
+    const desta = itens.filter((i) => !DO_MANDATO_ANTERIOR(mes, i));
+    const valor = Math.round(desta.reduce((s, i) => s + i[1], 0) * 100) / 100;
+    custeioPorSlug.get(slug).push(anterior.length ? [mes, valor, desta, anterior] : [mes, valor, desta]);
   }
 }
 if (custeioSemDono.size) console.log(`Custeio de quem não está na lista atual: ${[...custeioSemDono].join(", ")}`);
@@ -235,7 +252,14 @@ const saida = {
     custeio: custeioPorSlug.get(v.slug) || [],
   })),
   custeio: custeioDados
-    ? { fonte: custeioDados.fonte, observacao: custeioDados.observacao, meses: custeioMeses, mesAberto: custeioMeses.includes(mesAtual) ? mesAtual : null }
+    ? {
+        fonte: custeioDados.fonte,
+        observacao: custeioDados.observacao,
+        meses: custeioMeses,
+        mesAberto: custeioMeses.includes(mesAtual) ? mesAtual : null,
+        notaUrl: custeioDados.notaUrl || null,
+        avisoAnterior: AVISO_MANDATO_ANTERIOR,
+      }
     : null,
   votacoes: votacoesDados ? { fonte: votacoesDados.fonte, planilhas, lista: listaVotacoes } : null,
   votacoesNominais: nominais ? { criterio: nominais.criterio, lista: votacoesNominais } : null,

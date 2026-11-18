@@ -36,6 +36,11 @@ Pasta do projeto: `C:\Users\wallp\Documents\Codex\radarBH`. Git: `C:\Program Fil
    (os lançamentos chegam com atraso, por isso o mês anterior também). Salvar o JSON devolvido num arquivo
    temporário e rodar `node scripts/juntar-custeio.js arquivo.json`. Se a página não trouxer a tabela, pular
    esta etapa e anotar no resumo. No dia 1º a 7 de cada mês, incluir também o mês retrasado.
+   Depois, na mesma página, apagar o progresso antigo (`localStorage.removeItem("cust_det")`), colar a função
+   de `scripts/navegador-custeio-detalhe.js` e rodar `await detalharCusteio([os mesmos meses])` (abre o
+   detalhamento de cada vereador, 10 s entre cliques). Salvar `localStorage.cust_det` num arquivo e rodar
+   `node scripts/juntar-custeio-detalhe.js arquivo.json`: ele confere a soma dos itens com o total do mês e
+   só grava se bater.
 8. **Publicar**: `node scripts/gerar-site.js`, `node scripts/lista-fichas.js`, depois commit de
    `dados/fichas-encontradas.json`, `dados/transcricoes-2turno.json`, `dados/votos-nominais.json`,
    `dados/custeio.json`, `site/dados.json` e `FICHAS-2o-TURNO.md`, e `git push`. Conferir em

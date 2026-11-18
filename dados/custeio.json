@@ -8,122 +8,452 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 2453.43
+     "valor": 2453.43,
+     "itens": [
+      [
+       "Carimbos",
+       13.8,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1610.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 688.5
+     "valor": 688.5,
+     "itens": [
+      [
+       "Serviços Postais",
+       688.5,
+       "61625",
+       "2174696 - Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 2335.6
+     "valor": 2335.6,
+     "itens": [
+      [
+       "Serviços Postais",
+       2335.6,
+       "61627",
+       "2176506 - Cleiton Xavier.pdf"
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 1738.84
+     "valor": 1738.84,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       909.79,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 2162.15
+     "valor": 2162.15,
+     "itens": [
+      [
+       "Carimbos",
+       78.8,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1254.3,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 1754.94
+     "valor": 1754.94,
+     "itens": [
+      [
+       "Carimbos",
+       6.9,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       918.99,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 1546.2
+     "valor": 1546.2,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       717.15,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 1675.1
+     "valor": 1675.1,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       846.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 154.45
+     "valor": 154.45,
+     "itens": [
+      [
+       "Serviços Postais",
+       154.45,
+       "61624",
+       "2172851 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 1668.83
+     "valor": 1668.83,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       839.78,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 1562.18
+     "valor": 1562.18,
+     "itens": [
+      [
+       "Carimbos",
+       20.7,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       712.43,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 1480.94
+     "valor": 1480.94,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       651.89,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 17.31
+     "valor": 17.31,
+     "itens": [
+      [
+       "Material de Escritório",
+       17.31,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 1908.55
+     "valor": 1908.55,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1079.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 1842.51
+     "valor": 1842.51,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1013.46,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 1458.25
+     "valor": 1458.25,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       629.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Rousseff",
      "cod": "2c907f7693d91ea10193e092555a0130",
-     "valor": 1573.82
+     "valor": 1573.82,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       744.77,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Claudiney Dulim",
      "cod": "2c907f7675b75b9701764d5630b108c2",
-     "valor": 1713.04
+     "valor": 1713.04,
+     "itens": [
+      [
+       "Serviços Postais",
+       1713.04,
+       "61626",
+       "2176505 - Claudiney Alves.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 2339.4
+     "valor": 2339.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.15,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       2333.25,
+       "61628",
+       "2180146 - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 1667.25
+     "valor": 1667.25,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       838.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 1446.93
+     "valor": 1446.93,
+     "itens": [
+      [
+       "Material de Copa",
+       888.64,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       558.29,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 1387.34
+     "valor": 1387.34,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       558.29,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 1577.68
+     "valor": 1577.68,
+     "itens": [
+      [
+       "Material de Copa",
+       948.23,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       629.45,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 2010.82
+     "valor": 2010.82,
+     "itens": [
+      [
+       "Material de Copa",
+       829.05,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1181.77,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -133,97 +463,291 @@
     {
      "nome": "Braulio Lara",
      "cod": "2c907f7675b75b9701764d2a8c3208b8",
-     "valor": 616.43
+     "valor": 616.43,
+     "itens": [
+      [
+       "Material de Copa",
+       85.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       530.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 879.77
+     "valor": 879.77,
+     "itens": [
+      [
+       "Material de Escritório",
+       806.62,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       73.15,
+       "64708",
+       "2199655.pdf"
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 462.1
+     "valor": 462.1,
+     "itens": [
+      [
+       "Carimbos",
+       53.2,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       196.88,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 297.61
+     "valor": 297.61,
+     "itens": [
+      [
+       "Material de Escritório",
+       297.61,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 65.87
+     "valor": 65.87,
+     "itens": [
+      [
+       "Material de Escritório",
+       65.87,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 1131.83
+     "valor": 1131.83,
+     "itens": [
+      [
+       "Material de Escritório",
+       1131.83,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 938.1
+     "valor": 938.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       938.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 195.44
+     "valor": 195.44,
+     "itens": [
+      [
+       "Material de Escritório",
+       195.44,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 206.75
+     "valor": 206.75,
+     "itens": [
+      [
+       "Material de Escritório",
+       206.75,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 130.5
+     "valor": 130.5,
+     "itens": [
+      [
+       "Carimbos",
+       6.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       23,
+       "64709",
+       "2195499.pdf"
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 20.7
+     "valor": 20.7,
+     "itens": [
+      [
+       "Carimbos",
+       20.7,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 154.77
+     "valor": 154.77,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       95.18,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 87.12
+     "valor": 87.12,
+     "itens": [
+      [
+       "Material de Escritório",
+       87.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 7.18
+     "valor": 7.18,
+     "itens": [
+      [
+       "Material de Escritório",
+       7.18,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 545.7
+     "valor": 545.7,
+     "itens": [
+      [
+       "Serviços Postais",
+       545.7,
+       "64710",
+       "2201177.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 77.74
+     "valor": 77.74,
+     "itens": [
+      [
+       "Material de Escritório",
+       77.74,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 137.77
+     "valor": 137.77,
+     "itens": [
+      [
+       "Material de Escritório",
+       137.77,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 23.1
+     "valor": 23.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       23.1,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -233,102 +757,310 @@
     {
      "nome": "Cida Falabella",
      "cod": "2c907f7658b6b07901591e12ab5f059a",
-     "valor": 59.59
+     "valor": 59.59,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 1301.27
+     "valor": 1301.27,
+     "itens": [
+      [
+       "Material de Escritório",
+       1301.27,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 509.66
+     "valor": 509.66,
+     "itens": [
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       264.03,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       33.61,
+       "65067",
+       "2214073 Diego Sanches.pdf"
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 103.47
+     "valor": 103.47,
+     "itens": [
+      [
+       "Material de Escritório",
+       103.47,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 22.23
+     "valor": 22.23,
+     "itens": [
+      [
+       "Carimbos",
+       13.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.43,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 158.49
+     "valor": 158.49,
+     "itens": [
+      [
+       "Material de Escritório",
+       158.49,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 40.24
+     "valor": 40.24,
+     "itens": [
+      [
+       "Material de Escritório",
+       40.24,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 617.57
+     "valor": 617.57,
+     "itens": [
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       496.85,
+       "65068",
+       "2214258 Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 160.96
+     "valor": 160.96,
+     "itens": [
+      [
+       "Material de Escritório",
+       160.96,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 80.93
+     "valor": 80.93,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       21.34,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 838.82
+     "valor": 838.82,
+     "itens": [
+      [
+       "Material de Escritório",
+       838.82,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 60.36
+     "valor": 60.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       60.36,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 52.54
+     "valor": 52.54,
+     "itens": [
+      [
+       "Material de Escritório",
+       52.54,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 330.38
+     "valor": 330.38,
+     "itens": [
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       118.36,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1696.84
+     "valor": 1696.84,
+     "itens": [
+      [
+       "Material de Escritório",
+       24.04,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1672.8,
+       "65069",
+       "2218076 Juliano Lopes.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 232.37
+     "valor": 232.37,
+     "itens": [
+      [
+       "Material de Escritório",
+       232.37,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 176.92
+     "valor": 176.92,
+     "itens": [
+      [
+       "Material de Escritório",
+       176.92,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 441.11
+     "valor": 441.11,
+     "itens": [
+      [
+       "Carimbos",
+       53.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       387.91,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 3.24
+     "valor": 3.24,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.24,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 3.95
+     "valor": 3.95,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.95,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -338,97 +1070,327 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 98.65
+     "valor": 98.65,
+     "itens": [
+      [
+       "Serviços Postais",
+       98.65,
+       "65638",
+       "2237676 Bruno Miranda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 332.74
+     "valor": 332.74,
+     "itens": [
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 402.4
+     "valor": 402.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       402.4,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 115.83
+     "valor": 115.83,
+     "itens": [
+      [
+       "Material de Escritório",
+       115.83,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 166.49
+     "valor": 166.49,
+     "itens": [
+      [
+       "Carimbos",
+       65,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       101.49,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 1886
+     "valor": 1886,
+     "itens": [
+      [
+       "Serviços Postais",
+       1886,
+       "65641",
+       "2244734 Iza Lourença.pdf"
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 289.09
+     "valor": 289.09,
+     "itens": [
+      [
+       "Carimbos",
+       20.7,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       208.8,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 43.61
+     "valor": 43.61,
+     "itens": [
+      [
+       "Material de Escritório",
+       20.61,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       23,
+       "65639",
+       "2239566 Loíde Gonçalves.pdf"
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 152.27
+     "valor": 152.27,
+     "itens": [
+      [
+       "Carimbos",
+       13.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       138.47,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 496.17
+     "valor": 496.17,
+     "itens": [
+      [
+       "Material de Copa",
+       109.7,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       150,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.46,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       231.01,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 640.22
+     "valor": 640.22,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       637.88,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 184.01
+     "valor": 184.01,
+     "itens": [
+      [
+       "Material de Copa",
+       152.44,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.57,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 40.4
+     "valor": 40.4,
+     "itens": [
+      [
+       "Carimbos",
+       39.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 947.46
+     "valor": 947.46,
+     "itens": [
+      [
+       "Material de Escritório",
+       641.46,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       306,
+       "65640",
+       "2240426 Juliano Lopes.pdf"
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 15.55
+     "valor": 15.55,
+     "itens": [
+      [
+       "Material de Escritório",
+       15.55,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 523.12
+     "valor": 523.12,
+     "itens": [
+      [
+       "Material de Escritório",
+       523.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 138.38
+     "valor": 138.38,
+     "itens": [
+      [
+       "Material de Escritório",
+       138.38,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 402.4
+     "valor": 402.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       402.4,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -438,102 +1400,346 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 120.72
+     "valor": 120.72,
+     "itens": [
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 59.6
+     "valor": 59.6,
+     "itens": [
+      [
+       "Serviços Postais",
+       59.6,
+       "66210",
+       "2262766 Bruno Miranda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 139.16
+     "valor": 139.16,
+     "itens": [
+      [
+       "Material de Copa",
+       119.18,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 81.58
+     "valor": 81.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 80.48
+     "valor": 80.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 119.88
+     "valor": 119.88,
+     "itens": [
+      [
+       "Carimbos",
+       39.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 496.36
+     "valor": 496.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.06,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       417,
+       "66213",
+       "2268952 Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 7.48
+     "valor": 7.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       7.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 13.8
+     "valor": 13.8,
+     "itens": [
+      [
+       "Carimbos",
+       13.8,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 587.36
+     "valor": 587.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.44,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.54,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       575.38,
+       "66212",
+       "2268528 Osvaldo Lopes.pdf"
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 81.86
+     "valor": 81.86,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       75.06,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 872.62
+     "valor": 872.62,
+     "itens": [
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       45.62,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       810.9,
+       "66209",
+       "2254725 Juliano Lopes.pdf"
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 364.79
+     "valor": 364.79,
+     "itens": [
+      [
+       "Material de Escritório",
+       348.94,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 695.56
+     "valor": 695.56,
+     "itens": [
+      [
+       "Carimbos",
+       46.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       623.72,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       25.54,
+       "66211",
+       "2264692 Sargento Jalyson.pdf"
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 4.03
+     "valor": 4.03,
+     "itens": [
+      [
+       "Material de Escritório",
+       4.03,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Trópia",
      "cod": "2c907f7675b75b9701764cf002b508a2",
-     "valor": 426.47
+     "valor": 426.47,
+     "itens": [
+      [
+       "Material de Escritório",
+       6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       420.47,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 113.37
+     "valor": 113.37,
+     "itens": [
+      [
+       "Material de Copa",
+       42,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       71.37,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 120.72
+     "valor": 120.72,
+     "itens": [
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 7.03
+     "valor": 7.03,
+     "itens": [
+      [
+       "Material de Escritório",
+       7.03,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -543,137 +1749,587 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 65.23
+     "valor": 65.23,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       42.15,
+       "67381",
+       "Bruno Miranda 2289642.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 814.26
+     "valor": 814.26,
+     "itens": [
+      [
+       "Material de Copa",
+       53,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       361.9,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       57.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       247.29,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       23.17,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.9,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 81.58
+     "valor": 81.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 344.74
+     "valor": 344.74,
+     "itens": [
+      [
+       "Material de Escritório",
+       216.94,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       84.28,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       27.67,
+       "67382",
+       "Diego Sanches 2282937.pdf"
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 140.84
+     "valor": 140.84,
+     "itens": [
+      [
+       "Material de Escritório",
+       140.84,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Fernanda Pereira Altoé",
      "cod": "2c907f7675b75b9701764d15d14508b0",
-     "valor": 81.58
+     "valor": 81.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helinho da Farmácia",
      "cod": "2c907f7658b6b07901591dfc7d850583",
-     "valor": 698.57
+     "valor": 698.57,
+     "itens": [
+      [
+       "Material de Escritório",
+       669.93,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.79,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 62.7
+     "valor": 62.7,
+     "itens": [
+      [
+       "Material de Escritório",
+       46.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 301.8
+     "valor": 301.8,
+     "itens": [
+      [
+       "Material de Escritório",
+       301.8,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 107.48
+     "valor": 107.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       11.17,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       73.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 81.58
+     "valor": 81.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 20.12
+     "valor": 20.12,
+     "itens": [
+      [
+       "Material de Escritório",
+       20.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 320.35
+     "valor": 320.35,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       219.75,
+       "67389",
+       "Wagner Mariano Jr 2288946.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 81.58
+     "valor": 81.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 81.58
+     "valor": 81.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 64.52
+     "valor": 64.52,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       62.18,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 69.17
+     "valor": 69.17,
+     "itens": [
+      [
+       "Material de Escritório",
+       69.17,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 168.66
+     "valor": 168.66,
+     "itens": [
+      [
+       "Material de Escritório",
+       104.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       48.61,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 2256.03
+     "valor": 2256.03,
+     "itens": [
+      [
+       "Carimbos",
+       6.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.44,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       206.94,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       17.36,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       2013.83,
+       "67388",
+       "Osvaldo Lopes 2290722.pdf"
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 147.99
+     "valor": 147.99,
+     "itens": [
+      [
+       "Material de Escritório",
+       104.63,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       43.36,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 200.76
+     "valor": 200.76,
+     "itens": [
+      [
+       "Material de Copa",
+       119.18,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 2092.95
+     "valor": 2092.95,
+     "itens": [
+      [
+       "Material de Escritório",
+       247.82,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1809.3,
+       "67387",
+       "Juliano Lopes 2277301.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 314.24
+     "valor": 314.24,
+     "itens": [
+      [
+       "Material de Escritório",
+       227.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       86.34,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 24.48
+     "valor": 24.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       13.67,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       10.81,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 195.49
+     "valor": 195.49,
+     "itens": [
+      [
+       "Material de Copa",
+       56.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       24.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       98.29,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 84.81
+     "valor": 84.81,
+     "itens": [
+      [
+       "Material de Escritório",
+       84.81,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 176.08
+     "valor": 176.08,
+     "itens": [
+      [
+       "Carimbos",
+       85.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -683,127 +2339,465 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 22.2
+     "valor": 22.2,
+     "itens": [
+      [
+       "Serviços Postais",
+       22.2,
+       "67693",
+       "2309621 - Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 639.43
+     "valor": 639.43,
+     "itens": [
+      [
+       "Carimbos",
+       32.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.32,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.46,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       25.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       38.75,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       518,
+       "67691",
+       "2303502 - Diego de Souza Sanches.pdf"
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 192.31
+     "valor": 192.31,
+     "itens": [
+      [
+       "Material de Escritório",
+       192.31,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 265.11
+     "valor": 265.11,
+     "itens": [
+      [
+       "Material de Escritório",
+       181.08,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       84.03,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 122.48
+     "valor": 122.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       122.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 87.49
+     "valor": 87.49,
+     "itens": [
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       83.32,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 141.22
+     "valor": 141.22,
+     "itens": [
+      [
+       "Serviços Postais",
+       141.22,
+       "67688",
+       "2297471 - Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 1817.84
+     "valor": 1817.84,
+     "itens": [
+      [
+       "Serviços Postais",
+       1817.84,
+       "67689",
+       "2301212 - Izabella Lourença Amorim Romuald.pdf"
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 70
+     "valor": 70,
+     "itens": [
+      [
+       "Material de Copa",
+       70,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 882.37
+     "valor": 882.37,
+     "itens": [
+      [
+       "Material de Copa",
+       70,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       150,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       393.24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       199.52,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.46,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 104.77
+     "valor": 104.77,
+     "itens": [
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 462.1
+     "valor": 462.1,
+     "itens": [
+      [
+       "Serviços Postais",
+       462.1,
+       "67690",
+       "2303323 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 63.76
+     "valor": 63.76,
+     "itens": [
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 104.96
+     "valor": 104.96,
+     "itens": [
+      [
+       "Material de Escritório",
+       104.96,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 187.84
+     "valor": 187.84,
+     "itens": [
+      [
+       "Material de Escritório",
+       106.26,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 32.37
+     "valor": 32.37,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       29.49,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 4.17
+     "valor": 4.17,
+     "itens": [
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 1458.43
+     "valor": 1458.43,
+     "itens": [
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1438.45,
+       "67692",
+       "2308745 - Osvaldo Lopes de Oliveira Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 58.16
+     "valor": 58.16,
+     "itens": [
+      [
+       "Material de Escritório",
+       38.18,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 10.42
+     "valor": 10.42,
+     "itens": [
+      [
+       "Material de Escritório",
+       10.42,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 24.15
+     "valor": 24.15,
+     "itens": [
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 17.25
+     "valor": 17.25,
+     "itens": [
+      [
+       "Material de Escritório",
+       13.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 165.13
+     "valor": 165.13,
+     "itens": [
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       160.96,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 111.17
+     "valor": 111.17,
+     "itens": [
+      [
+       "Material de Escritório",
+       106.48,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.69,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -813,92 +2807,362 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 55.23
+     "valor": 55.23,
+     "itens": [
+      [
+       "Serviços Postais",
+       55.23,
+       "68062",
+       "Fatura Nº 2324110.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 301.8
+     "valor": 301.8,
+     "itens": [
+      [
+       "Material de Escritório",
+       301.8,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 2627
+     "valor": 2627,
+     "itens": [
+      [
+       "Serviços Postais",
+       2627,
+       "68060",
+       "Fatura Nº 2326446.pdf"
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 156.05
+     "valor": 156.05,
+     "itens": [
+      [
+       "Material de Copa",
+       56.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       9.97,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       23.67,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 522.73
+     "valor": 522.73,
+     "itens": [
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.46,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       274.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       140.36,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       38.74,
+       "68061",
+       "Fatura Nº 2322586.pdf"
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 73.56
+     "valor": 73.56,
+     "itens": [
+      [
+       "Material de Escritório",
+       73.56,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 448.35
+     "valor": 448.35,
+     "itens": [
+      [
+       "Serviços Postais",
+       448.35,
+       "68065",
+       "Fatura Nº 2328560.pdf"
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 472.02
+     "valor": 472.02,
+     "itens": [
+      [
+       "Material de Copa",
+       211.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       225.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 3.24
+     "valor": 3.24,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.24,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 316.67
+     "valor": 316.67,
+     "itens": [
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       190.36,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       62.16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 130.6
+     "valor": 130.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       130.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 287.69
+     "valor": 287.69,
+     "itens": [
+      [
+       "Serviços Postais",
+       287.69,
+       "68064",
+       "Fatura Nº 2326107.pdf"
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 170.11
+     "valor": 170.11,
+     "itens": [
+      [
+       "Material de Escritório",
+       142.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       28.01,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1996.2
+     "valor": 1996.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       124,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1872.2,
+       "68063",
+       "Fatura Nº 2324127.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 187.85
+     "valor": 187.85,
+     "itens": [
+      [
+       "Material de Copa",
+       150,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       22,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 19.98
+     "valor": 19.98,
+     "itens": [
+      [
+       "Material de Escritório",
+       19.98,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -908,82 +3172,330 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 31
+     "valor": 31,
+     "itens": [
+      [
+       "Material de Escritório",
+       31,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 64.84
+     "valor": 64.84,
+     "itens": [
+      [
+       "Material de Escritório",
+       1.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       20.41,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       42.87,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 375.99
+     "valor": 375.99,
+     "itens": [
+      [
+       "Material de Escritório",
+       365.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       10.59,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 1205.28
+     "valor": 1205.28,
+     "itens": [
+      [
+       "Serviços Postais",
+       1205.28,
+       "68403",
+       "Fatura Iza_merged.pdf"
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 60.36
+     "valor": 60.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       60.36,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 173.67
+     "valor": 173.67,
+     "itens": [
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       52.95,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 242.2
+     "valor": 242.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       32.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       210,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 5.89
+     "valor": 5.89,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.89,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 510.2
+     "valor": 510.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       1.44,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       502.64,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 42.44
+     "valor": 42.44,
+     "itens": [
+      [
+       "Material de Escritório",
+       19.32,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       23.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 77.42
+     "valor": 77.42,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       17.83,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 814.31
+     "valor": 814.31,
+     "itens": [
+      [
+       "Carimbos",
+       20.7,
+       null,
+       null
+      ],
+      [
+       "Carimbos",
+       4.17,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       56.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       382.57,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       129.81,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 30.89
+     "valor": 30.89,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       28.01,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 68.46
+     "valor": 68.46,
+     "itens": [
+      [
+       "Material de Escritório",
+       60.36,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 255.93
+     "valor": 255.93,
+     "itens": [
+      [
+       "Material de Escritório",
+       227.92,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       28.01,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 52.48
+     "valor": 52.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       20.42,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       29.72,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -993,92 +3505,284 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 21.4
+     "valor": 21.4,
+     "itens": [
+      [
+       "Serviços Postais",
+       21.4,
+       "68457",
+       "Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 119.18
+     "valor": 119.18,
+     "itens": [
+      [
+       "Material de Copa",
+       119.18,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 1505.31
+     "valor": 1505.31,
+     "itens": [
+      [
+       "Material de Escritório",
+       333.13,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       32.58,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1139.6,
+       "68458",
+       "Diego Sanches.pdf"
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 101.11
+     "valor": 101.11,
+     "itens": [
+      [
+       "Material de Escritório",
+       101.11,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 1497.26
+     "valor": 1497.26,
+     "itens": [
+      [
+       "Serviços Postais",
+       1497.26,
+       "68459",
+       "Irlan Chaves Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 37.15
+     "valor": 37.15,
+     "itens": [
+      [
+       "Material de Escritório",
+       37.15,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 784.6
+     "valor": 784.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.15,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       778.45,
+       "68461",
+       "Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 3.6
+     "valor": 3.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 150.58
+     "valor": 150.58,
+     "itens": [
+      [
+       "Material de Escritório",
+       71,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       79.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 80.48
+     "valor": 80.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1107.33
+     "valor": 1107.33,
+     "itens": [
+      [
+       "Material de Escritório",
+       159.84,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       107.59,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       839.9,
+       "68460",
+       "Prof Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 153.6
+     "valor": 153.6,
+     "itens": [
+      [
+       "Material de Copa",
+       53,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 111.1
+     "valor": 111.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       106.41,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.69,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1088,152 +3792,584 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 128.05
+     "valor": 128.05,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       28.55,
+       "69180",
+       "Fatura Nº 2388572 - Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 2409.02
+     "valor": 2409.02,
+     "itens": [
+      [
+       "Carimbos",
+       6.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1150.76,
+       "68713",
+       "Edmar Martins Cabral da Cruz.pdf"
+      ],
+      [
+       "Serviços Postais",
+       1150.76,
+       "69178",
+       "Fatura Nº 2383348 - Edmar Martins Cabral da Cruz.pdf"
+      ]
+     ]
     },
     {
      "nome": "Fernanda Pereira Altoé",
      "cod": "2c907f7675b75b9701764d15d14508b0",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Flávia Borja",
      "cod": "2c907f7675b75b9701764d27db7f08b6",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 139.07
+     "valor": 139.07,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       39.57,
+       "68712",
+       "Janaina Ester Cardoso Teixeira.pdf"
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 67.34
+     "valor": 67.34,
+     "itens": [
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.44,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       28.01,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.69,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 1199.85
+     "valor": 1199.85,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       666,
+       "68710",
+       "Wagner Mariano Junior.pdf"
+      ],
+      [
+       "Serviços Postais",
+       434.35,
+       "69179",
+       "Fatura Nº 2385496 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 126.66
+     "valor": 126.66,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.11,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 104.96
+     "valor": 104.96,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.46,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 300.06
+     "valor": 300.06,
+     "itens": [
+      [
+       "Material de Escritório",
+       1.56,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 635.4
+     "valor": 635.4,
+     "itens": [
+      [
+       "Material de Copa",
+       56.7,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       211.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       366.8,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 116
+     "valor": 116,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       108.75,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 119.01
+     "valor": 119.01,
+     "itens": [
+      [
+       "Material de Escritório",
+       13.39,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.12,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Rousseff",
      "cod": "2c907f7693d91ea10193e092555a0130",
-     "valor": 426.05
+     "valor": 426.05,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       26.13,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       40.79,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.04,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 2429.64
+     "valor": 2429.64,
+     "itens": [
+      [
+       "Material de Escritório",
+       144.24,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1317.2,
+       "68711",
+       "Juliano Lopes Lobato.pdf"
+      ],
+      [
+       "Serviços Postais",
+       669.7,
+       "69177",
+       "Fatura Nº 2393258 - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 1509.83
+     "valor": 1509.83,
+     "itens": [
+      [
+       "Material de Escritório",
+       0.56,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1409.77,
+       "68709",
+       "Rudson Felipe da Paixão.pdf"
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 130.7
+     "valor": 130.7,
+     "itens": [
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 10.23
+     "valor": 10.23,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.66,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.57,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 99.5
+     "valor": 99.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       99.5,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1243,72 +4379,286 @@
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 211.9
+     "valor": 211.9,
+     "itens": [
+      [
+       "Material de Copa",
+       211.9,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 149.02
+     "valor": 149.02,
+     "itens": [
+      [
+       "Material de Escritório",
+       24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       116.92,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 409.21
+     "valor": 409.21,
+     "itens": [
+      [
+       "Material de Escritório",
+       96.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       32.7,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       279.63,
+       "69765",
+       "Fatura 2406779 - Helton Vieira Fernandes Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 496.66
+     "valor": 496.66,
+     "itens": [
+      [
+       "Serviços Postais",
+       496.66,
+       "69764",
+       "Fatura 2407106 - Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 544.6
+     "valor": 544.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       444,
+       "69762",
+       "Fatura 2408574 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 120.72
+     "valor": 120.72,
+     "itens": [
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 29
+     "valor": 29,
+     "itens": [
+      [
+       "Material de Escritório",
+       16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       13,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 313.01
+     "valor": 313.01,
+     "itens": [
+      [
+       "Material de Escritório",
+       12.48,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.21,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.63,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       287.69,
+       "69763",
+       "Fatura 2407511 - Osvaldo Lopes de Oliveira Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Rousseff",
      "cod": "2c907f7693d91ea10193e092555a0130",
-     "valor": 59.59
+     "valor": 59.59,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1396.7
+     "valor": 1396.7,
+     "itens": [
+      [
+       "Material de Escritório",
+       24,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1372.7,
+       "69761",
+       "Fatura 2413824 - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 1152.84
+     "valor": 1152.84,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.08,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1150.76,
+       "69760",
+       "Fatura 2413118 - Rudson Felipe da Paixao.pdf"
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 129.01
+     "valor": 129.01,
+     "itens": [
+      [
+       "Material de Escritório",
+       19.32,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       102.44,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.21,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.04,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 73.15
+     "valor": 73.15,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.46,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       50.29,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.79,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.61,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1318,52 +4668,192 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 27.1
+     "valor": 27.1,
+     "itens": [
+      [
+       "Serviços Postais",
+       27.1,
+       "69986",
+       "2431584 - Fatura - Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 447.52
+     "valor": 447.52,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       308.58,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       102.92,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       30.68,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 1520.64
+     "valor": 1520.64,
+     "itens": [
+      [
+       "Serviços Postais",
+       1520.64,
+       "69988",
+       "2436066 - Fatura - Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 377.4
+     "valor": 377.4,
+     "itens": [
+      [
+       "Serviços Postais",
+       377.4,
+       "69989",
+       "2437817 - Fatura - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 98.47
+     "valor": 98.47,
+     "itens": [
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       40.13,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       7.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 13.79
+     "valor": 13.79,
+     "itens": [
+      [
+       "Material de Escritório",
+       1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.79,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 64.94
+     "valor": 64.94,
+     "itens": [
+      [
+       "Material de Escritório",
+       64.94,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1423.74
+     "valor": 1423.74,
+     "itens": [
+      [
+       "Material de Escritório",
+       213.84,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1209.9,
+       "69987",
+       "2432176 - Fatura - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rubão",
      "cod": "2c907f7675b75b9701764d6c8b7508d5",
-     "valor": 109.64
+     "valor": 109.64,
+     "itens": [
+      [
+       "Material de Escritório",
+       109.64,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1373,92 +4863,482 @@
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 233.08
+     "valor": 233.08,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       149.23,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       52.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.56,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 108.16
+     "valor": 108.16,
+     "itens": [
+      [
+       "Material de Escritório",
+       57,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       46.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.76,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 113.46
+     "valor": 113.46,
+     "itens": [
+      [
+       "Material de Escritório",
+       9.66,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.38,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.83,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       58.55,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.04,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 205.5
+     "valor": 205.5,
+     "itens": [
+      [
+       "Material de Escritório",
+       205.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Fernanda Pereira Altoé",
      "cod": "2c907f7675b75b9701764d15d14508b0",
-     "valor": 199
+     "valor": 199,
+     "itens": [
+      [
+       "Material Gráfico",
+       199,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 199
+     "valor": 199,
+     "itens": [
+      [
+       "Material Gráfico",
+       199,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 950.48
+     "valor": 950.48,
+     "itens": [
+      [
+       "Material de Copa",
+       57.85,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       361.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.26,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       78.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       136.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       93.78,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.62,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       92.65,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 67.16
+     "valor": 67.16,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       60.36,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 298.5
+     "valor": 298.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 343.18
+     "valor": 343.18,
+     "itens": [
+      [
+       "Material de Escritório",
+       263.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       79.58,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 378.98
+     "valor": 378.98,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       298.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 157.57
+     "valor": 157.57,
+     "itens": [
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       40.31,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.56,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 36.55
+     "valor": 36.55,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.08,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       33.47,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 8.36
+     "valor": 8.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       8.36,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 590.01
+     "valor": 590.01,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.06,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       48.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.26,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       84.18,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       127.43,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       81.58,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       199,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 34.56
+     "valor": 34.56,
+     "itens": [
+      [
+       "Material de Escritório",
+       10.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.53,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.12,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.02,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Trópia",
      "cod": "2c907f7675b75b9701764cf002b508a2",
-     "valor": 199
+     "valor": 199,
+     "itens": [
+      [
+       "Material Gráfico",
+       199,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 108.44
+     "valor": 108.44,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       23.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.76,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1468,142 +5348,780 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 218.28
+     "valor": 218.28,
+     "itens": [
+      [
+       "Material de Escritório",
+       218.28,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 220.15
+     "valor": 220.15,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       18.5,
+       "70946",
+       "2459235 - Fatura - Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 1177.27
+     "valor": 1177.27,
+     "itens": [
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       62.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.26,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.53,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       758.63,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.62,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       273.93,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 27.13
+     "valor": 27.13,
+     "itens": [
+      [
+       "Material de Escritório",
+       24.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.53,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 2.18
+     "valor": 2.18,
+     "itens": [
+      [
+       "Material Gráfico",
+       2.18,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 59.09
+     "valor": 59.09,
+     "itens": [
+      [
+       "Material de Escritório",
+       0.53,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       57.52,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.04,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 244.15
+     "valor": 244.15,
+     "itens": [
+      [
+       "Material de Escritório",
+       16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       181.24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.05,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       21.8,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 285.2
+     "valor": 285.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       180,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       92.08,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       13.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 587.61
+     "valor": 587.61,
+     "itens": [
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       62.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.46,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.53,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       425.42,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.62,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       24.28,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 482.01
+     "valor": 482.01,
+     "itens": [
+      [
+       "Material de Escritório",
+       9.14,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.53,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       432.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       7.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 75.9
+     "valor": 75.9,
+     "itens": [
+      [
+       "Material de Escritório",
+       51.84,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       23.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Leonardo Ângelo",
      "cod": "2c907f7693d91ea10193e08097f20126",
-     "valor": 870.36
+     "valor": 870.36,
+     "itens": [
+      [
+       "Material de Copa",
+       56.7,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.21,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       9.86,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       100.18,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       412.94,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       43.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 617.4
+     "valor": 617.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       404.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 72.99
+     "valor": 72.99,
+     "itens": [
+      [
+       "Material de Escritório",
+       72.99,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 344.61
+     "valor": 344.61,
+     "itens": [
+      [
+       "Material de Escritório",
+       7.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       14.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       270.36,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       30,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 439.72
+     "valor": 439.72,
+     "itens": [
+      [
+       "Material de Escritório",
+       9.14,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       284.69,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       114.19,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 2.48
+     "valor": 2.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1041.16
+     "valor": 1041.16,
+     "itens": [
+      [
+       "Material de Escritório",
+       9.68,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       204.98,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       17.8,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       777,
+       "70947",
+       "2462606 - Fatura - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 366.44
+     "valor": 366.44,
+     "itens": [
+      [
+       "Material de Escritório",
+       123.12,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       211.62,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professora Nara",
      "cod": "2c907f768e3c5899018e673cc93403c9",
-     "valor": 40.24
+     "valor": 40.24,
+     "itens": [
+      [
+       "Material de Escritório",
+       40.24,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rubão",
      "cod": "2c907f7675b75b9701764d6c8b7508d5",
-     "valor": 490.27
+     "valor": 490.27,
+     "itens": [
+      [
+       "Material de Escritório",
+       1.62,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       12.09,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       359.66,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 2020.13
+     "valor": 2020.13,
+     "itens": [
+      [
+       "Material de Escritório",
+       511.87,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1476.56,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 9.51
+     "valor": 9.51,
+     "itens": [
+      [
+       "Material de Escritório",
+       9.51,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Trópia",
      "cod": "2c907f7675b75b9701764cf002b508a2",
-     "valor": 238.44
+     "valor": 238.44,
+     "itens": [
+      [
+       "Material de Escritório",
+       1.62,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       236.82,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 80.48
+     "valor": 80.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 295.53
+     "valor": 295.53,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.22,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       194.82,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       61.77,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1613,102 +6131,400 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 195.84
+     "valor": 195.84,
+     "itens": [
+      [
+       "Serviços Postais",
+       100.8,
+       "72776",
+       "fatura Enedino Jose de Arruda.pdf"
+      ],
+      [
+       "Serviços Postais",
+       95.04,
+       "74008",
+       "Fatura - Enedino Jose de Arruda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 75.35
+     "valor": 75.35,
+     "itens": [
+      [
+       "Material de Escritório",
+       36.54,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.71,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       19.1,
+       "74005",
+       "Fatura - Bruno Martuchele de Sales.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 1407.31
+     "valor": 1407.31,
+     "itens": [
+      [
+       "Material de Escritório",
+       67.9,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1246.76,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       92.65,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 202.1
+     "valor": 202.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 977.48
+     "valor": 977.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       260.19,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       677.59,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 202.1
+     "valor": 202.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 1676.73
+     "valor": 1676.73,
+     "itens": [
+      [
+       "Material de Escritório",
+       13.79,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       112.02,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1535.07,
+       "74003",
+       "Fatura - Edmar Martins Cabral da Cruz.pdf"
+      ]
+     ]
     },
     {
      "nome": "Flávia Borja",
      "cod": "2c907f7675b75b9701764d27db7f08b6",
-     "valor": 1221.4
+     "valor": 1221.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       8.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1212.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 17.34
+     "valor": 17.34,
+     "itens": [
+      [
+       "Serviços Postais",
+       17.34,
+       "72778",
+       "fatura Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 2067.07
+     "valor": 2067.07,
+     "itens": [
+      [
+       "Material de Escritório",
+       62.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       557.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1447.63,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 17.08
+     "valor": 17.08,
+     "itens": [
+      [
+       "Material de Escritório",
+       17.08,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 872.25
+     "valor": 872.25,
+     "itens": [
+      [
+       "Serviços Postais",
+       375.8,
+       "72775",
+       "fatura Wagner Mariano Junior.pdf"
+      ],
+      [
+       "Serviços Postais",
+       496.45,
+       "74004",
+       "Fatura - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 575.38
+     "valor": 575.38,
+     "itens": [
+      [
+       "Serviços Postais",
+       575.38,
+       "74002",
+       "Fatura - Elizete Loide Goncalves Tavares.pdf"
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 131.28
+     "valor": 131.28,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       27.23,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       97.25,
+       "72779",
+       "fatura Luiza Borges Dulci.pdf"
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 224.45
+     "valor": 224.45,
+     "itens": [
+      [
+       "Material de Escritório",
+       22.35,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 2496.3
+     "valor": 2496.3,
+     "itens": [
+      [
+       "Serviços Postais",
+       1454.1,
+       "72777",
+       "fatura Juliano Lopes Lobato.pdf"
+      ],
+      [
+       "Serviços Postais",
+       1042.2,
+       "74006",
+       "Fatura - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Nara",
      "cod": "2c907f768e3c5899018e673cc93403c9",
-     "valor": 515.17
+     "valor": 515.17,
+     "itens": [
+      [
+       "Material de Escritório",
+       4.08,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       307.95,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       203.14,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Trópia",
      "cod": "2c907f7675b75b9701764cf002b508a2",
-     "valor": 26.5
+     "valor": 26.5,
+     "itens": [
+      [
+       "Material de Copa",
+       26.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 593.04
+     "valor": 593.04,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       303.15,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       287.69,
+       "74007",
+       "Fatura - Wagner de Jesus Ferreira.pdf"
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 606.3
+     "valor": 606.3,
+     "itens": [
+      [
+       "Material de Escritório",
+       606.3,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1718,102 +6534,436 @@
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 83.72
+     "valor": 83.72,
+     "itens": [
+      [
+       "Material de Escritório",
+       83.72,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 28.35
+     "valor": 28.35,
+     "itens": [
+      [
+       "Material de Escritório",
+       1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       7.64,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.71,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 456.53
+     "valor": 456.53,
+     "itens": [
+      [
+       "Material de Copa",
+       26.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.12,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.71,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       404.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 1259.51
+     "valor": 1259.51,
+     "itens": [
+      [
+       "Material de Escritório",
+       26.61,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       146.42,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1086.48,
+       "74402",
+       "2522077 - Edmar Martins Cabral da Cruz.pdf"
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 56.68
+     "valor": 56.68,
+     "itens": [
+      [
+       "Serviços Postais",
+       56.68,
+       "74401",
+       "2525268 - Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 2878
+     "valor": 2878,
+     "itens": [
+      [
+       "Material de Copa",
+       211.9,
+       null,
+       null
+      ],
+      [
+       "Material de Copa",
+       28,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       2436,
+       "74403",
+       "2521993 - Izabella Lourença Amorim Romuald.pdf"
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 13.5
+     "valor": 13.5,
+     "itens": [
+      [
+       "Material de Escritório",
+       13.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 101.05
+     "valor": 101.05,
+     "itens": [
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 381.66
+     "valor": 381.66,
+     "itens": [
+      [
+       "Material de Escritório",
+       71.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       30,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       280.1,
+       "74404",
+       "2518135 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 88.55
+     "valor": 88.55,
+     "itens": [
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.68,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       56.87,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       10.9,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 497.05
+     "valor": 497.05,
+     "itens": [
+      [
+       "Material de Copa",
+       212.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       45.13,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       232.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 739.68
+     "valor": 739.68,
+     "itens": [
+      [
+       "Material de Escritório",
+       242.83,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       404.2,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       92.65,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 242.98
+     "valor": 242.98,
+     "itens": [
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       11.28,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       215.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 2.48
+     "valor": 2.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1664.03
+     "valor": 1664.03,
+     "itens": [
+      [
+       "Material de Escritório",
+       50,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       173.48,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1232.05,
+       "74400",
+       "2526140 - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 209.86
+     "valor": 209.86,
+     "itens": [
+      [
+       "Material de Escritório",
+       7.76,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 101.05
+     "valor": 101.05,
+     "itens": [
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 16.43
+     "valor": 16.43,
+     "itens": [
+      [
+       "Material de Escritório",
+       8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       8.43,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 35.23
+     "valor": 35.23,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.23,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1823,107 +6973,407 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 834.18
+     "valor": 834.18,
+     "itens": [
+      [
+       "Material de Escritório",
+       606.3,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       227.88,
+       "75281",
+       "2539233 - Enedino Jose de Arruda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 109
+     "valor": 109,
+     "itens": [
+      [
+       "Material Gráfico",
+       109,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 102.64
+     "valor": 102.64,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       97.38,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 45.18
+     "valor": 45.18,
+     "itens": [
+      [
+       "Material de Escritório",
+       18.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.48,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       20,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 1558.78
+     "valor": 1558.78,
+     "itens": [
+      [
+       "Material Gráfico",
+       10.9,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1547.88,
+       "75280",
+       "2539138 - Edmar Martins Cabral da Cruz.pdf"
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 105.32
+     "valor": 105.32,
+     "itens": [
+      [
+       "Serviços Postais",
+       105.32,
+       "75278",
+       "2537340 - Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Iza Lourença",
      "cod": "2c907f7675b75b9701764d00c42708a6",
-     "valor": 1963.92
+     "valor": 1963.92,
+     "itens": [
+      [
+       "Serviços Postais",
+       1963.92,
+       "75285",
+       "2547781 - Izabella Lourenca Amorim Romuald.pdf"
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 35.21
+     "valor": 35.21,
+     "itens": [
+      [
+       "Material de Escritório",
+       29,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.21,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 530.01
+     "valor": 530.01,
+     "itens": [
+      [
+       "Material de Escritório",
+       120.72,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       63.54,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       345.75,
+       "75279",
+       "2536661 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 699.92
+     "valor": 699.92,
+     "itens": [
+      [
+       "Material de Escritório",
+       100,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       599.92,
+       "75282",
+       "2539383 - Elizete Loide Goncalves Tavares.pdf"
+      ]
+     ]
     },
     {
      "nome": "Lucas Ganem",
      "cod": "2c907f7693d91ea10193e0828dcb0128",
-     "valor": 3.69
+     "valor": 3.69,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.35,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 17.08
+     "valor": 17.08,
+     "itens": [
+      [
+       "Material de Escritório",
+       17.08,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 230.46
+     "valor": 230.46,
+     "itens": [
+      [
+       "Material de Escritório",
+       12.24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       13.24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 364.75
+     "valor": 364.75,
+     "itens": [
+      [
+       "Material de Escritório",
+       16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       9.14,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       108.16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       215.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 70
+     "valor": 70,
+     "itens": [
+      [
+       "Material de Copa",
+       70,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1409.1
+     "valor": 1409.1,
+     "itens": [
+      [
+       "Serviços Postais",
+       1409.1,
+       "75284",
+       "2545552 - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 2141.92
+     "valor": 2141.92,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.19,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       0.35,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.66,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       2099.72,
+       "75283",
+       "2544508 - Rudson Felipe da Paixao.pdf"
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 10.12
+     "valor": 10.12,
+     "itens": [
+      [
+       "Material de Escritório",
+       10.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 4.4
+     "valor": 4.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       4.4,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 162.04
+     "valor": 162.04,
+     "itens": [
+      [
+       "Material de Escritório",
+       0.35,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       161.69,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 13.5
+     "valor": 13.5,
+     "itens": [
+      [
+       "Material de Escritório",
+       13.5,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -1933,117 +7383,451 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 106.05
+     "valor": 106.05,
+     "itens": [
+      [
+       "Serviços Postais",
+       106.05,
+       "75542",
+       "Fatura 2569046 - Enedino Jose de Arruda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Braulio Lara",
      "cod": "2c907f7675b75b9701764d2a8c3208b8",
-     "valor": 291.69
+     "valor": 291.69,
+     "itens": [
+      [
+       "Material de Copa",
+       59.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       222.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       10,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cláudio do Mundo Novo",
      "cod": "2c907f7675b75b9701764d0bef5508a9",
-     "valor": 53.73
+     "valor": 53.73,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.19,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       18.54,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 14.9
+     "valor": 14.9,
+     "itens": [
+      [
+       "Material de Escritório",
+       14.9,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 110.51
+     "valor": 110.51,
+     "itens": [
+      [
+       "Material de Escritório",
+       16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       35.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.71,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 217.4
+     "valor": 217.4,
+     "itens": [
+      [
+       "Material de Escritório",
+       217.4,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 103.6
+     "valor": 103.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.55,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 80.84
+     "valor": 80.84,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.84,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 51.55
+     "valor": 51.55,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.19,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.66,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 1212.6
+     "valor": 1212.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       1212.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 116.34
+     "valor": 116.34,
+     "itens": [
+      [
+       "Material de Escritório",
+       9.66,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.03,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       10,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       92.65,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 243.35
+     "valor": 243.35,
+     "itens": [
+      [
+       "Serviços Postais",
+       243.35,
+       "75543",
+       "Fatura 2568882 - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 100
+     "valor": 100,
+     "itens": [
+      [
+       "Material de Escritório",
+       100,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Luiza Dulci",
      "cod": "2c907f7693d91ea10193e0864b7c012a",
-     "valor": 16.7
+     "valor": 16.7,
+     "itens": [
+      [
+       "Material de Escritório",
+       10.58,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Maninho Félix",
      "cod": "2c907f7668a3f8d90168a418c060000d",
-     "valor": 1212.6
+     "valor": 1212.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       1212.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 752.88
+     "valor": 752.88,
+     "itens": [
+      [
+       "Material de Escritório",
+       8.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       18.54,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       7.84,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       515.9,
+       "75546",
+       "Fatura 2562984 - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 101.05
+     "valor": 101.05,
+     "itens": [
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professora Nara",
      "cod": "2c907f768e3c5899018e673cc93403c9",
-     "valor": 432.02
+     "valor": 432.02,
+     "itens": [
+      [
+       "Material de Copa",
+       432.02,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 2640.03
+     "valor": 2640.03,
+     "itens": [
+      [
+       "Material de Escritório",
+       118.42,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       26.5,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       57.54,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       35.01,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       2399.68,
+       "75544",
+       "Fatura 2564597 - Rudson Felipe da Paixão.pdf"
+      ]
+     ]
     },
     {
      "nome": "Sargento Jalyson",
      "cod": "2c907f7693d91ea10193e09d5d870134",
-     "valor": 6.6
+     "valor": 6.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Trópia",
      "cod": "2c907f7675b75b9701764cf002b508a2",
-     "valor": 17.6
+     "valor": 17.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       17.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wagner Ferreira",
      "cod": "2c907f7685b0cbed0186075ad27a0321",
-     "valor": 620.87
+     "valor": 620.87,
+     "itens": [
+      [
+       "Material Gráfico",
+       21.8,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       599.07,
+       "75545",
+       "Fatura 2563824 - Wagner de Jesus Ferreira.pdf"
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 70
+     "valor": 70,
+     "itens": [
+      [
+       "Material de Copa",
+       70,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -2053,112 +7837,510 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 146.45
+     "valor": 146.45,
+     "itens": [
+      [
+       "Serviços Postais",
+       146.45,
+       "75827",
+       "2582457 - Fatura - Enedino Jose de Arruda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 202.1
+     "valor": 202.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Cleiton Xavier",
      "cod": "2c907f768190b8c60181b9b20c450398",
-     "valor": 250.54
+     "valor": 250.54,
+     "itens": [
+      [
+       "Material de Escritório",
+       8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.34,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       38.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 59.15
+     "valor": 59.15,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       33.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dra. Michelly Siqueira",
      "cod": "2c907f7693d91ea10193e05876d80114",
-     "valor": 461.33
+     "valor": 461.33,
+     "itens": [
+      [
+       "Material de Escritório",
+       15.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       79.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       33.28,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       275.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.71,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       38.15,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 204.18
+     "valor": 204.18,
+     "itens": [
+      [
+       "Material de Escritório",
+       31.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       10.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.18,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       98.33,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       46.13,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 253.44
+     "valor": 253.44,
+     "itens": [
+      [
+       "Serviços Postais",
+       253.44,
+       "75831",
+       "2591069 - Fatura - Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "Janaina Cardoso",
      "cod": "2c907f768637f55d01864ae2a95200df",
-     "valor": 120.32
+     "valor": 120.32,
+     "itens": [
+      [
+       "Material de Escritório",
+       83.72,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       21.3,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.3,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 92.65
+     "valor": 92.65,
+     "itens": [
+      [
+       "Material Gráfico",
+       92.65,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 171.45
+     "valor": 171.45,
+     "itens": [
+      [
+       "Material de Escritório",
+       32.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       38.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       101.05,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 351.51
+     "valor": 351.51,
+     "itens": [
+      [
+       "Material de Escritório",
+       121.26,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       230.25,
+       "75828",
+       "2582759 - Fatura - Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 353.19
+     "valor": 353.19,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.19,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       18.04,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       299.96,
+       "75832",
+       "2581712 - Fatura - Elizete Loide Goncalves Tavares.pdf"
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 1577
+     "valor": 1577,
+     "itens": [
+      [
+       "Material de Escritório",
+       62.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       10.65,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       290.35,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1212.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Neném da Farmácia",
      "cod": "2c907f7693d91ea10193e088eed6012c",
-     "valor": 202.1
+     "valor": 202.1,
+     "itens": [
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 48.47
+     "valor": 48.47,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.76,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.09,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       13.41,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       26.21,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 1335.75
+     "valor": 1335.75,
+     "itens": [
+      [
+       "Material de Escritório",
+       30.6,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       1305.15,
+       "75830",
+       "2585160 - Fatura - Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 201.2
+     "valor": 201.2,
+     "itens": [
+      [
+       "Material de Escritório",
+       201.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professora Nara",
      "cod": "2c907f768e3c5899018e673cc93403c9",
-     "valor": 54.5
+     "valor": 54.5,
+     "itens": [
+      [
+       "Material Gráfico",
+       54.5,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rudson Paixão",
      "cod": "2c907f7693d91ea10193e098bf540132",
-     "valor": 2237.15
+     "valor": 2237.15,
+     "itens": [
+      [
+       "Material de Escritório",
+       46.4,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       81.51,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       9.52,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       2099.72,
+       "75829",
+       "2592363 - Fatura - Rudson Felipe da Paixão.pdf"
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 114.23
+     "valor": 114.23,
+     "itens": [
+      [
+       "Material de Escritório",
+       5.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       103.24,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.89,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 49.54
+     "valor": 49.54,
+     "itens": [
+      [
+       "Material de Escritório",
+       18.54,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.7,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.3,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Wanderley Porto",
      "cod": "2c907f7675b75b9701764d6ee01808d8",
-     "valor": 6.18
+     "valor": 6.18,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.18,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -2168,37 +8350,135 @@
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 43.11
+     "valor": 43.11,
+     "itens": [
+      [
+       "Material de Escritório",
+       16,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       21.22,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.89,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 40.13
+     "valor": 40.13,
+     "itens": [
+      [
+       "Material de Escritório",
+       40.13,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 80.48
+     "valor": 80.48,
+     "itens": [
+      [
+       "Material de Escritório",
+       80.48,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Loíde Gonçalves",
      "cod": "2c907f7685b0cbed01860756d751031d",
-     "valor": 77.04
+     "valor": 77.04,
+     "itens": [
+      [
+       "Material de Escritório",
+       50,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       27.04,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 429.7
+     "valor": 429.7,
+     "itens": [
+      [
+       "Material de Escritório",
+       227.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Trópia",
      "cod": "2c907f7675b75b9701764cf002b508a2",
-     "valor": 69.32
+     "valor": 69.32,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.27,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.35,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       31.7,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 5.3
+     "valor": 5.3,
+     "itens": [
+      [
+       "Material de Escritório",
+       3.09,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.21,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -2208,62 +8488,266 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 120.19
+     "valor": 120.19,
+     "itens": [
+      [
+       "Serviços Postais",
+       120.19,
+       "76234",
+       "2613344 - Fatura Enedino Jose de Arruda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Bruno Miranda",
      "cod": "2c907f761de31dc1011e895120dc0853",
-     "valor": 70
+     "valor": 70,
+     "itens": [
+      [
+       "Material de Copa",
+       70,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Dr. Bruno Pedralva",
      "cod": "2c907f7685b0cbed0185e921da4501d4",
-     "valor": 180.36
+     "valor": 180.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       100,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.6,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       47.64,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       29.52,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Edmar Branco",
      "cod": "2c907f7658b6b07901591dad0512056f",
-     "valor": 267.44
+     "valor": 267.44,
+     "itens": [
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.56,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       1.91,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       45.77,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       202.1,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Irlan Melo",
      "cod": "2c907f7658b6b07901591e1128480598",
-     "valor": 161.43
+     "valor": 161.43,
+     "itens": [
+      [
+       "Serviços Postais",
+       161.43,
+       "76233",
+       "2608657 - Fatura Irlan Chaves de Oliveira Melo.pdf"
+      ]
+     ]
     },
     {
      "nome": "José Ferreira",
      "cod": "2c907f7675b75b9701764d7d04d008e7",
-     "valor": 8.36
+     "valor": 8.36,
+     "itens": [
+      [
+       "Material de Escritório",
+       4.2,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.16,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 689.95
+     "valor": 689.95,
+     "itens": [
+      [
+       "Serviços Postais",
+       231,
+       "76236",
+       "Wagner Mariano Junior.pdf"
+      ],
+      [
+       "Serviços Postais",
+       458.95,
+       "76327",
+       "fatura_2628014.pdf"
+      ]
+     ]
     },
     {
      "nome": "Marilda Portela",
      "cod": "2c907f7658b6b07901591da7486e056a",
-     "valor": 26.46
+     "valor": 26.46,
+     "itens": [
+      [
+       "Material de Escritório",
+       26.46,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professor Juliano Lopes",
      "cod": "2c907f763ba9b074013bb8736b23014e",
-     "valor": 368.21
+     "valor": 368.21,
+     "itens": [
+      [
+       "Material de Escritório",
+       2.88,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       16.1,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       4.59,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       110.23,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       2.02,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       32.19,
+       null,
+       null
+      ],
+      [
+       "Serviços Postais",
+       200.2,
+       "76235",
+       "2603761 - Fatura Juliano Lopes Lobato.pdf"
+      ]
+     ]
     },
     {
      "nome": "Tileléo",
      "cod": "2c907f7693d91ea10193e0a9938b013a",
-     "valor": 63.61
+     "valor": 63.61,
+     "itens": [
+      [
+       "Material de Escritório",
+       63.61,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Uner Augusto",
      "cod": "2c907f7685b0cbed01860758e931031f",
-     "valor": 109.67
+     "valor": 109.67,
+     "itens": [
+      [
+       "Material de Escritório",
+       49.04,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       60.63,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Vile Santos",
      "cod": "2c907f7693d91ea10193e0acbf01013f",
-     "valor": 67.76
+     "valor": 67.76,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.42,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       32.34,
+       null,
+       null
+      ]
+     ]
     }
    ]
   },
@@ -2273,59 +8757,232 @@
     {
      "nome": "Arruda",
      "cod": "2c907f7693d91ea10193e040a0be010d",
-     "valor": 419.65
+     "valor": 419.65,
+     "itens": [
+      [
+       "Serviços Postais",
+       419.65,
+       "76617",
+       "Enedino Jose de Arruda.pdf"
+      ]
+     ]
     },
     {
      "nome": "Diego Sanches",
      "cod": "2c907f7693d91ea10193e051eed60112",
-     "valor": 246.35
+     "valor": 246.35,
+     "itens": [
+      [
+       "Material de Escritório",
+       8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       16.32,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.76,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       184.29,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       21.08,
+       null,
+       null
+      ],
+      [
+       "Material Gráfico",
+       10.9,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helinho da Farmácia",
      "cod": "2c907f7658b6b07901591dfc7d850583",
-     "valor": 102.88
+     "valor": 102.88,
+     "itens": [
+      [
+       "Material de Escritório",
+       35.19,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       61.8,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       5.89,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Helton Junior",
      "cod": "2c907f7693d91ea10193e077a3ad011f",
-     "valor": 100.6
+     "valor": 100.6,
+     "itens": [
+      [
+       "Material de Escritório",
+       100.6,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juhlia Santos",
      "cod": "2c907f7693d91ea10193e07d7f4c0124",
-     "valor": 60.63
+     "valor": 60.63,
+     "itens": [
+      [
+       "Material de Escritório",
+       60.63,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Juninho Los Hermanos",
      "cod": "2c907f763ba9b074013bb8d902cb0171",
-     "valor": 230.9
+     "valor": 230.9,
+     "itens": [
+      [
+       "Serviços Postais",
+       230.9,
+       "76616",
+       "Wagner Mariano Junior.pdf"
+      ]
+     ]
     },
     {
      "nome": "Osvaldo Lopes",
      "cod": "2c907f7658b6b07901591e185189059e",
-     "valor": 465.95
+     "valor": 465.95,
+     "itens": [
+      [
+       "Material de Escritório",
+       30.86,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       3.06,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       27.83,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       404.2,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pablo Almeida",
      "cod": "2c907f7693d91ea10193e08ddb24012e",
-     "valor": 122.33
+     "valor": 122.33,
+     "itens": [
+      [
+       "Material de Escritório",
+       116.21,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       6.12,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Pedro Patrus",
      "cod": "2c907f763ba9b074013bb8b604d80162",
-     "valor": 7.64
+     "valor": 7.64,
+     "itens": [
+      [
+       "Material de Escritório",
+       7.64,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Professora Marli",
      "cod": "2c907f7675b75b9701764ce65b7c08a0",
-     "valor": 46.17
+     "valor": 46.17,
+     "itens": [
+      [
+       "Material de Escritório",
+       6.48,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       19.69,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       20,
+       null,
+       null
+      ]
+     ]
     },
     {
      "nome": "Rubão",
      "cod": "2c907f7675b75b9701764d6c8b7508d5",
-     "valor": 1056.92
+     "valor": 1056.92,
+     "itens": [
+      [
+       "Material de Copa",
+       1041.07,
+       null,
+       null
+      ],
+      [
+       "Material de Escritório",
+       15.85,
+       null,
+       null
+      ]
+     ]
     }
    ]
   }
- }
+ },
+ "notaUrl": "https://se.cmbh.mg.gov.br:8443/Prover/rest/downloadNotaFiscal?id="
 }

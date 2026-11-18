@@ -44,6 +44,11 @@ h2 { font-size: 19px; margin: 0 0 8px; }
 .titulo-secao { margin-top: 24px; }
 .intro-secao { margin: 0; font-size: 15px; }
 .lista-custeio li { font-variant-numeric: tabular-nums; }
+.itens-mes { color: var(--suave); font-size: 13px; }
+.aviso-mes { display: block; font-size: 13px; color: var(--AJ-t); }
+.rotulo-pequeno { margin: 10px 0 2px; font-size: 13px; font-weight: 700; color: var(--suave); text-transform: uppercase; letter-spacing: .03em; }
+.lista-tipos li { font-variant-numeric: tabular-nums; }
+.valor-tipo { display: inline-block; min-width: 92px; font-weight: 700; }
 .legenda { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 14px; }
 .legenda li { display: flex; align-items: center; gap: 6px; }
 

@@ -273,18 +273,55 @@
     if (!c || !c.meses.length) return b;
     b.append(el("h4", "titulo-bloco", "Gastos do gabinete (Custeio Parlamentar)"));
     var desde = nomeMes(c.meses[0]);
+    var comDespesa = v.custeio.filter(function (m) { return m[1] > 0; }).length;
     if (!v.custeio.length) {
       b.append(el("p", null, "Nenhuma despesa de custeio registrada desde " + desde + "."));
     } else {
       var p = el("p");
-      p.append(el("b", null, reais(totalCusteio(v))), " desde " + desde + ", em " + plural(v.custeio.length, "mês", "meses") + " com despesa.");
+      p.append(el("b", null, reais(totalCusteio(v))), " nesta gestão, desde " + desde + ", em " + plural(comDespesa, "mês", "meses") + " com despesa.");
       b.append(p);
+      // Soma por tipo de despesa (quando o detalhamento foi coletado)
+      var tipos = {};
+      v.custeio.forEach(function (m) { (m[2] || []).forEach(function (it) { tipos[it[0]] = (tipos[it[0]] || 0) + it[1]; }); });
+      var nomesTipos = Object.keys(tipos).sort(function (a, z) { return tipos[z] - tipos[a]; });
+      if (nomesTipos.length) {
+        var ut = el("ul", "lista-simples lista-tipos");
+        nomesTipos.forEach(function (t) {
+          var li = el("li");
+          li.append(el("span", "valor-tipo", reais(tipos[t])), " " + t);
+          ut.append(li);
+        });
+        b.append(el("p", "rotulo-pequeno", "Por tipo de despesa"), ut);
+      }
       var ul = el("ul", "lista-simples lista-custeio");
       v.custeio.slice().reverse().forEach(function (m, i) {
         var li = el("li", i >= 6 ? "a-mais" : null);
-        li.append(el("span", "suave", nomeMes(m[0]) + (m[0] === c.mesAberto ? " (mês em andamento)" : "") + " · "), document.createTextNode(reais(m[1])));
+        li.append(el("span", "suave", nomeMes(m[0]) + (m[0] === c.mesAberto ? " (mês em andamento)" : "") + " · "), el("b", null, reais(m[1])));
+        if (m[2] && m[2].length) {
+          // agrupa os itens do mês por tipo; as notas (quando a Câmara publica o arquivo) ficam como links
+          var grupos = {}, ordem = [];
+          m[2].forEach(function (it) {
+            if (!grupos[it[0]]) { grupos[it[0]] = { soma: 0, n: 0, notas: [] }; ordem.push(it[0]); }
+            grupos[it[0]].soma += it[1]; grupos[it[0]].n++;
+            if (it[2]) grupos[it[0]].notas.push(it[2]);
+          });
+          var det = el("span", "itens-mes");
+          ordem.forEach(function (t, j) {
+            var g = grupos[t];
+            det.append(j ? " · " : " — ", t + " " + reais(g.soma) + (g.n > 1 ? " (" + g.n + " itens)" : ""));
+            if (c.notaUrl) g.notas.forEach(function (id, k) { det.append(" "); det.append(link(c.notaUrl + id, g.notas.length > 1 ? "nota " + (k + 1) : "nota")); });
+          });
+          li.append(det);
+        }
+        if (m[3] && m[3].length) {
+          var ant = m[3].reduce(function (s, it) { return s + it[1]; }, 0);
+          var av = el("span", "aviso-mes", "Fora do total: Serviços Postais " + reais(ant) + ". " + (c.avisoAnterior || ""));
+          if (c.notaUrl) m[3].forEach(function (it) { if (it[2]) { av.append(" "); av.append(link(c.notaUrl + it[2], "nota")); } });
+          li.append(av);
+        }
         ul.append(li);
       });
+      b.append(el("p", "rotulo-pequeno", "Mês a mês"));
       b.append(ul);
       if (v.custeio.length > 6) {
         var mais = el("button", "ver-mais", "Ver todos os " + v.custeio.length + " meses");
