@@ -2853,6 +2853,32 @@
     "data": "08/09/2026"
    }
   },
+  "574/2025": {
+   "autoria": "Executivo: Mensagem nº 26, de 31/10/2025",
+   "ementa": "Institui a Operação Urbana Simplificada Regeneração dos Bairros do Centro.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d409ad81936ff",
+     "aprovados os artigos 1º ao 21 e Anexos I ao V do projeto em votação destacada e o projeto na parte não destacada (artigo 22). Primeiro Turno",
+     "30/03/2026"
+    ],
+    [
+     "2c907f76a0350d3301a05904c8112826",
+     "Aprovados a subemenda nº 112 ao substitutivo nº 34 na parte não destacada (art. 36) e os artigos 1º ao 35, anexos I, I.1, I.2, I.3, I.4 e II ao V da subemenda nº 112 ao substitutivo nº 34 em votação destacada. Prejudicados o projeto e as demais emendas e subemendas. Segundo Turno.",
+     "31/08/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a11798bf4c0cc6",
+     "aprovada a emenda de redação nº1 e a redação final na parte não emendada.",
+     "07/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a0350d3301a05904c8112826",
+    "decisao": "Aprovados a subemenda nº 112 ao substitutivo nº 34 na parte não destacada (art. 36) e os artigos 1º ao 35, anexos I, I.1, I.2, I.3, I.4 e II ao V da subemenda nº 112 ao substitutivo nº 34 em votação destacada. Prejudicados o projeto e as demais emendas e subemendas. Segundo Turno.",
+    "data": "31/08/2026"
+   }
+  },
   "575/2025": {
    "autoria": "Ver.(a) Flávia Borja",
    "ementa": "Reconhece como de relevante interesse cultural o evento \"Vira Brasil – a Virada da Família Mineira” no Município de Belo Horizonte.",

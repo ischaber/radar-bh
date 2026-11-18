@@ -1,6 +1,6 @@
 # Fichas de 2º turno para buscar
 
-193 projetos de lei votados em mais de uma reunião desde 19/03/2025. 188 já transcritos, 5 pendentes. Gerado em 18/11/2026.
+193 projetos de lei votados em mais de uma reunião desde 19/03/2025. 189 já transcritos, 4 pendentes. Gerado em 18/11/2026.
 
 ## Como fazer
 
@@ -14,8 +14,7 @@ Se o projeto não tiver ficha de 2º turno (só 1º turno, veto, retirado de pau
 
 ## Lote 1
 
-1. [ ] [PL 574/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/574/2025) · votado em 30/03/2026, 31/08/2026, 07/10/2026
-2. [ ] [PL 760/2026](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/760/2026) · votado em 09/09/2026, 15/09/2026
-3. [ ] [PL 378/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/378/2025) · votado em 05/11/2025, 06/05/2026
-4. [ ] [PL 871/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/871/2025) · votado em 11/12/2025, 07/04/2026
-5. [ ] [PL 261/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/261/2025) · votado em 08/09/2025, 12/03/2026
+1. [ ] [PL 760/2026](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/760/2026) · votado em 09/09/2026, 15/09/2026
+2. [ ] [PL 378/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/378/2025) · votado em 05/11/2025, 06/05/2026
+3. [ ] [PL 871/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/871/2025) · votado em 11/12/2025, 07/04/2026
+4. [ ] [PL 261/2025](https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/projeto-de-lei/261/2025) · votado em 08/09/2025, 12/03/2026

@@ -3451,6 +3451,27 @@
     "Luiza Dulci": "Não votou",
     "Professor Juliano Lopes": "Presidência"
    }
+  },
+  "574/2025": {
+   "data": "2026-08-31",
+   "reuniao": "6ª Reunião Extraordinária",
+   "quorum": "Dois terços dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 34,
+    "Não": 5
+   },
+   "transcritoEm": "2026-11-18",
+   "excecoes": {
+    "Dr. Bruno Pedralva": "Não",
+    "Iza Lourença": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Patrus": "Não",
+    "Pedro Rousseff": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   },
+   "evento": "PL 574/25 Artigos e Anexos"
   }
  }
 }
