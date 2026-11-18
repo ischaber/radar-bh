@@ -34,6 +34,15 @@ h1 { font-size: clamp(26px, 6vw, 36px); line-height: 1.15; margin: 0 0 8px; }
 h2 { font-size: 19px; margin: 0 0 8px; }
 .como-ler { margin: 20px 0; padding: 16px; border: 1px solid var(--linha); border-radius: var(--raio); }
 .como-ler p { margin: 8px 0 0; font-size: 15px; color: var(--suave); }
+.como-ler h3 { font-size: 16px; margin: 16px 0 6px; }
+.atalhos { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-top: 16px; }
+@media (max-width: 640px) { .atalhos { grid-template-columns: repeat(2, 1fr); } }
+.atalhos a { display: block; padding: 10px 12px; border: 1px solid var(--linha); border-radius: var(--raio); text-decoration: none; color: var(--texto); }
+.atalhos a:hover, .atalhos a:focus-visible { border-color: var(--azul); }
+.atalhos b { display: block; color: var(--azul); }
+.atalhos span { display: block; font-size: 13px; color: var(--suave); }
+.titulo-secao { margin-top: 24px; }
+.intro-secao { margin: 0; font-size: 15px; }
 .legenda { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 14px; }
 .legenda li { display: flex; align-items: center; gap: 6px; }
 

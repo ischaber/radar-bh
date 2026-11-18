@@ -1,7 +1,9 @@
 # Radar BH
 
-O que cada vereador de Belo Horizonte faz, só com dados oficiais da Câmara Municipal (CMBH).
-Por enquanto: **presença nas reuniões do Plenário**, mandato 2025–2028.
+Como têm trabalhado os vereadores de Belo Horizonte, só com dados oficiais da Câmara Municipal (CMBH),
+mandato 2025–2028: **presença no Plenário** (por dia e por votação), **como votou** cada um nos
+2º turnos de projetos de lei (fichas de votação nominal), **comissões** e **homenagens**.
+Site: https://ischaber.github.io/radar-bh/. A rotina semanal dos votos está em [ROTINA-SEMANAL.md](ROTINA-SEMANAL.md).
 
 ## Como funciona
 

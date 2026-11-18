@@ -3,36 +3,37 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Radar BH: presença dos vereadores</title>
-  <meta name="description" content="Presença de cada vereador de Belo Horizonte nas reuniões do Plenário, só com dados oficiais da Câmara Municipal.">
+  <title>Radar BH: como trabalham os vereadores</title>
+  <meta name="description" content="Como têm trabalhado os vereadores de Belo Horizonte: presença no Plenário, votos, comissões e homenagens de cada um, só com dados oficiais da Câmara Municipal.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="topo">
     <div class="limite">
       <p class="marca"><span class="ondas" aria-hidden="true">((•))</span> RADAR <strong>BH</strong></p>
-      <h1>O vereador foi às reuniões?</h1>
-      <p class="sub">Presença de cada vereador de Belo Horizonte nas reuniões do Plenário da Câmara, mês a mês. Só dados oficiais, com link para a fonte.</p>
+      <h1>Como têm trabalhado os vereadores de BH?</h1>
+      <p class="sub">Presença no Plenário, votos, comissões e homenagens de cada vereador de Belo Horizonte. Só dados oficiais da Câmara, com link para a fonte e a mesma regra para todos.</p>
       <p class="atualizado" id="atualizado">Carregando dados…</p>
+      <nav class="atalhos" aria-label="Nesta página">
+        <a href="#vereadores"><b>Vereadores</b><span>o trabalho de cada um</span></a>
+        <a href="#nominais"><b>Como votaram</b><span>votos nominais, um a um</span></a>
+        <a href="#segundo-turno"><b>Projetos votados</b><span>projetos de lei no Plenário</span></a>
+        <a href="#como-ler"><b>Como ler</b><span>o que cada dado quer dizer</span></a>
+      </nav>
     </div>
   </header>
 
   <main class="limite">
-    <section class="como-ler" aria-labelledby="como-ler-titulo">
-      <h2 id="como-ler-titulo">Como ler</h2>
-      <ul class="legenda">
-        <li><span class="dia c-P">P</span> Presente</li>
-        <li><span class="dia c-F">F</span> Falta</li>
-        <li><span class="dia c-AJ">AJ</span> Ausência justificada</li>
-        <li><span class="dia c-LM">LM</span> Licença médica</li>
-        <li><span class="dia c-SR">SR</span> Licença sem salário</li>
-        <li><span class="dia c-AUS">AUS</span> Ausente, tipo ainda não informado</li>
-        <li><span class="dia c-vazio">–</span> Sem registro</li>
-      </ul>
-      <p>Cada quadradinho é um dia em que houve reunião no Plenário. A Câmara só publica os dias com reunião. Ausências do mês mais recente ainda podem ser justificadas até o 5º dia útil do mês seguinte, então uma <b>F</b> ou <b>AUS</b> recente pode virar <b>AJ</b>.</p>
-      <p>O mês em andamento aparece como <b>provisório</b>: ele vem do relatório oficial de cada reunião e é trocado pela tabela mensal da Câmara quando ela sair.</p>
-      <p>Ao abrir um vereador, você vê <b>como votou</b> nas votações nominais já transcritas das fichas oficiais, se <b>registrou presença em cada votação</b> do Plenário (a planilha oficial mostra presença, não o voto), as <b>comissões</b> de que ele participa e as <b>homenagens em reunião solene</b> que propôs desde janeiro de 2025 (diplomas, títulos de cidadania). Moções de aplauso e de pesar não entram nessa lista.</p>
-      <p>Isto não é nota nem opinião: mostramos o mesmo dado, com a mesma regra, para todos os vereadores.</p>
+    <section id="vereadores" aria-labelledby="vereadores-titulo">
+      <h2 id="vereadores-titulo" class="titulo-secao">Vereadores</h2>
+      <p class="suave intro-secao">Toque num vereador para ver como votou, se esteve presente em cada votação e em cada reunião, as comissões de que participa e as homenagens que propôs.</p>
+    <div class="filtro">
+      <label for="busca">Procurar vereador ou partido</label>
+      <input id="busca" type="search" placeholder="Ex.: Patrus, PT, PL" autocomplete="off">
+    </div>
+
+    <p class="contagem" id="contagem" aria-live="polite"></p>
+    <ol class="lista" id="lista"></ol>
     </section>
 
     <section class="nominais" id="nominais" hidden aria-labelledby="nominais-titulo">
@@ -42,31 +43,45 @@
     </section>
 
     <section class="segundo-turno" id="segundo-turno" hidden aria-labelledby="segundo-turno-titulo">
-      <h2 id="segundo-turno-titulo">Projetos de lei votados mais de uma vez (provável 2º turno)</h2>
+      <h2 id="segundo-turno-titulo">Projetos votados: projetos de lei que passaram pelo Plenário mais de uma vez</h2>
       <p class="suave">Em Belo Horizonte, projeto de lei é votado em dois turnos. A planilha oficial de cada reunião diz o que foi votado, mas não diz o turno. Por isso listamos os projetos que o Plenário votou em <b>mais de uma reunião</b>: em geral a segunda votação é o 2º turno, mas pode ser, por exemplo, a votação de um veto. Para ter certeza, abra a proposição e veja a ficha “Decisão e ocorrências” no fim da tramitação. A lista começa em <span id="segundo-turno-desde"></span>; um projeto cujo 1º turno foi antes disso aparece com uma votação só e não entra aqui.</p>
       <ol class="lista-simples lista-turnos" id="lista-segundo-turno"></ol>
       <p class="acoes-bloco" id="segundo-turno-acoes"></p>
     </section>
 
-    <div class="filtro">
-      <label for="busca">Procurar vereador ou partido</label>
-      <input id="busca" type="search" placeholder="Ex.: Patrus, PT, PL" autocomplete="off">
-    </div>
-
-    <p class="contagem" id="contagem" aria-live="polite"></p>
-    <ol class="lista" id="lista"></ol>
-
     <section id="fora" hidden>
-      <h2>Também tiveram presença registrada neste mandato</h2>
-      <p>Pessoas que aparecem na presença oficial, mas não estão na lista atual de vereadores da Câmara. Em geral são suplentes que exerceram o mandato por um tempo, ou vereadores que se afastaram.</p>
+      <h2>Também passaram pela Câmara neste mandato</h2>
+      <p>Pessoas que aparecem na presença oficial, mas não estão na lista atual de vereadores da Câmara. Em geral são suplentes que exerceram o mandato por um tempo, ou vereadores que se afastaram. Os votos delas contam nos totais de cada votação.</p>
       <ol class="lista" id="lista-fora"></ol>
+    </section>
+
+    <section class="como-ler" id="como-ler" aria-labelledby="como-ler-titulo">
+      <h2 id="como-ler-titulo">Como ler</h2>
+      <p>Isto não é nota nem opinião: mostramos o mesmo dado, com a mesma regra, para todos os vereadores. Cada número tem link para a fonte oficial.</p>
+      <h3>Presença no Plenário</h3>
+      <ul class="legenda">
+        <li><span class="dia c-P">P</span> Presente</li>
+        <li><span class="dia c-F">F</span> Falta</li>
+        <li><span class="dia c-AJ">AJ</span> Ausência justificada</li>
+        <li><span class="dia c-LM">LM</span> Licença médica</li>
+        <li><span class="dia c-SR">SR</span> Licença sem salário</li>
+        <li><span class="dia c-AUS">AUS</span> Ausente, tipo ainda não informado</li>
+        <li><span class="dia c-vazio">–</span> Sem registro</li>
+      </ul>
+      <p>Cada quadradinho é um dia em que houve reunião no Plenário. Ausências do mês mais recente ainda podem ser justificadas até o 5º dia útil do mês seguinte, então uma <b>F</b> ou <b>AUS</b> recente pode virar <b>AJ</b>. O mês em andamento aparece como <b>provisório</b> até a Câmara publicar a tabela mensal.</p>
+      <h3>Presença nas votações</h3>
+      <p>A planilha oficial de cada reunião diz o que foi votado e se cada vereador registrou presença em cada votação. Ela mostra presença, não o voto. Esse detalhe começa nas reuniões de março de 2025.</p>
+      <h3>Como votou</h3>
+      <p>O voto de cada um (Sim, Não, Abstenção, Não votou) vem da ficha oficial de votação nominal, transcrita e conferida com os totais impressos e com a presença da reunião. Entra o 2º turno de cada projeto de lei, a votação que decide se ele segue para sanção. A lista é atualizada toda semana.</p>
+      <h3>Comissões e homenagens</h3>
+      <p>As <b>comissões</b> são as que aparecem na página oficial de cada vereador. As <b>homenagens</b> são as de reunião solene propostas desde janeiro de 2025 (diplomas, títulos de cidadania); moções de aplauso e de pesar não entram.</p>
     </section>
   </main>
 
   <footer class="rodape">
     <div class="limite">
       <h2>De onde vêm os números</h2>
-      <p>Da página <a id="fonte-presenca" href="https://www.cmbh.mg.gov.br/transparencia/vereadores/presenca-mensal-consolidada">Presença Mensal Consolidada</a>, do <a href="https://www.cmbh.mg.gov.br/transparencia/vereadores/relatorio-individualizado-reuniao">Relatório Individualizado por Reunião</a> (mês em andamento), de <a href="https://www.cmbh.mg.gov.br/atividade-legislativa/homenagens">Homenagens</a>, das páginas de comissões de cada vereador e da <a href="https://www.cmbh.mg.gov.br/vereadores">lista de vereadores</a> do site oficial da Câmara Municipal de Belo Horizonte. Um robô copia esses dados uma vez por dia. As contas (somas por vereador) são nossas.</p>
+      <p>Da página <a id="fonte-presenca" href="https://www.cmbh.mg.gov.br/transparencia/vereadores/presenca-mensal-consolidada">Presença Mensal Consolidada</a>, do <a href="https://www.cmbh.mg.gov.br/transparencia/vereadores/relatorio-individualizado-reuniao">Relatório Individualizado por Reunião</a> (mês em andamento e votações de cada reunião), das fichas oficiais de votação nominal (“Decisão e ocorrências”, na tramitação de cada projeto), de <a href="https://www.cmbh.mg.gov.br/atividade-legislativa/homenagens">Homenagens</a>, das páginas de comissões de cada vereador e da <a href="https://www.cmbh.mg.gov.br/vereadores">lista de vereadores</a> do site oficial da Câmara Municipal de Belo Horizonte. Um robô copia a maior parte desses dados uma vez por dia; os votos nominais são transcritos e conferidos uma vez por semana. As contas (somas por vereador) são nossas.</p>
       <p>Contatos mostrados são só os públicos, de gabinete.</p>
       <section class="correcao" id="correcao" aria-labelledby="correcao-titulo">
         <h2 id="correcao-titulo">Achou um erro?</h2>
