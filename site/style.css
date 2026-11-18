@@ -84,6 +84,9 @@ details[open] summary { border-bottom: 1px solid var(--linha); }
 .lista-simples.aberta .a-mais { display: list-item; }
 .ver-mais { font: inherit; font-size: 14px; color: var(--azul); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; }
 .extras { color: var(--suave); font-size: 14px; }
+.votos-resumo { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; font-size: 14px; margin-top: 2px; }
+.votos-resumo .voto { min-width: 0; padding: 0 5px; }
+@media (min-width: 640px) { .numeros .votos-resumo { justify-content: flex-end; } }
 .voto, .marca { display: inline-block; font-size: 12px; font-weight: 700; padding: 1px 7px; border-radius: 4px; min-width: 64px; text-align: center; }
 .v-sim { background: var(--P); color: var(--P-t); }
 .v-nao { background: var(--F); color: var(--F-t); }

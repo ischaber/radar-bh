@@ -324,6 +324,20 @@
     if (dados.fontes.homenagens && !fora) extras.push(plural(v.homenagens.length, "homenagem", "homenagens"));
     if (extras.length) node.querySelector(".numeros").append(el("span", "extras", extras.join(" · ")));
 
+    // Resumo dos votos nominais transcritos (Sim, Não, Abstenção, Não votou).
+    if (v.votosNominais && v.votosNominais.length) {
+      var cont = {};
+      v.votosNominais.forEach(function (par) { cont[par[1]] = (cont[par[1]] || 0) + 1; });
+      var linha = el("span", "votos-resumo");
+      linha.append(el("span", "suave", "Votos:"));
+      ["Sim", "Não", "Abstenção", "Não votou"].forEach(function (k) {
+        if (!cont[k]) return;
+        linha.append(el("span", "voto " + CLASSE_VOTO[k], k + " " + cont[k]), " ");
+      });
+      if (cont["Presidência"]) linha.append(el("span", "suave", "· presidiu " + plural(cont["Presidência"], "votação", "votações")));
+      node.querySelector(".numeros").append(linha);
+    }
+
     if (!fora) node.querySelector(".corpo").prepend(blocoVotosNominais(v), blocoVotacoes(v), blocoComissoes(v), blocoHomenagens(v));
     var meses = node.querySelector(".meses");
     meses.before(el("h4", "titulo-bloco", "Presença no Plenário"));
