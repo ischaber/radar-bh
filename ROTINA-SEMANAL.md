@@ -1,4 +1,4 @@
-# Rotina semanal: votos nominais de 2º turno
+# Rotina semanal: votos nominais de 2º turno e gastos do gabinete
 
 O robô diário do GitHub já atualiza presença, votações por reunião, comissões e homenagens.
 Ele **não** consegue buscar as fichas de votação nominal, por dois motivos:
@@ -14,7 +14,7 @@ Pasta do projeto: `C:\Users\wallp\Documents\Codex\radarBH`. Git: `C:\Program Fil
 
 1. **Atualizar**: `git pull --ff-only` (o robô publica dados todo dia) e `node scripts/gerar-site.js`.
 2. **Ver o que falta**: `node scripts/pendentes.js`. Cada linha traz o PL, o estado e o link da proposição.
-   - Se não houver nenhum "procurar ficha" nem "ficha achada, falta transcrever", a rotina termina aqui.
+   - Se não houver nenhum "procurar ficha" nem "ficha achada, falta transcrever", pular para o passo 7.
 3. **Achar as fichas** (só para "procurar ficha"): no navegador do app, abrir o link de cada proposição,
    esperar ~8 s e rodar o trecho de `scripts/navegador-tramitacao.js` na página. Um projeto por vez,
    com pelo menos 10 s entre páginas. Parar se aparecer verificação anti-robô (captcha) e avisar.
@@ -30,11 +30,18 @@ Pasta do projeto: `C:\Users\wallp\Documents\Codex\radarBH`. Git: `C:\Program Fil
 6. **Conferir**: `node scripts/montar-votos.js`. Só grava se os totais baterem com a ficha e com a
    planilha da reunião. Se acusar diferença, reler a ficha e corrigir a linha; se não fechar, tirar a
    transcrição daquele PL de `dados/transcricoes-2turno.json` e anotar no resumo.
-7. **Publicar**: `node scripts/gerar-site.js`, `node scripts/lista-fichas.js`, depois commit de
+7. **Gastos do gabinete (Custeio Parlamentar)**: no navegador do app, abrir
+   https://www.cmbh.mg.gov.br/transparencia/vereadores/custeio-parlamentar, colar a função de
+   `scripts/navegador-custeio.js` e rodar `await coletarCusteio(["MM/AAAA do mês atual", "MM/AAAA do mês anterior"])`
+   (os lançamentos chegam com atraso, por isso o mês anterior também). Salvar o JSON devolvido num arquivo
+   temporário e rodar `node scripts/juntar-custeio.js arquivo.json`. Se a página não trouxer a tabela, pular
+   esta etapa e anotar no resumo. No dia 1º a 7 de cada mês, incluir também o mês retrasado.
+8. **Publicar**: `node scripts/gerar-site.js`, `node scripts/lista-fichas.js`, depois commit de
    `dados/fichas-encontradas.json`, `dados/transcricoes-2turno.json`, `dados/votos-nominais.json`,
-   `site/dados.json` e `FICHAS-2o-TURNO.md`, e `git push`. Conferir em
+   `dados/custeio.json`, `site/dados.json` e `FICHAS-2o-TURNO.md`, e `git push`. Conferir em
    https://ischaber.github.io/radar-bh/dados.json que o número de votações nominais subiu.
-8. **Resumo**: quais PLs entraram, resultado de cada um, o que ficou pendente e por quê.
+9. **Resumo**: quais PLs entraram, resultado de cada um, quais meses de custeio foram atualizados,
+   o que ficou pendente e por quê.
 
 ## Regras
 

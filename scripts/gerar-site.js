@@ -178,6 +178,25 @@ const projetosVariasReunioes = [...projetosPorChave.values()]
   })
   .sort((a, b) => b.reunioes.at(-1)[0].localeCompare(a.reunioes.at(-1)[0]) || a.materia.localeCompare(b.materia));
 
+// ---------- Custeio Parlamentar (gastos de gabinete por mês) ----------
+const custeioDados = extra("custeio.json");
+const custeioPorSlug = new Map();
+const custeioSemDono = new Set();
+const mesAtual = new Date().toISOString().slice(0, 7);
+for (const [mes, m] of Object.entries(custeioDados?.meses || {})) {
+  for (const v of m.vereadores) {
+    const slug = chaveVereador(v.nome);
+    if (!slug) {
+      custeioSemDono.add(v.nome);
+      continue;
+    }
+    if (!custeioPorSlug.has(slug)) custeioPorSlug.set(slug, []);
+    custeioPorSlug.get(slug).push([mes, v.valor]);
+  }
+}
+if (custeioSemDono.size) console.log(`Custeio de quem não está na lista atual: ${[...custeioSemDono].join(", ")}`);
+const custeioMeses = Object.keys(custeioDados?.meses || {});
+
 if (votosSemCartao.size) console.log(`Votos nominais de quem não está na lista atual (contam nos totais): ${[...votosSemCartao].join(", ")}`);
 
 const saida = {
@@ -213,7 +232,11 @@ const saida = {
     homenagens: homenagensPorSlug.get(v.slug) || [],
     marcasVotacoes: marcasTexto(v.slug),
     votosNominais: votosPorSlug.get(v.slug) || [],
+    custeio: custeioPorSlug.get(v.slug) || [],
   })),
+  custeio: custeioDados
+    ? { fonte: custeioDados.fonte, observacao: custeioDados.observacao, meses: custeioMeses, mesAberto: custeioMeses.includes(mesAtual) ? mesAtual : null }
+    : null,
   votacoes: votacoesDados ? { fonte: votacoesDados.fonte, planilhas, lista: listaVotacoes } : null,
   votacoesNominais: nominais ? { criterio: nominais.criterio, lista: votacoesNominais } : null,
   projetosVariasReunioes: votacoesDados ? projetosVariasReunioes : null,

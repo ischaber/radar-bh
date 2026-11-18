@@ -1,0 +1,2331 @@
+{
+ "fonte": "https://www.cmbh.mg.gov.br/transparencia/vereadores/custeio-parlamentar",
+ "observacao": "Custeio Parlamentar: gastos do gabinete com escritório, informática, serviços gráficos, divulgação da atividade parlamentar, carimbos, material de copa, serviços postais e telefonia, por mês. Só aparecem os vereadores com despesa no mês. Não inclui salários de vereadores nem de assessores.",
+ "meses": {
+  "2025-01": {
+   "coletadoEm": "2026-11-18T05:08:02.106Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 2453.43
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 688.5
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 2335.6
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 1738.84
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 2162.15
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 1754.94
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 1546.2
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 1675.1
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 154.45
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 1668.83
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 1562.18
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 1480.94
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 17.31
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 1908.55
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 1842.51
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 1458.25
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "cod": "2c907f7693d91ea10193e092555a0130",
+     "valor": 1573.82
+    },
+    {
+     "nome": "Professor Claudiney Dulim",
+     "cod": "2c907f7675b75b9701764d5630b108c2",
+     "valor": 1713.04
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 2339.4
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 1667.25
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 1446.93
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 1387.34
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 1577.68
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 2010.82
+    }
+   ]
+  },
+  "2025-02": {
+   "coletadoEm": "2026-11-18T05:07:45.491Z",
+   "vereadores": [
+    {
+     "nome": "Braulio Lara",
+     "cod": "2c907f7675b75b9701764d2a8c3208b8",
+     "valor": 616.43
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 879.77
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 462.1
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 297.61
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 65.87
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 1131.83
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 938.1
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 195.44
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 206.75
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 130.5
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 20.7
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 154.77
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 87.12
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 7.18
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 545.7
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 77.74
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 137.77
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 100.6
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 23.1
+    }
+   ]
+  },
+  "2025-03": {
+   "coletadoEm": "2026-11-18T05:07:30.406Z",
+   "vereadores": [
+    {
+     "nome": "Cida Falabella",
+     "cod": "2c907f7658b6b07901591e12ab5f059a",
+     "valor": 59.59
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 1301.27
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 509.66
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 103.47
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 22.23
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 158.49
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 40.24
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 617.57
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 160.96
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 80.93
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 838.82
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 60.36
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 52.54
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 330.38
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1696.84
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 232.37
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 176.92
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 441.11
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 3.24
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 3.95
+    }
+   ]
+  },
+  "2025-04": {
+   "coletadoEm": "2026-11-18T05:07:15.289Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 98.65
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 332.74
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 402.4
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 201.2
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 115.83
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 166.49
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 1886
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 289.09
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 43.61
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 152.27
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 496.17
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 640.22
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 184.01
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 40.4
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 947.46
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 15.55
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 523.12
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 138.38
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 402.4
+    }
+   ]
+  },
+  "2025-05": {
+   "coletadoEm": "2026-11-18T05:06:59.191Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 120.72
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 59.6
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 139.16
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 81.58
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 80.48
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 119.88
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 496.36
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 7.48
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 13.8
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 100.6
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 587.36
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 81.86
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 872.62
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 364.79
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 695.56
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 4.03
+    },
+    {
+     "nome": "Trópia",
+     "cod": "2c907f7675b75b9701764cf002b508a2",
+     "valor": 426.47
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 113.37
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 120.72
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 7.03
+    }
+   ]
+  },
+  "2025-06": {
+   "coletadoEm": "2026-11-18T05:06:44.106Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 65.23
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 814.26
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 81.58
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 344.74
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 140.84
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "cod": "2c907f7675b75b9701764d15d14508b0",
+     "valor": 81.58
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "cod": "2c907f7658b6b07901591dfc7d850583",
+     "valor": 698.57
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 62.7
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 301.8
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 107.48
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 81.58
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 20.12
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 320.35
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 81.58
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 81.58
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 64.52
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 69.17
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 168.66
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 2256.03
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 147.99
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 200.76
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 2092.95
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 314.24
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 24.48
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 195.49
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 84.81
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 176.08
+    }
+   ]
+  },
+  "2025-07": {
+   "coletadoEm": "2026-11-18T05:06:26.973Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 22.2
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 639.43
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 192.31
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 265.11
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 122.48
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 87.49
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 141.22
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 1817.84
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 70
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 882.37
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 104.77
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 462.1
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 63.76
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 104.96
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 187.84
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 32.37
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 4.17
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 100.6
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 1458.43
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 58.16
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 10.42
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 24.15
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 17.25
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 165.13
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 111.17
+    }
+   ]
+  },
+  "2025-08": {
+   "coletadoEm": "2026-11-18T05:06:10.356Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 55.23
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 301.8
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 2627
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 156.05
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 522.73
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 73.56
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 448.35
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 201.2
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 472.02
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 3.24
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 316.67
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 130.6
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 287.69
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 170.11
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1996.2
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 187.85
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 19.98
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 100.6
+    }
+   ]
+  },
+  "2025-09": {
+   "coletadoEm": "2026-11-18T05:05:55.270Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 31
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 64.84
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 375.99
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 1205.28
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 60.36
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 173.67
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 242.2
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 5.89
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 510.2
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 42.44
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 77.42
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 814.31
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 30.89
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 68.46
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 255.93
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 52.48
+    }
+   ]
+  },
+  "2025-10": {
+   "coletadoEm": "2026-11-18T05:05:41.173Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 21.4
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 119.18
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 1505.31
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 100.6
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 101.11
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 1497.26
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 201.2
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 37.15
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 100.6
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 784.6
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 3.6
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 150.58
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 80.48
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 201.2
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 100.6
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1107.33
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 153.6
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 111.1
+    }
+   ]
+  },
+  "2025-11": {
+   "coletadoEm": "2026-11-18T05:05:26.105Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 298.5
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 128.05
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 298.5
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 2409.02
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "cod": "2c907f7675b75b9701764d15d14508b0",
+     "valor": 99.5
+    },
+    {
+     "nome": "Flávia Borja",
+     "cod": "2c907f7675b75b9701764d27db7f08b6",
+     "valor": 298.5
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 99.5
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 99.5
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 139.07
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 67.34
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 99.5
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 1199.85
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 126.66
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 104.96
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 300.06
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 635.4
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 116
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 119.01
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 298.5
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 298.5
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "cod": "2c907f7693d91ea10193e092555a0130",
+     "valor": 426.05
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 2429.64
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 99.5
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 1509.83
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 298.5
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 130.7
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 10.23
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 99.5
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 298.5
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 99.5
+    }
+   ]
+  },
+  "2025-12": {
+   "coletadoEm": "2026-11-18T05:05:08.503Z",
+   "vereadores": [
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 211.9
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 149.02
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 409.21
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 496.66
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 544.6
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 120.72
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 29
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 313.01
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 100.6
+    },
+    {
+     "nome": "Pedro Rousseff",
+     "cod": "2c907f7693d91ea10193e092555a0130",
+     "valor": 59.59
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1396.7
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 1152.84
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 129.01
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 73.15
+    }
+   ]
+  },
+  "2026-01": {
+   "coletadoEm": "2026-11-18T05:04:54.436Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 27.1
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 447.52
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 1520.64
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 377.4
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 98.47
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 13.79
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 64.94
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1423.74
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 201.2
+    },
+    {
+     "nome": "Rubão",
+     "cod": "2c907f7675b75b9701764d6c8b7508d5",
+     "valor": 109.64
+    }
+   ]
+  },
+  "2026-02": {
+   "coletadoEm": "2026-11-18T05:04:41.387Z",
+   "vereadores": [
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 233.08
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 108.16
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 113.46
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 205.5
+    },
+    {
+     "nome": "Fernanda Pereira Altoé",
+     "cod": "2c907f7675b75b9701764d15d14508b0",
+     "valor": 199
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 199
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 950.48
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 67.16
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 298.5
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 343.18
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 378.98
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 157.57
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 36.55
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 8.36
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 590.01
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 34.56
+    },
+    {
+     "nome": "Trópia",
+     "cod": "2c907f7675b75b9701764cf002b508a2",
+     "valor": 199
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 108.44
+    }
+   ]
+  },
+  "2026-03": {
+   "coletadoEm": "2026-11-18T05:04:26.290Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 218.28
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 220.15
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 1177.27
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 27.13
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 2.18
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 59.09
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 244.15
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 285.2
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 587.61
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 201.2
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 482.01
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 75.9
+    },
+    {
+     "nome": "Leonardo Ângelo",
+     "cod": "2c907f7693d91ea10193e08097f20126",
+     "valor": 870.36
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 617.4
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 72.99
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 344.61
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 201.2
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 439.72
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 2.48
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1041.16
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 366.44
+    },
+    {
+     "nome": "Professora Nara",
+     "cod": "2c907f768e3c5899018e673cc93403c9",
+     "valor": 40.24
+    },
+    {
+     "nome": "Rubão",
+     "cod": "2c907f7675b75b9701764d6c8b7508d5",
+     "valor": 490.27
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 2020.13
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 9.51
+    },
+    {
+     "nome": "Trópia",
+     "cod": "2c907f7675b75b9701764cf002b508a2",
+     "valor": 238.44
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 80.48
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 295.53
+    }
+   ]
+  },
+  "2026-04": {
+   "coletadoEm": "2026-11-18T05:04:09.221Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 195.84
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 75.35
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 1407.31
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 202.1
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 977.48
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 202.1
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 1676.73
+    },
+    {
+     "nome": "Flávia Borja",
+     "cod": "2c907f7675b75b9701764d27db7f08b6",
+     "valor": 1221.4
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 17.34
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 2067.07
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 17.08
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 872.25
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 575.38
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 131.28
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 224.45
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 2496.3
+    },
+    {
+     "nome": "Professora Nara",
+     "cod": "2c907f768e3c5899018e673cc93403c9",
+     "valor": 515.17
+    },
+    {
+     "nome": "Trópia",
+     "cod": "2c907f7675b75b9701764cf002b508a2",
+     "valor": 26.5
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 593.04
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 606.3
+    }
+   ]
+  },
+  "2026-05": {
+   "coletadoEm": "2026-11-18T05:03:53.636Z",
+   "vereadores": [
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 83.72
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 28.35
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 456.53
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 1259.51
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 100.6
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 56.68
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 2878
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 13.5
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 101.05
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 381.66
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 88.55
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 497.05
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 739.68
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 242.98
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 2.48
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1664.03
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 209.86
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 101.05
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 16.43
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 35.23
+    }
+   ]
+  },
+  "2026-06": {
+   "coletadoEm": "2026-11-18T05:03:38.068Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 834.18
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 109
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 102.64
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 45.18
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 1558.78
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 105.32
+    },
+    {
+     "nome": "Iza Lourença",
+     "cod": "2c907f7675b75b9701764d00c42708a6",
+     "valor": 1963.92
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 35.21
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 530.01
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 699.92
+    },
+    {
+     "nome": "Lucas Ganem",
+     "cod": "2c907f7693d91ea10193e0828dcb0128",
+     "valor": 3.69
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 17.08
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 230.46
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 364.75
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 70
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1409.1
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 2141.92
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 10.12
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 4.4
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 162.04
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 13.5
+    }
+   ]
+  },
+  "2026-07": {
+   "coletadoEm": "2026-11-18T05:03:22.471Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 106.05
+    },
+    {
+     "nome": "Braulio Lara",
+     "cod": "2c907f7675b75b9701764d2a8c3208b8",
+     "valor": 291.69
+    },
+    {
+     "nome": "Cláudio do Mundo Novo",
+     "cod": "2c907f7675b75b9701764d0bef5508a9",
+     "valor": 53.73
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 14.9
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 110.51
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 217.4
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 103.6
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 80.84
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 51.55
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 1212.6
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 116.34
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 243.35
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 100
+    },
+    {
+     "nome": "Luiza Dulci",
+     "cod": "2c907f7693d91ea10193e0864b7c012a",
+     "valor": 16.7
+    },
+    {
+     "nome": "Maninho Félix",
+     "cod": "2c907f7668a3f8d90168a418c060000d",
+     "valor": 1212.6
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 752.88
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 101.05
+    },
+    {
+     "nome": "Professora Nara",
+     "cod": "2c907f768e3c5899018e673cc93403c9",
+     "valor": 432.02
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 2640.03
+    },
+    {
+     "nome": "Sargento Jalyson",
+     "cod": "2c907f7693d91ea10193e09d5d870134",
+     "valor": 6.6
+    },
+    {
+     "nome": "Trópia",
+     "cod": "2c907f7675b75b9701764cf002b508a2",
+     "valor": 17.6
+    },
+    {
+     "nome": "Wagner Ferreira",
+     "cod": "2c907f7685b0cbed0186075ad27a0321",
+     "valor": 620.87
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 70
+    }
+   ]
+  },
+  "2026-08": {
+   "coletadoEm": "2026-11-18T05:02:41.419Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 146.45
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 202.1
+    },
+    {
+     "nome": "Cleiton Xavier",
+     "cod": "2c907f768190b8c60181b9b20c450398",
+     "valor": 250.54
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 59.15
+    },
+    {
+     "nome": "Dra. Michelly Siqueira",
+     "cod": "2c907f7693d91ea10193e05876d80114",
+     "valor": 461.33
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 204.18
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 253.44
+    },
+    {
+     "nome": "Janaina Cardoso",
+     "cod": "2c907f768637f55d01864ae2a95200df",
+     "valor": 120.32
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 92.65
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 171.45
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 351.51
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 353.19
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 1577
+    },
+    {
+     "nome": "Neném da Farmácia",
+     "cod": "2c907f7693d91ea10193e088eed6012c",
+     "valor": 202.1
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 48.47
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 1335.75
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 201.2
+    },
+    {
+     "nome": "Professora Nara",
+     "cod": "2c907f768e3c5899018e673cc93403c9",
+     "valor": 54.5
+    },
+    {
+     "nome": "Rudson Paixão",
+     "cod": "2c907f7693d91ea10193e098bf540132",
+     "valor": 2237.15
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 114.23
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 49.54
+    },
+    {
+     "nome": "Wanderley Porto",
+     "cod": "2c907f7675b75b9701764d6ee01808d8",
+     "valor": 6.18
+    }
+   ]
+  },
+  "2026-09": {
+   "coletadoEm": "2026-11-18T05:02:25.319Z",
+   "vereadores": [
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 43.11
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 40.13
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 80.48
+    },
+    {
+     "nome": "Loíde Gonçalves",
+     "cod": "2c907f7685b0cbed01860756d751031d",
+     "valor": 77.04
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 429.7
+    },
+    {
+     "nome": "Trópia",
+     "cod": "2c907f7675b75b9701764cf002b508a2",
+     "valor": 69.32
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 5.3
+    }
+   ]
+  },
+  "2026-10": {
+   "coletadoEm": "2026-11-18T05:02:13.302Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 120.19
+    },
+    {
+     "nome": "Bruno Miranda",
+     "cod": "2c907f761de31dc1011e895120dc0853",
+     "valor": 70
+    },
+    {
+     "nome": "Dr. Bruno Pedralva",
+     "cod": "2c907f7685b0cbed0185e921da4501d4",
+     "valor": 180.36
+    },
+    {
+     "nome": "Edmar Branco",
+     "cod": "2c907f7658b6b07901591dad0512056f",
+     "valor": 267.44
+    },
+    {
+     "nome": "Irlan Melo",
+     "cod": "2c907f7658b6b07901591e1128480598",
+     "valor": 161.43
+    },
+    {
+     "nome": "José Ferreira",
+     "cod": "2c907f7675b75b9701764d7d04d008e7",
+     "valor": 8.36
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 689.95
+    },
+    {
+     "nome": "Marilda Portela",
+     "cod": "2c907f7658b6b07901591da7486e056a",
+     "valor": 26.46
+    },
+    {
+     "nome": "Professor Juliano Lopes",
+     "cod": "2c907f763ba9b074013bb8736b23014e",
+     "valor": 368.21
+    },
+    {
+     "nome": "Tileléo",
+     "cod": "2c907f7693d91ea10193e0a9938b013a",
+     "valor": 63.61
+    },
+    {
+     "nome": "Uner Augusto",
+     "cod": "2c907f7685b0cbed01860758e931031f",
+     "valor": 109.67
+    },
+    {
+     "nome": "Vile Santos",
+     "cod": "2c907f7693d91ea10193e0acbf01013f",
+     "valor": 67.76
+    }
+   ]
+  },
+  "2026-11": {
+   "coletadoEm": "2026-11-18T05:01:59.734Z",
+   "vereadores": [
+    {
+     "nome": "Arruda",
+     "cod": "2c907f7693d91ea10193e040a0be010d",
+     "valor": 419.65
+    },
+    {
+     "nome": "Diego Sanches",
+     "cod": "2c907f7693d91ea10193e051eed60112",
+     "valor": 246.35
+    },
+    {
+     "nome": "Helinho da Farmácia",
+     "cod": "2c907f7658b6b07901591dfc7d850583",
+     "valor": 102.88
+    },
+    {
+     "nome": "Helton Junior",
+     "cod": "2c907f7693d91ea10193e077a3ad011f",
+     "valor": 100.6
+    },
+    {
+     "nome": "Juhlia Santos",
+     "cod": "2c907f7693d91ea10193e07d7f4c0124",
+     "valor": 60.63
+    },
+    {
+     "nome": "Juninho Los Hermanos",
+     "cod": "2c907f763ba9b074013bb8d902cb0171",
+     "valor": 230.9
+    },
+    {
+     "nome": "Osvaldo Lopes",
+     "cod": "2c907f7658b6b07901591e185189059e",
+     "valor": 465.95
+    },
+    {
+     "nome": "Pablo Almeida",
+     "cod": "2c907f7693d91ea10193e08ddb24012e",
+     "valor": 122.33
+    },
+    {
+     "nome": "Pedro Patrus",
+     "cod": "2c907f763ba9b074013bb8b604d80162",
+     "valor": 7.64
+    },
+    {
+     "nome": "Professora Marli",
+     "cod": "2c907f7675b75b9701764ce65b7c08a0",
+     "valor": 46.17
+    },
+    {
+     "nome": "Rubão",
+     "cod": "2c907f7675b75b9701764d6c8b7508d5",
+     "valor": 1056.92
+    }
+   ]
+  }
+ }
+}

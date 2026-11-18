@@ -263,6 +263,45 @@
     acoes.append(link(dados.votacoes.fonte, "Fonte oficial (relatório por reunião)"));
   }
 
+  var reais = function (n) { return n.toLocaleString("pt-BR", { style: "currency", currency: "BRL" }); };
+  function totalCusteio(v) { return (v.custeio || []).reduce(function (s, m) { return s + m[1]; }, 0); }
+  function nomeMes(ym) { var p = ym.split("-"); return MESES[+p[1]] + "/" + p[0]; }
+
+  function blocoCusteio(v) {
+    var b = el("div", "bloco");
+    var c = dados.custeio;
+    if (!c || !c.meses.length) return b;
+    b.append(el("h4", "titulo-bloco", "Gastos do gabinete (Custeio Parlamentar)"));
+    var desde = nomeMes(c.meses[0]);
+    if (!v.custeio.length) {
+      b.append(el("p", null, "Nenhuma despesa de custeio registrada desde " + desde + "."));
+    } else {
+      var p = el("p");
+      p.append(el("b", null, reais(totalCusteio(v))), " desde " + desde + ", em " + plural(v.custeio.length, "mês", "meses") + " com despesa.");
+      b.append(p);
+      var ul = el("ul", "lista-simples lista-custeio");
+      v.custeio.slice().reverse().forEach(function (m, i) {
+        var li = el("li", i >= 6 ? "a-mais" : null);
+        li.append(el("span", "suave", nomeMes(m[0]) + (m[0] === c.mesAberto ? " (mês em andamento)" : "") + " · "), document.createTextNode(reais(m[1])));
+        ul.append(li);
+      });
+      b.append(ul);
+      if (v.custeio.length > 6) {
+        var mais = el("button", "ver-mais", "Ver todos os " + v.custeio.length + " meses");
+        mais.type = "button";
+        mais.addEventListener("click", function () { ul.classList.add("aberta"); mais.remove(); });
+        var rodape = el("p", "acoes-bloco");
+        rodape.append(mais);
+        b.append(rodape);
+      }
+    }
+    b.append(el("p", "suave nota-mes", "Custeio cobre escritório, informática, gráfica, divulgação do mandato, carimbos, copa, correios e telefonia. Não inclui salários do vereador nem dos assessores. O detalhe de cada despesa, com a nota, está na fonte oficial."));
+    var f = el("p", "acoes-bloco");
+    f.append(link(c.fonte, "Fonte oficial (escolha o mês e clique em Detalhamento)"));
+    b.append(f);
+    return b;
+  }
+
   function blocoHomenagens(v) {
     var b = el("div", "bloco");
     if (!dados.fontes.homenagens) return b;
@@ -322,6 +361,7 @@
     }
     if (v.comissoes) extras.push(plural(v.comissoes.length, "comissão", "comissões"));
     if (dados.fontes.homenagens && !fora) extras.push(plural(v.homenagens.length, "homenagem", "homenagens"));
+    if (dados.custeio && v.custeio) extras.push(reais(totalCusteio(v)) + " de custeio");
     if (extras.length) node.querySelector(".numeros").append(el("span", "extras", extras.join(" · ")));
 
     // Resumo dos votos nominais transcritos (Sim, Não, Abstenção, Não votou).
@@ -338,7 +378,7 @@
       node.querySelector(".numeros").append(linha);
     }
 
-    if (!fora) node.querySelector(".corpo").prepend(blocoVotosNominais(v), blocoVotacoes(v), blocoComissoes(v), blocoHomenagens(v));
+    if (!fora) node.querySelector(".corpo").prepend(blocoVotosNominais(v), blocoVotacoes(v), blocoComissoes(v), blocoCusteio(v), blocoHomenagens(v));
     var meses = node.querySelector(".meses");
     meses.before(el("h4", "titulo-bloco", "Presença no Plenário"));
     (v.presenca ? v.presenca.meses : []).slice().reverse().forEach(function (m) {
