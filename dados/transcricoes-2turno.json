@@ -672,6 +672,268 @@
     "Professora Nara": "Não",
     "Professor Juliano Lopes": "Presidência"
    }
+  },
+  "210/2025": {
+   "data": "2026-06-08",
+   "reuniao": "44ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Janaina Cardoso": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "211/2025": {
+   "data": "2026-04-09",
+   "reuniao": "25ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Pablo Almeida": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "227/2025": {
+   "data": "2026-05-15",
+   "reuniao": "40ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 30,
+    "Não": 7
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dr. Bruno Pedralva": "Não",
+    "Helton Junior": "Não",
+    "Iza Lourença": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Patrus": "Não",
+    "Pedro Rousseff": "Não",
+    "Professor Juliano Lopes": "Não votou",
+    "Professora Nara": "Não votou",
+    "Wagner Ferreira": "Não votou",
+    "Fernanda Pereira Altoé": "Presidência"
+   },
+   "evento": "PL 227/25 SUBSTITUTIVO 4"
+  },
+  "234/2025": {
+   "data": "2026-07-06",
+   "reuniao": "54ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 40,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "236/2025": {
+   "data": "2025-08-11",
+   "reuniao": "67ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 32,
+    "Não": 8
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Cida Falabella": "Não",
+    "Dr. Bruno Pedralva": "Não",
+    "Edmar Branco": "Não",
+    "Iza Lourença": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Patrus": "Não",
+    "Tileléo": "Não",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "238/2025": {
+   "data": "2026-05-06",
+   "reuniao": "33ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Flávia Borja": "Não votou",
+    "Pablo Almeida": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "242/2025": {
+   "data": "2026-05-11",
+   "reuniao": "36ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0,
+    "Abstenção": 1
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Juhlia Santos": "Abstenção",
+    "Professora Nara": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "243/2025": {
+   "data": "2026-06-12",
+   "reuniao": "48ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 37,
+    "Não": 0,
+    "Abstenção": 1
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Janaina Cardoso": "Não votou",
+    "Maninho Félix": "Não votou",
+    "Uner Augusto": "Abstenção",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "244/2025": {
+   "data": "2025-10-13",
+   "reuniao": "89ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Pedro Rousseff": "Não votou",
+    "Professor Juliano Lopes": "Não votou",
+    "Fernanda Pereira Altoé": "Presidência"
+   }
+  },
+  "249/2025": {
+   "data": "2026-07-09",
+   "reuniao": "57ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 40,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "251/2025": {
+   "data": "2026-08-11",
+   "reuniao": "67ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 29,
+    "Não": 7
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dr. Bruno Pedralva": "Não",
+    "Helton Junior": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Rousseff": "Não",
+    "Professora Nara": "Não",
+    "Wagner Ferreira": "Não",
+    "Flávia Borja": "Não votou",
+    "Iza Lourença": "Não votou",
+    "Leonardo Ângelo": "Não votou",
+    "Pedro Patrus": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "255/2025": {
+   "data": "2026-05-06",
+   "reuniao": "33ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Bruno Miranda": "Não votou",
+    "Dr. Bruno Pedralva": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "258/2025": {
+   "data": "2025-06-10",
+   "reuniao": "47ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Professor Juliano Lopes": "Não votou",
+    "Fernanda Pereira Altoé": "Presidência"
+   }
+  },
+  "266/2025": {
+   "data": "2026-09-01",
+   "reuniao": "71ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 37,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Bruno Miranda": "Não votou",
+    "Dr. Bruno Pedralva": "Não votou",
+    "Wagner Ferreira": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "270/2025": {
+   "data": "2025-11-07",
+   "reuniao": "95ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0,
+    "Abstenção": 1
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Braulio Lara": "Abstenção",
+    "Luiza Dulci": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
   }
  }
 }
