@@ -412,6 +412,266 @@
     "Tileléo": "Não votou",
     "Professor Juliano Lopes": "Presidência"
    }
+  },
+  "174/2025": {
+   "data": "2026-03-11",
+   "reuniao": "18ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 29,
+    "Não": 9,
+    "Abstenção": 1
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dr. Bruno Pedralva": "Não",
+    "Edmar Branco": "Não",
+    "Helton Junior": "Não",
+    "Iza Lourença": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Patrus": "Não",
+    "Pedro Rousseff": "Não",
+    "Professora Nara": "Não",
+    "Osvaldo Lopes": "Abstenção",
+    "Bruno Miranda": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "178/2025": {
+   "data": "2026-04-07",
+   "reuniao": "23ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dra. Michelly Siqueira": "Não votou",
+    "Janaina Cardoso": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "179/2025": {
+   "data": "2026-08-10",
+   "reuniao": "66ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 33,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Edmar Branco": "Não votou",
+    "Fernanda Pereira Altoé": "Não votou",
+    "Iza Lourença": "Não votou",
+    "Juhlia Santos": "Não votou",
+    "Leonardo Ângelo": "Não votou",
+    "Maninho Félix": "Não votou",
+    "Vile Santos": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "18/2025": {
+   "data": "2025-08-07",
+   "reuniao": "65ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Trópia": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "187/2025": {
+   "data": "2026-07-09",
+   "reuniao": "57ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Rejeitado",
+   "totais": {
+    "Sim": 13,
+    "Não": 22,
+    "Abstenção": 1
+   },
+   "transcritoEm": "2026-11-17",
+   "padraoPresente": "Não",
+   "excecoes": {
+    "Arruda": "Sim",
+    "Braulio Lara": "Sim",
+    "Bruno Miranda": "Sim",
+    "Cleiton Xavier": "Sim",
+    "Diego Sanches": "Sim",
+    "Helinho da Farmácia": "Sim",
+    "Helton Junior": "Sim",
+    "Juninho Los Hermanos": "Sim",
+    "Loíde Gonçalves": "Sim",
+    "Lucas Ganem": "Sim",
+    "Maninho Félix": "Sim",
+    "Professora Marli": "Sim",
+    "Trópia": "Sim",
+    "Fernanda Pereira Altoé": "Não votou",
+    "Irlan Melo": "Não votou",
+    "Juhlia Santos": "Não votou",
+    "Vile Santos": "Não votou",
+    "Iza Lourença": "Abstenção",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "188/2025": {
+   "data": "2026-04-16",
+   "reuniao": "30ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 36,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Helton Junior": "Não votou",
+    "Pablo Almeida": "Não votou",
+    "Rubão": "Não votou",
+    "Wanderley Porto": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "19/2025": {
+   "data": "2025-12-15",
+   "reuniao": "110ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Lucas Ganem": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "195/2025": {
+   "data": "2026-07-06",
+   "reuniao": "54ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 40,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "196/2025": {
+   "data": "2026-05-14",
+   "reuniao": "39ª Reunião Ordinária",
+   "quorum": "Dois terços dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 34,
+    "Não": 5
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dr. Bruno Pedralva": "Não",
+    "Iza Lourença": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Patrus": "Não",
+    "Professora Nara": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "198/2025": {
+   "data": "2026-05-06",
+   "reuniao": "33ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dra. Michelly Siqueira": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "203/2025": {
+   "data": "2026-02-04",
+   "reuniao": "3ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 38,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Helton Junior": "Não votou",
+    "Osvaldo Lopes": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "205/2025": {
+   "data": "2026-03-05",
+   "reuniao": "14ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Tileléo": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "206/2025": {
+   "data": "2026-03-04",
+   "reuniao": "13ª Reunião Ordinária",
+   "quorum": "Maioria dos membros",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 39,
+    "Não": 0
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Tileléo": "Não votou",
+    "Professor Juliano Lopes": "Presidência"
+   }
+  },
+  "207/2025": {
+   "data": "2026-06-10",
+   "reuniao": "46ª Reunião Ordinária",
+   "quorum": "Maioria dos presentes",
+   "resultado": "Aprovado",
+   "totais": {
+    "Sim": 34,
+    "Não": 6
+   },
+   "transcritoEm": "2026-11-17",
+   "excecoes": {
+    "Dr. Bruno Pedralva": "Não",
+    "Iza Lourença": "Não",
+    "Juhlia Santos": "Não",
+    "Luiza Dulci": "Não",
+    "Pedro Patrus": "Não",
+    "Professora Nara": "Não",
+    "Professor Juliano Lopes": "Presidência"
+   }
   }
  }
 }
