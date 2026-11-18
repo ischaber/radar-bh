@@ -339,6 +339,60 @@
     return b;
   }
 
+  // Custo do mandato: subsídio e benefícios pela regra oficial (valores fixos, iguais para todos),
+  // custeio do gabinete e equipe do gabinete. Salários da equipe e carro não são publicados por vereador.
+  function cargoLegivel(c) {
+    var t = c.charAt(0) + c.slice(1).toLowerCase();
+    return t.replace(/^A disposição( - niv i)?( da cmbh)?/, "À disposição da Câmara (servidor cedido)").replace("nível", "de nível");
+  }
+  function blocoMandato(v) {
+    var b = el("div", "bloco");
+    var md = dados.mandato;
+    if (!md) return b;
+    var R = md.regra, m = v.mandato;
+    b.append(el("h4", "titulo-bloco", "Custo do mandato"));
+    if (!m) {
+      b.append(el("p", null, "Não calculamos: a lista oficial de servidores mais recente (" + nomeMes(md.equipeMes) + ") não traz a data de posse deste vereador, que entrou depois ou exerceu o mandato por períodos."));
+    } else {
+      var custeio = (v.custeio || []).reduce(function (s, x) { return x[0] <= m.ate ? s + x[1] : s; }, 0);
+      var total = m.subsidio + m.auxilio + m.ferias + custeio;
+      var p = el("p");
+      p.append("De " + m.inicio.split("-").reverse().join("/") + " até " + nomeMes(m.ate) + ", pela regra oficial: ", el("b", null, reais(total)), ", sem contar o 13º nem os salários da equipe.");
+      b.append(p);
+      var ul = el("ul", "lista-simples lista-tipos");
+      var item = function (valor, texto) { var li = el("li"); li.append(el("span", "valor-tipo", valor), " " + texto); ul.append(li); };
+      item(reais(m.subsidio), "subsídio bruto: " + reais(R.subsidio) + " por mês, " + String(m.meses).replace(".", ",") + " meses");
+      item(reais(m.auxilio), "auxílio-alimentação: " + reais(R.auxilio) + " por mês, desde " + nomeMes(R.auxilioDesde < m.inicio.slice(0, 7) ? m.inicio.slice(0, 7) : R.auxilioDesde));
+      if (m.ferias) item(reais(m.ferias), "terço de férias, pago em janeiro depois de 12 meses de mandato");
+      item(reais(custeio), "custeio do gabinete até " + nomeMes(m.ate) + " (detalhe mais abaixo)");
+      item("não publicado", "13º" + (m.dezembros.length ? " de " + m.dezembros.join(", ") : "") + ": até um subsídio por ano, proporcional à presença no Plenário; a Câmara não publica quanto cada um recebeu");
+      b.append(ul);
+      if (m.diasSemSalario) b.append(el("p", "aviso-mes", "Teve " + plural(m.diasSemSalario, "dia", "dias") + " de licença sem salário no Plenário: recebeu menos do que a conta acima."));
+    }
+    // equipe do gabinete
+    var eq = v.equipe;
+    b.append(el("p", "rotulo-pequeno", "Equipe do gabinete em " + nomeMes(md.equipeMes)));
+    if (!eq) b.append(el("p", null, "Ninguém lotado neste gabinete na lista oficial do mês."));
+    else {
+      var pe = el("p");
+      pe.append(el("b", null, plural(eq.pessoas, "pessoa", "pessoas")), eq.saiuNoMes ? " (mais " + eq.saiuNoMes + (eq.saiuNoMes > 1 ? " que saíram" : " que saiu") + " durante o mês)" : "");
+      b.append(pe);
+      var ue = el("ul", "lista-simples lista-tipos");
+      eq.porCargo.forEach(function (c) {
+        var li = el("li");
+        li.append(el("span", "valor-tipo", String(c[2])), " " + cargoLegivel(c[0]) + ", " + String(c[1]).replace(".", ",") + " h por semana");
+        ue.append(li);
+      });
+      b.append(ue);
+    }
+    b.append(el("p", "suave nota-mes", "Salários da equipe: a Câmara mostra o salário de cada servidor só um por um, com uma verificação anti-robô a cada consulta, e não publica a soma por gabinete; por isso não estão aqui. Carro: a Câmara não publica gasto com carro por vereador."));
+    var f = el("p", "acoes-bloco");
+    f.append(link(R.fonte, "Fonte oficial do subsídio e benefícios"));
+    if (md.equipeFonte) f.append(link(md.equipeFonte, "Fonte oficial da equipe e dos salários (consulta um a um)"));
+    b.append(f);
+    return b;
+  }
+
   function blocoHomenagens(v) {
     var b = el("div", "bloco");
     if (!dados.fontes.homenagens) return b;
@@ -399,6 +453,7 @@
     if (v.comissoes) extras.push(plural(v.comissoes.length, "comissão", "comissões"));
     if (dados.fontes.homenagens && !fora) extras.push(plural(v.homenagens.length, "homenagem", "homenagens"));
     if (dados.custeio && v.custeio) extras.push(reais(totalCusteio(v)) + " de custeio");
+    if (v.equipe) extras.push(plural(v.equipe.pessoas, "pessoa", "pessoas") + " no gabinete");
     if (extras.length) node.querySelector(".numeros").append(el("span", "extras", extras.join(" · ")));
 
     // Resumo dos votos nominais transcritos (Sim, Não, Abstenção, Não votou).
@@ -415,7 +470,7 @@
       node.querySelector(".numeros").append(linha);
     }
 
-    if (!fora) node.querySelector(".corpo").prepend(blocoVotosNominais(v), blocoVotacoes(v), blocoComissoes(v), blocoCusteio(v), blocoHomenagens(v));
+    if (!fora) node.querySelector(".corpo").prepend(blocoVotosNominais(v), blocoVotacoes(v), blocoComissoes(v), blocoMandato(v), blocoCusteio(v), blocoHomenagens(v));
     var meses = node.querySelector(".meses");
     meses.before(el("h4", "titulo-bloco", "Presença no Plenário"));
     (v.presenca ? v.presenca.meses : []).slice().reverse().forEach(function (m) {

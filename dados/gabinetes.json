@@ -1,0 +1,6834 @@
+{
+ "fonte": "https://www.cmbh.mg.gov.br/transparencia/pessoal/consulta-a-remuneracao",
+ "observacao": "Servidores lotados em cada gabinete de vereador, por mês, como aparecem na Consulta à Remuneração da Câmara. Sem nomes e sem salários.",
+ "meses": {
+  "2026-10": {
+   "coletadoEm": "2026-11-18T12:42:36.103Z",
+   "totalServidoresDaCamara": 1527,
+   "gabinetes": {
+    "VEREADORA DRA MICHELLY SIQUEIRA": {
+     "vereador": {
+      "cm": "10236",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "42886",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/01/2023",
+       null
+      ],
+      [
+       "43997",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/02/2026",
+       null
+      ],
+      [
+       "44075",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2026",
+       null
+      ],
+      [
+       "43530",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43938",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "04/09/2025",
+       null
+      ],
+      [
+       "43991",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "15/01/2026",
+       null
+      ],
+      [
+       "43526",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43532",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43832",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/01/2025",
+       null
+      ],
+      [
+       "43540",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43538",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43856",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "25/04/2025",
+       null
+      ],
+      [
+       "44062",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/05/2026",
+       null
+      ],
+      [
+       "43529",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43539",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11608",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "07/03/2025",
+       null
+      ],
+      [
+       "16115",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "15/04/2025",
+       null
+      ],
+      [
+       "11613",
+       "A DISPOSIÇÃO DA CMBH",
+       44,
+       "18/03/2025",
+       null
+      ],
+      [
+       "43533",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44066",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/05/2026",
+       null
+      ],
+      [
+       "43536",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11648",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "21/02/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADORA LOÍDE GONÇALVES": {
+     "vereador": {
+      "cm": "10225",
+      "admissao": "01/02/2023",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "44031",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/04/2026",
+       null
+      ],
+      [
+       "42915",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "11572",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "25/05/2023",
+       null
+      ],
+      [
+       "43927",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/08/2025",
+       null
+      ],
+      [
+       "42988",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43422",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/07/2024",
+       null
+      ],
+      [
+       "43112",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/05/2023",
+       null
+      ],
+      [
+       "42928",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42936",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "16221",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "17/06/2026",
+       null
+      ],
+      [
+       "42939",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42938",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43168",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/08/2023",
+       null
+      ],
+      [
+       "42929",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43505",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2025",
+       null
+      ],
+      [
+       "44042",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/05/2026",
+       null
+      ],
+      [
+       "43424",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "17/07/2024",
+       null
+      ],
+      [
+       "43259",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/01/2024",
+       null
+      ],
+      [
+       "16188",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "08/04/2026",
+       null
+      ],
+      [
+       "43140",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/07/2023",
+       "30/11/2026"
+      ],
+      [
+       "43070",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/04/2023",
+       null
+      ]
+     ]
+    },
+    "VEREADOR IRLAN MELO": {
+     "vereador": {
+      "cm": "10163",
+      "admissao": "01/01/2017",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11656",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "11657",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "41085",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/01/2017",
+       null
+      ],
+      [
+       "43388",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "29/05/2024",
+       "07/10/2026"
+      ],
+      [
+       "16235",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "03/08/2026",
+       null
+      ],
+      [
+       "43846",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/04/2025",
+       "07/10/2026"
+      ],
+      [
+       "41805",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/05/2019",
+       null
+      ],
+      [
+       "43429",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/08/2024",
+       null
+      ],
+      [
+       "16156",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "05/09/2025",
+       null
+      ],
+      [
+       "43974",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2026",
+       null
+      ],
+      [
+       "11555",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "18/03/2022",
+       null
+      ],
+      [
+       "11658",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "44065",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/05/2026",
+       "07/10/2026"
+      ],
+      [
+       "43858",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/05/2025",
+       "07/10/2026"
+      ],
+      [
+       "42980",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "40988",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2017",
+       null
+      ],
+      [
+       "44061",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/05/2026",
+       "07/10/2026"
+      ],
+      [
+       "40998",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       "07/10/2026"
+      ],
+      [
+       "43679",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/02/2025",
+       null
+      ],
+      [
+       "42139",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/01/2021",
+       "02/11/2026"
+      ],
+      [
+       "42523",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/05/2021",
+       null
+      ],
+      [
+       "42977",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       "02/11/2026"
+      ],
+      [
+       "41940",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/12/2019",
+       null
+      ],
+      [
+       "44137",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/10/2026",
+       null
+      ],
+      [
+       "11643",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "14/11/2025",
+       null
+      ],
+      [
+       "40989",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       null
+      ]
+     ]
+    },
+    "VEREADOR VILE SANTOS": {
+     "vereador": {
+      "cm": "10239",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43888",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/06/2025",
+       null
+      ],
+      [
+       "43801",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43799",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43802",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43800",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43968",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/11/2025",
+       "23/09/2026"
+      ],
+      [
+       "44148",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/10/2026",
+       null
+      ],
+      [
+       "43808",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/01/2025",
+       "09/10/2026"
+      ],
+      [
+       "43948",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "03/10/2025",
+       "02/10/2026"
+      ],
+      [
+       "43849",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/04/2025",
+       "23/09/2026"
+      ],
+      [
+       "43796",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43809",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/01/2025",
+       null
+      ],
+      [
+       "16247",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "17/09/2026",
+       null
+      ],
+      [
+       "43803",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43561",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/02/2025",
+       null
+      ],
+      [
+       "43805",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44144",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "14/10/2026",
+       null
+      ],
+      [
+       "44058",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "06/05/2026",
+       null
+      ],
+      [
+       "43797",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43798",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR UNER AUGUSTO": {
+     "vereador": {
+      "cm": "10251",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11628",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "04/04/2025",
+       null
+      ],
+      [
+       "43781",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44081",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/06/2026",
+       null
+      ],
+      [
+       "43889",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/06/2025",
+       null
+      ],
+      [
+       "44006",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2026",
+       null
+      ],
+      [
+       "43782",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43779",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44004",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/02/2026",
+       null
+      ],
+      [
+       "43953",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/10/2025",
+       "22/09/2026"
+      ],
+      [
+       "44134",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/10/2026",
+       null
+      ],
+      [
+       "43789",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43844",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/04/2025",
+       null
+      ],
+      [
+       "42450",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/03/2021",
+       null
+      ],
+      [
+       "11620",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/03/2025",
+       null
+      ],
+      [
+       "44101",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/07/2026",
+       null
+      ],
+      [
+       "43780",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43784",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43787",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44139",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/10/2026",
+       null
+      ],
+      [
+       "43786",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR BRUNO MIRANDA": {
+     "vereador": {
+      "cm": "10256",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "44089",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/07/2026",
+       null
+      ],
+      [
+       "16132",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "29/05/2025",
+       null
+      ],
+      [
+       "42245",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2021",
+       null
+      ],
+      [
+       "11570",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "26/04/2023",
+       null
+      ],
+      [
+       "43794",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "26/03/2025",
+       null
+      ],
+      [
+       "42860",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2023",
+       null
+      ],
+      [
+       "42427",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/02/2021",
+       null
+      ],
+      [
+       "16194",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "17/04/2026",
+       null
+      ],
+      [
+       "16190",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "13/04/2026",
+       null
+      ],
+      [
+       "42253",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "11621",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "26/03/2025",
+       null
+      ],
+      [
+       "43425",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "19/07/2024",
+       "01/05/2026"
+      ],
+      [
+       "42342",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "11624",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "26/03/2025",
+       null
+      ],
+      [
+       "42258",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42260",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "16187",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "01/04/2026",
+       null
+      ],
+      [
+       "43903",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "03/07/2025",
+       null
+      ],
+      [
+       "42261",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42394",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2021",
+       null
+      ],
+      [
+       "42819",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "21/10/2022",
+       null
+      ],
+      [
+       "43863",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/05/2025",
+       null
+      ],
+      [
+       "42266",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42639",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/02/2022",
+       null
+      ],
+      [
+       "42167",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "11566",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/03/2023",
+       null
+      ],
+      [
+       "11660",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADORA PROFESSORA MARLI": {
+     "vereador": {
+      "cm": "10201",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11627",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "04/04/2025",
+       null
+      ],
+      [
+       "42991",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/02/2023",
+       null
+      ],
+      [
+       "16210",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "20/05/2026",
+       null
+      ],
+      [
+       "43386",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "22/05/2024",
+       "27/06/2026"
+      ],
+      [
+       "44145",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/10/2026",
+       null
+      ],
+      [
+       "43397",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "11/06/2024",
+       null
+      ],
+      [
+       "43169",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "24/08/2023",
+       "01/07/2026"
+      ],
+      [
+       "42039",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "19/06/2020",
+       null
+      ],
+      [
+       "43773",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "17/03/2025",
+       "01/05/2026"
+      ],
+      [
+       "43359",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "29/04/2024",
+       null
+      ],
+      [
+       "43144",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "10/07/2023",
+       null
+      ],
+      [
+       "42241",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/01/2021",
+       null
+      ],
+      [
+       "16212",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "21/05/2026",
+       null
+      ],
+      [
+       "16222",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "17/06/2026",
+       null
+      ],
+      [
+       "43893",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/06/2025",
+       null
+      ],
+      [
+       "16208",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "21/05/2026",
+       null
+      ],
+      [
+       "43350",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "18/04/2024",
+       null
+      ],
+      [
+       "43955",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/10/2025",
+       null
+      ],
+      [
+       "43648",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "14/02/2025",
+       null
+      ],
+      [
+       "44090",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "03/07/2026",
+       "08/10/2026"
+      ],
+      [
+       "43705",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/03/2025",
+       "03/11/2026"
+      ],
+      [
+       "42609",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/11/2021",
+       null
+      ],
+      [
+       "42992",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/02/2023",
+       null
+      ],
+      [
+       "42363",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ]
+     ]
+    },
+    "VEREADOR BRAULIO LARA": {
+     "vereador": {
+      "cm": "10196",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "37822",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "27/02/2008",
+       null
+      ],
+      [
+       "43644",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/02/2025",
+       null
+      ],
+      [
+       "43272",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2024",
+       null
+      ],
+      [
+       "43483",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "17/12/2024",
+       "05/10/2026"
+      ],
+      [
+       "43881",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/06/2025",
+       null
+      ],
+      [
+       "43316",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/04/2024",
+       null
+      ],
+      [
+       "16182",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "26/03/2026",
+       null
+      ],
+      [
+       "43884",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/06/2025",
+       null
+      ],
+      [
+       "43064",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "23/03/2023",
+       null
+      ],
+      [
+       "43145",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/07/2023",
+       null
+      ],
+      [
+       "43413",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/07/2024",
+       null
+      ],
+      [
+       "42219",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "44018",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/03/2026",
+       null
+      ],
+      [
+       "43085",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "19/04/2023",
+       null
+      ],
+      [
+       "11590",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/04/2024",
+       null
+      ],
+      [
+       "43009",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/02/2023",
+       null
+      ],
+      [
+       "11595",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "20/07/2024",
+       null
+      ],
+      [
+       "42098",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/12/2020",
+       null
+      ],
+      [
+       "42875",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/01/2023",
+       null
+      ],
+      [
+       "43740",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/03/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR WANDERLEY PORTO": {
+     "vereador": {
+      "cm": "10211",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "44005",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2026",
+       null
+      ],
+      [
+       "11530",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "25/03/2021",
+       null
+      ],
+      [
+       "43918",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/08/2025",
+       null
+      ],
+      [
+       "16143",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "25/07/2025",
+       null
+      ],
+      [
+       "42145",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42825",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/11/2022",
+       null
+      ],
+      [
+       "44043",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/05/2026",
+       null
+      ],
+      [
+       "42628",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/01/2022",
+       null
+      ],
+      [
+       "42148",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42595",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/11/2021",
+       null
+      ],
+      [
+       "16181",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "17/03/2026",
+       null
+      ],
+      [
+       "43628",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/02/2025",
+       null
+      ],
+      [
+       "16110",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "01/04/2025",
+       null
+      ],
+      [
+       "43142",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/07/2023",
+       null
+      ],
+      [
+       "11576",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "25/05/2023",
+       null
+      ],
+      [
+       "11618",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/03/2025",
+       null
+      ],
+      [
+       "42257",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42503",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/05/2021",
+       null
+      ],
+      [
+       "11520",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "01/07/2020",
+       null
+      ],
+      [
+       "39801",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "08/05/2013",
+       null
+      ],
+      [
+       "43687",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/03/2025",
+       null
+      ],
+      [
+       "16215",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "01/05/2026",
+       null
+      ],
+      [
+       "42359",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "11556",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "12/04/2022",
+       null
+      ],
+      [
+       "42267",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ]
+     ]
+    },
+    "VEREADOR HELINHO DA FARMÁCIA": {
+     "vereador": {
+      "cm": "10161",
+      "admissao": "01/01/2017",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "40897",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2017",
+       null
+      ],
+      [
+       "11473",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "21/07/2017",
+       null
+      ],
+      [
+       "42045",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/07/2020",
+       null
+      ],
+      [
+       "41710",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2019",
+       null
+      ],
+      [
+       "16197",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "01/05/2026",
+       null
+      ],
+      [
+       "41932",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/11/2019",
+       null
+      ],
+      [
+       "42008",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "06/04/2020",
+       null
+      ],
+      [
+       "40808",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2017",
+       null
+      ],
+      [
+       "40904",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2017",
+       null
+      ],
+      [
+       "44056",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "06/05/2026",
+       null
+      ],
+      [
+       "42027",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/05/2020",
+       null
+      ],
+      [
+       "42882",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "17/01/2023",
+       null
+      ],
+      [
+       "11317",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "28/10/2009",
+       null
+      ],
+      [
+       "41589",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/11/2018",
+       null
+      ],
+      [
+       "42472",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "23/03/2021",
+       null
+      ],
+      [
+       "41584",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/11/2018",
+       null
+      ],
+      [
+       "40902",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2017",
+       null
+      ],
+      [
+       "41863",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "04/07/2019",
+       null
+      ],
+      [
+       "41303",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/09/2017",
+       null
+      ],
+      [
+       "40806",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2017",
+       null
+      ],
+      [
+       "41590",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/11/2018",
+       null
+      ],
+      [
+       "11541",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "23/07/2021",
+       null
+      ]
+     ]
+    },
+    "VEREADOR SARGENTO JALYSON": {
+     "vereador": {
+      "cm": "10249",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43742",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43743",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43752",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "01/01/2025",
+       "01/05/2026"
+      ],
+      [
+       "44041",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/04/2026",
+       null
+      ],
+      [
+       "44072",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/06/2026",
+       "26/10/2026"
+      ],
+      [
+       "16173",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "06/02/2026",
+       null
+      ],
+      [
+       "43860",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/05/2025",
+       "10/06/2026"
+      ],
+      [
+       "16117",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "05/05/2025",
+       null
+      ],
+      [
+       "43747",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "01/09/2026"
+      ],
+      [
+       "43994",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2026",
+       null
+      ],
+      [
+       "44106",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "08/08/2026",
+       null
+      ],
+      [
+       "11636",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "08/05/2025",
+       null
+      ],
+      [
+       "43749",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11668",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "16/10/2026",
+       null
+      ],
+      [
+       "43751",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43758",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "10/01/2025",
+       null
+      ],
+      [
+       "43757",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43755",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2025",
+       null
+      ],
+      [
+       "43753",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44034",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/04/2026",
+       null
+      ],
+      [
+       "43900",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/07/2025",
+       null
+      ],
+      [
+       "43901",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/07/2025",
+       "08/08/2026"
+      ],
+      [
+       "44084",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "19/06/2026",
+       null
+      ],
+      [
+       "43744",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16240",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "24/08/2026",
+       null
+      ],
+      [
+       "43746",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR PEDRO ROUSSEFF": {
+     "vereador": {
+      "cm": "10246",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43713",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43716",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44132",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/10/2026",
+       null
+      ],
+      [
+       "43969",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "17/12/2025",
+       null
+      ],
+      [
+       "43712",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11661",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "43707",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11474",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/08/2017",
+       null
+      ],
+      [
+       "43715",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16218",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "02/06/2026",
+       null
+      ],
+      [
+       "44133",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/10/2026",
+       null
+      ],
+      [
+       "44140",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/10/2026",
+       null
+      ],
+      [
+       "44143",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/10/2026",
+       null
+      ],
+      [
+       "44125",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44108",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "12/08/2026",
+       null
+      ],
+      [
+       "43971",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "18/12/2025",
+       null
+      ],
+      [
+       "43711",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43718",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44146",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/10/2026",
+       null
+      ],
+      [
+       "44135",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/10/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADORA FLAVIA BORJA": {
+     "vereador": {
+      "cm": "10197",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43123",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2023",
+       null
+      ],
+      [
+       "40803",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       null
+      ],
+      [
+       "11614",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "20/03/2025",
+       null
+      ],
+      [
+       "43874",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "28/05/2025",
+       null
+      ],
+      [
+       "42042",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/07/2020",
+       null
+      ],
+      [
+       "44092",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "03/07/2026",
+       null
+      ],
+      [
+       "43065",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "24/03/2023",
+       null
+      ],
+      [
+       "43683",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "27/02/2025",
+       "01/05/2026"
+      ],
+      [
+       "43469",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/11/2024",
+       null
+      ],
+      [
+       "43868",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "16/05/2025",
+       null
+      ],
+      [
+       "44098",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/07/2026",
+       null
+      ],
+      [
+       "44067",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "15/05/2026",
+       null
+      ],
+      [
+       "44119",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/09/2026",
+       null
+      ],
+      [
+       "11548",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "19/11/2021",
+       null
+      ],
+      [
+       "43995",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "03/02/2026",
+       null
+      ],
+      [
+       "43813",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/04/2025",
+       null
+      ],
+      [
+       "43139",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "04/07/2023",
+       null
+      ],
+      [
+       "40800",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       null
+      ],
+      [
+       "16133",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "02/06/2025",
+       null
+      ],
+      [
+       "43347",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "15/04/2024",
+       "10/09/2026"
+      ],
+      [
+       "41950",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "04/12/2019",
+       null
+      ],
+      [
+       "43772",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "42773",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "10/08/2022",
+       null
+      ]
+     ]
+    },
+    "VEREADOR JUNINHO LOS HERMANOS": {
+     "vereador": {
+      "cm": "10151",
+      "admissao": "01/01/2013",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "41977",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/01/2020",
+       null
+      ],
+      [
+       "39558",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "11553",
+       "A DISPOSIÇÃO DA CMBH",
+       22,
+       "13/01/2022",
+       null
+      ],
+      [
+       "11602",
+       "A DISPOSIÇÃO DA CMBH",
+       22,
+       "01/01/2025",
+       null
+      ],
+      [
+       "39548",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "41380",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/02/2018",
+       null
+      ],
+      [
+       "16203",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "07/05/2026",
+       null
+      ],
+      [
+       "40168",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/11/2014",
+       null
+      ],
+      [
+       "44059",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/05/2026",
+       null
+      ],
+      [
+       "39547",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "39544",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "40457",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/07/2015",
+       null
+      ],
+      [
+       "11449",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/03/2017",
+       null
+      ],
+      [
+       "43506",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2025",
+       "12/11/2026"
+      ],
+      [
+       "39553",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "43543",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/02/2025",
+       null
+      ],
+      [
+       "43004",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/02/2023",
+       null
+      ],
+      [
+       "43686",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/03/2025",
+       null
+      ],
+      [
+       "11454",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "29/03/2017",
+       null
+      ],
+      [
+       "41367",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "15/01/2018",
+       null
+      ]
+     ]
+    },
+    "VEREADOR PROFESSOR JULIANO LOPES": {
+     "vereador": {
+      "cm": "10139",
+      "admissao": "01/01/2013",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43178",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/09/2023",
+       null
+      ],
+      [
+       "43815",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "41306",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/09/2017",
+       null
+      ],
+      [
+       "11564",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "17/02/2023",
+       null
+      ],
+      [
+       "39472",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "39471",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "43818",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/01/2025",
+       null
+      ],
+      [
+       "43852",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/04/2025",
+       null
+      ],
+      [
+       "16230",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "17/07/2026",
+       null
+      ],
+      [
+       "11654",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/08/2026",
+       null
+      ],
+      [
+       "16241",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "01/09/2026",
+       null
+      ],
+      [
+       "42543",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/07/2021",
+       null
+      ],
+      [
+       "41709",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2019",
+       null
+      ],
+      [
+       "44096",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/07/2026",
+       null
+      ],
+      [
+       "40199",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/01/2015",
+       null
+      ],
+      [
+       "16199",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "01/05/2026",
+       null
+      ],
+      [
+       "11639",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "16/06/2025",
+       null
+      ],
+      [
+       "11524",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "28/01/2021",
+       null
+      ],
+      [
+       "43129",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/06/2023",
+       null
+      ],
+      [
+       "11589",
+       "A DISPOSIÇÃO DA CMBH",
+       22,
+       "27/03/2024",
+       null
+      ],
+      [
+       "16169",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "01/12/2025",
+       null
+      ],
+      [
+       "43867",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/05/2025",
+       null
+      ],
+      [
+       "44113",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "27/08/2026",
+       null
+      ],
+      [
+       "44115",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/09/2026",
+       null
+      ],
+      [
+       "16214",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "25/05/2026",
+       "19/10/2026"
+      ],
+      [
+       "39476",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2013",
+       null
+      ],
+      [
+       "44023",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/04/2026",
+       null
+      ],
+      [
+       "44116",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/09/2026",
+       null
+      ],
+      [
+       "42669",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/04/2022",
+       null
+      ],
+      [
+       "39454",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "43816",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43954",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/10/2025",
+       null
+      ],
+      [
+       "43414",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/07/2024",
+       null
+      ],
+      [
+       "44097",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/07/2026",
+       "05/10/2026"
+      ]
+     ]
+    },
+    "VEREADOR DR. BRUNO PEDRALVA": {
+     "vereador": {
+      "cm": "10254",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43485",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43973",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "31/12/2025",
+       null
+      ],
+      [
+       "16176",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "02/03/2026",
+       "08/10/2026"
+      ],
+      [
+       "11580",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "25/05/2023",
+       null
+      ],
+      [
+       "44051",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/05/2026",
+       null
+      ],
+      [
+       "42895",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43486",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "42924",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "16231",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "16/07/2026",
+       null
+      ],
+      [
+       "43970",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/12/2025",
+       null
+      ],
+      [
+       "44013",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "11/03/2026",
+       null
+      ],
+      [
+       "11586",
+       "A DISPOSIÇÃO DA CMBH",
+       20,
+       "20/09/2023",
+       null
+      ],
+      [
+       "42898",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42894",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43821",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/01/2025",
+       null
+      ],
+      [
+       "43859",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "30/04/2025",
+       null
+      ],
+      [
+       "44109",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "12/08/2026",
+       null
+      ],
+      [
+       "42921",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42897",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "11575",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "25/05/2023",
+       null
+      ],
+      [
+       "11647",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "28/01/2026",
+       null
+      ],
+      [
+       "42923",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "44002",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "25/02/2026",
+       null
+      ],
+      [
+       "42985",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/02/2023",
+       null
+      ]
+     ]
+    },
+    "VEREADORA PROFESSORA NARA": {
+     "vereador": {
+      "cm": "10260",
+      "admissao": "03/03/2026",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "44118",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "18/09/2026",
+       null
+      ],
+      [
+       "16246",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "15/09/2026",
+       null
+      ],
+      [
+       "42957",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "44141",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "09/10/2026",
+       null
+      ],
+      [
+       "43024",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "28/02/2023",
+       "14/08/2026"
+      ],
+      [
+       "11388",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "27/03/2013",
+       null
+      ],
+      [
+       "44071",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/06/2026",
+       null
+      ],
+      [
+       "44055",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/05/2026",
+       null
+      ],
+      [
+       "43203",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/10/2023",
+       null
+      ],
+      [
+       "44054",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/05/2026",
+       null
+      ],
+      [
+       "43344",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "11/04/2024",
+       "10/07/2026"
+      ],
+      [
+       "44011",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "09/03/2026",
+       null
+      ],
+      [
+       "42305",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       "01/05/2026"
+      ],
+      [
+       "42987",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "02/02/2023",
+       null
+      ],
+      [
+       "44079",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "02/06/2026",
+       null
+      ],
+      [
+       "44112",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "19/08/2026",
+       null
+      ],
+      [
+       "41383",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/02/2018",
+       "07/07/2026"
+      ],
+      [
+       "42961",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       "14/11/2026"
+      ],
+      [
+       "42995",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       "07/10/2026"
+      ],
+      [
+       "42959",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43183",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "13/09/2023",
+       "16/08/2026"
+      ],
+      [
+       "44022",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/03/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADORA TRÓPIA": {
+     "vereador": {
+      "cm": "10255",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43166",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/08/2023",
+       null
+      ],
+      [
+       "43161",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/08/2023",
+       null
+      ],
+      [
+       "44000",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "13/02/2026",
+       "01/11/2026"
+      ],
+      [
+       "44078",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "02/06/2026",
+       null
+      ],
+      [
+       "43958",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/10/2025",
+       "22/12/2026"
+      ],
+      [
+       "11427",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "12/09/2015",
+       null
+      ],
+      [
+       "43915",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "28/07/2025",
+       null
+      ],
+      [
+       "43115",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/05/2023",
+       null
+      ],
+      [
+       "44107",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "12/08/2026",
+       null
+      ],
+      [
+       "43480",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/12/2024",
+       null
+      ],
+      [
+       "43476",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "19/11/2024",
+       null
+      ],
+      [
+       "43445",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/10/2024",
+       null
+      ],
+      [
+       "43106",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "04/05/2023",
+       null
+      ],
+      [
+       "42392",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "25/01/2021",
+       null
+      ],
+      [
+       "42480",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/03/2021",
+       null
+      ],
+      [
+       "43914",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/07/2025",
+       null
+      ],
+      [
+       "43793",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "25/03/2025",
+       null
+      ],
+      [
+       "43906",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "11/07/2025",
+       "08/06/2026"
+      ],
+      [
+       "44083",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "15/06/2026",
+       null
+      ],
+      [
+       "42871",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2023",
+       null
+      ]
+     ]
+    },
+    "VEREADORA LUIZA DULCI": {
+     "vereador": {
+      "cm": "10240",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11626",
+       "A DISPOSIÇÃO DA CMBH",
+       22.5,
+       "04/04/2025",
+       null
+      ],
+      [
+       "43959",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/10/2025",
+       null
+      ],
+      [
+       "44057",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "06/05/2026",
+       null
+      ],
+      [
+       "43501",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/01/2025",
+       null
+      ],
+      [
+       "43942",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/09/2025",
+       null
+      ],
+      [
+       "16229",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "09/07/2026",
+       null
+      ],
+      [
+       "43857",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "28/04/2025",
+       "01/05/2026"
+      ],
+      [
+       "37142",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/03/2005",
+       null
+      ],
+      [
+       "43934",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "23/08/2025",
+       null
+      ],
+      [
+       "43640",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43635",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43643",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43636",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43642",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11638",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "07/06/2025",
+       null
+      ],
+      [
+       "43542",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/02/2025",
+       null
+      ],
+      [
+       "43637",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43929",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/08/2025",
+       null
+      ],
+      [
+       "43943",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "17/09/2025",
+       null
+      ],
+      [
+       "43833",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/01/2025",
+       null
+      ],
+      [
+       "43641",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43629",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/02/2025",
+       "12/05/2026"
+      ],
+      [
+       "44073",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADOR OSVALDO LOPES": {
+     "vereador": {
+      "cm": "10247",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43911",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "19/07/2025",
+       null
+      ],
+      [
+       "43677",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43675",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "30/12/2026"
+      ],
+      [
+       "43960",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/11/2025",
+       null
+      ],
+      [
+       "43673",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11463",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/03/2017",
+       null
+      ],
+      [
+       "43777",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/03/2025",
+       null
+      ],
+      [
+       "43678",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/01/2025",
+       null
+      ],
+      [
+       "43671",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43701",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2025",
+       null
+      ],
+      [
+       "11650",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "01/05/2026",
+       null
+      ],
+      [
+       "43674",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44019",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "23/03/2026",
+       null
+      ],
+      [
+       "43676",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43672",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43670",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR EDMAR BRANCO": {
+     "vereador": {
+      "cm": "10237",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43552",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43559",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43557",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43560",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43548",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43721",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "11/03/2025",
+       null
+      ],
+      [
+       "44077",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2026",
+       null
+      ],
+      [
+       "43553",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44142",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/10/2026",
+       null
+      ],
+      [
+       "16236",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "10/08/2026",
+       null
+      ],
+      [
+       "44033",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "16/04/2026",
+       "13/10/2026"
+      ],
+      [
+       "43549",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16191",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "14/04/2026",
+       null
+      ],
+      [
+       "43544",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43962",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/11/2025",
+       null
+      ],
+      [
+       "11609",
+       "A DISPOSIÇÃO DA CMBH",
+       22,
+       "07/03/2025",
+       null
+      ],
+      [
+       "44076",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2026",
+       null
+      ],
+      [
+       "43902",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/07/2025",
+       null
+      ],
+      [
+       "11610",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "07/03/2025",
+       null
+      ],
+      [
+       "43554",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43545",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43551",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43547",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADORA JUHLIA SANTOS": {
+     "vereador": {
+      "cm": "10252",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "16225",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "03/07/2026",
+       null
+      ],
+      [
+       "43584",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16238",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "14/08/2026",
+       null
+      ],
+      [
+       "43581",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43507",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/02/2025",
+       "02/06/2026"
+      ],
+      [
+       "11622",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "26/03/2025",
+       null
+      ],
+      [
+       "44100",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/07/2026",
+       null
+      ],
+      [
+       "43952",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "07/10/2025",
+       null
+      ],
+      [
+       "44068",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/05/2026",
+       null
+      ],
+      [
+       "43583",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11617",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/03/2025",
+       null
+      ],
+      [
+       "43582",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "01/01/2025",
+       "01/05/2026"
+      ],
+      [
+       "43590",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "20/05/2026"
+      ],
+      [
+       "43585",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43935",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/08/2025",
+       null
+      ],
+      [
+       "42414",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/02/2021",
+       null
+      ],
+      [
+       "43580",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43587",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44049",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/05/2026",
+       null
+      ],
+      [
+       "43586",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44080",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/06/2026",
+       null
+      ],
+      [
+       "43592",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43917",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/07/2025",
+       null
+      ],
+      [
+       "43593",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43588",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16201",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "05/05/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADOR JOSÉ FERREIRA": {
+     "vereador": {
+      "cm": "10200",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43631",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/02/2025",
+       null
+      ],
+      [
+       "42234",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "43176",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/09/2023",
+       null
+      ],
+      [
+       "42656",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/03/2022",
+       null
+      ],
+      [
+       "16237",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "14/08/2026",
+       null
+      ],
+      [
+       "11615",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/03/2025",
+       null
+      ],
+      [
+       "11616",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/03/2025",
+       null
+      ],
+      [
+       "16174",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "11/02/2026",
+       null
+      ],
+      [
+       "42453",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/03/2021",
+       null
+      ],
+      [
+       "44046",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/05/2026",
+       null
+      ],
+      [
+       "43630",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "12/02/2025",
+       null
+      ],
+      [
+       "44093",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/07/2026",
+       "03/11/2026"
+      ],
+      [
+       "40868",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       null
+      ],
+      [
+       "42227",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42232",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       "12/06/2026"
+      ],
+      [
+       "11593",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "14/06/2024",
+       null
+      ],
+      [
+       "16152",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "04/09/2025",
+       null
+      ],
+      [
+       "16205",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "12/05/2026",
+       null
+      ],
+      [
+       "42853",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "20/12/2022",
+       null
+      ],
+      [
+       "42239",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42237",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "16207",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "20/05/2026",
+       null
+      ],
+      [
+       "16202",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "05/05/2026",
+       null
+      ],
+      [
+       "44082",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/06/2026",
+       null
+      ],
+      [
+       "43776",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "17/03/2025",
+       null
+      ],
+      [
+       "11501",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "19/02/2019",
+       null
+      ],
+      [
+       "43819",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/01/2025",
+       null
+      ],
+      [
+       "43579",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/02/2025",
+       null
+      ],
+      [
+       "11452",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/03/2017",
+       null
+      ],
+      [
+       "42243",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "43489",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/01/2025",
+       "03/07/2026"
+      ]
+     ]
+    },
+    "VEREADORA MARILDA PORTELA": {
+     "vereador": {
+      "cm": "10169",
+      "admissao": "01/01/2017",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43055",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/03/2023",
+       null
+      ],
+      [
+       "11466",
+       "A DISPOSIÇÃO DA CMBH",
+       22.3,
+       "29/03/2017",
+       null
+      ],
+      [
+       "11600",
+       "A DISPOSIÇÃO DA CMBH",
+       22,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11433",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "26/11/2015",
+       null
+      ],
+      [
+       "43062",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "21/03/2023",
+       null
+      ],
+      [
+       "40963",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       null
+      ],
+      [
+       "41429",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/04/2018",
+       null
+      ],
+      [
+       "40962",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2017",
+       null
+      ],
+      [
+       "11467",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/03/2017",
+       null
+      ],
+      [
+       "43614",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/02/2025",
+       null
+      ],
+      [
+       "41251",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/06/2017",
+       null
+      ],
+      [
+       "44028",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/04/2026",
+       null
+      ],
+      [
+       "42716",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/07/2022",
+       null
+      ],
+      [
+       "41252",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/06/2017",
+       null
+      ],
+      [
+       "43434",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/08/2024",
+       null
+      ],
+      [
+       "43898",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "24/06/2025",
+       "09/09/2026"
+      ],
+      [
+       "42803",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/10/2022",
+       null
+      ],
+      [
+       "42570",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/09/2021",
+       null
+      ],
+      [
+       "42708",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2022",
+       null
+      ],
+      [
+       "44045",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/05/2026",
+       null
+      ],
+      [
+       "44117",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/09/2026",
+       null
+      ],
+      [
+       "43596",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "07/02/2025",
+       "01/05/2026"
+      ],
+      [
+       "43175",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/09/2023",
+       null
+      ],
+      [
+       "43389",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2024",
+       null
+      ]
+     ]
+    },
+    "VEREADOR RUDSON PAIXAO": {
+     "vereador": {
+      "cm": "10248",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11221",
+       "A DISPOSIÇÃO - NIV I",
+       30,
+       "03/02/2003",
+       null
+      ],
+      [
+       "43737",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43741",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "15/03/2025",
+       "01/05/2026"
+      ],
+      [
+       "16204",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "11/05/2026",
+       null
+      ],
+      [
+       "11605",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/02/2025",
+       null
+      ],
+      [
+       "43732",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       "14/10/2026"
+      ],
+      [
+       "43734",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43733",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43921",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/08/2025",
+       null
+      ],
+      [
+       "44087",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/06/2026",
+       null
+      ],
+      [
+       "43878",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/06/2025",
+       null
+      ],
+      [
+       "43738",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/03/2025",
+       null
+      ],
+      [
+       "43736",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43735",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16186",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "01/04/2026",
+       null
+      ],
+      [
+       "11457",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/03/2017",
+       null
+      ],
+      [
+       "43928",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/08/2025",
+       null
+      ],
+      [
+       "43791",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "21/03/2025",
+       null
+      ],
+      [
+       "44052",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/05/2026",
+       null
+      ],
+      [
+       "43724",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43725",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "13/10/2026"
+      ],
+      [
+       "11509",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/05/2019",
+       null
+      ],
+      [
+       "43730",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16139",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "13/06/2025",
+       null
+      ],
+      [
+       "43731",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "14/10/2026"
+      ]
+     ]
+    },
+    "VEREADOR DIEGO SANCHES": {
+     "vereador": {
+      "cm": "10253",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43511",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11540",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "23/07/2021",
+       null
+      ],
+      [
+       "43509",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43516",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43522",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11606",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "04/02/2025",
+       null
+      ],
+      [
+       "16177",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "26/02/2026",
+       null
+      ],
+      [
+       "43523",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43513",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11518",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/01/2020",
+       null
+      ],
+      [
+       "43517",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43518",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43510",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43519",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43515",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43521",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43681",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "21/02/2025",
+       "01/05/2026"
+      ],
+      [
+       "43514",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43512",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16243",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "09/09/2026",
+       null
+      ],
+      [
+       "42318",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "43520",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43922",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/08/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADORA IZA LOURENÇA": {
+     "vereador": {
+      "cm": "10215",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43298",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/03/2024",
+       null
+      ],
+      [
+       "42536",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/06/2021",
+       null
+      ],
+      [
+       "11669",
+       "A DISPOSIÇÃO DA CMBH",
+       22.5,
+       "22/10/2026",
+       null
+      ],
+      [
+       "42958",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42182",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "44091",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/07/2026",
+       "13/10/2026"
+      ],
+      [
+       "43188",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "18/09/2023",
+       "01/06/2026"
+      ],
+      [
+       "43862",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/05/2025",
+       "05/08/2026"
+      ],
+      [
+       "43403",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/06/2024",
+       null
+      ],
+      [
+       "11508",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "01/05/2019",
+       null
+      ],
+      [
+       "43370",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/05/2024",
+       null
+      ],
+      [
+       "44104",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/08/2026",
+       null
+      ],
+      [
+       "44105",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/08/2026",
+       null
+      ],
+      [
+       "43790",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "19/03/2025",
+       null
+      ],
+      [
+       "42978",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "44027",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "02/04/2026",
+       null
+      ],
+      [
+       "11607",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/02/2025",
+       null
+      ],
+      [
+       "43814",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43274",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "06/02/2024",
+       null
+      ],
+      [
+       "42178",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42674",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "13/04/2022",
+       null
+      ],
+      [
+       "42179",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2021",
+       null
+      ],
+      [
+       "43843",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/04/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR MANINHO FELIX": {
+     "vereador": {
+      "cm": "10226",
+      "admissao": "01/02/2023",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11565",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/03/2023",
+       null
+      ],
+      [
+       "44074",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/06/2026",
+       null
+      ],
+      [
+       "42948",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42942",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43216",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "23/10/2023",
+       null
+      ],
+      [
+       "43312",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/04/2024",
+       null
+      ],
+      [
+       "42946",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42951",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43503",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "31/01/2025",
+       null
+      ],
+      [
+       "42954",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "11659",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "42947",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43393",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/06/2024",
+       null
+      ],
+      [
+       "11490",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "27/06/2018",
+       null
+      ],
+      [
+       "43597",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/02/2025",
+       null
+      ],
+      [
+       "16175",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "13/02/2026",
+       null
+      ],
+      [
+       "36591",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2004",
+       null
+      ],
+      [
+       "43680",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "21/02/2025",
+       null
+      ],
+      [
+       "42941",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42949",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43067",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "24/03/2023",
+       null
+      ],
+      [
+       "42945",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ]
+     ]
+    },
+    "VEREADOR LEONARDO ANGELO": {
+     "vereador": {
+      "cm": "10243",
+      "admissao": "01/01/2025",
+      "exoneracao": "05/11/2026"
+     },
+     "servidores": [
+      [
+       "43668",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/02/2025",
+       "05/11/2026"
+      ],
+      [
+       "16167",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "18/11/2025",
+       "05/11/2026"
+      ],
+      [
+       "44085",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/06/2026",
+       "05/11/2026"
+      ],
+      [
+       "43908",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "17/07/2025",
+       "05/11/2026"
+      ],
+      [
+       "43599",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "44003",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/02/2026",
+       "05/11/2026"
+      ],
+      [
+       "43604",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43885",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "09/06/2025",
+       "05/11/2026"
+      ],
+      [
+       "43595",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "06/02/2025",
+       "05/11/2026"
+      ],
+      [
+       "43609",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43605",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43600",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43601",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43598",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43606",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43611",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43608",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43607",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ]
+     ]
+    },
+    "VEREADOR PABLO ALMEIDA": {
+     "vereador": {
+      "cm": "10242",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "44126",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/10/2026",
+       null
+      ],
+      [
+       "43904",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/07/2025",
+       "16/11/2026"
+      ],
+      [
+       "44122",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44127",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44063",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/05/2026",
+       null
+      ],
+      [
+       "44124",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44129",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44128",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44007",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2026",
+       null
+      ],
+      [
+       "11662",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "44131",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/10/2026",
+       null
+      ],
+      [
+       "43698",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44130",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/10/2026",
+       null
+      ],
+      [
+       "44123",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/10/2026",
+       null
+      ],
+      [
+       "42530",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2021",
+       null
+      ],
+      [
+       "43688",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/01/2025",
+       null
+      ],
+      [
+       "43494",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "21/01/2025",
+       null
+      ],
+      [
+       "43691",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16211",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "01/05/2026",
+       null
+      ],
+      [
+       "44120",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "05/10/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADOR WAGNER FERREIRA": {
+     "vereador": {
+      "cm": "10257",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "11631",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "04/04/2025",
+       "19/11/2026"
+      ],
+      [
+       "43027",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2023",
+       null
+      ],
+      [
+       "43381",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/05/2024",
+       null
+      ],
+      [
+       "43160",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/08/2023",
+       null
+      ],
+      [
+       "43289",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2024",
+       null
+      ],
+      [
+       "43739",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "14/03/2025",
+       null
+      ],
+      [
+       "11666",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "11619",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "22/03/2025",
+       null
+      ],
+      [
+       "43870",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/05/2025",
+       "01/11/2026"
+      ],
+      [
+       "43202",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/10/2023",
+       null
+      ],
+      [
+       "43125",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/06/2023",
+       null
+      ],
+      [
+       "43075",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/04/2023",
+       null
+      ],
+      [
+       "44053",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/05/2026",
+       null
+      ],
+      [
+       "16198",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "28/04/2026",
+       null
+      ],
+      [
+       "16232",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "24/07/2026",
+       "04/11/2026"
+      ],
+      [
+       "42913",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "16227",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "06/07/2026",
+       null
+      ],
+      [
+       "42909",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "42903",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "44012",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/03/2026",
+       null
+      ],
+      [
+       "42914",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43236",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/11/2023",
+       null
+      ],
+      [
+       "42905",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ]
+     ]
+    },
+    "VEREADOR ARRUDA": {
+     "vereador": {
+      "cm": "10245",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43148",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/07/2023",
+       null
+      ],
+      [
+       "43936",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/08/2025",
+       null
+      ],
+      [
+       "44114",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/09/2026",
+       null
+      ],
+      [
+       "44147",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "19/10/2026",
+       null
+      ],
+      [
+       "44103",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/08/2026",
+       null
+      ],
+      [
+       "43492",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "42619",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/12/2021",
+       null
+      ],
+      [
+       "43632",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/02/2025",
+       null
+      ],
+      [
+       "43723",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/03/2025",
+       null
+      ],
+      [
+       "11663",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "10/10/2026",
+       null
+      ],
+      [
+       "39972",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/02/2014",
+       null
+      ],
+      [
+       "11412",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "18/10/2014",
+       null
+      ],
+      [
+       "39479",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "39817",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "29/05/2013",
+       null
+      ],
+      [
+       "39579",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2013",
+       null
+      ],
+      [
+       "37018",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2005",
+       null
+      ],
+      [
+       "43490",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43364",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/05/2024",
+       null
+      ],
+      [
+       "44026",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/04/2026",
+       "24/09/2026"
+      ],
+      [
+       "43998",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/02/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADOR TILELEO": {
+     "vereador": {
+      "cm": "10250",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43831",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "14/01/2025",
+       null
+      ],
+      [
+       "43855",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "24/04/2025",
+       null
+      ],
+      [
+       "43763",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43771",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       "12/11/2026"
+      ],
+      [
+       "43774",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44010",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "04/03/2026",
+       null
+      ],
+      [
+       "43765",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43775",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16234",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "30/07/2026",
+       null
+      ],
+      [
+       "43907",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/07/2025",
+       null
+      ],
+      [
+       "44024",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/04/2026",
+       null
+      ],
+      [
+       "16249",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "23/10/2026",
+       null
+      ],
+      [
+       "41649",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/02/2019",
+       null
+      ],
+      [
+       "16206",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "13/05/2026",
+       null
+      ],
+      [
+       "11653",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "23/07/2026",
+       null
+      ],
+      [
+       "43762",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43767",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44102",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/08/2026",
+       null
+      ],
+      [
+       "43761",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43768",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11649",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "11/04/2026",
+       null
+      ],
+      [
+       "43946",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "30/09/2025",
+       null
+      ],
+      [
+       "16224",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "01/07/2026",
+       null
+      ],
+      [
+       "16248",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "02/10/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADORA FERNANDA PEREIRA ALTOÉ": {
+     "vereador": {
+      "cm": "10205",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43441",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "11/09/2024",
+       null
+      ],
+      [
+       "43941",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "15/09/2025",
+       null
+      ],
+      [
+       "42582",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/10/2021",
+       null
+      ],
+      [
+       "43525",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2025",
+       null
+      ],
+      [
+       "42810",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/10/2022",
+       null
+      ],
+      [
+       "42379",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/01/2021",
+       null
+      ],
+      [
+       "43886",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "07/06/2025",
+       null
+      ],
+      [
+       "43647",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/02/2025",
+       null
+      ],
+      [
+       "41991",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "12/02/2020",
+       null
+      ],
+      [
+       "43374",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/05/2024",
+       null
+      ],
+      [
+       "42560",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "09/08/2021",
+       null
+      ],
+      [
+       "42840",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/11/2022",
+       null
+      ],
+      [
+       "42437",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/02/2021",
+       null
+      ],
+      [
+       "44032",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "15/04/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADOR PEDRO PATRUS": {
+     "vereador": {
+      "cm": "10220",
+      "admissao": "29/03/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "42497",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/04/2021",
+       null
+      ],
+      [
+       "43440",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "09/09/2024",
+       null
+      ],
+      [
+       "44020",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "23/03/2026",
+       null
+      ],
+      [
+       "42486",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/04/2021",
+       "01/11/2026"
+      ],
+      [
+       "42502",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/04/2021",
+       null
+      ],
+      [
+       "44016",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/03/2026",
+       null
+      ],
+      [
+       "11542",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "18/08/2021",
+       null
+      ],
+      [
+       "43810",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/04/2025",
+       null
+      ],
+      [
+       "44070",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/06/2026",
+       null
+      ],
+      [
+       "42537",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/06/2021",
+       null
+      ],
+      [
+       "16171",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "05/01/2026",
+       null
+      ],
+      [
+       "41255",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/06/2017",
+       null
+      ],
+      [
+       "11596",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "13/08/2024",
+       null
+      ],
+      [
+       "42622",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2022",
+       null
+      ],
+      [
+       "42615",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/12/2021",
+       null
+      ],
+      [
+       "43220",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/11/2023",
+       null
+      ],
+      [
+       "16192",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "13/04/2026",
+       null
+      ],
+      [
+       "42990",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/02/2023",
+       null
+      ],
+      [
+       "11543",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "18/08/2021",
+       null
+      ],
+      [
+       "43159",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/08/2023",
+       null
+      ],
+      [
+       "43288",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/03/2024",
+       null
+      ],
+      [
+       "11533",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/05/2021",
+       null
+      ],
+      [
+       "42501",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "27/04/2021",
+       null
+      ],
+      [
+       "44111",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "18/08/2026",
+       null
+      ]
+     ]
+    },
+    "VEREADOR NENEM DA FARMACIA": {
+     "vereador": {
+      "cm": "10238",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43577",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/02/2025",
+       null
+      ],
+      [
+       "43930",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "19/08/2025",
+       null
+      ],
+      [
+       "42196",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       "04/07/2026"
+      ],
+      [
+       "43913",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/07/2025",
+       null
+      ],
+      [
+       "43660",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11012",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "27/07/1988",
+       null
+      ],
+      [
+       "43651",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "18/02/2025",
+       null
+      ],
+      [
+       "43657",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43664",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43655",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11644",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "20/12/2025",
+       null
+      ],
+      [
+       "43873",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/05/2025",
+       null
+      ],
+      [
+       "11544",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "18/08/2021",
+       null
+      ],
+      [
+       "43662",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43658",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44050",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/05/2026",
+       null
+      ],
+      [
+       "43661",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43659",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43653",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16123",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "15/05/2025",
+       null
+      ],
+      [
+       "43663",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "11612",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "18/03/2025",
+       null
+      ],
+      [
+       "16134",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "02/06/2025",
+       null
+      ],
+      [
+       "16216",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "28/05/2026",
+       null
+      ],
+      [
+       "43652",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "16135",
+       "ESTAGIÁRIO NÍVEL MÉDIO",
+       20,
+       "03/06/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADORA JANAINA CARDOSO": {
+     "vereador": {
+      "cm": "10229",
+      "admissao": "13/02/2023",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43685",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "01/03/2025",
+       "01/05/2026"
+      ],
+      [
+       "43481",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "11/12/2024",
+       null
+      ],
+      [
+       "43013",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "16/02/2023",
+       null
+      ],
+      [
+       "43633",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/02/2025",
+       null
+      ],
+      [
+       "43034",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/03/2023",
+       null
+      ],
+      [
+       "43087",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/04/2023",
+       null
+      ],
+      [
+       "43096",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "26/04/2023",
+       null
+      ],
+      [
+       "43230",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/11/2023",
+       null
+      ],
+      [
+       "43051",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/03/2023",
+       null
+      ],
+      [
+       "11453",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "30/03/2017",
+       null
+      ],
+      [
+       "43276",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/02/2024",
+       null
+      ],
+      [
+       "11450",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/03/2017",
+       null
+      ],
+      [
+       "41437",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/05/2018",
+       null
+      ],
+      [
+       "43086",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/04/2023",
+       null
+      ],
+      [
+       "43205",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/10/2023",
+       null
+      ],
+      [
+       "43376",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "08/05/2024",
+       "08/08/2026"
+      ],
+      [
+       "43036",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/03/2023",
+       null
+      ],
+      [
+       "43830",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/01/2025",
+       null
+      ],
+      [
+       "43669",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "21/02/2025",
+       null
+      ],
+      [
+       "44110",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/08/2026",
+       null
+      ],
+      [
+       "44047",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/05/2026",
+       null
+      ],
+      [
+       "43829",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/01/2025",
+       null
+      ],
+      [
+       "11339",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "01/02/2011",
+       null
+      ],
+      [
+       "11569",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "17/04/2023",
+       null
+      ]
+     ]
+    },
+    "VEREADOR LUCAS GANEM": {
+     "vereador": {
+      "cm": "10241",
+      "admissao": "01/01/2025",
+      "exoneracao": "05/11/2026"
+     },
+     "servidores": [
+      [
+       "43618",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43792",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "25/03/2025",
+       "05/11/2026"
+      ],
+      [
+       "44039",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "29/04/2026",
+       "05/11/2026"
+      ],
+      [
+       "44037",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/04/2026",
+       "05/11/2026"
+      ],
+      [
+       "43940",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "15/09/2025",
+       "05/11/2026"
+      ],
+      [
+       "44040",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "30/04/2026",
+       "05/11/2026"
+      ],
+      [
+       "44035",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "24/04/2026",
+       "01/11/2026"
+      ],
+      [
+       "43616",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "44038",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/04/2026",
+       "05/11/2026"
+      ],
+      [
+       "43627",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/02/2025",
+       "05/11/2026"
+      ],
+      [
+       "44048",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/05/2026",
+       "05/11/2026"
+      ],
+      [
+       "43624",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "05/11/2026"
+      ],
+      [
+       "43621",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "03/07/2026"
+      ],
+      [
+       "43619",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       "28/09/2026"
+      ],
+      [
+       "44036",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/04/2026",
+       "05/11/2026"
+      ]
+     ]
+    },
+    "VEREADOR HELTON JUNIOR": {
+     "vereador": {
+      "cm": "10244",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43572",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43703",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "07/03/2025",
+       "01/05/2026"
+      ],
+      [
+       "16172",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "27/01/2026",
+       null
+      ],
+      [
+       "43567",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43568",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43574",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/01/2025",
+       null
+      ],
+      [
+       "11419",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "29/04/2015",
+       null
+      ],
+      [
+       "43563",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43566",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43570",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43562",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43704",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/03/2025",
+       null
+      ],
+      [
+       "43569",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44086",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "25/06/2026",
+       null
+      ],
+      [
+       "41588",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/11/2018",
+       null
+      ],
+      [
+       "16179",
+       "ESTAGIÁRIO NÍVEL SUPERIOR",
+       20,
+       "05/03/2026",
+       null
+      ],
+      [
+       "43564",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "43573",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ],
+      [
+       "44136",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "07/10/2026",
+       null
+      ],
+      [
+       "43565",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2025",
+       null
+      ]
+     ]
+    },
+    "VEREADOR CLEITON XAVIER": {
+     "vereador": {
+      "cm": "10258",
+      "admissao": "01/01/2025",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43255",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "17/12/2023",
+       null
+      ],
+      [
+       "44149",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/10/2026",
+       null
+      ],
+      [
+       "43238",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "28/11/2023",
+       null
+      ],
+      [
+       "11646",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "28/01/2026",
+       null
+      ],
+      [
+       "43497",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "20/01/2025",
+       null
+      ],
+      [
+       "44094",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "04/07/2026",
+       null
+      ],
+      [
+       "43899",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "27/06/2025",
+       "21/10/2026"
+      ],
+      [
+       "43383",
+       "AUXILIAR LEGISLATIVO",
+       30,
+       "20/05/2024",
+       "01/05/2026"
+      ],
+      [
+       "43972",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "27/12/2025",
+       null
+      ],
+      [
+       "11514",
+       "A DISPOSIÇÃO DA CMBH",
+       30,
+       "30/07/2019",
+       null
+      ],
+      [
+       "43975",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "01/01/2026",
+       null
+      ],
+      [
+       "43084",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "19/04/2023",
+       null
+      ],
+      [
+       "42730",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/07/2022",
+       null
+      ],
+      [
+       "43646",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "14/02/2025",
+       null
+      ],
+      [
+       "42720",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/07/2022",
+       null
+      ],
+      [
+       "44138",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "07/10/2026",
+       null
+      ],
+      [
+       "42769",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "06/08/2022",
+       null
+      ],
+      [
+       "42726",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/07/2022",
+       null
+      ],
+      [
+       "44029",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "07/04/2026",
+       "07/10/2026"
+      ],
+      [
+       "42724",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/07/2022",
+       null
+      ],
+      [
+       "42732",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/07/2022",
+       null
+      ],
+      [
+       "43165",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/08/2023",
+       null
+      ],
+      [
+       "11180",
+       "A DISPOSIÇÃO - NIV I",
+       30,
+       "01/02/2001",
+       null
+      ]
+     ]
+    },
+    "VEREADOR CLÁUDIO DO MUNDO NOVO": {
+     "vereador": {
+      "cm": "10202",
+      "admissao": "01/01/2021",
+      "exoneracao": null
+     },
+     "servidores": [
+      [
+       "43224",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/11/2023",
+       null
+      ],
+      [
+       "43966",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/11/2025",
+       null
+      ],
+      [
+       "44025",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/04/2026",
+       null
+      ],
+      [
+       "42334",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42336",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "42516",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "10/05/2021",
+       "12/05/2026"
+      ],
+      [
+       "43118",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "22/05/2023",
+       null
+      ],
+      [
+       "42981",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/02/2023",
+       null
+      ],
+      [
+       "43037",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "03/03/2023",
+       null
+      ],
+      [
+       "43999",
+       "ASSESSOR PARLAMENTAR",
+       30,
+       "10/02/2026",
+       null
+      ],
+      [
+       "43008",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "13/02/2023",
+       null
+      ],
+      [
+       "43876",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "02/06/2025",
+       null
+      ],
+      [
+       "42103",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "01/01/2021",
+       null
+      ],
+      [
+       "44014",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "12/03/2026",
+       null
+      ],
+      [
+       "42512",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "05/05/2021",
+       null
+      ]
+     ]
+    },
+    "VEREADORA CIDA FALABELLA": {
+     "vereador": {
+      "cm": "10224",
+      "admissao": "01/02/2023",
+      "exoneracao": null
+     },
+     "servidores": []
+    },
+    "VEREADOR RUBÃO": {
+     "vereador": null,
+     "servidores": [
+      [
+       "43993",
+       "ASSESSOR PARLAMENTAR",
+       40,
+       "29/01/2026",
+       null
+      ],
+      [
+       "11588",
+       "A DISPOSIÇÃO DA CMBH",
+       40,
+       "14/03/2024",
+       null
+      ]
+     ]
+    }
+   }
+  }
+ }
+}

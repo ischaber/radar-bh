@@ -41,9 +41,14 @@ Pasta do projeto: `C:\Users\wallp\Documents\Codex\radarBH`. Git: `C:\Program Fil
    detalhamento de cada vereador, 10 s entre cliques). Salvar `localStorage.cust_det` num arquivo e rodar
    `node scripts/juntar-custeio-detalhe.js arquivo.json`: ele confere a soma dos itens com o total do mês e
    só grava se bater.
+   **Equipe dos gabinetes** (uma vez por mês, NÃO automática): a Consulta à Remuneração pede uma
+   verificação anti-robô na entrada, que só uma pessoa pode responder. Quando o usuário estiver presente
+   e responder, seguir `scripts/navegador-equipes.js` e rodar `node scripts/juntar-equipes.js arquivo.json`.
+   Sem isso, o site continua mostrando a equipe do último mês coletado. O subsídio e os benefícios são
+   calculados sozinhos pelo `gerar-site.js`, pela regra oficial.
 8. **Publicar**: `node scripts/gerar-site.js`, `node scripts/lista-fichas.js`, depois commit de
    `dados/fichas-encontradas.json`, `dados/transcricoes-2turno.json`, `dados/votos-nominais.json`,
-   `dados/custeio.json`, `site/dados.json` e `FICHAS-2o-TURNO.md`, e `git push`. Conferir em
+   `dados/custeio.json`, `dados/gabinetes.json`, `site/dados.json` e `FICHAS-2o-TURNO.md`, e `git push`. Conferir em
    https://ischaber.github.io/radar-bh/dados.json que o número de votações nominais subiu.
 9. **Resumo**: quais PLs entraram, resultado de cada um, quais meses de custeio foram atualizados,
    o que ficou pendente e por quê.

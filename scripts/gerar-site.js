@@ -214,6 +214,101 @@ for (const [mes, m] of Object.entries(custeioDados?.meses || {})) {
 if (custeioSemDono.size) console.log(`Custeio de quem não está na lista atual: ${[...custeioSemDono].join(", ")}`);
 const custeioMeses = Object.keys(custeioDados?.meses || {});
 
+// ---------- Equipe do gabinete e custo do mandato pela regra oficial ----------
+// Equipe: dados/gabinetes.json (Consulta à Remuneração; sem nomes e sem salários, que a Câmara só mostra
+// um a um, com verificação anti-robô). Subsídio e benefícios: valores fixos publicados na Estrutura
+// Remuneratória dos vereadores, iguais para todos; o que muda é desde quando cada um exerce o mandato.
+const REGRA = {
+  fonte: `${BASE}/transparencia/pessoal/estrutura-remuneratoria/vereadores`,
+  subsidio: 18402.02, // Lei 11.016/2016
+  auxilio: 2374.0, // Lei 11.849, de 28/04/2025: contamos a partir de maio/2025
+  auxilioDesde: "2025-05",
+  inicioGestao: "2025-01-01",
+};
+const gabinetesDados = extra("gabinetes.json");
+const mesEquipe = Object.keys(gabinetesDados?.meses || {}).at(-1) || null;
+const equipePorSlug = new Map();
+const inicioPorSlug = new Map();
+const equipesSemDono = [];
+for (const [lotacao, g] of Object.entries(gabinetesDados?.meses[mesEquipe]?.gabinetes || {})) {
+  const slug = chaveVereador(lotacao);
+  if (!slug) {
+    equipesSemDono.push(lotacao);
+    continue;
+  }
+  const ativos = g.servidores.filter((s) => !s.at(4));
+  const grupos = new Map();
+  for (const [, cargo, h] of ativos) {
+    const k = `${cargo}|${h}`;
+    grupos.set(k, (grupos.get(k) || 0) + 1);
+  }
+  equipePorSlug.set(slug, {
+    mes: mesEquipe,
+    pessoas: ativos.length,
+    saiuNoMes: g.servidores.length - ativos.length,
+    porCargo: [...grupos].map(([k, n]) => [...k.split("|").map((x, i) => (i ? Number(x) : x)), n]).sort((a, b) => b[2] - a[2]),
+  });
+  if (g.vereador?.admissao) inicioPorSlug.set(slug, g.vereador.admissao.split("/").reverse().join("-"));
+}
+if (equipesSemDono.length) console.log(`Gabinetes de quem não está na lista atual: ${equipesSemDono.join(", ")}`);
+
+const mesesEntre = (de, ate) => {
+  const r = [];
+  let [a, m] = de.split("-").map(Number);
+  const [A, M] = ate.split("-").map(Number);
+  while (a < A || (a === A && m <= M)) {
+    r.push(`${a}-${String(m).padStart(2, "0")}`);
+    if (++m > 12) (m = 1), a++;
+  }
+  return r;
+};
+// Custo pela regra, do início do mandato (ou da gestão) até o último mês fechado.
+const ultimoMesFechado = (() => {
+  const d = new Date();
+  d.setUTCDate(1);
+  d.setUTCMonth(d.getUTCMonth() - 1);
+  return d.toISOString().slice(0, 7);
+})();
+const centavos = (x) => Math.round(x * 100) / 100;
+function custoMandato(slug) {
+  // Só calcula com a data de posse da lista oficial. Sem ela (suplente que entrou depois do mês da lista
+  // ou que exerceu o mandato por períodos), não estimamos.
+  let inicio = inicioPorSlug.get(slug);
+  if (!inicio) return null;
+  if (inicio < REGRA.inicioGestao) inicio = REGRA.inicioGestao;
+  // licença sem salário (SR) no Plenário: o valor pago foi menor que o da regra
+  const sr = registros.get(slug)?.SR || 0;
+  return { ...calcular(inicio), ...(sr ? { diasSemSalario: sr } : {}) };
+}
+function calcular(inicio) {
+  const meses = mesesEntre(inicio.slice(0, 7), ultimoMesFechado);
+  const dia = Number(inicio.slice(8, 10));
+  const fracao = (mes, i) => {
+    if (i > 0 || dia === 1) return 1;
+    const [a, m] = mes.split("-").map(Number);
+    const dias = new Date(Date.UTC(a, m, 0)).getUTCDate();
+    return (dias - dia + 1) / dias;
+  };
+  let subsidio = 0;
+  let auxilio = 0;
+  meses.forEach((mes, i) => {
+    subsidio += REGRA.subsidio * fracao(mes, i);
+    if (mes >= REGRA.auxilioDesde) auxilio += REGRA.auxilio * fracao(mes, i);
+  });
+  // terço de férias: em janeiro, depois de 12 meses de mandato
+  const ferias = meses.filter((m) => m.endsWith("-01") && inicio.slice(0, 7) <= `${Number(m.slice(0, 4)) - 1}-01`).length;
+  const dezembros = meses.filter((m) => m.endsWith("-12")).map((m) => Number(m.slice(0, 4)));
+  return {
+    inicio,
+    ate: ultimoMesFechado,
+    meses: centavos(meses.reduce((s, m, i) => s + fracao(m, i), 0)),
+    subsidio: centavos(subsidio),
+    auxilio: centavos(auxilio),
+    ferias: centavos((ferias * REGRA.subsidio) / 3),
+    dezembros, // 13º: até um subsídio por ano, proporcional à presença; o valor pago não é publicado
+  };
+}
+
 if (votosSemCartao.size) console.log(`Votos nominais de quem não está na lista atual (contam nos totais): ${[...votosSemCartao].join(", ")}`);
 
 const saida = {
@@ -250,7 +345,15 @@ const saida = {
     marcasVotacoes: marcasTexto(v.slug),
     votosNominais: votosPorSlug.get(v.slug) || [],
     custeio: custeioPorSlug.get(v.slug) || [],
+    equipe: equipePorSlug.get(v.slug) || null,
+    mandato: custoMandato(v.slug),
   })),
+  mandato: {
+    regra: REGRA,
+    equipeFonte: gabinetesDados?.fonte || null,
+    equipeMes: mesEquipe,
+    equipeColetadaEm: gabinetesDados?.meses[mesEquipe]?.coletadoEm || null,
+  },
   custeio: custeioDados
     ? {
         fonte: custeioDados.fonte,
