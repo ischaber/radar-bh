@@ -247,6 +247,10 @@ for (const [lotacao, g] of Object.entries(gabinetesDados?.meses[mesEquipe]?.gabi
     pessoas: ativos.length,
     saiuNoMes: g.servidores.length - ativos.length,
     porCargo: [...grupos].map(([k, n]) => [...k.split("|").map((x, i) => (i ? Number(x) : x)), n]).sort((a, b) => b[2] - a[2]),
+    // [nome, cargo, horas por semana, admissão, exoneração no mês?], em ordem alfabética
+    lista: g.servidores
+      .map(([, cargo, h, adm, exo, nome]) => [nome || "(sem nome na fonte)", cargo, h, adm, exo])
+      .sort((a, b) => a[0].localeCompare(b[0], "pt-BR")),
   });
   if (g.vereador?.admissao) inicioPorSlug.set(slug, g.vereador.admissao.split("/").reverse().join("-"));
 }

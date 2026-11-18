@@ -1,14 +1,15 @@
 {
  "fonte": "https://www.cmbh.mg.gov.br/transparencia/pessoal/consulta-a-remuneracao",
- "observacao": "Servidores lotados em cada gabinete de vereador, por mês, como aparecem na Consulta à Remuneração da Câmara. Sem nomes e sem salários.",
+ "observacao": "Servidores lotados em cada gabinete de vereador, por mês, como aparecem na Consulta à Remuneração da Câmara: nome, cargo e carga horária; sem salários.",
  "meses": {
   "2026-10": {
-   "coletadoEm": "2026-11-18T12:42:36.103Z",
+   "coletadoEm": "2026-11-18",
    "totalServidoresDaCamara": 1527,
    "gabinetes": {
     "VEREADORA DRA MICHELLY SIQUEIRA": {
      "vereador": {
       "cm": "10236",
+      "nome": "MICHELLY CAROLINE LUIZ PEREIRA DE SIQUEIRA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -18,160 +19,183 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "20/01/2023",
-       null
+       null,
+       "ALESSANDRA ARANTES GONTIJO DE AMORIM ARAUJO"
       ],
       [
        "43997",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/02/2026",
-       null
+       null,
+       "ALZIRA DUTRA MONTES"
       ],
       [
        "44075",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2026",
-       null
+       null,
+       "CAMILE BARBOSA GUIMARÃES"
       ],
       [
        "43530",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "CATIANE FERREIRA GOMES "
       ],
       [
        "43938",
        "ASSESSOR PARLAMENTAR",
        30,
        "04/09/2025",
-       null
+       null,
+       "CLAUDIO GODINHO DE REZENDE"
       ],
       [
        "43991",
        "ASSESSOR PARLAMENTAR",
        30,
        "15/01/2026",
-       null
+       null,
+       "DANIELA MOREIRA LOPES"
       ],
       [
        "43526",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DELVACI PINHEIRO DE ALMEIDA JUNIOR"
       ],
       [
        "43532",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "HUGO LEONARDO DE NAZARÉ"
       ],
       [
        "43832",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/01/2025",
-       null
+       null,
+       "JOÃO MACARIO DA SILVA NETO"
       ],
       [
        "43540",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "LUAN MOGIS CANDIDO SILVA "
       ],
       [
        "43538",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LUCAS ANDRADE BRANDOLIS"
       ],
       [
        "43856",
        "ASSESSOR PARLAMENTAR",
        40,
        "25/04/2025",
-       null
+       null,
+       "MANUELJUVENCIO OTTONI SILVA"
       ],
       [
        "44062",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/05/2026",
-       null
+       null,
+       "MARCELO RODRIGUES VITOR"
       ],
       [
        "43529",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "MARCELO VIEIRA RIBEIRO"
       ],
       [
        "43539",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "MATHEUS BRAGANÇA LANA SILVEIRA ATAIDE"
       ],
       [
        "11608",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "07/03/2025",
-       null
+       null,
+       "MIRIAM APARECIDA BARBOSA"
       ],
       [
        "16115",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "15/04/2025",
-       null
+       null,
+       "OCTAVIO MATEUS FIGUEIRA CARDOSO"
       ],
       [
        "11613",
        "A DISPOSIÇÃO DA CMBH",
        44,
        "18/03/2025",
-       null
+       null,
+       "REGINALDO SOUZA DA SILVA"
       ],
       [
        "43533",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SYLVIO MOREIRA DE OLIVEIRA"
       ],
       [
        "44066",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/05/2026",
-       null
+       null,
+       "TATIANE MICHELE CAMPOS DE OLIVEIRA ROSA"
       ],
       [
        "43536",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "TAYARA MENDES DUARTE"
       ],
       [
        "11648",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "21/02/2026",
-       null
+       null,
+       "VILMA APARECIDA ROCHA SANTOS"
       ]
      ]
     },
     "VEREADORA LOÍDE GONÇALVES": {
      "vereador": {
       "cm": "10225",
+      "nome": "ELIZETE LOIDE GONÇALVES TAVARES",
       "admissao": "01/02/2023",
       "exoneracao": null
      },
@@ -181,153 +205,175 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "09/04/2026",
-       null
+       null,
+       "ALESSON COELHO DE CARVALHO"
       ],
       [
        "42915",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "ALEXANDRO SANTOS"
       ],
       [
        "11572",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "25/05/2023",
-       null
+       null,
+       "APARECIDA MARIA SOARES VIANA"
       ],
       [
        "43927",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/08/2025",
-       null
+       null,
+       "CAROLINE EVELIN RIBEIRO"
       ],
       [
        "42988",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "DOLORES REZENDE RIOS"
       ],
       [
        "43422",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/07/2024",
-       null
+       null,
+       "DÉBORA MARIA PEREIRA"
       ],
       [
        "43112",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/05/2023",
-       null
+       null,
+       "ERICK JUNIO DE MORAIS SOUZA FERREIRA"
       ],
       [
        "42928",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "FELIPE CLAUDIO DE SOUZA MACHADO"
       ],
       [
        "42936",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "JOÃO CARLOS SPOSITO"
       ],
       [
        "16221",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "17/06/2026",
-       null
+       null,
+       "KATHRYN BARBALHO FERREIRA"
       ],
       [
        "42939",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "KETLEN FERREIRA ROCHA"
       ],
       [
        "42938",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "LARISSA GONÇALVES SILVA GUIMARÃES"
       ],
       [
        "43168",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/08/2023",
-       null
+       null,
+       "LEANDRO XAVIER DE OLIVEIRA"
       ],
       [
        "42929",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "LECY GOMES MARTINS"
       ],
       [
        "43505",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2025",
-       null
+       null,
+       "LORRAYNE TAYNA SILVA DAMASCENO"
       ],
       [
        "44042",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/05/2026",
-       null
+       null,
+       "MICHAEL SILVA FERNANDES FERREIRA"
       ],
       [
        "43424",
        "ASSESSOR PARLAMENTAR",
        30,
        "17/07/2024",
-       null
+       null,
+       "NAIR SARA SOUSA PRATES BRAGA"
       ],
       [
        "43259",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/01/2024",
-       null
+       null,
+       "NILANDER GOMES DA CUNHA"
       ],
       [
        "16188",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "08/04/2026",
-       null
+       null,
+       "PEDRO HENRIQUE SENNA SANTANA DE MATOS"
       ],
       [
        "43140",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/07/2023",
-       "30/11/2026"
+       "30/11/2026",
+       "ROSANGELA DANNILA VIEIRA GOMES"
       ],
       [
        "43070",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/04/2023",
-       null
+       null,
+       "TIAGO ANTONIO BATISTA ALMEIDA DE JESUS"
       ]
      ]
     },
     "VEREADOR IRLAN MELO": {
      "vereador": {
       "cm": "10163",
+      "nome": "IRLAN CHAVES DE OLIVEIRA MELO",
       "admissao": "01/01/2017",
       "exoneracao": null
      },
@@ -337,188 +383,215 @@
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "ALEX KRONEMBERGER ALVES"
       ],
       [
        "11657",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "ANDRE CARDOSO GOMES"
       ],
       [
        "41085",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/01/2017",
-       null
+       null,
+       "ANTONIO DE CASTRO SIQUEIRA"
       ],
       [
        "43388",
        "ASSESSOR PARLAMENTAR",
        30,
        "29/05/2024",
-       "07/10/2026"
+       "07/10/2026",
+       "AYSSA LINHARES COUTO"
       ],
       [
        "16235",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "03/08/2026",
-       null
+       null,
+       "BIANCA LARA DOS SANTOS SOUZA"
       ],
       [
        "43846",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/04/2025",
-       "07/10/2026"
+       "07/10/2026",
+       "ABNER ALVES DE OLIVEIRA"
       ],
       [
        "41805",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/05/2019",
-       null
+       null,
+       "AILTON BARBOSA LIMA"
       ],
       [
        "43429",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/08/2024",
-       null
+       null,
+       "CRISTIANE DE ARAUJO MAFIA"
       ],
       [
        "16156",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "05/09/2025",
-       null
+       null,
+       "DAVI ASAFE SANTOS"
       ],
       [
        "43974",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2026",
-       null
+       null,
+       "DAYANE RIBEIRO FERREIRA SILVA"
       ],
       [
        "11555",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "18/03/2022",
-       null
+       null,
+       "DORIAN TAVARES FAGUNDES"
       ],
       [
        "11658",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "FERNANDO CESAR LEOPOLDINO"
       ],
       [
        "44065",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/05/2026",
-       "07/10/2026"
+       "07/10/2026",
+       "GULLYVERT DE CRISTO PEREIRA"
       ],
       [
        "43858",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/05/2025",
-       "07/10/2026"
+       "07/10/2026",
+       "JOÃO MIGUEL DE OLIVEIRA"
       ],
       [
        "42980",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "JULIO CESAR GOMES TEIXEIRA"
       ],
       [
        "40988",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2017",
-       null
+       null,
+       "KELLY RIBEIRO DE SOUZA"
       ],
       [
        "44061",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/05/2026",
-       "07/10/2026"
+       "07/10/2026",
+       "LETICIA VITORIA DA SILVA SOUZA"
       ],
       [
        "40998",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       "07/10/2026"
+       "07/10/2026",
+       "LUCIANO BUCHACRA"
       ],
       [
        "43679",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/02/2025",
-       null
+       null,
+       "MATEUS GONÇALVES SANTOS"
       ],
       [
        "42139",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/01/2021",
-       "02/11/2026"
+       "02/11/2026",
+       "ROGERIA SILVEIRA COSTA SOUZA"
       ],
       [
        "42523",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/05/2021",
-       null
+       null,
+       "ROGÉRIO SOUZA MAIA BUÇARD"
       ],
       [
        "42977",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       "02/11/2026"
+       "02/11/2026",
+       "SANDRA TEREZINHA DE MELLO ROCHA"
       ],
       [
        "41940",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/12/2019",
-       null
+       null,
+       "SVEND ERIK LOBATO NIELSEN"
       ],
       [
        "44137",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/10/2026",
-       null
+       null,
+       "VANIA REGINA DE FARIA"
       ],
       [
        "11643",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "14/11/2025",
-       null
+       null,
+       "VINICIUS DIAS SILVA"
       ],
       [
        "40989",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       null
+       null,
+       "WILIVALDO FREITAS DE OLIVEIRA"
       ]
      ]
     },
     "VEREADOR VILE SANTOS": {
      "vereador": {
       "cm": "10239",
+      "nome": "WILI DOS SANTOS",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -528,146 +601,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "11/06/2025",
-       null
+       null,
+       "ALEX VIANA FONSECA"
       ],
       [
        "43801",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ALEXEI MARQUES DA LUZ"
       ],
       [
        "43799",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ANA PAULA MONTEIRO DA SILVA"
       ],
       [
        "43802",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ARLITA MARIA SARAIVA LOPES"
       ],
       [
        "43800",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ARTHUR OLIVEIRA GONÇALVES"
       ],
       [
        "43968",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/11/2025",
-       "23/09/2026"
+       "23/09/2026",
+       "EDUARDA CONRADO PROFIRO MAGELA"
       ],
       [
        "44148",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/10/2026",
-       null
+       null,
+       "EDUARDA CONRADO PROFIRO MAGELA"
       ],
       [
        "43808",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/01/2025",
-       "09/10/2026"
+       "09/10/2026",
+       "FILIPE BERNARDES OLBRISCH"
       ],
       [
        "43948",
        "ASSESSOR PARLAMENTAR",
        30,
        "03/10/2025",
-       "02/10/2026"
+       "02/10/2026",
+       "FILIPE FERREIRA SALES OLIVEIRA"
       ],
       [
        "43849",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/04/2025",
-       "23/09/2026"
+       "23/09/2026",
+       "JOAO ANTONIO CORDEIRO FERNANDES"
       ],
       [
        "43796",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LETICIA MENDONÇA FREIRE"
       ],
       [
        "43809",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/01/2025",
-       null
+       null,
+       "MARCO TULIO SILVA DE ALCANTARA"
       ],
       [
        "16247",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "17/09/2026",
-       null
+       null,
+       "MARIANA DE FREITAS CHAVES"
       ],
       [
        "43803",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "RAPHAEL DE OLIVEIRA GOMES"
       ],
       [
        "43561",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/02/2025",
-       null
+       null,
+       "RAYANE LORENA ARAUJO MAIA"
       ],
       [
        "43805",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "REGINA HELENA SIMAO"
       ],
       [
        "44144",
        "ASSESSOR PARLAMENTAR",
        30,
        "14/10/2026",
-       null
+       null,
+       "ROSEMEIRE PEREIRA DE AQUINO"
       ],
       [
        "44058",
        "ASSESSOR PARLAMENTAR",
        30,
        "06/05/2026",
-       null
+       null,
+       "SHEILA MARISA ALVES DA SILVA GOMES"
       ],
       [
        "43797",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "THAIS AUREA GOMES DA SILVA"
       ],
       [
        "43798",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "VITOR RODRIGUES VIANA"
       ]
      ]
     },
     "VEREADOR UNER AUGUSTO": {
      "vereador": {
       "cm": "10251",
+      "nome": "UNER AUGUSTO DE CARVALHO ALVARENGA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -677,146 +771,167 @@
        "A DISPOSIÇÃO DA CMBH",
        40,
        "04/04/2025",
-       null
+       null,
+       "ALEXANDRE AUGUSTO DE PAULA"
       ],
       [
        "43781",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ANGELO DRUMOND DOS SANTOS"
       ],
       [
        "44081",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/06/2026",
-       null
+       null,
+       "BRUNO MELO DE OLIVEIRA SANTOS "
       ],
       [
        "43889",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/06/2025",
-       null
+       null,
+       "BARBARA TERENA BERNARDES FRANCO BARBOSA MARINHO"
       ],
       [
        "44006",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2026",
-       null
+       null,
+       "EDERSON THIAGO MARQUES DE SOUZA"
       ],
       [
        "43782",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ERICK JONSHON SANTOS"
       ],
       [
        "43779",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GABRIEL PACULDINO NEVES"
       ],
       [
        "44004",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/02/2026",
-       null
+       null,
+       "GILMAR LUCIANO SANTOS"
       ],
       [
        "43953",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/10/2025",
-       "22/09/2026"
+       "22/09/2026",
+       "JOÃO VITOR APOLINARIO PINHEIRO"
       ],
       [
        "44134",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/10/2026",
-       null
+       null,
+       "JOÃO VITOR APOLINARIO PINHEIRO"
       ],
       [
        "43789",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LUCIANA HAAS LEIVAS LABOISSIÊRE"
       ],
       [
        "43844",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/04/2025",
-       null
+       null,
+       "MANUELA DUARTE ALMEIDA PINTO"
       ],
       [
        "42450",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/03/2021",
-       null
+       null,
+       "MARCELA CAROLINA DOS SANTOS ARAUJO"
       ],
       [
        "11620",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/03/2025",
-       null
+       null,
+       "MATHEUS CAJAIBA DA SILVA"
       ],
       [
        "44101",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/07/2026",
-       null
+       null,
+       "MIGUEL AUGUSTO PIMENTEL PEREIRA"
       ],
       [
        "43780",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "NICHOLAS PHILLIP TAVES COSTA"
       ],
       [
        "43784",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ROGERIO DE MELO PROFETA"
       ],
       [
        "43787",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SAMUEL LUCIO ARAUJO SILVEIRA ATAIDE"
       ],
       [
        "44139",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/10/2026",
-       null
+       null,
+       "TULIO FEROLLA DURSO NETTO"
       ],
       [
        "43786",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "VALDINEI EDSON DE SOUZA SANTOS"
       ]
      ]
     },
     "VEREADOR BRUNO MIRANDA": {
      "vereador": {
       "cm": "10256",
+      "nome": "BRUNO MARTUCHELE DE SALES",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -826,195 +941,223 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "01/07/2026",
-       null
+       null,
+       "ALEXANDRE BATISTA"
       ],
       [
        "16132",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "29/05/2025",
-       null
+       null,
+       "ANA CRISTINA REGES CIRIACO"
       ],
       [
        "42245",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2021",
-       null
+       null,
+       "ANTONIO CARLOS DE SALES"
       ],
       [
        "11570",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "26/04/2023",
-       null
+       null,
+       "ADRIANA TAVARES MEIRELES"
       ],
       [
        "43794",
        "ASSESSOR PARLAMENTAR",
        30,
        "26/03/2025",
-       null
+       null,
+       "CASSIO ROCHA BRAGA"
       ],
       [
        "42860",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2023",
-       null
+       null,
+       "EUGENIO LUIZ DE OLIVEIRA"
       ],
       [
        "42427",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/02/2021",
-       null
+       null,
+       "FABIO MACHADO VAZ"
       ],
       [
        "16194",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "17/04/2026",
-       null
+       null,
+       "GABRIEL CAIO SILVA DOS SANTOS"
       ],
       [
        "16190",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "13/04/2026",
-       null
+       null,
+       "GABRIELE CATARINA DE ARAÚJO ALMEIDA"
       ],
       [
        "42253",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "GERALDO SOARES DA SILVA"
       ],
       [
        "11621",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "26/03/2025",
-       null
+       null,
+       "GIOVANINI GIUSEPP DE AVILA REIS"
       ],
       [
        "43425",
        "AUXILIAR LEGISLATIVO",
        30,
        "19/07/2024",
-       "01/05/2026"
+       "01/05/2026",
+       "GUSTAVO HENRIQUE SENA TAIOBA"
       ],
       [
        "42342",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "JOÃO BATISTA CARNEIRO NETO"
       ],
       [
        "11624",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "26/03/2025",
-       null
+       null,
+       "LEONARDO FRATTESI ALVES PEREIRA"
       ],
       [
        "42258",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "MARCELO COSTA SENA"
       ],
       [
        "42260",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "MARIA DAS DORES ANDRADE SILVA"
       ],
       [
        "16187",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "01/04/2026",
-       null
+       null,
+       "MARIA LARA DE SOUSA ROSA"
       ],
       [
        "43903",
        "ASSESSOR PARLAMENTAR",
        30,
        "03/07/2025",
-       null
+       null,
+       "MARINA LUIZA RODRIGUES JACOMINO"
       ],
       [
        "42261",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "MATHEUS PHILIP DE LIMA ANTUNES"
       ],
       [
        "42394",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2021",
-       null
+       null,
+       "OSMAR COELHO ANTUNES"
       ],
       [
        "42819",
        "ASSESSOR PARLAMENTAR",
        40,
        "21/10/2022",
-       null
+       null,
+       "RONALDO ADRIANO DOS SANTOS"
       ],
       [
        "43863",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/05/2025",
-       null
+       null,
+       "SERGIO FERNANDO PEREIRA DE PINHO TAVARES"
       ],
       [
        "42266",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "SHIRLEY SARMENTO"
       ],
       [
        "42639",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/02/2022",
-       null
+       null,
+       "TERESA CRISTINA DUARTE PERDIGAO"
       ],
       [
        "42167",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "UBIRAJALMA DO NASCIMENTO JUNIOR"
       ],
       [
        "11566",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/03/2023",
-       null
+       null,
+       "VANESSA VIANA SANTOS"
       ],
       [
        "11660",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "VIVIANE ORNELAS CAMPOS DE MELO"
       ]
      ]
     },
     "VEREADORA PROFESSORA MARLI": {
      "vereador": {
       "cm": "10201",
+      "nome": "MARLI APARECIDA DE ARO FERREIRA",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -1024,174 +1167,199 @@
        "A DISPOSIÇÃO DA CMBH",
        40,
        "04/04/2025",
-       null
+       null,
+       "ALEXANDRE FERREIRA"
       ],
       [
        "42991",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/02/2023",
-       null
+       null,
+       "AMALIA FERREIRA E SILVA"
       ],
       [
        "16210",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "20/05/2026",
-       null
+       null,
+       "ANA ALICE OLIVEIRA SIUVES"
       ],
       [
        "43386",
        "ASSESSOR PARLAMENTAR",
        30,
        "22/05/2024",
-       "27/06/2026"
+       "27/06/2026",
+       "BRENO HENRIQUE DE PAIVA SALES LIMA"
       ],
       [
        "44145",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/10/2026",
-       null
+       null,
+       "BRUNO DE SOUSA CARNEIRO JUNIOR"
       ],
       [
        "43397",
        "ASSESSOR PARLAMENTAR",
        30,
        "11/06/2024",
-       null
+       null,
+       "CLEBER VIEIRA SANTANA MACHADO"
       ],
       [
        "43169",
        "ASSESSOR PARLAMENTAR",
        30,
        "24/08/2023",
-       "01/07/2026"
+       "01/07/2026",
+       "DARLING CARDOSO FERREIRA"
       ],
       [
        "42039",
        "ASSESSOR PARLAMENTAR",
        40,
        "19/06/2020",
-       null
+       null,
+       "EUSTAQUIO ALEXANDRE TEIXEIRA DA SILVA"
       ],
       [
        "43773",
        "AUXILIAR LEGISLATIVO",
        30,
        "17/03/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "FELLIPE FRONTZEK DE OLIVEIRA"
       ],
       [
        "43359",
        "ASSESSOR PARLAMENTAR",
        40,
        "29/04/2024",
-       null
+       null,
+       "GABRIELE CRISTIANE SCROBOT"
       ],
       [
        "43144",
        "ASSESSOR PARLAMENTAR",
        30,
        "10/07/2023",
-       null
+       null,
+       "KLEBER AUGUSTO MORAES DOS SANTOS"
       ],
       [
        "42241",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/01/2021",
-       null
+       null,
+       "LEANDRO AUGUSTO FERNANDES"
       ],
       [
        "16212",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "21/05/2026",
-       null
+       null,
+       "LIVIA FIGUEIREDO NEVES ALMEIDA"
       ],
       [
        "16222",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "17/06/2026",
-       null
+       null,
+       "LUCAS VERÇOSA DE PAIVA"
       ],
       [
        "43893",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/06/2025",
-       null
+       null,
+       "LUCIANA MENDES BRESCIA "
       ],
       [
        "16208",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "21/05/2026",
-       null
+       null,
+       "MARIA EDUARDA VIANA DE CASTRO"
       ],
       [
        "43350",
        "ASSESSOR PARLAMENTAR",
        30,
        "18/04/2024",
-       null
+       null,
+       "MAURICIO ERNESTO STEINER JUNIOR"
       ],
       [
        "43955",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/10/2025",
-       null
+       null,
+       "MAURICIO MOURTHE CASTELO BRANCO VALADARES"
       ],
       [
        "43648",
        "ASSESSOR PARLAMENTAR",
        30,
        "14/02/2025",
-       null
+       null,
+       "QUINTILIANO ALVARES BARBOSA"
       ],
       [
        "44090",
        "ASSESSOR PARLAMENTAR",
        30,
        "03/07/2026",
-       "08/10/2026"
+       "08/10/2026",
+       "RAYANNE APARECIDA GOMES ROCHA"
       ],
       [
        "43705",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/03/2025",
-       "03/11/2026"
+       "03/11/2026",
+       "REBECA ARIADNY ALVES DE OLIVEIRA"
       ],
       [
        "42609",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/11/2021",
-       null
+       null,
+       "RITA DE CÁSSIA PIRES MIRANDA"
       ],
       [
        "42992",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/02/2023",
-       null
+       null,
+       "SAMIA DINIZ"
       ],
       [
        "42363",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "WASHINGTON ANTONIO GUEDES MACEDO DE SOUZA"
       ]
      ]
     },
     "VEREADOR BRAULIO LARA": {
      "vereador": {
       "cm": "10196",
+      "nome": "BRAULIO ALVES SILVA LARA",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -1201,146 +1369,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "27/02/2008",
-       null
+       null,
+       "ALEXANDRE MAGNO GUIMARÃES ADÃO"
       ],
       [
        "43644",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/02/2025",
-       null
+       null,
+       "ALINE VIEIRA DOS SANTOS"
       ],
       [
        "43272",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2024",
-       null
+       null,
+       "ANDERSON ALMEIDA RIBEIRO"
       ],
       [
        "43483",
        "ASSESSOR PARLAMENTAR",
        40,
        "17/12/2024",
-       "05/10/2026"
+       "05/10/2026",
+       "ANDREI ALVIM MENDONÇA"
       ],
       [
        "43881",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/06/2025",
-       null
+       null,
+       "ARTUR CARDOSO DE SOUZA"
       ],
       [
        "43316",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/04/2024",
-       null
+       null,
+       "CARLA BRITO REIS ESPERANÇA"
       ],
       [
        "16182",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "26/03/2026",
-       null
+       null,
+       "DAVI LOMBARDI ISAAC"
       ],
       [
        "43884",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/06/2025",
-       null
+       null,
+       "EDUARDO ALMEIDA MAGALHÃES FILHO "
       ],
       [
        "43064",
        "ASSESSOR PARLAMENTAR",
        40,
        "23/03/2023",
-       null
+       null,
+       "EDUARDO HENRIQUE PEREIRA"
       ],
       [
        "43145",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/07/2023",
-       null
+       null,
+       "HENRIQUE BRANDAO BASTOS ROSA"
       ],
       [
        "43413",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/07/2024",
-       null
+       null,
+       "JOAO LUCAS CAVALCANTI LEMBI"
       ],
       [
        "42219",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "JOSEMARY BOSCO RIBEIRO LEMOS"
       ],
       [
        "44018",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/03/2026",
-       null
+       null,
+       "KAMILA PEREIRA RODRIGUES BELFORT"
       ],
       [
        "43085",
        "ASSESSOR PARLAMENTAR",
        40,
        "19/04/2023",
-       null
+       null,
+       "KENIA THAIS COIMBRA SOARES"
       ],
       [
        "11590",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/04/2024",
-       null
+       null,
+       "MARCILIO REZENDE SANTOS"
       ],
       [
        "43009",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/02/2023",
-       null
+       null,
+       "MARCUS VINICIUS DOS SANTOS"
       ],
       [
        "11595",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "20/07/2024",
-       null
+       null,
+       "MARINA MARQUES DA SILVA MURTA"
       ],
       [
        "42098",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/12/2020",
-       null
+       null,
+       "MAURO SÉRGIO DE SOUZA GAVIÃO ANDRADE"
       ],
       [
        "42875",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/01/2023",
-       null
+       null,
+       "PEDRO HENRIQUE DE SOUZA CORREA"
       ],
       [
        "43740",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/03/2025",
-       null
+       null,
+       "ROMULO AMARAL DE CASTRO BELFORT"
       ]
      ]
     },
     "VEREADOR WANDERLEY PORTO": {
      "vereador": {
       "cm": "10211",
+      "nome": "WANDERLEY DE ARAUJO PORTO FILHO",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -1350,181 +1539,207 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2026",
-       null
+       null,
+       "ALEXSANDER GOMES DA SILVA"
       ],
       [
        "11530",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "25/03/2021",
-       null
+       null,
+       "ANA MARIA DE ALQUIMIM RAMOS"
       ],
       [
        "43918",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/08/2025",
-       null
+       null,
+       "ANDERSON AUGUSTO DE OLIVEIRA"
       ],
       [
        "16143",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "25/07/2025",
-       null
+       null,
+       "ARTHUR GUILHERME ALVES GIL"
       ],
       [
        "42145",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "ALDRAN CARDOSO COIMBRA"
       ],
       [
        "42825",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/11/2022",
-       null
+       null,
+       "CLAUDIO VAZ SOUZA SAMPAIO"
       ],
       [
        "44043",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/05/2026",
-       null
+       null,
+       "CRISTINA FRANCISCA DOS SANTOS"
       ],
       [
        "42628",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/01/2022",
-       null
+       null,
+       "DAMIÃO DOS REIS"
       ],
       [
        "42148",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "DENISE FERREIRA DE SOUZA"
       ],
       [
        "42595",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/11/2021",
-       null
+       null,
+       "ENELSON MAIA"
       ],
       [
        "16181",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "17/03/2026",
-       null
+       null,
+       "FELIPE EDUARDO ALVES MARTINS"
       ],
       [
        "43628",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/02/2025",
-       null
+       null,
+       "GEZILAINE DO NASCIMENTO MENDONCA SILVA"
       ],
       [
        "16110",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "01/04/2025",
-       null
+       null,
+       "HEYTOR DE ALMEIDA LIMA"
       ],
       [
        "43142",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/07/2023",
-       null
+       null,
+       "JOÃO PEDRO ALVES MARQUES"
       ],
       [
        "11576",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "25/05/2023",
-       null
+       null,
+       "JOÃO RODRIGUES PINHEIRO FILHO"
       ],
       [
        "11618",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/03/2025",
-       null
+       null,
+       "JULIANA COLEN DA SILVA"
       ],
       [
        "42257",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "KARINE PORTO BARBOSA DE SOUZA"
       ],
       [
        "42503",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/05/2021",
-       null
+       null,
+       "LEONARDO MAGALHAES HORTA"
       ],
       [
        "11520",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "01/07/2020",
-       null
+       null,
+       "LIDIANE FERREIRA SANT'ANA"
       ],
       [
        "39801",
        "ASSESSOR PARLAMENTAR",
        30,
        "08/05/2013",
-       null
+       null,
+       "LUCIANA DE ALMEIDA LIMA"
       ],
       [
        "43687",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/03/2025",
-       null
+       null,
+       "MARCELO BATISTA SILVA"
       ],
       [
        "16215",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "01/05/2026",
-       null
+       null,
+       "MARIA EDUARDA DE ALMEIDA DA CRUZ"
       ],
       [
        "42359",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "PIERO BRUNO BEZERRA QUITES"
       ],
       [
        "11556",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "12/04/2022",
-       null
+       null,
+       "RENATA LANA FANTONI "
       ],
       [
        "42267",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "SIDNEI BRAGA CIRIACO"
       ]
      ]
     },
     "VEREADOR HELINHO DA FARMÁCIA": {
      "vereador": {
       "cm": "10161",
+      "nome": "HELIO MEDEIROS CORREA",
       "admissao": "01/01/2017",
       "exoneracao": null
      },
@@ -1534,160 +1749,183 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2017",
-       null
+       null,
+       "ALINE MERCES DA SILVA OLIVEIRA"
       ],
       [
        "11473",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "21/07/2017",
-       null
+       null,
+       "ARIADNE MARTINS TORRES"
       ],
       [
        "42045",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/07/2020",
-       null
+       null,
+       "CARLA EVELINE DIAS"
       ],
       [
        "41710",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2019",
-       null
+       null,
+       "EDUARDO OTAVIO MACHADO RIBEIRO"
       ],
       [
        "16197",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "01/05/2026",
-       null
+       null,
+       "EMANUELLE ARAUJO DE SOUZA"
       ],
       [
        "41932",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/11/2019",
-       null
+       null,
+       "FABIO ANDERSON FERNANDES"
       ],
       [
        "42008",
        "ASSESSOR PARLAMENTAR",
        30,
        "06/04/2020",
-       null
+       null,
+       "GILMAR DE FREITAS MACHADO"
       ],
       [
        "40808",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2017",
-       null
+       null,
+       "IALYS ALVES JANGOLA"
       ],
       [
        "40904",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2017",
-       null
+       null,
+       "JACQUELINE DE AGUIAR E SILVA"
       ],
       [
        "44056",
        "ASSESSOR PARLAMENTAR",
        30,
        "06/05/2026",
-       null
+       null,
+       "JOANA DE SOUSA MOREIRA"
       ],
       [
        "42027",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/05/2020",
-       null
+       null,
+       "JULIANA DE CASTRO VIEIRA"
       ],
       [
        "42882",
        "ASSESSOR PARLAMENTAR",
        30,
        "17/01/2023",
-       null
+       null,
+       "KAREN DE FREITAS"
       ],
       [
        "11317",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "28/10/2009",
-       null
+       null,
+       "KARLA SAMIRA VIEIRA ZOLINI"
       ],
       [
        "41589",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/11/2018",
-       null
+       null,
+       "MARCILENE HOTT FAGUNDES"
       ],
       [
        "42472",
        "ASSESSOR PARLAMENTAR",
        30,
        "23/03/2021",
-       null
+       null,
+       "MAYRON BRUNO DE ANDRADE NASCENTES"
       ],
       [
        "41584",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/11/2018",
-       null
+       null,
+       "REINALDO BRAGA RIBEIRO"
       ],
       [
        "40902",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2017",
-       null
+       null,
+       "THATYANE MARTINS VELLOSO"
       ],
       [
        "41863",
        "ASSESSOR PARLAMENTAR",
        30,
        "04/07/2019",
-       null
+       null,
+       "VALDEMAR SILVA FILHO"
       ],
       [
        "41303",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/09/2017",
-       null
+       null,
+       "VALTER DE OLIVEIRA PAULA"
       ],
       [
        "40806",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2017",
-       null
+       null,
+       "WANDERSON JUNIOR ALVES PEREIRA"
       ],
       [
        "41590",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/11/2018",
-       null
+       null,
+       "WEVERTOM HENRIQUE SANTOS"
       ],
       [
        "11541",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "23/07/2021",
-       null
+       null,
+       "WILSON SANTIAGO COSTA TARABAL"
       ]
      ]
     },
     "VEREADOR SARGENTO JALYSON": {
      "vereador": {
       "cm": "10249",
+      "nome": "JALYSON MAYCON GONÇALVES",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -1697,188 +1935,215 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ALINE PERES DE ARAUJO BARCELOS"
       ],
       [
        "43743",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "CAIO RAONI DA SILVA MILAGRES"
       ],
       [
        "43752",
        "AUXILIAR LEGISLATIVO",
        30,
        "01/01/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "BERNARDO SALOMAO DE ANDRADE ARRAES"
       ],
       [
        "44041",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/04/2026",
-       null
+       null,
+       "BIANCA FERREIRA MONTEIRO"
       ],
       [
        "44072",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/06/2026",
-       "26/10/2026"
+       "26/10/2026",
+       "ADRIANA PINHEIRO GODINHO "
       ],
       [
        "16173",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "06/02/2026",
-       null
+       null,
+       "CESAR AMEDEE PERET VIEIRA"
       ],
       [
        "43860",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/05/2025",
-       "10/06/2026"
+       "10/06/2026",
+       "DAVIDSON SALUSTIANO DA SILVA"
       ],
       [
        "16117",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "05/05/2025",
-       null
+       null,
+       "DEBORA MARINHO DA SILVA"
       ],
       [
        "43747",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "01/09/2026"
+       "01/09/2026",
+       "GUILHERME COELHO LUCAS DE JESUS"
       ],
       [
        "43994",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2026",
-       null
+       null,
+       "GUSTAVO ROCHA SANTANA ESTEVES"
       ],
       [
        "44106",
        "ASSESSOR PARLAMENTAR",
        30,
        "08/08/2026",
-       null
+       null,
+       "HUMBERTO LUIZ CINTRA DE SOUSA"
       ],
       [
        "11636",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "08/05/2025",
-       null
+       null,
+       "HURAI SHATNER WYSER LANA"
       ],
       [
        "43749",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "IARA ROCHA PIMENTA"
       ],
       [
        "11668",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "16/10/2026",
-       null
+       null,
+       "ISABELLA CELEGHINI INACIO RIBEIRO"
       ],
       [
        "43751",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LUANDA TEMPONI SIMOES"
       ],
       [
        "43758",
        "ASSESSOR PARLAMENTAR",
        30,
        "10/01/2025",
-       null
+       null,
+       "MARCOS PABLO CARDOSO DOS SANTOS NONATO"
       ],
       [
        "43757",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MARIA ANGELICA DE ALVARENGA BARROS"
       ],
       [
        "43755",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2025",
-       null
+       null,
+       "MAURO ANTONIO MILAGRES"
       ],
       [
        "43753",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "PAULO VICENTE DE ALMEIDA FILHO"
       ],
       [
        "44034",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/04/2026",
-       null
+       null,
+       "RAPHAEL TORRENT DE CASTRO MEDEIROS"
       ],
       [
        "43900",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/07/2025",
-       null
+       null,
+       "RENATO BRANDÃO SOARES"
       ],
       [
        "43901",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/07/2025",
-       "08/08/2026"
+       "08/08/2026",
+       "RENATO EVANGELISTA"
       ],
       [
        "44084",
        "ASSESSOR PARLAMENTAR",
        30,
        "19/06/2026",
-       null
+       null,
+       "RICARDO JULIO FERNANDES"
       ],
       [
        "43744",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SABRINA SOARES ALBERGARIA PUGEDO"
       ],
       [
        "16240",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "24/08/2026",
-       null
+       null,
+       "SUIANNE LETÍCIA SILVA"
       ],
       [
        "43746",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "TELMA APARECIDA PESSOA MIRANDA"
       ]
      ]
     },
     "VEREADOR PEDRO ROUSSEFF": {
      "vereador": {
       "cm": "10246",
+      "nome": "PEDRO FARAH ROUSSEFF",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -1888,146 +2153,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ALISSON GERDULINO DOS SANTOS"
       ],
       [
        "43716",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ANALIA CHARLIANE DE OLIVEIRA MEIRELES"
       ],
       [
        "44132",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/10/2026",
-       null
+       null,
+       "BRUNIELA DOS SANTOS MARTINS"
       ],
       [
        "43969",
        "ASSESSOR PARLAMENTAR",
        30,
        "17/12/2025",
-       null
+       null,
+       "ARTHUR FELIPE SCHULIZ SILVA"
       ],
       [
        "43712",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "CRISTOVAO CORREA BORBA SOARES"
       ],
       [
        "11661",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "DANIELLE DUARTE MORAIS"
       ],
       [
        "43707",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DIEGO VIEIRA SILVA"
       ],
       [
        "11474",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/08/2017",
-       null
+       null,
+       "ENIO EDUARDO PEREIRA DA SILVA"
       ],
       [
        "43715",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GABRIEL HENRIQUE GERDULINO DOS SANTOS"
       ],
       [
        "16218",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "02/06/2026",
-       null
+       null,
+       "GEOVANNA VITORIA SANTOS DA SILVA"
       ],
       [
        "44133",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/10/2026",
-       null
+       null,
+       "HELIO GARCIA DE ANDRADE FILHO"
       ],
       [
        "44140",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/10/2026",
-       null
+       null,
+       "JEFFERSON PROENÇA FELIX DOS SANTOS"
       ],
       [
        "44143",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/10/2026",
-       null
+       null,
+       "LUCAS MENDES FIGUEIREDO BREGUNCI"
       ],
       [
        "44125",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/10/2026",
-       null
+       null,
+       "LUCIANA MARÇAL SANTOS"
       ],
       [
        "44108",
        "ASSESSOR PARLAMENTAR",
        30,
        "12/08/2026",
-       null
+       null,
+       "LUÍS GUSTAVO DA CRUZ NASCIMENTO"
       ],
       [
        "43971",
        "ASSESSOR PARLAMENTAR",
        30,
        "18/12/2025",
-       null
+       null,
+       "MAISA CAROLINE KATO PEREIRA"
       ],
       [
        "43711",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "PRICILA AUGUSTA DE NORONHA CARDOSO"
       ],
       [
        "43718",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "THIAGO SOUZA VANNI GUERRA"
       ],
       [
        "44146",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/10/2026",
-       null
+       null,
+       "TOBIAS VIEIRA"
       ],
       [
        "44135",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/10/2026",
-       null
+       null,
+       "WELLINGTON BORGES DE OLIVEIRA"
       ]
      ]
     },
     "VEREADORA FLAVIA BORJA": {
      "vereador": {
       "cm": "10197",
+      "nome": "FLAVIA FERREIRA BORJA PINTO",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -2037,167 +2323,191 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2023",
-       null
+       null,
+       "ALLAN PEREIRA LANA"
       ],
       [
        "40803",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       null
+       null,
+       "ANTONIO MARCOS FERREIRA AGUIAR"
       ],
       [
        "11614",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "20/03/2025",
-       null
+       null,
+       "ARTHUR RODRIGUES COSTA"
       ],
       [
        "43874",
        "ASSESSOR PARLAMENTAR",
        30,
        "28/05/2025",
-       null
+       null,
+       "CARLOS JOSÉ DA COSTA"
       ],
       [
        "42042",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/07/2020",
-       null
+       null,
+       "CLAUDIO ALMEIDA DE CASTRO"
       ],
       [
        "44092",
        "ASSESSOR PARLAMENTAR",
        30,
        "03/07/2026",
-       null
+       null,
+       "CRISTIANE NOGUEIRA DE OLIVEIRA"
       ],
       [
        "43065",
        "ASSESSOR PARLAMENTAR",
        40,
        "24/03/2023",
-       null
+       null,
+       "DANIELI DO AMARAL TEIXEIRA"
       ],
       [
        "43683",
        "AUXILIAR LEGISLATIVO",
        30,
        "27/02/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "DANIELLY DE PAULA SANTOS"
       ],
       [
        "43469",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/11/2024",
-       null
+       null,
+       "GABRIEL BRAGA DE SA"
       ],
       [
        "43868",
        "ASSESSOR PARLAMENTAR",
        30,
        "16/05/2025",
-       null
+       null,
+       "GERALDO OLIVEIRA DA SILVA"
       ],
       [
        "44098",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/07/2026",
-       null
+       null,
+       "GLEICEQUELE SOUZA SILVA"
       ],
       [
        "44067",
        "ASSESSOR PARLAMENTAR",
        40,
        "15/05/2026",
-       null
+       null,
+       "HELIO COSSO NETO"
       ],
       [
        "44119",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/09/2026",
-       null
+       null,
+       "JEILY HELEN DE PAULA"
       ],
       [
        "11548",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "19/11/2021",
-       null
+       null,
+       "JULIMARA LUCAS MARTINS DE CASTRO"
       ],
       [
        "43995",
        "ASSESSOR PARLAMENTAR",
        30,
        "03/02/2026",
-       null
+       null,
+       "MARCELO ALEXANDRINO DE SOUZA"
       ],
       [
        "43813",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/04/2025",
-       null
+       null,
+       "PAULO HENRIQUE QUEIROZ ALVES"
       ],
       [
        "43139",
        "ASSESSOR PARLAMENTAR",
        30,
        "04/07/2023",
-       null
+       null,
+       "PAULO SERGIO OLIVEIRA DA CRUZ"
       ],
       [
        "40800",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       null
+       null,
+       "PEDRO PAULO CHAVES DA SILVA"
       ],
       [
        "16133",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "02/06/2025",
-       null
+       null,
+       "RAFAEL MARTINS QUEIROZ "
       ],
       [
        "43347",
        "ASSESSOR PARLAMENTAR",
        40,
        "15/04/2024",
-       "10/09/2026"
+       "10/09/2026",
+       "RAPHAEL DE OLIVEIRA GONCALVES"
       ],
       [
        "41950",
        "ASSESSOR PARLAMENTAR",
        30,
        "04/12/2019",
-       null
+       null,
+       "RUBIA LEONOR SOARES DE QUEIROZ CASSETE"
       ],
       [
        "43772",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "WILLYANNE BRANDAO ANDRADE"
       ],
       [
        "42773",
        "ASSESSOR PARLAMENTAR",
        30,
        "10/08/2022",
-       null
+       null,
+       "WILTON DE ARAUJO SAMPAIO"
       ]
      ]
     },
     "VEREADOR JUNINHO LOS HERMANOS": {
      "vereador": {
       "cm": "10151",
+      "nome": "WAGNER MARIANO JUNIOR",
       "admissao": "01/01/2013",
       "exoneracao": null
      },
@@ -2207,146 +2517,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "14/01/2020",
-       null
+       null,
+       "ALLYSON ALVARENGA SALDANHA XAVIER"
       ],
       [
        "39558",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "AMAURI EPIFANIO SOBRINHO"
       ],
       [
        "11553",
        "A DISPOSIÇÃO DA CMBH",
        22,
        "13/01/2022",
-       null
+       null,
+       "BRUNO AMORIM DE ARAÚJO"
       ],
       [
        "11602",
        "A DISPOSIÇÃO DA CMBH",
        22,
        "01/01/2025",
-       null
+       null,
+       "BRUNO AMORIM DE ARAÚJO"
       ],
       [
        "39548",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "CAROLINA ALVES"
       ],
       [
        "41380",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/02/2018",
-       null
+       null,
+       "ENEIDA DE OLIVEIRA STEHLING"
       ],
       [
        "16203",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "07/05/2026",
-       null
+       null,
+       "FELIPE MATHEUS ALONSO DE FARIA"
       ],
       [
        "40168",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/11/2014",
-       null
+       null,
+       "FELIPE ROCHA MARCOS DOS ANJOS"
       ],
       [
        "44059",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/05/2026",
-       null
+       null,
+       "GIOVANI GOMES DE MATOS"
       ],
       [
        "39547",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "GUSTAVO HENRIQUE DOS SANTOS ALVES"
       ],
       [
        "39544",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "HILTON VIANA"
       ],
       [
        "40457",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/07/2015",
-       null
+       null,
+       "JOSE LUIZ DA CUNHA NETO"
       ],
       [
        "11449",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/03/2017",
-       null
+       null,
+       "JULIANA KELLY LEITE JORGE DE ASSUNCAO"
       ],
       [
        "43506",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2025",
-       "12/11/2026"
+       "12/11/2026",
+       "JULIO NUNES RABELLO"
       ],
       [
        "39553",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "MARCOS ANTONIO CAMPOS DE ANDRADE"
       ],
       [
        "43543",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/02/2025",
-       null
+       null,
+       "PAULA FERNANDA DA SILVA"
       ],
       [
        "43004",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/02/2023",
-       null
+       null,
+       "PAULO SERGIO VERSIANI DE CASTRO"
       ],
       [
        "43686",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/03/2025",
-       null
+       null,
+       "SERGIO JUNIO CARVALHO SILVA"
       ],
       [
        "11454",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "29/03/2017",
-       null
+       null,
+       "TAIANE PAULINA RODRIGUES LOURENCO"
       ],
       [
        "41367",
        "ASSESSOR PARLAMENTAR",
        40,
        "15/01/2018",
-       null
+       null,
+       "THAYNA LUIZA DA SILVA THOME"
       ]
      ]
     },
     "VEREADOR PROFESSOR JULIANO LOPES": {
      "vereador": {
       "cm": "10139",
+      "nome": "JULIANO LOPES LOBATO",
       "admissao": "01/01/2013",
       "exoneracao": null
      },
@@ -2356,244 +2687,279 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "04/09/2023",
-       null
+       null,
+       "ALTAIR OLIVERIO DA SILVA"
       ],
       [
        "43815",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ANA LUCIA DA ROCHA MAIA"
       ],
       [
        "41306",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/09/2017",
-       null
+       null,
+       "ANDREA DE ALMEIDA"
       ],
       [
        "11564",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "17/02/2023",
-       null
+       null,
+       "ARIANE OLIVEIRA LENOIR ALVARENGA"
       ],
       [
        "39472",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "DALTON SERAFIM DE SOUZA SOARES"
       ],
       [
        "39471",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "EDUARDO ALEXANDRE ALVES PATRICIO"
       ],
       [
        "43818",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/01/2025",
-       null
+       null,
+       "EUCLAIR CHAGAS DE ASSIS JUNIOR"
       ],
       [
        "43852",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/04/2025",
-       null
+       null,
+       "EUGENIO CARLOS DE PAULA"
       ],
       [
        "16230",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "17/07/2026",
-       null
+       null,
+       "FILIPE FERNANDES GONTIJO"
       ],
       [
        "11654",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/08/2026",
-       null
+       null,
+       "FLÁVIA PASSOS SOARES"
       ],
       [
        "16241",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "01/09/2026",
-       null
+       null,
+       "GABRIEL DE ALMEIDA JARDIM"
       ],
       [
        "42543",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/07/2021",
-       null
+       null,
+       "GABRIEL RIBEIRO CALDAS"
       ],
       [
        "41709",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2019",
-       null
+       null,
+       "GERALDA MAGELA SILVA MOREIRA"
       ],
       [
        "44096",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/07/2026",
-       null
+       null,
+       "JAIRO CESAR ALMEIDA MARTINS"
       ],
       [
        "40199",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/01/2015",
-       null
+       null,
+       "JOSE LUIZ DOS SANTOS"
       ],
       [
        "16199",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "01/05/2026",
-       null
+       null,
+       "JULIA MARSELHA DE ANDRADE"
       ],
       [
        "11639",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "16/06/2025",
-       null
+       null,
+       "KATIA SABRINA MONTANARI GOMES"
       ],
       [
        "11524",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "28/01/2021",
-       null
+       null,
+       "KELLY LARA COUTO"
       ],
       [
        "43129",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/06/2023",
-       null
+       null,
+       "KELMARY LÉLIS AMORIM PELLI LEONARDI"
       ],
       [
        "11589",
        "A DISPOSIÇÃO DA CMBH",
        22,
        "27/03/2024",
-       null
+       null,
+       "KERCIA MARIA PONTES MAIA"
       ],
       [
        "16169",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "01/12/2025",
-       null
+       null,
+       "LAVINIA CRUZ BERNARDES"
       ],
       [
        "43867",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/05/2025",
-       null
+       null,
+       "LOGAN FIGUEIREDO OLIVEIRA"
       ],
       [
        "44113",
        "ASSESSOR PARLAMENTAR",
        30,
        "27/08/2026",
-       null
+       null,
+       "MARCOS DIOGO DA FONSECA MURCA"
       ],
       [
        "44115",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/09/2026",
-       null
+       null,
+       "MATHEUS VITOR MACHADO RIBEIRO"
       ],
       [
        "16214",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "25/05/2026",
-       "19/10/2026"
+       "19/10/2026",
+       "MIKAEL VITOR GERMANO DA SILVA"
       ],
       [
        "39476",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2013",
-       null
+       null,
+       "NILZA MATILDE COSTA XAVIER"
       ],
       [
        "44023",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/04/2026",
-       null
+       null,
+       "NORMANDO DAMASCENO AFONSO"
       ],
       [
        "44116",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/09/2026",
-       null
+       null,
+       "RICHARD RODRIGUES ROCHA"
       ],
       [
        "42669",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/04/2022",
-       null
+       null,
+       "ROBERT WILLIAM DA SILVA PASSOS"
       ],
       [
        "39454",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "SILVANIA RAQUEL MAIA FIORINI"
       ],
       [
        "43816",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "VICTOR BARBOSA DIAS"
       ],
       [
        "43954",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/10/2025",
-       null
+       null,
+       "WANDER FELIPE PEREIRA"
       ],
       [
        "43414",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/07/2024",
-       null
+       null,
+       "WASHINGTON LUIZ LEITE LANA"
       ],
       [
        "44097",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/07/2026",
-       "05/10/2026"
+       "05/10/2026",
+       "WILIAM APOLINARIO MOREIRA"
       ]
      ]
     },
     "VEREADOR DR. BRUNO PEDRALVA": {
      "vereador": {
       "cm": "10254",
+      "nome": "BRUNO ABREU GOMES",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -2603,174 +2969,199 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ALVANISIA GOBIRA DAMASCENO SILVA"
       ],
       [
        "43973",
        "ASSESSOR PARLAMENTAR",
        40,
        "31/12/2025",
-       null
+       null,
+       "CAIO LUIZ TAVARES FREIRE JARDIM"
       ],
       [
        "16176",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "02/03/2026",
-       "08/10/2026"
+       "08/10/2026",
+       "CYNTHIA SANTOS MENEZES"
       ],
       [
        "11580",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "25/05/2023",
-       null
+       null,
+       "DANIEL FRANCISCO COSTA"
       ],
       [
        "44051",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/05/2026",
-       null
+       null,
+       "DANIEL SANTIAGO GOMES COSTA"
       ],
       [
        "42895",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "DERIK FILIPE FERREIRA ROSA"
       ],
       [
        "43486",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DILSON JOSE DE OLIVEIRA"
       ],
       [
        "42924",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "EDERSON ALVES DA SILVA"
       ],
       [
        "16231",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "16/07/2026",
-       null
+       null,
+       "ENZO DANIEL DE ASSIS GOMES"
       ],
       [
        "43970",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/12/2025",
-       null
+       null,
+       "FLAVIO DE ABREU LOURENCO"
       ],
       [
        "44013",
        "ASSESSOR PARLAMENTAR",
        30,
        "11/03/2026",
-       null
+       null,
+       "HENRIQUE FARIA MARQUES DE OLIVEIRA "
       ],
       [
        "11586",
        "A DISPOSIÇÃO DA CMBH",
        20,
        "20/09/2023",
-       null
+       null,
+       "HUDIRLEY RUELA RODRIGUES"
       ],
       [
        "42898",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "HUGO PERES DE ALMEIDA"
       ],
       [
        "42894",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "JOÃO GUILHERME GUALBERTO GONÇALVES"
       ],
       [
        "43821",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/01/2025",
-       null
+       null,
+       "JULIA SANDERS PAOLINELLI"
       ],
       [
        "43859",
        "ASSESSOR PARLAMENTAR",
        30,
        "30/04/2025",
-       null
+       null,
+       "LAURA MOREIRA SABINO"
       ],
       [
        "44109",
        "ASSESSOR PARLAMENTAR",
        30,
        "12/08/2026",
-       null
+       null,
+       "LUIZA GONÇALVES LOVISI TRAVASSOS"
       ],
       [
        "42921",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "NATHALIA RAMOS LOPES DOS SANTOS"
       ],
       [
        "42897",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "RURIAN VALENTINO PEREIRA"
       ],
       [
        "11575",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "25/05/2023",
-       null
+       null,
+       "TERESINHA DE JESUS SOUZA BOTELHO"
       ],
       [
        "11647",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "28/01/2026",
-       null
+       null,
+       "THIAGO AUGUSTO DE CARVALHO CRUZ"
       ],
       [
        "42923",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "VALERIA BORGES FERREIRA"
       ],
       [
        "44002",
        "ASSESSOR PARLAMENTAR",
        40,
        "25/02/2026",
-       null
+       null,
+       "VANESSA GONZAGA SANTOS"
       ],
       [
        "42985",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/02/2023",
-       null
+       null,
+       "VITOR DINIZ BAPTISTA"
       ]
      ]
     },
     "VEREADORA PROFESSORA NARA": {
      "vereador": {
       "cm": "10260",
+      "nome": "NARA LUCIA DE PAULA FAN",
       "admissao": "03/03/2026",
       "exoneracao": null
      },
@@ -2780,160 +3171,183 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "18/09/2026",
-       null
+       null,
+       "ALYSSON WENDER NUNES GOMES"
       ],
       [
        "16246",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "15/09/2026",
-       null
+       null,
+       "ANA LUIZA JOVIANA DOS SANTOS FERREIRA"
       ],
       [
        "42957",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "ANDREIA QUARESMA DE ANDRADE"
       ],
       [
        "44141",
        "ASSESSOR PARLAMENTAR",
        30,
        "09/10/2026",
-       null
+       null,
+       "DARIO RICARDO BRAGA DE MOURA"
       ],
       [
        "43024",
        "ASSESSOR PARLAMENTAR",
        30,
        "28/02/2023",
-       "14/08/2026"
+       "14/08/2026",
+       "DEBORA ANTONIAZI DEL GUERRA"
       ],
       [
        "11388",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "27/03/2013",
-       null
+       null,
+       "FERNANDA GUIMARAES COSSO"
       ],
       [
        "44071",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/06/2026",
-       null
+       null,
+       "FRANCIELLE CRISTINA FERREIRA COTA"
       ],
       [
        "44055",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/05/2026",
-       null
+       null,
+       "FRANKLIN DE CARVALHO CASTRO"
       ],
       [
        "43203",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/10/2023",
-       null
+       null,
+       "ISABELA CAROLINA DE SOUZA ROSA"
       ],
       [
        "44054",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/05/2026",
-       null
+       null,
+       "JEFFERSON CEZAR SIMOES"
       ],
       [
        "43344",
        "ASSESSOR PARLAMENTAR",
        30,
        "11/04/2024",
-       "10/07/2026"
+       "10/07/2026",
+       "JOVIANO GABRIEL MAIA MAYER"
       ],
       [
        "44011",
        "ASSESSOR PARLAMENTAR",
        30,
        "09/03/2026",
-       null
+       null,
+       "KELLY REGINA COELHO DA CRUZ"
       ],
       [
        "42305",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       "01/05/2026"
+       "01/05/2026",
+       "LORRANE ANDREZA SALOMAO CARNEIRO"
       ],
       [
        "42987",
        "ASSESSOR PARLAMENTAR",
        30,
        "02/02/2023",
-       null
+       null,
+       "LUIZ CLAUDIO ALVES"
       ],
       [
        "44079",
        "ASSESSOR PARLAMENTAR",
        30,
        "02/06/2026",
-       null
+       null,
+       "MARIA FLOR DE MAIO FERREIRA"
       ],
       [
        "44112",
        "ASSESSOR PARLAMENTAR",
        30,
        "19/08/2026",
-       null
+       null,
+       "MARIA LUISA LACERDA SOARES"
       ],
       [
        "41383",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/02/2018",
-       "07/07/2026"
+       "07/07/2026",
+       "MARIANA DA CUNHA FROTA MAIOLINE"
       ],
       [
        "42961",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       "14/11/2026"
+       "14/11/2026",
+       "NATANIEL FLAVIO NASCIMENTO PEREIRA"
       ],
       [
        "42995",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       "07/10/2026"
+       "07/10/2026",
+       "PEDRO GONCALVES RIBEIRO DE CASTRO"
       ],
       [
        "42959",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       null
+       null,
+       "PEDRO HENRIQUE SALDANHA DOS ANJOS"
       ],
       [
        "43183",
        "ASSESSOR PARLAMENTAR",
        30,
        "13/09/2023",
-       "16/08/2026"
+       "16/08/2026",
+       "RENATA GONDIM COSTA"
       ],
       [
        "44022",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/03/2026",
-       null
+       null,
+       "ULISSES ANTONIO FERREIRA DO CARMO"
       ]
      ]
     },
     "VEREADORA TRÓPIA": {
      "vereador": {
       "cm": "10255",
+      "nome": "MARCELA DE LACERDA TROPIA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -2943,146 +3357,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "16/08/2023",
-       null
+       null,
+       "ANA CRISTINA GARCIA SANTOS "
       ],
       [
        "43161",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/08/2023",
-       null
+       null,
+       "DAMARES BARBOSA SANTANA"
       ],
       [
        "44000",
        "ASSESSOR PARLAMENTAR",
        30,
        "13/02/2026",
-       "01/11/2026"
+       "01/11/2026",
+       "ENZO YURI DE SOUZA FERREIRA"
       ],
       [
        "44078",
        "ASSESSOR PARLAMENTAR",
        30,
        "02/06/2026",
-       null
+       null,
+       "ERICA LISBOA CARNEIRO DE CARVALHO"
       ],
       [
        "43958",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/10/2025",
-       "22/12/2026"
+       "22/12/2026",
+       "ERIKA FERNANDA COIMBRA DE PAULA"
       ],
       [
        "11427",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "12/09/2015",
-       null
+       null,
+       "FABIO RICARDO SIMOES DA COSTA"
       ],
       [
        "43915",
        "ASSESSOR PARLAMENTAR",
        30,
        "28/07/2025",
-       null
+       null,
+       "FABRICIO AUGUSTO PAPINI PEREIRA"
       ],
       [
        "43115",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/05/2023",
-       null
+       null,
+       "FERNANDA CAMPOLINA VELOSO"
       ],
       [
        "44107",
        "ASSESSOR PARLAMENTAR",
        30,
        "12/08/2026",
-       null
+       null,
+       "GABRIELA COSTA FERREIRA"
       ],
       [
        "43480",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/12/2024",
-       null
+       null,
+       "GIANLUCA CARVALHO DE LIMA BARCELLA ZAPPELLA"
       ],
       [
        "43476",
        "ASSESSOR PARLAMENTAR",
        30,
        "19/11/2024",
-       null
+       null,
+       "LEONARDO MACIEL CONCEIÇÃO"
       ],
       [
        "43445",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/10/2024",
-       null
+       null,
+       "LIVIA MARIA DE SOUZA CUNHA"
       ],
       [
        "43106",
        "ASSESSOR PARLAMENTAR",
        30,
        "04/05/2023",
-       null
+       null,
+       "LUCIENE BATALHA"
       ],
       [
        "42392",
        "ASSESSOR PARLAMENTAR",
        40,
        "25/01/2021",
-       null
+       null,
+       "PAULO VICTOR TEIXEIRA PEREIRA DE MELO"
       ],
       [
        "42480",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/03/2021",
-       null
+       null,
+       "RAPHAEL MOREIRA MAIA"
       ],
       [
        "43914",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/07/2025",
-       null
+       null,
+       "SAMUEL FRANCO FERNANDES"
       ],
       [
        "43793",
        "ASSESSOR PARLAMENTAR",
        30,
        "25/03/2025",
-       null
+       null,
+       "SAULO PENAFORTE LIMA BARBOSA"
       ],
       [
        "43906",
        "ASSESSOR PARLAMENTAR",
        30,
        "11/07/2025",
-       "08/06/2026"
+       "08/06/2026",
+       "TANIA FERNANDES CAMARA"
       ],
       [
        "44083",
        "ASSESSOR PARLAMENTAR",
        30,
        "15/06/2026",
-       null
+       null,
+       "THAÍS MARIA SOARES DOS SANTOS"
       ],
       [
        "42871",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2023",
-       null
+       null,
+       "VITOR CUNHA BARROS"
       ]
      ]
     },
     "VEREADORA LUIZA DULCI": {
      "vereador": {
       "cm": "10240",
+      "nome": "LUIZA BORGES DULCI",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -3092,167 +3527,191 @@
        "A DISPOSIÇÃO DA CMBH",
        22.5,
        "04/04/2025",
-       null
+       null,
+       "ANA LUCIA DE MACEDO"
       ],
       [
        "43959",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/10/2025",
-       null
+       null,
+       "BRUNA CAROLINA DA SILVA PINTO"
       ],
       [
        "44057",
        "ASSESSOR PARLAMENTAR",
        30,
        "06/05/2026",
-       null
+       null,
+       "ALBERTO HEKTOR EL KHOURI"
       ],
       [
        "43501",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/01/2025",
-       null
+       null,
+       "DANIELLE PASSOS JORGE"
       ],
       [
        "43942",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/09/2025",
-       null
+       null,
+       "EDUARDA COUTO PESSOA OTHERO"
       ],
       [
        "16229",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "09/07/2026",
-       null
+       null,
+       "EDUARDO SILVIO NASCIMENTO OLIVEIRA"
       ],
       [
        "43857",
        "AUXILIAR LEGISLATIVO",
        30,
        "28/04/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "EDUARDO SILVIO NASCIMENTO OLIVEIRA"
       ],
       [
        "37142",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/03/2005",
-       null
+       null,
+       "EDVAR ANDRADE REIS"
       ],
       [
        "43934",
        "ASSESSOR PARLAMENTAR",
        40,
        "23/08/2025",
-       null
+       null,
+       "FERDINANDO MARCOS BENTO DA SILVA"
       ],
       [
        "43640",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GABRIELA PINHO VIANA ARAUJO"
       ],
       [
        "43635",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "GERALDO MARIO RODRIGUES"
       ],
       [
        "43643",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "HAYDEE DA CUNHA FROTA"
       ],
       [
        "43636",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "HENRIQUE DIAS PORTO"
       ],
       [
        "43642",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "INGRID KADNA DA SILVA REIS"
       ],
       [
        "11638",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "07/06/2025",
-       null
+       null,
+       "IZABEL DIAS DE OLIVEIRA MELO"
       ],
       [
        "43542",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/02/2025",
-       null
+       null,
+       "JANINE MORAES ROCHA"
       ],
       [
        "43637",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "JOAO VITOR LEITE RODRIGUES"
       ],
       [
        "43929",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/08/2025",
-       null
+       null,
+       "JOICE VALVERDE DE ARAUJO"
       ],
       [
        "43943",
        "ASSESSOR PARLAMENTAR",
        40,
        "17/09/2025",
-       null
+       null,
+       "JULIANA PEDRO DA SILVA"
       ],
       [
        "43833",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/01/2025",
-       null
+       null,
+       "MARCELO BARBOSA MIRANDA BOREL"
       ],
       [
        "43641",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MICHELLE GUIMARAES DOS SANTOS"
       ],
       [
        "43629",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/02/2025",
-       "12/05/2026"
+       "12/05/2026",
+       "RENE DUARTE REIS"
       ],
       [
        "44073",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2026",
-       null
+       null,
+       "RICARDO DE ALMEIDA REIS"
       ]
      ]
     },
     "VEREADOR OSVALDO LOPES": {
      "vereador": {
       "cm": "10247",
+      "nome": "OSVALDO LOPES DE OLIVEIRA JUNIOR",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -3262,118 +3721,135 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "19/07/2025",
-       null
+       null,
+       "ANA LUIZA VELUZIANO DA SILVEIRA SANTOS"
       ],
       [
        "43677",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ANDREA PALHARES MOREIRA"
       ],
       [
        "43675",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "30/12/2026"
+       "30/12/2026",
+       "CAROLINA CARVALHO FERREIRA"
       ],
       [
        "43960",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/11/2025",
-       null
+       null,
+       "EVERTON LUIZ LEMOS DE SOUZA"
       ],
       [
        "43673",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "GIBRAN LUCAS DUTRA BARRA"
       ],
       [
        "11463",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/03/2017",
-       null
+       null,
+       "GRAZIELLE CRISCOLLO GOMES"
       ],
       [
        "43777",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/03/2025",
-       null
+       null,
+       "HELLEN CHRISTINA VALE"
       ],
       [
        "43678",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/01/2025",
-       null
+       null,
+       "HUGO NATAN CARVALHO ILDEFONSO"
       ],
       [
        "43671",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "HUGO RINCO RODRIGUES"
       ],
       [
        "43701",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2025",
-       null
+       null,
+       "IZABELLA COELHO DE CAMPOS BASTOS"
       ],
       [
        "11650",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "01/05/2026",
-       null
+       null,
+       "KARINE DESIREE GUEDES"
       ],
       [
        "43674",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LIDIA SILVA DO NASCIMENTO"
       ],
       [
        "44019",
        "ASSESSOR PARLAMENTAR",
        30,
        "23/03/2026",
-       null
+       null,
+       "PATRICIA LEITE DA SILVA"
       ],
       [
        "43676",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "PAULO EMMANUEL DE SOUZA LUZ"
       ],
       [
        "43672",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "PEDRO PINTO COELHO JUNIOR"
       ],
       [
        "43670",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "WALBERT ANTUNES CORREA"
       ]
      ]
     },
     "VEREADOR EDMAR BRANCO": {
      "vereador": {
       "cm": "10237",
+      "nome": "EDMAR MARTINS CABRAL DA CRUZ",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -3383,167 +3859,191 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ANA PAULA REIS FERREIRA"
       ],
       [
        "43559",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "CLEOMAR DIAS DA SILVA"
       ],
       [
        "43557",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "DALIDSON RIBEIRO DE ARAUJO"
       ],
       [
        "43560",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "EDNA ALVES COSTA MARTINS"
       ],
       [
        "43548",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "EDVALDA DE SOUZA MODESTO"
       ],
       [
        "43721",
        "ASSESSOR PARLAMENTAR",
        30,
        "11/03/2025",
-       null
+       null,
+       "FABIANA DENISE DE LIMA DUTRA"
       ],
       [
        "44077",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2026",
-       null
+       null,
+       "IAGO HENRIQUE DE SOUZA OLIVEIRA"
       ],
       [
        "43553",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "JOAO BATISTA COLETA"
       ],
       [
        "44142",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/10/2026",
-       null
+       null,
+       "MARCOS ADEILSON OLIVEIRA DOS SANTOS"
       ],
       [
        "16236",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "10/08/2026",
-       null
+       null,
+       "MARIA IZABEL RODRIGUES DOS SANTOS"
       ],
       [
        "44033",
        "ASSESSOR PARLAMENTAR",
        30,
        "16/04/2026",
-       "13/10/2026"
+       "13/10/2026",
+       "MARIA LUIZA TOBIAS DA SILVA"
       ],
       [
        "43549",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "MARILEA RODRIGUES DA SILVA"
       ],
       [
        "16191",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "14/04/2026",
-       null
+       null,
+       "MIGUEL ALVES RESENDE"
       ],
       [
        "43544",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MIGUEL GONCALVES PEREIRA"
       ],
       [
        "43962",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/11/2025",
-       null
+       null,
+       "NELIO CARLOS NUNES DE MEIRA"
       ],
       [
        "11609",
        "A DISPOSIÇÃO DA CMBH",
        22,
        "07/03/2025",
-       null
+       null,
+       "ODAYR ANTONIO COELHO"
       ],
       [
        "44076",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2026",
-       null
+       null,
+       "PRISCILA DINIZ RODRIGUES ASSIS"
       ],
       [
        "43902",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/07/2025",
-       null
+       null,
+       "RICHARD FERREIRA ROMANO"
       ],
       [
        "11610",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "07/03/2025",
-       null
+       null,
+       "ROSEMAR APARECIDA DUTRA"
       ],
       [
        "43554",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "VILMAR DE OLIVEIRA HIGINO JUNIOR"
       ],
       [
        "43545",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "VIVIANE MARA DE ARAUJO PEDROSA"
       ],
       [
        "43551",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "WALQUIRIA DA CONCEICAO APOLINARIA SOARES ROBADEL"
       ],
       [
        "43547",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "WELLINGTON FIDELIS DA SILVA"
       ]
      ]
     },
     "VEREADORA JUHLIA SANTOS": {
      "vereador": {
       "cm": "10252",
+      "nome": "JUHLIA ANDRE  SANTOS",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -3553,188 +4053,215 @@
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "03/07/2026",
-       null
+       null,
+       "ANAINE ANIKUALO TAUKANE"
       ],
       [
        "43584",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ARTHUR RAMOS VASCONCELOS"
       ],
       [
        "16238",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "14/08/2026",
-       null
+       null,
+       "BEATRIZ SILVA SABINO NOGUEIRA"
       ],
       [
        "43581",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ADRIELLE FERNANDA DE OLIVEIRA"
       ],
       [
        "43507",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/02/2025",
-       "02/06/2026"
+       "02/06/2026",
+       "DANDARA ANTERO CARDOSO"
       ],
       [
        "11622",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "26/03/2025",
-       null
+       null,
+       "ELIA BRITO DA CRUZ"
       ],
       [
        "44100",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/07/2026",
-       null
+       null,
+       "ELINE MATOS REIS"
       ],
       [
        "43952",
        "ASSESSOR PARLAMENTAR",
        30,
        "07/10/2025",
-       null
+       null,
+       "GABRIEL HENRIQUE CARNEIRO DA CUNHA"
       ],
       [
        "44068",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/05/2026",
-       null
+       null,
+       "GABRIELLE LAIS DE SOUZA"
       ],
       [
        "43583",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GUILHERME AUGUSTO DA CUNHA TIAGO"
       ],
       [
        "11617",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/03/2025",
-       null
+       null,
+       "GUSTAVO ADOLFO DE MAGALHÃES"
       ],
       [
        "43582",
        "AUXILIAR LEGISLATIVO",
        30,
        "01/01/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "HELENA GONCALVES DIAS"
       ],
       [
        "43590",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "20/05/2026"
+       "20/05/2026",
+       "JAMINE PATRICIA GUEDES MIRANDA"
       ],
       [
        "43585",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LEONARDO MACARIO CERQUEIRA"
       ],
       [
        "43935",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/08/2025",
-       null
+       null,
+       "LUANA LIRA"
       ],
       [
        "42414",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/02/2021",
-       null
+       null,
+       "LUCAS NASSER MARQUES DE SOUZA"
       ],
       [
        "43580",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MARIA CAROLINA SOARES DE OLIVEIRA"
       ],
       [
        "43587",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MARIA CLARA MELO RODRIGUES"
       ],
       [
        "44049",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/05/2026",
-       null
+       null,
+       "MAXWELL VILELA CHAVES"
       ],
       [
        "43586",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MAYARA CHANTAL COELHO"
       ],
       [
        "44080",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/06/2026",
-       null
+       null,
+       "NATALY APARECIDA CAMPOLINA"
       ],
       [
        "43592",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "PAULO HENRIQUE DA SILVA LOURENÇO"
       ],
       [
        "43917",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/07/2025",
-       null
+       null,
+       "PEDRO AUGUSTO DE ARAUJO ROCHA DO AMARAL CORREIA"
       ],
       [
        "43593",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SAMIR SOARES PEREIRA GUIMARAES"
       ],
       [
        "43588",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "TAINA APARECIDA DE OLIVEIRA ROSA"
       ],
       [
        "16201",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "05/05/2026",
-       null
+       null,
+       "VINICIUS MONTEIRO GINÚ"
       ]
      ]
     },
     "VEREADOR JOSÉ FERREIRA": {
      "vereador": {
       "cm": "10200",
+      "nome": "JOSE DE JESUS FERREIRA",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -3744,223 +4271,255 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "12/02/2025",
-       null
+       null,
+       "ANDRE APARECIDO DE OLIVEIRA JUNIOR"
       ],
       [
        "42234",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "ARTHUR FERNANDES MARTINS DOS SANTOS"
       ],
       [
        "43176",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/09/2023",
-       null
+       null,
+       "ASHLEY LUIZA SILVA PEREIRA"
       ],
       [
        "42656",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/03/2022",
-       null
+       null,
+       "ADILSON SEITI HIROSE"
       ],
       [
        "16237",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "14/08/2026",
-       null
+       null,
+       "CARINE LIMA BARBOSA"
       ],
       [
        "11615",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/03/2025",
-       null
+       null,
+       "CHARLENE VENTURA MOURA REZENDE"
       ],
       [
        "11616",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/03/2025",
-       null
+       null,
+       "CRISTIANA MARIA MACHADO SOARES"
       ],
       [
        "16174",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "11/02/2026",
-       null
+       null,
+       "DAVI JOSE PIRES CAETANO MATOSO"
       ],
       [
        "42453",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/03/2021",
-       null
+       null,
+       "EDIO CORNELIO JUNIOR"
       ],
       [
        "44046",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/05/2026",
-       null
+       null,
+       "EDUARDA ELIZA DE SOUSA RIOS"
       ],
       [
        "43630",
        "ASSESSOR PARLAMENTAR",
        30,
        "12/02/2025",
-       null
+       null,
+       "ESTEFANI MIRANDA FERNANDES FERREIRA"
       ],
       [
        "44093",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/07/2026",
-       "03/11/2026"
+       "03/11/2026",
+       "FELIPE MARTINS DOS SANTOS"
       ],
       [
        "40868",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       null
+       null,
+       "FERNANDA ALEXANDRA PEREIRA ALVES BARRETO"
       ],
       [
        "42227",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2021",
-       null
+       null,
+       "FERNANDA KARLA NEVES GONZAGA "
       ],
       [
        "42232",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       "12/06/2026"
+       "12/06/2026",
+       "FERNANDO JOSE FERREIRA"
       ],
       [
        "11593",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "14/06/2024",
-       null
+       null,
+       "HELOÍSA HELENA BRAGA"
       ],
       [
        "16152",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "04/09/2025",
-       null
+       null,
+       "IAN LUCCA ANDRADE COSTA"
       ],
       [
        "16205",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "12/05/2026",
-       null
+       null,
+       "JOSUE PEREIRA DA SILVA JUNIOR"
       ],
       [
        "42853",
        "ASSESSOR PARLAMENTAR",
        30,
        "20/12/2022",
-       null
+       null,
+       "MARCIO JACKSON DOS SANTOS VENTURA"
       ],
       [
        "42239",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "MARCOS VINICIUS DE PAIVA COELHO"
       ],
       [
        "42237",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "MARIA PATRICIA MOREIRA"
       ],
       [
        "16207",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "20/05/2026",
-       null
+       null,
+       "MATHEUS AUGUSTO GONÇALVES DE SOUZA"
       ],
       [
        "16202",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "05/05/2026",
-       null
+       null,
+       "MIRELLA ALVES RESENDE"
       ],
       [
        "44082",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/06/2026",
-       null
+       null,
+       "PAULA CRISTINA RIBEIRO ROCHA GUIMARÃES"
       ],
       [
        "43776",
        "ASSESSOR PARLAMENTAR",
        40,
        "17/03/2025",
-       null
+       null,
+       "PERSIO ALYSSON FERREIRA SILVA"
       ],
       [
        "11501",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "19/02/2019",
-       null
+       null,
+       "ROBSON CANDIDO ALVES"
       ],
       [
        "43819",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/01/2025",
-       null
+       null,
+       "RONAN ELIAS SILVA DE OLIVEIRA"
       ],
       [
        "43579",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/02/2025",
-       null
+       null,
+       "RONAN GOMES PEREIRA"
       ],
       [
        "11452",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/03/2017",
-       null
+       null,
+       "ROSELI DE OLIVEIRA"
       ],
       [
        "42243",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "SELME ROBERTO SILVA JUNIOR"
       ],
       [
        "43489",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/01/2025",
-       "03/07/2026"
+       "03/07/2026",
+       "WILSON MELO JUNIOR"
       ]
      ]
     },
     "VEREADORA MARILDA PORTELA": {
      "vereador": {
       "cm": "10169",
+      "nome": "MARILDA DE CASTRO PORTELA",
       "admissao": "01/01/2017",
       "exoneracao": null
      },
@@ -3970,174 +4529,199 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "16/03/2023",
-       null
+       null,
+       "ANDRE SOUZA PEREZ"
       ],
       [
        "11466",
        "A DISPOSIÇÃO DA CMBH",
        22.3,
        "29/03/2017",
-       null
+       null,
+       "ANDREIA ALVARENGA FERREIRA FERNANDES"
       ],
       [
        "11600",
        "A DISPOSIÇÃO DA CMBH",
        22,
        "01/01/2025",
-       null
+       null,
+       "ANDREIA ALVARENGA FERREIRA FERNANDES"
       ],
       [
        "11433",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "26/11/2015",
-       null
+       null,
+       "ADRIANA TOLENTINO"
       ],
       [
        "43062",
        "ASSESSOR PARLAMENTAR",
        40,
        "21/03/2023",
-       null
+       null,
+       "CAMILA DUARTE LEONARDO CARACIOLA"
       ],
       [
        "40963",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       null
+       null,
+       "CARLOS HENRIQUE DE OLIVEIRA"
       ],
       [
        "41429",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/04/2018",
-       null
+       null,
+       "CLARACI DA LUZ BATISTA"
       ],
       [
        "40962",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2017",
-       null
+       null,
+       "CRISTINA VELLOSO SANTOS"
       ],
       [
        "11467",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/03/2017",
-       null
+       null,
+       "DANIEL D ASSIS RIBEIRO"
       ],
       [
        "43614",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/02/2025",
-       null
+       null,
+       "FABIOLA NAYARA APARECIDA VEIGA BRANT"
       ],
       [
        "41251",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/06/2017",
-       null
+       null,
+       "FERNANDO VICTOR DOS SANTOS"
       ],
       [
        "44028",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/04/2026",
-       null
+       null,
+       "GERALDO MAGELA DIAS JANUARIO"
       ],
       [
        "42716",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/07/2022",
-       null
+       null,
+       "ISABELA REYNALDO DIAS FERNANDES"
       ],
       [
        "41252",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/06/2017",
-       null
+       null,
+       "JAIRO GONCALVES"
       ],
       [
        "43434",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/08/2024",
-       null
+       null,
+       "JOENIBEL KAMEIKY DOS SANTOS NASCIMENTO"
       ],
       [
        "43898",
        "ASSESSOR PARLAMENTAR",
        40,
        "24/06/2025",
-       "09/09/2026"
+       "09/09/2026",
+       "JOSE JARBAS QUINTILIANO"
       ],
       [
        "42803",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/10/2022",
-       null
+       null,
+       "JOSE VASCO FERREIRA DIAS"
       ],
       [
        "42570",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/09/2021",
-       null
+       null,
+       "KÊNIA BORJA GODINHO"
       ],
       [
        "42708",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2022",
-       null
+       null,
+       "LUIZA CRISTINA CORDEIRO RIBEIRO"
       ],
       [
        "44045",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/05/2026",
-       null
+       null,
+       "RAFAELA MARIANA SILVA NAZARETH"
       ],
       [
        "44117",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/09/2026",
-       null
+       null,
+       "RITA DE CASSIA QUINTILIANO"
       ],
       [
        "43596",
        "AUXILIAR LEGISLATIVO",
        30,
        "07/02/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "SAMUEL ROMERIO ALVES DE OLIVEIRA"
       ],
       [
        "43175",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/09/2023",
-       null
+       null,
+       "WALTER GONÇALVES FERREIRA"
       ],
       [
        "43389",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2024",
-       null
+       null,
+       "ZILENI CRISTINA SANTOS MACHADO"
       ]
      ]
     },
     "VEREADOR RUDSON PAIXAO": {
      "vereador": {
       "cm": "10248",
+      "nome": "RUDSON FELIPE DA PAIXAO",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -4147,181 +4731,207 @@
        "A DISPOSIÇÃO - NIV I",
        30,
        "03/02/2003",
-       null
+       null,
+       "ANDREA CRUZ MACHADO PRACA FIGUEIREDO"
       ],
       [
        "43737",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "BRUNA RODRIGUES DINIZ ZAKUR"
       ],
       [
        "43741",
        "AUXILIAR LEGISLATIVO",
        30,
        "15/03/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "ARTHUR LUIZ FERREIRA GOMIDE"
       ],
       [
        "16204",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "11/05/2026",
-       null
+       null,
+       "BIANCA TROTTA COSTA"
       ],
       [
        "11605",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/02/2025",
-       null
+       null,
+       "ADRIANA MIRANDA FERREIRA"
       ],
       [
        "43732",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       "14/10/2026"
+       "14/10/2026",
+       "CLAUDIO MARCIO GOMES DE JESUS"
       ],
       [
        "43734",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "CLODOALDO RIBEIRO COSTA"
       ],
       [
        "43733",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DANILO MARTINS DE SOUZA"
       ],
       [
        "43921",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/08/2025",
-       null
+       null,
+       "DIOGO BARBOSA MOREIRA"
       ],
       [
        "44087",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/06/2026",
-       null
+       null,
+       "DIOGO RODRIGUES MACHADO"
       ],
       [
        "43878",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/06/2025",
-       null
+       null,
+       "EDUARDO LUCAS MENDES"
       ],
       [
        "43738",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/03/2025",
-       null
+       null,
+       "GILSON ALVES JUNIOR"
       ],
       [
        "43736",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "GIOVANE MOREIRA DIAS"
       ],
       [
        "43735",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GIOVANNI JONAS NASCIMENTO FERREIRA"
       ],
       [
        "16186",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "01/04/2026",
-       null
+       null,
+       "GUILHERME AUGUSTO OLIVEIRA DE SOUZA"
       ],
       [
        "11457",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/03/2017",
-       null
+       null,
+       "IZABELLA GAMALIEL DE SOUZA E LUCIO"
       ],
       [
        "43928",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/08/2025",
-       null
+       null,
+       "JEFERSSON SOUZA SILVA"
       ],
       [
        "43791",
        "ASSESSOR PARLAMENTAR",
        40,
        "21/03/2025",
-       null
+       null,
+       "JOSE BENEDITO PASQUALINI"
       ],
       [
        "44052",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/05/2026",
-       null
+       null,
+       "LAIVERSONG SOUZA BRITO DOS SANTOS"
       ],
       [
        "43724",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LUCIANA ALVES DE OLIVEIRA PENA"
       ],
       [
        "43725",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "13/10/2026"
+       "13/10/2026",
+       "MARLON MONTEIRO SILVA"
       ],
       [
        "11509",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/05/2019",
-       null
+       null,
+       "MONICA DE FREITAS NEVES"
       ],
       [
        "43730",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SAMUEL FILIPE GONÇALVES DOS SANTOS"
       ],
       [
        "16139",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "13/06/2025",
-       null
+       null,
+       "TAMIRES SANDRA FERREIRA BORGES"
       ],
       [
        "43731",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "14/10/2026"
+       "14/10/2026",
+       "TIAGO AREDES DA SILVA"
       ]
      ]
     },
     "VEREADOR DIEGO SANCHES": {
      "vereador": {
       "cm": "10253",
+      "nome": "DIEGO DE SOUZA SANCHES",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -4331,167 +4941,191 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ANDRÉ LUIZ PEREIRA GOMES DE AZEVEDO"
       ],
       [
        "11540",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "23/07/2021",
-       null
+       null,
+       "BRUNI CESAR DESTRO BATISTA"
       ],
       [
        "43509",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "CINTIA SOARES D ASSUMPCAO"
       ],
       [
        "43516",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "CLAUDIO LUIZ DE OLIVEIRA"
       ],
       [
        "43522",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DANILO TAVARES DE SOUZA"
       ],
       [
        "11606",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "04/02/2025",
-       null
+       null,
+       "DAVI CHIARI PORTO"
       ],
       [
        "16177",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "26/02/2026",
-       null
+       null,
+       "DAVI EMANUEL RIBEIRO DE SOUZA"
       ],
       [
        "43523",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "EDNAMAR LOPES DE JESUS CAMARGOS"
       ],
       [
        "43513",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "ELISANGELA RIBEIRO DE MORAIS"
       ],
       [
        "11518",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/01/2020",
-       null
+       null,
+       "EVERTON DRUMOND"
       ],
       [
        "43517",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "FLAVIO SIMOES GONZAGA"
       ],
       [
        "43518",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GIOVANA LEITE SANTOS"
       ],
       [
        "43510",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GRAZIELE GOMES DE CARVALHO"
       ],
       [
        "43519",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "JANAINA GERALDA MENDONÇA DA SILVA"
       ],
       [
        "43515",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "LUCAS VINICIUS RIBEIRO GOMES"
       ],
       [
        "43521",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LUIZ HENRIQUE DOS SANTOS SILVA "
       ],
       [
        "43681",
        "AUXILIAR LEGISLATIVO",
        30,
        "21/02/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "MARCELLA CASTRO LIMA DO AMARAL"
       ],
       [
        "43514",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MARCELO ANTONIO FERREIRA VELLOSO"
       ],
       [
        "43512",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "NILTON RUBENS DOS SANTOS"
       ],
       [
        "16243",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "09/09/2026",
-       null
+       null,
+       "PEDRO RODRIGUES TEIXEIRA"
       ],
       [
        "42318",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "SCHEILLA REGINA DA COSTA"
       ],
       [
        "43520",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SERGIO VINICIUS MARTINS DE PAULA"
       ],
       [
        "43922",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/08/2025",
-       null
+       null,
+       "VALERIA MARTINS CAMPELO"
       ]
      ]
     },
     "VEREADORA IZA LOURENÇA": {
      "vereador": {
       "cm": "10215",
+      "nome": "IZABELLA LOURENÇA AMORIM ROMUALDO",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -4501,167 +5135,191 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "13/03/2024",
-       null
+       null,
+       "ANNA CAROLINA DE PAIVA LEAL"
       ],
       [
        "42536",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/06/2021",
-       null
+       null,
+       "CLARA CIRQUEIRA DE SOUZA"
       ],
       [
        "11669",
        "A DISPOSIÇÃO DA CMBH",
        22.5,
        "22/10/2026",
-       null
+       null,
+       "DANIEL LAGES WARDIL"
       ],
       [
        "42958",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "EDER PHILIPPE SOUZA ALBUQUERQUE"
       ],
       [
        "42182",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "EFRAIM GOMES DE MOURA"
       ],
       [
        "44091",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/07/2026",
-       "13/10/2026"
+       "13/10/2026",
+       "FERNANDA SILVA DE OLIVEIRA"
       ],
       [
        "43188",
        "ASSESSOR PARLAMENTAR",
        30,
        "18/09/2023",
-       "01/06/2026"
+       "01/06/2026",
+       "INDRA AIMARA DE AQUINO"
       ],
       [
        "43862",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/05/2025",
-       "05/08/2026"
+       "05/08/2026",
+       "JULIA GONÇALVES BONIFACIO LEITE"
       ],
       [
        "43403",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/06/2024",
-       null
+       null,
+       "JULIA PARISI DE CARVALHO MOYSES"
       ],
       [
        "11508",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "01/05/2019",
-       null
+       null,
+       "JULIANA APARECIDA DOS SANTOS LIMA"
       ],
       [
        "43370",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/05/2024",
-       null
+       null,
+       "LARISSA SHAYANNA FERREIRA COSTA"
       ],
       [
        "44104",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/08/2026",
-       null
+       null,
+       "LUANNA KATHLEEN PAIVA RAMALHO"
       ],
       [
        "44105",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/08/2026",
-       null
+       null,
+       "LUCAS HENRIQUE REZENDE PEREIRA"
       ],
       [
        "43790",
        "ASSESSOR PARLAMENTAR",
        40,
        "19/03/2025",
-       null
+       null,
+       "LUIZ FELIPE TOMBINI"
       ],
       [
        "42978",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "MARCELA LINHARES SERRÃO DINIZ SILVA"
       ],
       [
        "44027",
        "ASSESSOR PARLAMENTAR",
        30,
        "02/04/2026",
-       null
+       null,
+       "MARIANA FARIA DIAS "
       ],
       [
        "11607",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/02/2025",
-       null
+       null,
+       "NATHALIA STEPHANIE RIBEIRO VENTURA"
       ],
       [
        "43814",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "REGINALDO SILVA DOS SANTOS"
       ],
       [
        "43274",
        "ASSESSOR PARLAMENTAR",
        30,
        "06/02/2024",
-       null
+       null,
+       "SAMANTTA PINHEIRO BORASCHI"
       ],
       [
        "42178",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2021",
-       null
+       null,
+       "SIMONE MARIA DA PENHA DE OLIVEIRA"
       ],
       [
        "42674",
        "ASSESSOR PARLAMENTAR",
        30,
        "13/04/2022",
-       null
+       null,
+       "TÚLIO OLIVEIRA GONTIJO"
       ],
       [
        "42179",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2021",
-       null
+       null,
+       "VALDOMIRO PEREIRA DA SILVA"
       ],
       [
        "43843",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/04/2025",
-       null
+       null,
+       "VICTORIA FERRARO LIMA SILVA"
       ]
      ]
     },
     "VEREADOR MANINHO FELIX": {
      "vereador": {
       "cm": "10226",
+      "nome": "GLAUTON SANTIAGO FELIX DE JESUS",
       "admissao": "01/02/2023",
       "exoneracao": null
      },
@@ -4671,160 +5329,183 @@
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/03/2023",
-       null
+       null,
+       "ANTONIO JOSE VITAL"
       ],
       [
        "44074",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/06/2026",
-       null
+       null,
+       "AGNALDO MOREIRA DA SILVA"
       ],
       [
        "42948",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       null
+       null,
+       "CARLOS ALBERTO DA SAUDE"
       ],
       [
        "42942",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "CARLOS ROBERTO DE CASTRO ASSUMPÇÃO"
       ],
       [
        "43216",
        "ASSESSOR PARLAMENTAR",
        30,
        "23/10/2023",
-       null
+       null,
+       "CATIA PEREIRA DA SILVA"
       ],
       [
        "43312",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/04/2024",
-       null
+       null,
+       "CRESIO EDUARDO DOS SANTOS"
       ],
       [
        "42946",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "DIEGO PASCOAL CAMPOS DO VALE"
       ],
       [
        "42951",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "ERNANE XAVIER DE LIMA JUNIOR"
       ],
       [
        "43503",
        "ASSESSOR PARLAMENTAR",
        40,
        "31/01/2025",
-       null
+       null,
+       "FELIPE DE JESUS DO ESPIRITO SANTO"
       ],
       [
        "42954",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "GETULIO GONTIJO DE AMORIM"
       ],
       [
        "11659",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "GISELE GOMES TAVEIRA PIRES"
       ],
       [
        "42947",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       null
+       null,
+       "GLEIDSON TADEU DE OLIVEIRA"
       ],
       [
        "43393",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/06/2024",
-       null
+       null,
+       "JANSEN PEREZ SOUZA"
       ],
       [
        "11490",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "27/06/2018",
-       null
+       null,
+       "JORDANE ACACIO DOS SANTOS"
       ],
       [
        "43597",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/02/2025",
-       null
+       null,
+       "MAXIMO WELMO EUZEBIO DE SOUSA"
       ],
       [
        "16175",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "13/02/2026",
-       null
+       null,
+       "NICOLY CARDOSO CHAVES"
       ],
       [
        "36591",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2004",
-       null
+       null,
+       "PAULO ANTONIO CAMPOS DE JESUS"
       ],
       [
        "43680",
        "ASSESSOR PARLAMENTAR",
        40,
        "21/02/2025",
-       null
+       null,
+       "REGINALDO FERREIRA DE PAULA"
       ],
       [
        "42941",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       null
+       null,
+       "SEBASTIAO EUSTAQUIO COTA DE OLIVEIRA"
       ],
       [
        "42949",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "TOSHIO TAKAHASI"
       ],
       [
        "43067",
        "ASSESSOR PARLAMENTAR",
        30,
        "24/03/2023",
-       null
+       null,
+       "WAGNER LUIZ GONZAGA"
       ],
       [
        "42945",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "WAGNER SANTIAGO DA SILVA"
       ]
      ]
     },
     "VEREADOR LEONARDO ANGELO": {
      "vereador": {
       "cm": "10243",
+      "nome": "LEONARDO ANGELO DA SILVA",
       "admissao": "01/01/2025",
       "exoneracao": "05/11/2026"
      },
@@ -4834,132 +5515,151 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "20/02/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "APARECIDA CANDIDA DA SILVA"
       ],
       [
        "16167",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "18/11/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "BEATRIZ DIAS DE AVELAR BASTOS"
       ],
       [
        "44085",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/06/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "ADRIELLE DE FREITAS"
       ],
       [
        "43908",
        "ASSESSOR PARLAMENTAR",
        40,
        "17/07/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "DANIEL SILVA GONÇALVES"
       ],
       [
        "43599",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "DAVIDSON SAMPAIO DE ARAUJO"
       ],
       [
        "44003",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/02/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "ELENIRIA ALVES MOTA"
       ],
       [
        "43604",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "ELSON MARINHO"
       ],
       [
        "43885",
        "ASSESSOR PARLAMENTAR",
        30,
        "09/06/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "EUFRASIO RODRIGUES PINHEIRO FILHO"
       ],
       [
        "43595",
        "ASSESSOR PARLAMENTAR",
        30,
        "06/02/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "JUNIA CARLA ELER BRAGA"
       ],
       [
        "43609",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "NAYARA CORREA TIBURCIO"
       ],
       [
        "43605",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "POLLYANNA IZAURA DE SOUZA SANTOS"
       ],
       [
        "43600",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "RAFAEL MARQUES PEREIRA"
       ],
       [
        "43601",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "SAMIR JORGE ZAKUR"
       ],
       [
        "43598",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "SAMUELSON MATOS NASCIMENTO"
       ],
       [
        "43606",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "SHEILA CRISTINA DA SILVA DENONI SOUZA"
       ],
       [
        "43611",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "SOLANGE DE AQUINO LANA"
       ],
       [
        "43608",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "THIAGO BARROS DA COSTA"
       ],
       [
        "43607",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "WILLIAM GOMES LEMOS"
       ]
      ]
     },
     "VEREADOR PABLO ALMEIDA": {
      "vereador": {
       "cm": "10242",
+      "nome": "PHABLO GOMES ALMEIDA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -4969,146 +5669,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "05/10/2026",
-       null
+       null,
+       "AQUILA EVANGELISTA DE PAULA"
       ],
       [
        "43904",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/07/2025",
-       "16/11/2026"
+       "16/11/2026",
+       "CESAR AUGUSTO LAMARCHE PEREIRA NUNES"
       ],
       [
        "44122",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/10/2026",
-       null
+       null,
+       "CRISTIANO RODRIGUES DOS REIS"
       ],
       [
        "44127",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/10/2026",
-       null
+       null,
+       "DANIEL LUCAS DOS SANTOS"
       ],
       [
        "44063",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/05/2026",
-       null
+       null,
+       "DIEGO MOREIRA VAZ SANTIAGO"
       ],
       [
        "44124",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/10/2026",
-       null
+       null,
+       "FELIPE DIOGENES ANTUNES DE PAULA CANDIDO"
       ],
       [
        "44129",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/10/2026",
-       null
+       null,
+       "FERNANDO ROSA GARCIA "
       ],
       [
        "44128",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/10/2026",
-       null
+       null,
+       "GILCIMAR FRANCISCO DE CARVALHO PARREIRAS"
       ],
       [
        "44007",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2026",
-       null
+       null,
+       "GLADISTON MOREIRA DE ASSIS JUNIOR"
       ],
       [
        "11662",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "ISRAEL GUSTAVO FREITAS FIGUEREDO"
       ],
       [
        "44131",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/10/2026",
-       null
+       null,
+       "JOILSON ALMEIDA SOUZA"
       ],
       [
        "43698",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LARISSA CRISTINE ANTUNES OLIVEIRA"
       ],
       [
        "44130",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/10/2026",
-       null
+       null,
+       "LOMANTO LOPES DA SILVA"
       ],
       [
        "44123",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/10/2026",
-       null
+       null,
+       "LUCAS MELO TEIXEIRA"
       ],
       [
        "42530",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2021",
-       null
+       null,
+       "LUCIANA FRATTARI BASSI BOECHAT"
       ],
       [
        "43688",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/01/2025",
-       null
+       null,
+       "MARIANA RODRIGUES SOTERO GAROFOLO"
       ],
       [
        "43494",
        "ASSESSOR PARLAMENTAR",
        40,
        "21/01/2025",
-       null
+       null,
+       "MARINA GABRIELA OLIVEIRA DIAS "
       ],
       [
        "43691",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "PRISCILLA RIBEIRO DE SOUZA RANGEL"
       ],
       [
        "16211",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "01/05/2026",
-       null
+       null,
+       "VICTOR GABRIEL OLIVEIRA BARBOSA"
       ],
       [
        "44120",
        "ASSESSOR PARLAMENTAR",
        30,
        "05/10/2026",
-       null
+       null,
+       "WANDERSON TEIXEIRA DOS SANTOS"
       ]
      ]
     },
     "VEREADOR WAGNER FERREIRA": {
      "vereador": {
       "cm": "10257",
+      "nome": "WAGNER DE JESUS FERREIRA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -5118,167 +5839,191 @@
        "A DISPOSIÇÃO DA CMBH",
        30,
        "04/04/2025",
-       "19/11/2026"
+       "19/11/2026",
+       "ARIADNE CAMARGOS LIMA"
       ],
       [
        "43027",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2023",
-       null
+       null,
+       "CARLOS JOSÉ LAGARES DE SOUZA"
       ],
       [
        "43381",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/05/2024",
-       null
+       null,
+       "CLAUDIA MARA RIBEIRO"
       ],
       [
        "43160",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/08/2023",
-       null
+       null,
+       "GIULLIA BIZARRIA GOUVEIA DOS SANTOS"
       ],
       [
        "43289",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2024",
-       null
+       null,
+       "GUILHERME SIMOES DIAS"
       ],
       [
        "43739",
        "ASSESSOR PARLAMENTAR",
        30,
        "14/03/2025",
-       null
+       null,
+       "GUSTAVO TAVARES SIMÃO E SILVA"
       ],
       [
        "11666",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "ILDICÉIA GOMES MEDEIROS RODRIGUES"
       ],
       [
        "11619",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "22/03/2025",
-       null
+       null,
+       "KARINA LUCIA PEREIRA"
       ],
       [
        "43870",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/05/2025",
-       "01/11/2026"
+       "01/11/2026",
+       "LARISSA MATOS DE FIGUEIREDO"
       ],
       [
        "43202",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/10/2023",
-       null
+       null,
+       "LAURO RAIMUNDO CELESTINO"
       ],
       [
        "43125",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/06/2023",
-       null
+       null,
+       "LUIZ ANTONIO RIBEIRO SOARES DAS NEVES"
       ],
       [
        "43075",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/04/2023",
-       null
+       null,
+       "MARIA EDUARDA BRAGA REZENDE"
       ],
       [
        "44053",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/05/2026",
-       null
+       null,
+       "MATHEUS ALMEIDA NERES"
       ],
       [
        "16198",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "28/04/2026",
-       null
+       null,
+       "MAURÍCIO DIAS GOMES ESTEVÃO"
       ],
       [
        "16232",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "24/07/2026",
-       "04/11/2026"
+       "04/11/2026",
+       "NATALIA PAOLLA OLIVEIRA E SILVA"
       ],
       [
        "42913",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "PATRICIA DE CASTRO BRUM"
       ],
       [
        "16227",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "06/07/2026",
-       null
+       null,
+       "RAPHAELA DE OLIVEIRA BORGES"
       ],
       [
        "42909",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "RENATO JOSE GOMES"
       ],
       [
        "42903",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "SAMUEL BATISTA DA SILVA"
       ],
       [
        "44012",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/03/2026",
-       null
+       null,
+       "SILVIO HIGINO DE REZENDE"
       ],
       [
        "42914",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2023",
-       null
+       null,
+       "SONIA MARIA MENDES"
       ],
       [
        "43236",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/11/2023",
-       null
+       null,
+       "STEFANIE CRISTINA NASCIMENTO DOS SANTOS"
       ],
       [
        "42905",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "STEPHANIE OLIVEIRA BASTOS"
       ]
      ]
     },
     "VEREADOR ARRUDA": {
      "vereador": {
       "cm": "10245",
+      "nome": "ENEDINO JOSE DE ARRUDA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -5288,146 +6033,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "14/07/2023",
-       null
+       null,
+       "BRENDHA RIBEIRO AMORIN"
       ],
       [
        "43936",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/08/2025",
-       null
+       null,
+       "BRUNO HENRIQUE DOS SANTOS"
       ],
       [
        "44114",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/09/2026",
-       null
+       null,
+       "CAMILLA RIBEIRO RODRIGUES"
       ],
       [
        "44147",
        "ASSESSOR PARLAMENTAR",
        40,
        "19/10/2026",
-       null
+       null,
+       "CRISNAIRA CRISTINA COSTA DE AGUIAR"
       ],
       [
        "44103",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/08/2026",
-       null
+       null,
+       "DAVIDSON LUCAS MOREIRA REIS"
       ],
       [
        "43492",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DENIO FERREIRA CAMPOLINA"
       ],
       [
        "42619",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/12/2021",
-       null
+       null,
+       "DENIS PEREIRA DE ARAUJO"
       ],
       [
        "43632",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/02/2025",
-       null
+       null,
+       "GENICELIA ALVES FERREIRA"
       ],
       [
        "43723",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/03/2025",
-       null
+       null,
+       "JESSICA AMANDA PEREIRA"
       ],
       [
        "11663",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "10/10/2026",
-       null
+       null,
+       "JOSE ROBERTO PIMENTA"
       ],
       [
        "39972",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/02/2014",
-       null
+       null,
+       "LEANDRO JOSE DOS SANTOS GUIMARAES"
       ],
       [
        "11412",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "18/10/2014",
-       null
+       null,
+       "MARCELO MARCAL SOARES MIGUEL"
       ],
       [
        "39479",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "MARCOS DE LEMOS CARSALADE"
       ],
       [
        "39817",
        "ASSESSOR PARLAMENTAR",
        40,
        "29/05/2013",
-       null
+       null,
+       "MARIANA DINIZ LIMA VERTEIRO"
       ],
       [
        "39579",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2013",
-       null
+       null,
+       "NATHALIA COELHO FERREIRA SUISSO"
       ],
       [
        "37018",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2005",
-       null
+       null,
+       "REGINA CELIA FERREIRA"
       ],
       [
        "43490",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SERGIO CLAUDIO RAMOS DE AGUIAR"
       ],
       [
        "43364",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/05/2024",
-       null
+       null,
+       "SILVIANE LOPES"
       ],
       [
        "44026",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/04/2026",
-       "24/09/2026"
+       "24/09/2026",
+       "VINICIUS LOPES CARVALHO"
       ],
       [
        "43998",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/02/2026",
-       null
+       null,
+       "WANVERSON DA SILVA"
       ]
      ]
     },
     "VEREADOR TILELEO": {
      "vereador": {
       "cm": "10250",
+      "nome": "LEONARDO JOSE RODRIGUES MARTINS",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -5437,174 +6203,199 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "14/01/2025",
-       null
+       null,
+       "BRENO WALLACE FERREIRA DE SOUZA "
       ],
       [
        "43855",
        "ASSESSOR PARLAMENTAR",
        30,
        "24/04/2025",
-       null
+       null,
+       "ATILA MOREIRA DE SOUZA GONÇALVES"
       ],
       [
        "43763",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DIEGO CALDEIRA MAGALHAES"
       ],
       [
        "43771",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       "12/11/2026"
+       "12/11/2026",
+       "EDSON WEBRES RODRIGUES"
       ],
       [
        "43774",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "EDVALDO DA SILVA OLIVEIRA"
       ],
       [
        "44010",
        "ASSESSOR PARLAMENTAR",
        30,
        "04/03/2026",
-       null
+       null,
+       "FABIO DIAS DA COSTA SANTOS"
       ],
       [
        "43765",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "HENRY RODRIGUES RABELO PATROCINIO"
       ],
       [
        "43775",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "JHENNIFER STEPHANYE VENTURATO VIEIRA"
       ],
       [
        "16234",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "30/07/2026",
-       null
+       null,
+       "LAVÍNIA LIMA CARVALHO"
       ],
       [
        "43907",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/07/2025",
-       null
+       null,
+       "LETICIA MOSCI VILELA"
       ],
       [
        "44024",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/04/2026",
-       null
+       null,
+       "LUCAS HENRIQUE DE ALMEIDA SANTOS"
       ],
       [
        "16249",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "23/10/2026",
-       null
+       null,
+       "LUÃ JOSEFF GREGO "
       ],
       [
        "41649",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/02/2019",
-       null
+       null,
+       "MARCIA MORAIS AZEVEDO ANANIAS DE ASSIS"
       ],
       [
        "16206",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "13/05/2026",
-       null
+       null,
+       "MARIA EDUARDA DE SOUZA TANURE"
       ],
       [
        "11653",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "23/07/2026",
-       null
+       null,
+       "MARIA TERESA GROSSI GONCALVES LEONARDO"
       ],
       [
        "43762",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MARLON DE ALVARENGA ARGAMIM"
       ],
       [
        "43767",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "NAYARA KARINA ANTONIA REIS OLIVEIRA"
       ],
       [
        "44102",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/08/2026",
-       null
+       null,
+       "NILO DE OLIVEIRA"
       ],
       [
        "43761",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "PHILIPI ROCHA MOREIRA"
       ],
       [
        "43768",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "RAFAEL ALVES DE ALMEIDA"
       ],
       [
        "11649",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "11/04/2026",
-       null
+       null,
+       "SANDRA REGINA COSTA"
       ],
       [
        "43946",
        "ASSESSOR PARLAMENTAR",
        30,
        "30/09/2025",
-       null
+       null,
+       "TATIANA PINHO ROCHA GALO"
       ],
       [
        "16224",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "01/07/2026",
-       null
+       null,
+       "THALES CECÍLIO DE SOUZA"
       ],
       [
        "16248",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "02/10/2026",
-       null
+       null,
+       "VANESSA LELIS ALVES"
       ]
      ]
     },
     "VEREADORA FERNANDA PEREIRA ALTOÉ": {
      "vereador": {
       "cm": "10205",
+      "nome": "FERNANDA ELISA PEREIRA ALTOÉ",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -5614,104 +6405,119 @@
        "ASSESSOR PARLAMENTAR",
        30,
        "11/09/2024",
-       null
+       null,
+       "BRUNA SILVA AGUIAR BOREM"
       ],
       [
        "43941",
        "ASSESSOR PARLAMENTAR",
        40,
        "15/09/2025",
-       null
+       null,
+       "ADRIANA MOREIRA GONÇALVES"
       ],
       [
        "42582",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/10/2021",
-       null
+       null,
+       "DANIEL DE SOUZA CALDAS"
       ],
       [
        "43525",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2025",
-       null
+       null,
+       "DEBORA MAXIMO SANT'ANA"
       ],
       [
        "42810",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/10/2022",
-       null
+       null,
+       "FELIPE DINIZ COELHO"
       ],
       [
        "42379",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/01/2021",
-       null
+       null,
+       "JOAO VICTOR MALAGOLI MARTINS"
       ],
       [
        "43886",
        "ASSESSOR PARLAMENTAR",
        30,
        "07/06/2025",
-       null
+       null,
+       "LUCIANA REGINALDO CAMPOS"
       ],
       [
        "43647",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/02/2025",
-       null
+       null,
+       "MAURO VITOR TAVARES BULHOES"
       ],
       [
        "41991",
        "ASSESSOR PARLAMENTAR",
        30,
        "12/02/2020",
-       null
+       null,
+       "PAULINA PENA DE AVILA"
       ],
       [
        "43374",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/05/2024",
-       null
+       null,
+       "REJANE MARIA MENEZES RIBEIRO SILVA"
       ],
       [
        "42560",
        "ASSESSOR PARLAMENTAR",
        40,
        "09/08/2021",
-       null
+       null,
+       "RENATA OLIVEIRA FAJARDO REIS"
       ],
       [
        "42840",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/11/2022",
-       null
+       null,
+       "ROBERTO DE MEDEIROS GARCIA"
       ],
       [
        "42437",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/02/2021",
-       null
+       null,
+       "THAIANA DE CARVALHO CASTELAR"
       ],
       [
        "44032",
        "ASSESSOR PARLAMENTAR",
        40,
        "15/04/2026",
-       null
+       null,
+       "VITOR COIMBRA ROCHA "
       ]
      ]
     },
     "VEREADOR PEDRO PATRUS": {
      "vereador": {
       "cm": "10220",
+      "nome": "PEDRO LUIZ NEVES VICTER ANANIAS",
       "admissao": "29/03/2021",
       "exoneracao": null
      },
@@ -5721,174 +6527,199 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "16/04/2021",
-       null
+       null,
+       "BRUNO COELHO VIANA DA SILVA"
       ],
       [
        "43440",
        "ASSESSOR PARLAMENTAR",
        30,
        "09/09/2024",
-       null
+       null,
+       "ARUANA DE OLIVEIRA SILVA"
       ],
       [
        "44020",
        "ASSESSOR PARLAMENTAR",
        30,
        "23/03/2026",
-       null
+       null,
+       "AELSON PEREIRA DOS SANTOS"
       ],
       [
        "42486",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/04/2021",
-       "01/11/2026"
+       "01/11/2026",
+       "ALAN SOARES DOS SANTOS"
       ],
       [
        "42502",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/04/2021",
-       null
+       null,
+       "CASSIO EDUARDO GONÇALVES"
       ],
       [
        "44016",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/03/2026",
-       null
+       null,
+       "ERIKA CRISTINA DIAS NOGUEIRA"
       ],
       [
        "11542",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "18/08/2021",
-       null
+       null,
+       "FABIO FRANCISCO MAIA"
       ],
       [
        "43810",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/04/2025",
-       null
+       null,
+       "FELIPE AUGUSTO SANTOS MIRANDA"
       ],
       [
        "44070",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/06/2026",
-       null
+       null,
+       "FELIPE DA SILVA MOREIRA CRISTO"
       ],
       [
        "42537",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/06/2021",
-       null
+       null,
+       "GLADYS RODRIGUES DE ANDRADE"
       ],
       [
        "16171",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "05/01/2026",
-       null
+       null,
+       "GUILHERME MESSIAS DE OLIVEIRA"
       ],
       [
        "41255",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/06/2017",
-       null
+       null,
+       "IGOR DE MACEDO NOGUEIRA DA GAMA"
       ],
       [
        "11596",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "13/08/2024",
-       null
+       null,
+       "JOSÉ FERREIRA DA CRUS"
       ],
       [
        "42622",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2022",
-       null
+       null,
+       "JOSÉ NICOLAU DE ABREU"
       ],
       [
        "42615",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/12/2021",
-       null
+       null,
+       "JULIANA FERREIRA DE CARVALHO"
       ],
       [
        "43220",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/11/2023",
-       null
+       null,
+       "LETICIA BARBOSA DOS SANTOS"
       ],
       [
        "16192",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "13/04/2026",
-       null
+       null,
+       "LUIZA ALVARENGA ROCHA"
       ],
       [
        "42990",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/02/2023",
-       null
+       null,
+       "LUIZA LOPES GALVÃO"
       ],
       [
        "11543",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "18/08/2021",
-       null
+       null,
+       "MARCELLE CARDOSO ZIBRAL SANTOS"
       ],
       [
        "43159",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/08/2023",
-       null
+       null,
+       "MARCO AURELIO GODOY"
       ],
       [
        "43288",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/03/2024",
-       null
+       null,
+       "MARIA TERESA DOS SANTOS"
       ],
       [
        "11533",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/05/2021",
-       null
+       null,
+       "RAFAELA CAROLINA FONTOURA MOREIRA"
       ],
       [
        "42501",
        "ASSESSOR PARLAMENTAR",
        40,
        "27/04/2021",
-       null
+       null,
+       "STHEFANY FABIANA ALMEIDA SILVEIRA"
       ],
       [
        "44111",
        "ASSESSOR PARLAMENTAR",
        30,
        "18/08/2026",
-       null
+       null,
+       "WARLEY FABIANO SANTOS"
       ]
      ]
     },
     "VEREADOR NENEM DA FARMACIA": {
      "vereador": {
       "cm": "10238",
+      "nome": "MOZAIR JOSÉ BRAGA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -5898,188 +6729,215 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "05/02/2025",
-       null
+       null,
+       "CAIO BELLOTE DELGADO MARCZUK"
       ],
       [
        "43930",
        "ASSESSOR PARLAMENTAR",
        30,
        "19/08/2025",
-       null
+       null,
+       "ABEL GONÇALVES BRUNO"
       ],
       [
        "42196",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       "04/07/2026"
+       "04/07/2026",
+       "CIRES BREIDE DE MELO MARTINS"
       ],
       [
        "43913",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/07/2025",
-       null
+       null,
+       "DANIEL MACHADO"
       ],
       [
        "43660",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "DANIEL MARTINS DA SILVA"
       ],
       [
        "11012",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "27/07/1988",
-       null
+       null,
+       "ELIZABETH CHRISTINA DE ABREU SCALZO"
       ],
       [
        "43651",
        "ASSESSOR PARLAMENTAR",
        40,
        "18/02/2025",
-       null
+       null,
+       "EUBER LUCIO DOS SANTOS"
       ],
       [
        "43657",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "FABIO VICENTINO DE OLIVEIRA"
       ],
       [
        "43664",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "FELIPE FERREIRA DO NASCIMENTO "
       ],
       [
        "43655",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "FELIPE SANTANA FAUSTINO"
       ],
       [
        "11644",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "20/12/2025",
-       null
+       null,
+       "FERNANDA FELIZARDO ARAÚJO"
       ],
       [
        "43873",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/05/2025",
-       null
+       null,
+       "FLAVIO MARCIO RANIERI DE ALBUQUERQUE"
       ],
       [
        "11544",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "18/08/2021",
-       null
+       null,
+       "JORGE LUIZ MACHADO"
       ],
       [
        "43662",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LORENA GUIMARAES CANDIDO"
       ],
       [
        "43658",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MANOEL TEIXEIRA ORNELAS FILHO"
       ],
       [
        "44050",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/05/2026",
-       null
+       null,
+       "MARCIA DA CRUZ LOPES"
       ],
       [
        "43661",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "MARCOS PAULO DA SILVA REIS ROCHA"
       ],
       [
        "43659",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "MARCOS PAULO MARTINS RABELO"
       ],
       [
        "43653",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "MAURICIO GERALDO DOS SANTOS"
       ],
       [
        "16123",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "15/05/2025",
-       null
+       null,
+       "RENATO AUGUSTO BOREL DO NASCIMENTO"
       ],
       [
        "43663",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "RENATO DE SOUZA JUNIOR"
       ],
       [
        "11612",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "18/03/2025",
-       null
+       null,
+       "TANIA FERNANDES TORRES"
       ],
       [
        "16134",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "02/06/2025",
-       null
+       null,
+       "THAIS SANTOS VEIGA"
       ],
       [
        "16216",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "28/05/2026",
-       null
+       null,
+       "VICTORIA MANUELE DE JESUS FERREIRA"
       ],
       [
        "43652",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "WESLEY GONÇALVES FERREIRA"
       ],
       [
        "16135",
        "ESTAGIÁRIO NÍVEL MÉDIO",
        20,
        "03/06/2025",
-       null
+       null,
+       "YASMIN DOS SANTOS CLARO"
       ]
      ]
     },
     "VEREADORA JANAINA CARDOSO": {
      "vereador": {
       "cm": "10229",
+      "nome": "JANAINA ESTER CARDOSO",
       "admissao": "13/02/2023",
       "exoneracao": null
      },
@@ -6089,174 +6947,199 @@
        "AUXILIAR LEGISLATIVO",
        30,
        "01/03/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "CAIO EDUARDO NOGUEIRA PIRES"
       ],
       [
        "43481",
        "ASSESSOR PARLAMENTAR",
        40,
        "11/12/2024",
-       null
+       null,
+       "CAIO MARCIO FERREIRA DO COUTO"
       ],
       [
        "43013",
        "ASSESSOR PARLAMENTAR",
        40,
        "16/02/2023",
-       null
+       null,
+       "BIANCA KEREN DOS SANTOS E PAULO"
       ],
       [
        "43633",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/02/2025",
-       null
+       null,
+       "CARLOS ROBERTO GONCALVES DA ROCHA"
       ],
       [
        "43034",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/03/2023",
-       null
+       null,
+       "CLAYTON BERTOLDO DE ANDRADE"
       ],
       [
        "43087",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/04/2023",
-       null
+       null,
+       "DAYANA MARTINS DA SILVA"
       ],
       [
        "43096",
        "ASSESSOR PARLAMENTAR",
        40,
        "26/04/2023",
-       null
+       null,
+       "DEILSON GONCALVES MIRANDA"
       ],
       [
        "43230",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/11/2023",
-       null
+       null,
+       "ELAINE SOARES PEREIRA MARTINS"
       ],
       [
        "43051",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/03/2023",
-       null
+       null,
+       "FRANCISCO ASSIS DE PAULO"
       ],
       [
        "11453",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "30/03/2017",
-       null
+       null,
+       "GILBERTO ANTONIO FERREIRA"
       ],
       [
        "43276",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/02/2024",
-       null
+       null,
+       "GILBERTO JOSE DA SILVA"
       ],
       [
        "11450",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/03/2017",
-       null
+       null,
+       "HILDA ROSA FERREIRA"
       ],
       [
        "41437",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/05/2018",
-       null
+       null,
+       "JANDIR VIEIRA SIQUEIRA"
       ],
       [
        "43086",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/04/2023",
-       null
+       null,
+       "JEFFERSON RODRIGUES FERREIRA"
       ],
       [
        "43205",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/10/2023",
-       null
+       null,
+       "JOAO DE MATOS JUNIOR"
       ],
       [
        "43376",
        "ASSESSOR PARLAMENTAR",
        40,
        "08/05/2024",
-       "08/08/2026"
+       "08/08/2026",
+       "JOSE MARIA FILHO"
       ],
       [
        "43036",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/03/2023",
-       null
+       null,
+       "JOSE RONALDO DA COSTA"
       ],
       [
        "43830",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/01/2025",
-       null
+       null,
+       "MARIA DE FATIMA FERREIRA DOS SANTOS"
       ],
       [
        "43669",
        "ASSESSOR PARLAMENTAR",
        40,
        "21/02/2025",
-       null
+       null,
+       "NERIS MOURA CLEMENTE"
       ],
       [
        "44110",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/08/2026",
-       null
+       null,
+       "PAULO CESAR GOMES"
       ],
       [
        "44047",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/05/2026",
-       null
+       null,
+       "RAMON JUNIO DIAS"
       ],
       [
        "43829",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/01/2025",
-       null
+       null,
+       "SERGIO SANTOS COSTA"
       ],
       [
        "11339",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "01/02/2011",
-       null
+       null,
+       "TALITA FERNANDES TAVARES COIMBRA"
       ],
       [
        "11569",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "17/04/2023",
-       null
+       null,
+       "WALMIR ANSELMO MATTOS"
       ]
      ]
     },
     "VEREADOR LUCAS GANEM": {
      "vereador": {
       "cm": "10241",
+      "nome": "LUCAS DO CARMO NAVARRO",
       "admissao": "01/01/2025",
       "exoneracao": "05/11/2026"
      },
@@ -6266,111 +7149,127 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "CAIQUE LOPES FERREIRA"
       ],
       [
        "43792",
        "ASSESSOR PARLAMENTAR",
        30,
        "25/03/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "FELIPE DA SILVA VIANA"
       ],
       [
        "44039",
        "ASSESSOR PARLAMENTAR",
        40,
        "29/04/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "GIOVANNI TITONELI PRINCIPATO"
       ],
       [
        "44037",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/04/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "GUILHERME BATISTA GONÇALVES LOPES"
       ],
       [
        "43940",
        "ASSESSOR PARLAMENTAR",
        30,
        "15/09/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "ISABELA VIANA DA SILVA"
       ],
       [
        "44040",
        "ASSESSOR PARLAMENTAR",
        40,
        "30/04/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "JOAO PEDRO MOREIRA SMID"
       ],
       [
        "44035",
        "ASSESSOR PARLAMENTAR",
        40,
        "24/04/2026",
-       "01/11/2026"
+       "01/11/2026",
+       "JULIE KELLY DE OLIVEIRA"
       ],
       [
        "43616",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "LEANDRO ZAGUI RUIVO"
       ],
       [
        "44038",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/04/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "LUCAS LIVIE DE SANTANA"
       ],
       [
        "43627",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/02/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "MARIANA FERREIRA COSTA SOARES"
       ],
       [
        "44048",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/05/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "MURILO MURER ROJAM SANCHES"
       ],
       [
        "43624",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "05/11/2026"
+       "05/11/2026",
+       "NATIELE DAS NEVES LOPES"
       ],
       [
        "43621",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "03/07/2026"
+       "03/07/2026",
+       "REBECCA NAVARRO CABRAL KASSIS"
       ],
       [
        "43619",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       "28/09/2026"
+       "28/09/2026",
+       "THAIS DOMINGUES FRANCISCO"
       ],
       [
        "44036",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/04/2026",
-       "05/11/2026"
+       "05/11/2026",
+       "YASMIN MURER RIBEIRO"
       ]
      ]
     },
     "VEREADOR HELTON JUNIOR": {
      "vereador": {
       "cm": "10244",
+      "nome": "HELTON VIEIRA FERNANDES JUNIOR",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -6380,146 +7279,167 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "BERNARDO SOUZA DE FARIA"
       ],
       [
        "43703",
        "AUXILIAR LEGISLATIVO",
        30,
        "07/03/2025",
-       "01/05/2026"
+       "01/05/2026",
+       "BIANCA CAROLINE DOS SANTOS SILVA"
       ],
       [
        "16172",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "27/01/2026",
-       null
+       null,
+       "DEBORA DE ANDRADE AGUIAR"
       ],
       [
        "43567",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "EDUARDO DIAS BRAGA"
       ],
       [
        "43568",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "ELOISA APARECIDA VITORINO"
       ],
       [
        "43574",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/01/2025",
-       null
+       null,
+       "ESTELA MARES VAZ RODRIGUES ARAUJO FILHA"
       ],
       [
        "11419",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "29/04/2015",
-       null
+       null,
+       "FERNANDO ANTONIO DO AMARAL SANTANA"
       ],
       [
        "43563",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "GABRIEL FERREIRA DE AGUIAR QUEIROZ"
       ],
       [
        "43566",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "JOAO VITOR NASCIMENTO MIRANDA"
       ],
       [
        "43570",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "JOSE MAURICIO DE FARIA FERRAZ"
       ],
       [
        "43562",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "LEONARDO JUNIO DA SILVA"
       ],
       [
        "43704",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/03/2025",
-       null
+       null,
+       "MARIA CLARA VIANA PINTO COSTA"
       ],
       [
        "43569",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2025",
-       null
+       null,
+       "MATHEUS HENRIQUE FIGUEIREDO"
       ],
       [
        "44086",
        "ASSESSOR PARLAMENTAR",
        30,
        "25/06/2026",
-       null
+       null,
+       "MATHEUS HENRIQUE GOMES DE OLIVEIRA"
       ],
       [
        "41588",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/11/2018",
-       null
+       null,
+       "NAHYARA BEDESCHI DA SILVEIRA E SILVA"
       ],
       [
        "16179",
        "ESTAGIÁRIO NÍVEL SUPERIOR",
        20,
        "05/03/2026",
-       null
+       null,
+       "NAYANE CRISTINA SANTOS FRAGA"
       ],
       [
        "43564",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "RODOLFO PEREIRA GUEDES"
       ],
       [
        "43573",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "SAMUEL CONSENTINO DE MEDEIROS"
       ],
       [
        "44136",
        "ASSESSOR PARLAMENTAR",
        40,
        "07/10/2026",
-       null
+       null,
+       "VALMIR EMERENCIANO BRAZ"
       ],
       [
        "43565",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2025",
-       null
+       null,
+       "WENDERSON TEIXEIRA BARBOSA"
       ]
      ]
     },
     "VEREADOR CLEITON XAVIER": {
      "vereador": {
       "cm": "10258",
+      "nome": "CLEITON XAVIER DA SILVA",
       "admissao": "01/01/2025",
       "exoneracao": null
      },
@@ -6529,167 +7449,191 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "17/12/2023",
-       null
+       null,
+       "CLAUDIA APARECIDA BARBOSA RIBEIRO"
       ],
       [
        "44149",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/10/2026",
-       null
+       null,
+       "GERALDO JACINTO DE CARVALHO NETO"
       ],
       [
        "43238",
        "ASSESSOR PARLAMENTAR",
        40,
        "28/11/2023",
-       null
+       null,
+       "GILDA MARIA MONTEIRO DOS SANTOS"
       ],
       [
        "11646",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "28/01/2026",
-       null
+       null,
+       "GILSON DAMASIO DOS SANTOS JUNIOR"
       ],
       [
        "43497",
        "ASSESSOR PARLAMENTAR",
        40,
        "20/01/2025",
-       null
+       null,
+       "GLEIDSON SOUZA DE OLIVEIRA MATTOS"
       ],
       [
        "44094",
        "ASSESSOR PARLAMENTAR",
        40,
        "04/07/2026",
-       null
+       null,
+       "GUILHERME MATOS SELEM DOS SANTOS"
       ],
       [
        "43899",
        "ASSESSOR PARLAMENTAR",
        40,
        "27/06/2025",
-       "21/10/2026"
+       "21/10/2026",
+       "ISABELA TINTI FERREIRA"
       ],
       [
        "43383",
        "AUXILIAR LEGISLATIVO",
        30,
        "20/05/2024",
-       "01/05/2026"
+       "01/05/2026",
+       "ISAQUE BRAGA SANTOS"
       ],
       [
        "43972",
        "ASSESSOR PARLAMENTAR",
        40,
        "27/12/2025",
-       null
+       null,
+       "JANE APARECIDA DE PAULA PIMENTA"
       ],
       [
        "11514",
        "A DISPOSIÇÃO DA CMBH",
        30,
        "30/07/2019",
-       null
+       null,
+       "JORGE WANDER BARBOSA"
       ],
       [
        "43975",
        "ASSESSOR PARLAMENTAR",
        30,
        "01/01/2026",
-       null
+       null,
+       "LAIS MARTINS DE ASSIS FERREIRA"
       ],
       [
        "43084",
        "ASSESSOR PARLAMENTAR",
        40,
        "19/04/2023",
-       null
+       null,
+       "LEONARDO VINICIUS MELLO CUNHA"
       ],
       [
        "42730",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/07/2022",
-       null
+       null,
+       "LEONORA PALOMA SIQUEIRA DE LIMA"
       ],
       [
        "43646",
        "ASSESSOR PARLAMENTAR",
        40,
        "14/02/2025",
-       null
+       null,
+       "MARCELO DA SILVA PEREIRA"
       ],
       [
        "42720",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/07/2022",
-       null
+       null,
+       "MICHAEL FRANKLIN DE MELO MARIZ"
       ],
       [
        "44138",
        "ASSESSOR PARLAMENTAR",
        30,
        "07/10/2026",
-       null
+       null,
+       "PALOMA SILVA CAPUCHO BRITO"
       ],
       [
        "42769",
        "ASSESSOR PARLAMENTAR",
        40,
        "06/08/2022",
-       null
+       null,
+       "PHILIP AUGUSTO PASSOS DE OLIVEIRA"
       ],
       [
        "42726",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/07/2022",
-       null
+       null,
+       "POLIANA LEITE EDWIGES FURTADO"
       ],
       [
        "44029",
        "ASSESSOR PARLAMENTAR",
        30,
        "07/04/2026",
-       "07/10/2026"
+       "07/10/2026",
+       "RENATA MATIAS DA CONCEICAO SOARES"
       ],
       [
        "42724",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/07/2022",
-       null
+       null,
+       "ROSELAINE APARECIDA DE SOUZA ABREU"
       ],
       [
        "42732",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/07/2022",
-       null
+       null,
+       "SIMONE MALTA DA SILVA"
       ],
       [
        "43165",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/08/2023",
-       null
+       null,
+       "VALDECI JOSE DE CASTRO"
       ],
       [
        "11180",
        "A DISPOSIÇÃO - NIV I",
        30,
        "01/02/2001",
-       null
+       null,
+       "WALTER ALVES PEREIRA JUNIOR"
       ]
      ]
     },
     "VEREADOR CLÁUDIO DO MUNDO NOVO": {
      "vereador": {
       "cm": "10202",
+      "nome": "CLAUDIO MOTA CAMPOS",
       "admissao": "01/01/2021",
       "exoneracao": null
      },
@@ -6699,111 +7643,127 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "02/11/2023",
-       null
+       null,
+       "DIEGO FERRAZ DA SILVA"
       ],
       [
        "43966",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/11/2025",
-       null
+       null,
+       "EDWARD FELIPE DA SILVA"
       ],
       [
        "44025",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/04/2026",
-       null
+       null,
+       "ERIKA PINHEIRO VAZ"
       ],
       [
        "42334",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "FRANCISCO ALVES DE CARVALHO JUNIOR"
       ],
       [
        "42336",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "GRACIELLE AUXILIADORA DOS SANTOS CARVALHO"
       ],
       [
        "42516",
        "ASSESSOR PARLAMENTAR",
        40,
        "10/05/2021",
-       "12/05/2026"
+       "12/05/2026",
+       "HELENICE RODRIGUES DA SILVA"
       ],
       [
        "43118",
        "ASSESSOR PARLAMENTAR",
        40,
        "22/05/2023",
-       null
+       null,
+       "JACKSON FERRAZ DA SILVA"
       ],
       [
        "42981",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/02/2023",
-       null
+       null,
+       "JOÃO BIONDINI JUNIOR"
       ],
       [
        "43037",
        "ASSESSOR PARLAMENTAR",
        40,
        "03/03/2023",
-       null
+       null,
+       "JOÃO HEBERT DE SOUSA"
       ],
       [
        "43999",
        "ASSESSOR PARLAMENTAR",
        30,
        "10/02/2026",
-       null
+       null,
+       "LARISSA MARIANA OLIVEIRA DUARTE"
       ],
       [
        "43008",
        "ASSESSOR PARLAMENTAR",
        40,
        "13/02/2023",
-       null
+       null,
+       "ROGERIO PEREIRA DA SILVA"
       ],
       [
        "43876",
        "ASSESSOR PARLAMENTAR",
        40,
        "02/06/2025",
-       null
+       null,
+       "THALITA JULIANA MACIEL PUJONI"
       ],
       [
        "42103",
        "ASSESSOR PARLAMENTAR",
        40,
        "01/01/2021",
-       null
+       null,
+       "TIAGO FAUSTINO DE PAULA"
       ],
       [
        "44014",
        "ASSESSOR PARLAMENTAR",
        40,
        "12/03/2026",
-       null
+       null,
+       "VIVIANE APARECIDA DA SILVA SANTOS"
       ],
       [
        "42512",
        "ASSESSOR PARLAMENTAR",
        40,
        "05/05/2021",
-       null
+       null,
+       "WELINTON ABREU ESTEVÃO DE ANDRADE"
       ]
      ]
     },
     "VEREADORA CIDA FALABELLA": {
      "vereador": {
       "cm": "10224",
+      "nome": "MARIA APARECIDA VILHENA FALABELLA",
       "admissao": "01/02/2023",
       "exoneracao": null
      },
@@ -6817,14 +7777,16 @@
        "ASSESSOR PARLAMENTAR",
        40,
        "29/01/2026",
-       null
+       null,
+       "RAFAEL SOARES MAGALHÃES"
       ],
       [
        "11588",
        "A DISPOSIÇÃO DA CMBH",
        40,
        "14/03/2024",
-       null
+       null,
+       "REGINA LÚCIA PEREZ TEIXEIRA"
       ]
      ]
     }

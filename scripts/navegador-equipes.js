@@ -5,12 +5,12 @@
 // lotação, admissão, exoneração), guarda em localStorage "equipes" e clica em "Próximo".
 // Rode uma vez por página, com 10 s entre elas, até aparecer "FIM". Não recarregue a página: a verificação volta.
 //
-// Depois, gere a saída sem nomes:
+// Depois, gere a saída:
 //   const s = JSON.parse(localStorage.equipes), m = new Map();
 //   for (const k in s) for (const p in s[k]) for (const r of s[k][p]) m.set(r[0] + "|" + r[4], r);
 //   const rows = [...m.values()];
 //   JSON.stringify({ mes: "AAAA-MM", totalServidores: rows.length, coletadoEm: new Date().toISOString(),
-//     gabinetes: rows.filter((r) => /^VEREADOR/i.test(r[4] || "")).map((r) => [r[0], r[2], r[3], r[4], r[5], r[6]]) })
+//     gabinetes: rows.filter((r) => /^VEREADOR/i.test(r[4] || "")).map((r) => [r[0], r[2], r[3], r[4], r[5], r[6], r[1]]) })
 // salve num arquivo e rode: node scripts/juntar-equipes.js arquivo.json
 // Confira que totalServidores é igual ao total de registros que a página mostra.
 (() => {

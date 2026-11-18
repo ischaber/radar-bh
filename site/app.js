@@ -375,7 +375,7 @@
     if (!eq) b.append(el("p", null, "Ninguém lotado neste gabinete na lista oficial do mês."));
     else {
       var pe = el("p");
-      pe.append(el("b", null, plural(eq.pessoas, "pessoa", "pessoas")), eq.saiuNoMes ? " (mais " + eq.saiuNoMes + (eq.saiuNoMes > 1 ? " que saíram" : " que saiu") + " durante o mês)" : "");
+      pe.append(el("b", null, plural(eq.pessoas, "pessoa", "pessoas")), eq.saiuNoMes ? " (mais " + eq.saiuNoMes + (eq.saiuNoMes > 1 ? " que já saíram" : " que já saiu") + ", com data de saída na lista)" : "");
       b.append(pe);
       var ue = el("ul", "lista-simples lista-tipos");
       eq.porCargo.forEach(function (c) {
@@ -384,6 +384,20 @@
         ue.append(li);
       });
       b.append(ue);
+      if (eq.lista && eq.lista.length) {
+        var ln = el("ul", "lista-simples lista-equipe");
+        eq.lista.forEach(function (s) {
+          var li = el("li");
+          li.append(el("b", null, s[0]), " ", el("span", "suave", "· " + cargoLegivel(s[1]) + " · " + String(s[2]).replace(".", ",") + " h/semana · desde " + s[3] + (s[4] ? " · saiu em " + s[4] : "")));
+          ln.append(li);
+        });
+        var bt = el("button", "ver-mais", "Ver os nomes (" + eq.lista.length + ")");
+        bt.type = "button";
+        bt.addEventListener("click", function () { ln.classList.add("aberta"); bt.remove(); });
+        var pb = el("p", "acoes-bloco");
+        pb.append(bt);
+        b.append(pb, ln);
+      }
     }
     b.append(el("p", "suave nota-mes", "Salários da equipe: a Câmara mostra o salário de cada servidor só um por um, com uma verificação anti-robô a cada consulta, e não publica a soma por gabinete; por isso não estão aqui. Carro: a Câmara não publica gasto com carro por vereador."));
     var f = el("p", "acoes-bloco");
