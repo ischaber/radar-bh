@@ -114,16 +114,33 @@
       b.append(el("p", "suave", "Nenhum voto deste vereador nas votações transcritas até agora."));
       return b;
     }
+    var cont = {};
+    v.votosNominais.forEach(function (par) { cont[par[1]] = (cont[par[1]] || 0) + 1; });
+    var resumoVotos = el("p");
+    ["Sim", "Não", "Abstenção", "Não votou"].forEach(function (k) {
+      if (!cont[k]) return;
+      if (resumoVotos.childNodes.length) resumoVotos.append(" · ");
+      resumoVotos.append(el("span", "voto " + CLASSE_VOTO[k], k + ": " + cont[k]));
+    });
+    b.append(resumoVotos);
     var ul = el("ul", "lista-simples");
-    v.votosNominais.forEach(function (par) {
+    v.votosNominais.slice().sort(function (a, c) { return vn.lista[c[0]].data.localeCompare(vn.lista[a[0]].data); }).forEach(function (par, i) {
       var vt = vn.lista[par[0]], voto = par[1];
-      var li = el("li");
+      var li = el("li", i >= 8 ? "a-mais" : null);
       li.append(el("span", "voto " + (CLASSE_VOTO[voto] || ""), voto), " ",
         link(vt.ficha, vt.materia + " (" + vt.turno + ")"),
         el("span", "suave", " · " + dataBr(vt.data) + " · " + vt.resultado));
       ul.append(li);
     });
     b.append(ul);
+    if (v.votosNominais.length > 8) {
+      var rod = el("p", "acoes-bloco");
+      var mais = el("button", "ver-mais", "Ver todos os " + v.votosNominais.length + " votos");
+      mais.type = "button";
+      mais.addEventListener("click", function () { ul.classList.add("aberta"); mais.remove(); });
+      rod.append(mais);
+      b.append(rod);
+    }
     return b;
   }
 
@@ -191,8 +208,9 @@
     document.getElementById("nominais").hidden = false;
     document.getElementById("nominais-criterio").textContent = vn.criterio;
     var ul = document.getElementById("lista-nominais");
-    vn.lista.slice().reverse().forEach(function (vt) {
-      var li = el("li", "nominal");
+    var ordenada = vn.lista.slice().sort(function (a, c) { return c.data.localeCompare(a.data); });
+    ordenada.forEach(function (vt, i) {
+      var li = el("li", "nominal" + (i >= 5 ? " a-mais" : ""));
       var t = el("p", "nominal-titulo");
       t.append(el("b", null, vt.materia + " · " + vt.turno), el("span", "suave", " · " + dataBr(vt.data) + " · " + vt.reuniao));
       var tot = el("p");
@@ -208,6 +226,12 @@
       li.append(t, tot, em, lk);
       ul.append(li);
     });
+    if (ordenada.length > 5) {
+      var mais = el("button", "ver-mais", "Ver todas as " + ordenada.length + " votações transcritas");
+      mais.type = "button";
+      mais.addEventListener("click", function () { ul.classList.add("aberta"); mais.remove(); });
+      ul.after(mais);
+    }
   }
 
   function montarSegundoTurno() {

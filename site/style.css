@@ -90,6 +90,8 @@ details[open] summary { border-bottom: 1px solid var(--linha); }
 .nominais { margin: 20px 0; padding: 16px; border: 1px solid var(--linha); border-radius: var(--raio); }
 .nominais > p { margin: 0 0 8px; font-size: 14px; }
 .lista-nominais { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.lista-nominais .a-mais { display: none; }
+.lista-nominais.aberta .a-mais { display: block; }
 .nominal p { margin: 0 0 4px; font-size: 15px; }
 .nominal .acoes-bloco { margin-top: 4px; }
 .mes { margin-bottom: 10px; }

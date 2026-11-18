@@ -132,13 +132,14 @@ const marcasTexto = (slug) => {
 
 const nominais = extra("votos-nominais.json");
 const votosPorSlug = new Map();
+const votosSemCartao = new Set();
 const votacoesNominais = (nominais?.votacoes || []).map((vt, i) => {
   const contagem = {};
   for (const [nome, voto] of Object.entries(vt.votos)) {
     contagem[voto] = (contagem[voto] || 0) + 1;
     const slug = chaveVereador(nome);
     if (!slug) {
-      console.warn(`Aviso: voto nominal de "${nome}" (${vt.materia}) sem vereador identificado.`);
+      votosSemCartao.add(nome); // ex-vereadores e suplentes: o voto conta no total, mas não há cartão
       continue;
     }
     if (!votosPorSlug.has(slug)) votosPorSlug.set(slug, []);
@@ -176,6 +177,8 @@ const projetosVariasReunioes = [...projetosPorChave.values()]
     };
   })
   .sort((a, b) => b.reunioes.at(-1)[0].localeCompare(a.reunioes.at(-1)[0]) || a.materia.localeCompare(b.materia));
+
+if (votosSemCartao.size) console.log(`Votos nominais de quem não está na lista atual (contam nos totais): ${[...votosSemCartao].join(", ")}`);
 
 const saida = {
   atualizadoEm: presenca.coletadoEm,

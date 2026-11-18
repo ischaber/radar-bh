@@ -7,3 +7,4 @@ node_modules/
 
 # Configurações locais do Claude Code
 .claude/settings.local.json
+fichas/

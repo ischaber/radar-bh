@@ -1,0 +1,4034 @@
+{
+ "_explicacao": "Links das fichas 'Decisão e ocorrências' achados na tramitação de cada proposição (aberta no navegador, como um cidadão). Usado para transcrever os votos nominais em dados/votos-nominais.json.",
+ "projetos": {
+  "1/2025": {
+   "autoria": "Ver.(a) Maninho Félix; Ver.(a) Professora Nara",
+   "ementa": "Acrescenta o inciso IX ao § 3º do art. 33 da Lei nº 11.416/22, que \"Institui a Lei Municipal de Inclusão da pessoa com Deficiência e da Pessoa com Mobilidade Reduzida\".",
+   "decisoes": [
+    [
+     "2c907f7697e672900197f5c4f0e62602",
+     "aprovado em primeiro turno",
+     "10/07/2025"
+    ],
+    [
+     "2c907f769ce16adc019ce8fd394e16f4",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "13/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769ce16adc019ce8fd394e16f4",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "13/03/2026"
+   }
+  },
+  "1002/2024": {
+   "autoria": "Ver.(a) Professor Juliano Lopes",
+   "ementa": "Dispõe sobre a obrigatoriedade de destinação de espaço para pontos de táxis em estabelecimentos que realizem eventos, shows e similares município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7695f2f19f0195f2f6b73f0044",
+     "Aprovado em Primeiro Turno",
+     "01/04/2025"
+    ],
+    [
+     "2c907f769994e7f80199a15caa251cff",
+     "aprovado em segundo turno",
+     "01/10/2025"
+    ],
+    [
+     "2c907f769bbcccb3019c2586f7d32e73",
+     "veto mantido",
+     "03/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769994e7f80199a15caa251cff",
+    "decisao": "aprovado em segundo turno",
+    "data": "01/10/2025"
+   }
+  },
+  "105/2025": {
+   "autoria": "Ver.(a) Maninho Félix",
+   "ementa": "Dispõe sobre a criação do \"Programa Prata da Casa\", que estabelece a política municipal de incentivo e valorização dos artistas locais e da outras providencias.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a55e0625c39e3",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "05/11/2025"
+    ],
+    [
+     "2c907f769c51422e019cba4939e46b34",
+     "aprovado em segundo turno",
+     "04/03/2026"
+    ],
+    [
+     "2c907f769e168db0019e28339c302f81",
+     "veto mantido",
+     "14/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cba4939e46b34",
+    "decisao": "aprovado em segundo turno",
+    "data": "04/03/2026"
+   }
+  },
+  "112/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Dispõe sobre a implementação do projeto \"Porteiro amigo do Idoso\" no âmbito dos condomínios da cidade de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a55d7284639a2",
+     "aprovado em primeiro turno",
+     "05/11/2025"
+    ],
+    [
+     "2c907f769dce5a7c019df4b4810a3989",
+     "aprovado o substitutivo nº 4. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "04/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769dce5a7c019df4b4810a3989",
+    "decisao": "aprovado o substitutivo nº 4. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "04/05/2026"
+   }
+  },
+  "114/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Institui a Política Municipal de Enfrentamento à Violência contra a Pessoa Idosa no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76973537590197659a283963e2",
+     "Aprovado em primeiro turno",
+     "12/06/2025"
+    ],
+    [
+     "2c907f769a2f4770019a55e8af9c3a0b",
+     "Aprovado o Substitutivo nº 1 na parte não destacada. Prejudicado o projeto. Rejeitado o artigo 4º e a alínea 'a' do inciso III do artigo 3º do Substitutivo nº 1 em votação destacada. Segundo Turno",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a55e8af9c3a0b",
+    "decisao": "Aprovado o Substitutivo nº 1 na parte não destacada. Prejudicado o projeto. Rejeitado o artigo 4º e a alínea 'a' do inciso III do artigo 3º do Substitutivo nº 1 em votação destacada. Segundo Turno",
+    "data": "05/11/2025"
+   }
+  },
+  "119/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Dispõe sobre a política de combate à alienação parental no município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699ce86020199cfe5ee9707fe",
+     "aprovado em primeiro turno",
+     "10/10/2025"
+    ],
+    [
+     "2c907f769e168db0019e22dc645e22c0",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "13/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e22dc645e22c0",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "13/05/2026"
+   }
+  },
+  "124/2025": {
+   "autoria": "Ver.(a) Vile Santos",
+   "ementa": "Institui o Município de Belo Horizonte como a Capital do Bitcoin e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76966932d90196ac6ff5ed5c7c",
+     "Aprovado em Primeiro Turno",
+     "07/05/2025"
+    ],
+    [
+     "2c907f76987b849c0198a01410cb3d2b",
+     "Aprovada a subemenda nº 1 ao Substitutivo nº1. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "12/08/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76987b849c0198a01410cb3d2b",
+    "decisao": "Aprovada a subemenda nº 1 ao Substitutivo nº1. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "12/08/2025"
+   }
+  },
+  "126/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Dispõe sobre a obrigatoriedade da inclusão de cursos, instruções e divulgação sobre manobras de desengasgo no pré-natal e pós-natal nas unidades de saúde da rede pública do município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76987b849c0198a501ed644925",
+     "aprovado em primeiro turno",
+     "13/08/2025"
+    ],
+    [
+     "2c907f769a2f4770019a602e1bb44deb",
+     "aprovada a Subemenda nº 2 ao Substitutivo nº 1. Prejudicados os PLs 126/25 e 181/25, o Substitutivo nº1 e a Subemenda nº 1 ao Substitutivo nº 1. Segundo Turno",
+     "07/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a602e1bb44deb",
+    "decisao": "aprovada a Subemenda nº 2 ao Substitutivo nº 1. Prejudicados os PLs 126/25 e 181/25, o Substitutivo nº1 e a Subemenda nº 1 ao Substitutivo nº 1. Segundo Turno",
+    "data": "07/11/2025"
+   }
+  },
+  "128/2025": {
+   "autoria": "Ver.(a) Dra. Michelly Siqueira",
+   "ementa": "Altera o § 6° do art. 2° da Lei n° 11.416/22 , que \"Institui a Lei Municipal de Inclusão da Pessoa com Deficiência e da Pessoa com Mobilidade Reduzida\".",
+   "decisoes": [
+    [
+     "2c907f76987b849c0198aa21af7953fd",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "14/08/2025"
+    ],
+    [
+     "2c907f7698e0ae97019911186b545ee1",
+     "aprovado em segundo turno",
+     "03/09/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7698e0ae97019911186b545ee1",
+    "decisao": "aprovado em segundo turno",
+    "data": "03/09/2025"
+   }
+  },
+  "129/2025": {
+   "autoria": "Ver.(a) Professor Juliano Lopes",
+   "ementa": "Altera os parágrafos 7° e 8° do artigo 135 da Lei 8.616/2003, Código de Posturas do Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f7696cfc5b50196daab7b7017c5",
+     "Aprovado em Primeiro Turno",
+     "16/05/2025"
+    ],
+    [
+     "2c907f769aec74b0019b23c62f03357e",
+     "aprovado em segundo turno",
+     "15/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b23c62f03357e",
+    "decisao": "aprovado em segundo turno",
+    "data": "15/12/2025"
+   }
+  },
+  "134/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Estabelece sanções para empresas que abandonem ou paralisem obras ou serviços contratados no âmbito do Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae9701991b5653f8722f",
+     "aprovado em primeiro turno",
+     "05/09/2025"
+    ],
+    [
+     "2c907f769c51422e019cd42bd6cf11ce",
+     "aprovado o substitutivo nº 2. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "09/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cd42bd6cf11ce",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "09/03/2026"
+   }
+  },
+  "137/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Cria o \"Programa de Apadrinhamento Afetivo de Idosos\" no município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699383d9d01993a64e4030752",
+     "aprovado em primeiro turno",
+     "11/09/2025"
+    ],
+    [
+     "2c907f769aec74b0019b145b34f92cc5",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "12/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b145b34f92cc5",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "12/12/2025"
+   }
+  },
+  "148/2025": {
+   "autoria": "Ver.(a) Pablo Almeida; Ver.(a) Sargento Jalyson; Ver.(a) Uner Augusto; Ver.(a) Vile Santos",
+   "ementa": "Altera a Lei n° 8.029/00 , que \"Cria o Fórum População de Rua e dispõe sobre política pública para a população de rua no município\".",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a74dbc9961287",
+     "aprovado em primeiro turno",
+     "11/11/2025"
+    ],
+    [
+     "2c907f769e5062dd019eb342dc457fed",
+     "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "10/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eb342dc457fed",
+    "decisao": "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "10/06/2026"
+   }
+  },
+  "150/2025": {
+   "autoria": "Ver.(a) Braulio Lara; Ver.(a) Cláudio do Mundo Novo; Ver.(a) Cleiton Xavier; Ver.(a) Fernanda Pereira Altoé; Ver.(a) Irlan Melo; Ver.(a) Janaina Cardoso; Ver.(a) Lucas Ganem; Ver.(a) Pablo Almeida; Ver.(a) Professora Marli; Ver.(a) Rudson Paixão; Ver.(a) Sargento Jalyson; Ver.(a) Uner Augusto; Ver.(a) Vile Santos; Ver.(a) Wagner Ferreira",
+   "ementa": "Altera a Lei 9.319 de 19 de Janeiro de 2007 que Institui o Estatuto da Guarda Municipal de Belo Horizonte e dá outras providências",
+   "decisoes": [
+    [
+     "2c907f76987b849c0198a01559483d2f",
+     "aprovado em primeiro turno",
+     "12/08/2025"
+    ],
+    [
+     "2c907f769d91c1a9019d930f73dc0b0c",
+     "Rejeitados o substitutivo nº 2, as emendas nº 3 e 4, e o projeto. Segundo Turno.",
+     "15/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d91c1a9019d930f73dc0b0c",
+    "decisao": "Rejeitados o substitutivo nº 2, as emendas nº 3 e 4, e o projeto. Segundo Turno.",
+    "data": "15/04/2026"
+   }
+  },
+  "155/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Dispõe sobre as sanções administrativas aplicadas pelo município de Belo Horizonte às pessoas flagradas portando ou consumindo drogas ilícitas em ambiente público e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769ad965b9019adbb179990732",
+     "aprovados os arts. 1º ao 8º do projeto em votação destacada e o projeto na parte não destacada (art. 9º). Primeiro turno",
+     "01/12/2025"
+    ],
+    [
+     "2c907f769e168db0019e1de7153f1662",
+     "Aprovados: a emenda substitutiva nº 2, os artigos 1º ao 8º do projeto em votação destacada e o projeto na parte não destacada (art. 9º). Segundo Turno",
+     "12/05/2026"
+    ],
+    [
+     "2c907f769fc06af1019fc94a11a80713",
+     "veto rejeitado",
+     "03/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e1de7153f1662",
+    "decisao": "Aprovados: a emenda substitutiva nº 2, os artigos 1º ao 8º do projeto em votação destacada e o projeto na parte não destacada (art. 9º). Segundo Turno",
+    "data": "12/05/2026"
+   }
+  },
+  "165/2025": {
+   "autoria": "Ver.(a) Rudson Paixão",
+   "ementa": "Altera a Lei nº 7.597/98, que \"Dispõe sobre assentamento de famílias no Município e dá outras providências\".",
+   "decisoes": [
+    [
+     "2c907f76987b849c0198a0173c273d37",
+     "aprovado em primeiro turno",
+     "12/08/2025"
+    ],
+    [
+     "2c907f769aec74b0019b0f08a2d82231",
+     "Aprovada a subemenda nº 1 ao substitutivo nº 1. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+     "11/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b0f08a2d82231",
+    "decisao": "Aprovada a subemenda nº 1 ao substitutivo nº 1. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+    "data": "11/12/2025"
+   }
+  },
+  "167/2025": {
+   "autoria": "Ver.(a) Neném da Farmácia",
+   "ementa": "\"Institui o ano de 2027 como o Ano Municipal de Conscientização sobre o Acesso ao Leite Materno em Belo Horizonte\"",
+   "decisoes": [
+    [
+     "2c907f769c51422e019c5865b1601040",
+     "aprovado em primeiro turno",
+     "13/02/2026"
+    ],
+    [
+     "2c907f76a0350d3301a05e85c5ac2fbd",
+     "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+     "01/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a0350d3301a05e85c5ac2fbd",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+    "data": "01/09/2026"
+   }
+  },
+  "169/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Institui no Município de Belo Horizonte o selo \"Estabelecimento amigo do autista\" e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae970199111c65125f0c",
+     "aprovado em primeiro turno",
+     "03/09/2025"
+    ],
+    [
+     "2c907f769c2dee88019c3473d5720f5f",
+     "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+     "06/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c2dee88019c3473d5720f5f",
+    "decisao": "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+    "data": "06/02/2026"
+   }
+  },
+  "170/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Prevê o estabelecimento de campanha de orientação às pessoas idosas contra fraudes e outros crimes no âmbito do Município e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7697c55c830197d6bd3aeb27cb",
+     "aprovado em primeiro turno",
+     "04/07/2025"
+    ],
+    [
+     "2c907f769bbcccb3019c2015dd1d1de7",
+     "aprovado o Substitutivo nº 2. Prejudicados o projeto e o Substitutivo nº 1. Segundo turno",
+     "02/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769bbcccb3019c2015dd1d1de7",
+    "decisao": "aprovado o Substitutivo nº 2. Prejudicados o projeto e o Substitutivo nº 1. Segundo turno",
+    "data": "02/02/2026"
+   }
+  },
+  "173/2025": {
+   "autoria": "Ver.(a) Braulio Lara",
+   "ementa": "Dispõe sobre a desobstrução de vias públicas e passeios na cidade de Belo Horizonte nas hipóteses que menciona e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a7a3525401dd2",
+     "aprovados os artigos 1º ao 4º do projeto em votação destacada e o projeto na parte não destacada (art. 5º). Primeiro turno",
+     "12/11/2025"
+    ],
+    [
+     "2c907f769dce5a7c019e043eb47360f9",
+     "Aprovados: a emenda supressiva nº 5, os artigos 1º ao 3º do projeto em votação destacada e o projeto na parte não destacada (art. 5º). Rejeitada a emenda aditiva nº 2. Prejudicadas: a votação destacada do art. 4º do projeto, as emendas nºs 1, 3, 4, 6, 7, 8 e 9. Segundo Turno",
+     "07/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769dce5a7c019e043eb47360f9",
+    "decisao": "Aprovados: a emenda supressiva nº 5, os artigos 1º ao 3º do projeto em votação destacada e o projeto na parte não destacada (art. 5º). Rejeitada a emenda aditiva nº 2. Prejudicadas: a votação destacada do art. 4º do projeto, as emendas nºs 1, 3, 4, 6, 7, 8 e 9. Segundo Turno",
+    "data": "07/05/2026"
+   }
+  },
+  "174/2025": {
+   "autoria": "Ver.(a) Braulio Lara",
+   "ementa": "Institui e regulamenta a internação voluntária e involuntária de usuários e dependentes de drogas em rede de atenção à saúde no Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f7699c349280199cb089a79195d",
+     "aprovados os artigos 1º ao 7º do projeto em votação destacada. Aprovado o projeto na parte não destacada (artigo 8º). Primeiro Turno",
+     "09/10/2025"
+    ],
+    [
+     "2c907f769c51422e019cdec8e94a2d97",
+     "aprovado o substitutivo nº 8 na parte não destacada (art. 5º). Aprovados os artigos 1º ao 4º do substitutivo nº 8 em votação destacada. Prejudicados o projeto e demais emendas. Segundo turno",
+     "11/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cdec8e94a2d97",
+    "decisao": "aprovado o substitutivo nº 8 na parte não destacada (art. 5º). Aprovados os artigos 1º ao 4º do substitutivo nº 8 em votação destacada. Prejudicados o projeto e demais emendas. Segundo turno",
+    "data": "11/03/2026"
+   }
+  },
+  "178/2025": {
+   "autoria": "Ver.(a) Diego Sanches",
+   "ementa": "Dispõe sobre a autorização de permanência de até 2 (dois) acompanhantes para pessoas com Transtorno do Espectro Autista (TEA) nas unidades de saúde das redes pública e privada no âmbito do Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae970199111ab4445efb",
+     "aprovado em primeiro turno",
+     "03/09/2025"
+    ],
+    [
+     "2c907f769d246df5019d69a2e5bc6b8c",
+     "Aprovado o substitutivo nº 3. Prejudicados o projeto e os substitutivos nº 1 e 2. Segundo Turno.",
+     "07/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d69a2e5bc6b8c",
+    "decisao": "Aprovado o substitutivo nº 3. Prejudicados o projeto e os substitutivos nº 1 e 2. Segundo Turno.",
+    "data": "07/04/2026"
+   }
+  },
+  "179/2025": {
+   "autoria": "Ver.(a) Osvaldo Lopes",
+   "ementa": "Altera a Lei nº 11.821/2025, que obriga os estabelecimentos comerciais que menciona a garantir a segurança, a saúde e o bem-estar de animais",
+   "decisoes": [
+    [
+     "2c907f769c2dee88019c43e227e41816",
+     "aprovado em primeiro turno",
+     "09/02/2026"
+    ],
+    [
+     "2c907f769fc06af1019fed58c3003928",
+     "Aprovados a subemenda nº 1 ao substitutivo nº 1 e o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+     "10/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fed58c3003928",
+    "decisao": "Aprovados a subemenda nº 1 ao substitutivo nº 1 e o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+    "data": "10/08/2026"
+   }
+  },
+  "18/2025": {
+   "autoria": "Ver.(a) Pablo Almeida",
+   "ementa": "Autoriza o Poder Executivo Municipal a fornecer aparelho sensor de monitoramento contínuo de glicose , para pacientes com diabetes tipo 1 e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76966932d90196a7251ab44bc0",
+     "Aprovado em Primeiro Turno",
+     "06/05/2025"
+    ],
+    [
+     "2c907f76987b849c019885f69cdc19d6",
+     "Aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno.",
+     "07/08/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76987b849c019885f69cdc19d6",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno.",
+    "data": "07/08/2025"
+   }
+  },
+  "187/2025": {
+   "autoria": "Ver.(a) Loíde Gonçalves; Ver.(a) Trópia",
+   "ementa": "Acrescenta o § 2º ao art. 267 da Lei nº 8.616, de 14 de julho de 2003.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b144a64ef2c59",
+     "aprovado em primeiro turno",
+     "12/12/2025"
+    ],
+    [
+     "2c907f769f1426cd019f48ca4e915987",
+     "aprovada a emenda nº 2 e a emenda nº 1. Prejudicado o §2º do art. 267, proposto pelo art. 1º. Rejeitados o § 1º do art. 267, proposto pelo art. 1º e o projeto na parte não destacada (caput do art. 267, proposto pelo art. 1º e art. 2º do projeto). Segundo turno",
+     "09/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f48ca4e915987",
+    "decisao": "aprovada a emenda nº 2 e a emenda nº 1. Prejudicado o §2º do art. 267, proposto pelo art. 1º. Rejeitados o § 1º do art. 267, proposto pelo art. 1º e o projeto na parte não destacada (caput do art. 267, proposto pelo art. 1º e art. 2º do projeto). Segundo turno",
+    "data": "09/07/2026"
+   }
+  },
+  "188/2025": {
+   "autoria": "Ver.(a) Trópia",
+   "ementa": "Altera a Lei nº 8.616/03, que contém o Código de Posturas do Município de Belo Horizonte",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a4b7c0f4b228b",
+     "aprovado em primeiro turno",
+     "03/11/2025"
+    ],
+    [
+     "2c907f769d91c1a9019d9861e8a31810",
+     "aprovado o projeto, prejudicado o substitutivo nº 1. Segundo turno.",
+     "16/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d91c1a9019d9861e8a31810",
+    "decisao": "aprovado o projeto, prejudicado o substitutivo nº 1. Segundo turno.",
+    "data": "16/04/2026"
+   }
+  },
+  "19/2025": {
+   "autoria": "Ver.(a) Pablo Almeida",
+   "ementa": "Dispõe sobre a regulamentação do serviço de transporte remunerado privado individual de passageiros em motocicletas intermediado por empresas operadoras de aplicativos, e dá outras providências",
+   "decisoes": [
+    [
+     "2c907f769735375901975665c24d393a",
+     "Aprovado em primeiro turno.",
+     "09/06/2025"
+    ],
+    [
+     "2c907f769aec74b0019b23c3492a3570",
+     "aprovada a Subemenda nº 8 à Emenda nº 11. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "15/12/2025"
+    ],
+    [
+     "2c907f769dce5a7c019df4c2530d39ef",
+     "veto mantido",
+     "04/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b23c3492a3570",
+    "decisao": "aprovada a Subemenda nº 8 à Emenda nº 11. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "15/12/2025"
+   }
+  },
+  "195/2025": {
+   "autoria": "Ver.(a) Juhlia Santos",
+   "ementa": "Dispõe sobre a adoção de mecanismos sustentáveis de gestão das águas pluviais para fins de controle de enchentes e alagamentos, aplicando no Município de Belo Horizonte o conceito de \"cidade esponja\" e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b145d902e2cd7",
+     "aprovado em primeiro turno",
+     "12/12/2025"
+    ],
+    [
+     "2c907f769f1426cd019f3921096433b1",
+     "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo Turno. Despacho de retificação do turno de votação.",
+     "06/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f3921096433b1",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo Turno. Despacho de retificação do turno de votação.",
+    "data": "06/07/2026"
+   }
+  },
+  "196/2025": {
+   "autoria": "Ver.(a) Trópia; Ver.(a) Arruda; Ver.(a) Braulio Lara; Ver.(a) Cleiton Xavier; Ver.(a) Diego Sanches; Ver.(a) Fernanda Pereira Altoé; Ver.(a) Janaina Cardoso; Ver.(a) Loíde Gonçalves; Ver.(a) Lucas Ganem; Ver.(a) Marilda Portela",
+   "ementa": "Dispõe sobre as Áreas de Revitalização Compartilhada (ARC) e institui incentivo fiscal para projetos de revitalização aprovados pela Administração Municipal.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a4b84f32622c1",
+     "aprovado em primeiro turno",
+     "03/11/2025"
+    ],
+    [
+     "2c907f769e168db0019e282d747e2f24",
+     "aprovados a Emenda nº 3 e o Substitutivo nº 1. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "14/05/2026"
+    ],
+    [
+     "2c907f769fc06af1019fc9450f1e06da",
+     "veto mantido",
+     "03/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e282d747e2f24",
+    "decisao": "aprovados a Emenda nº 3 e o Substitutivo nº 1. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "14/05/2026"
+   }
+  },
+  "198/2025": {
+   "autoria": "Ver.(a) Neném da Farmácia",
+   "ementa": "Dispõe sobre a promoção e a introdução da música erudita ou clássica no ensino fundamental da rede pública municipal de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a55dffa5b39db",
+     "aprovado em primeiro turno.",
+     "05/11/2025"
+    ],
+    [
+     "2c907f769dce5a7c019dfebe9e535274",
+     "Aprovado o substitutivo nº 3. Prejudicados o projeto e os substitutivos nº 1 e 2. Segundo Turno",
+     "06/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769dce5a7c019dfebe9e535274",
+    "decisao": "Aprovado o substitutivo nº 3. Prejudicados o projeto e os substitutivos nº 1 e 2. Segundo Turno",
+    "data": "06/05/2026"
+   }
+  },
+  "203/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Estabelece diretrizes para a instalação de usinas fotovoltaicas destinadas à alimentação de estações de recarga de veículos elétricos em espaços públicos no Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f76987b849c01988b378f6e23da",
+     "aprovado em primeiro turno",
+     "08/08/2025"
+    ],
+    [
+     "2c907f769bbcccb3019c2a3bd30d39e2",
+     "Aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno.",
+     "04/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769bbcccb3019c2a3bd30d39e2",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno.",
+    "data": "04/02/2026"
+   }
+  },
+  "205/2025": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Dispõe sobre a proteção e acessibilidade para pessoas surdas vítimas de violência no município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f7699383d9d01993a68c306078e",
+     "aprovado em primeiro turno",
+     "11/09/2025"
+    ],
+    [
+     "2c907f769c51422e019cbfb25534783f",
+     "aprovado o substitutivo nº 8. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "05/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cbfb25534783f",
+    "decisao": "aprovado o substitutivo nº 8. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "05/03/2026"
+   }
+  },
+  "206/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Institui diretrizes para a regulamentação do uso compartilhado de equipamentos públicos municipais para atividades comunitárias e culturais, e dá outras providências",
+   "decisoes": [
+    [
+     "2c907f7699b902630199c04c55691320",
+     "aprovado em primeiro turno",
+     "07/10/2025"
+    ],
+    [
+     "2c907f769c51422e019cba4bf56b6b58",
+     "aprovado o substitutivo nº 3. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "04/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cba4bf56b6b58",
+    "decisao": "aprovado o substitutivo nº 3. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "04/03/2026"
+   }
+  },
+  "207/2025": {
+   "autoria": "Ver.(a) Vile Santos",
+   "ementa": "Autoriza o Poder Executivo a utilizar tecnologias de Inteligência Artificial com o objetivo de aumentar o desempenho na entrega dos serviços públicos municipais e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76987b849c01987c09cb340395",
+     "aprovado em primeiro turno.",
+     "05/08/2025"
+    ],
+    [
+     "2c907f769e5062dd019eb360ea20006b",
+     "aprovados o projeto na parte não destacada e a emenda aditiva nº 1. Prejudicadas as demais emendas e subemendas. Rejeitado o artigo 5º do projeto em votação destacada. Segundo turno.",
+     "10/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eb360ea20006b",
+    "decisao": "aprovados o projeto na parte não destacada e a emenda aditiva nº 1. Prejudicadas as demais emendas e subemendas. Rejeitado o artigo 5º do projeto em votação destacada. Segundo turno.",
+    "data": "10/06/2026"
+   }
+  },
+  "210/2025": {
+   "autoria": "Ver.(a) Wagner Ferreira",
+   "ementa": "Dispõe sobre a obrigatoriedade de proteção às mudas de árvores durante a execução de serviços de roçada e limpeza por entidades contratadas pelo Poder Público e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b0efbdc7121be",
+     "aprovado em primeiro turno",
+     "11/12/2025"
+    ],
+    [
+     "2c907f769e5062dd019ea8d06ff26508",
+     "aprovado o Substitutivo nº 1. Prejudicados o projeto e todas as subemendas ao Substitutivo nº1. Segundo Turno.",
+     "08/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019ea8d06ff26508",
+    "decisao": "aprovado o Substitutivo nº 1. Prejudicados o projeto e todas as subemendas ao Substitutivo nº1. Segundo Turno.",
+    "data": "08/06/2026"
+   }
+  },
+  "211/2025": {
+   "autoria": "Ver.(a) Dra. Michelly Siqueira",
+   "ementa": "Dispõe sobre o fornecimento de protetor auricular para crianças diagnosticadas com transtorno de espectro autista - TEA , no município de Belo Horizonte .",
+   "decisoes": [
+    [
+     "2c907f7699383d9d01993a60eccf0729",
+     "aprovado em primeiro turno",
+     "11/09/2025"
+    ],
+    [
+     "2c907f769d246df5019d73bf59e6042f",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Emenda nº 2 retirada pela apresentação do requerimento n° 208/26. Segundo Turno",
+     "09/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d73bf59e6042f",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Emenda nº 2 retirada pela apresentação do requerimento n° 208/26. Segundo Turno",
+    "data": "09/04/2026"
+   }
+  },
+  "227/2025": {
+   "autoria": "Ver.(a) Vile Santos",
+   "ementa": "Institui o programa \"De volta para Minha Terra\"",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a74e358de12be",
+     "aprovados o art. 1º, caput e incisos I e II do art. 2º, caput e incisos I, II, III, IV e V do art. 3º, caput e incisos I, II e III do art. 4º, art. 5º e projeto na parte não destacada (art. 6º). Primeiro turno",
+     "11/11/2025"
+    ],
+    [
+     "2c907f769e168db0019e2d8023353b30",
+     "rejeitado o Substitutivo nº 1. Aprovados o Substitutivo nº 4 na parte não destacada (art. 6º) e os artigos 1º ao 5º do Substitutivo nº 4 em votação destacada. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "15/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e2d8023353b30",
+    "decisao": "rejeitado o Substitutivo nº 1. Aprovados o Substitutivo nº 4 na parte não destacada (art. 6º) e os artigos 1º ao 5º do Substitutivo nº 4 em votação destacada. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "15/05/2026"
+   }
+  },
+  "234/2025": {
+   "autoria": "Ver.(a) Loíde Gonçalves",
+   "ementa": "Autoriza o Poder Executivo a implantar sistemas de energia fotovoltaica nas escolas municipais e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b09d4a3a71882",
+     "aprovado em primeiro turno",
+     "10/12/2025"
+    ],
+    [
+     "2c907f769f1426cd019f390840b131ce",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "06/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f390840b131ce",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "06/07/2026"
+   }
+  },
+  "236/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Revoga a Lei nº 11.393, de 18 de agosto de 2022, que declara o Município de Belo Horizonte como Capital Nacional do Esporte Wheeling - \"Grau\".",
+   "decisoes": [
+    [
+     "2c907f76987b849c019880f04fb91074",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "06/08/2025"
+    ],
+    [
+     "2c907f76987b849c01989aea502f2fce",
+     "aprovado em segundo turno",
+     "11/08/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76987b849c01989aea502f2fce",
+    "decisao": "aprovado em segundo turno",
+    "data": "11/08/2025"
+   }
+  },
+  "238/2025": {
+   "autoria": "Ver.(a) Loíde Gonçalves",
+   "ementa": "Altera a Lei n° 8.616/03, que \"Contém o Código de Posturas do Município de Belo Horizonte\".",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a74de00d61295",
+     "aprovado em primeiro turno",
+     "11/11/2025"
+    ],
+    [
+     "2c907f769dce5a7c019dfecb23b7532a",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno.",
+     "06/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769dce5a7c019dfecb23b7532a",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno.",
+    "data": "06/05/2026"
+   }
+  },
+  "242/2025": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Proíbe a outorga de títulos, honrarias, condecorações, medalhas, homenagens ou qualquer outra forma de reconhecimento oficial no âmbito do Município de Belo Horizonte para pessoas condenadas por crimes hediondos ou equiparados.",
+   "decisoes": [
+    [
+     "2c907f7699a464c10199a678ba5407d6",
+     "aprovado em primeiro turno",
+     "02/10/2025"
+    ],
+    [
+     "2c907f769e168db0019e18a8a95e0950",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "11/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e18a8a95e0950",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "11/05/2026"
+   }
+  },
+  "243/2025": {
+   "autoria": "Ver.(a) Arruda; Ver.(a) Cleiton Xavier; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Flávia Borja; Ver.(a) Irlan Melo; Ver.(a) José Ferreira; Ver.(a) Lucas Ganem; Ver.(a) Maninho Félix; Ver.(a) Marilda Portela; Ver.(a) Professora Marli; Ver.(a) Wanderley Porto",
+   "ementa": "Altera a Lei nº 11.751/24, que \"Institui a Política Municipal do Cuidado\".",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a7ef5562f270e",
+     "aprovado em primeiro turno",
+     "13/11/2025"
+    ],
+    [
+     "2c907f769e5062dd019ebd244949157e",
+     "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo Turno",
+     "12/06/2026"
+    ],
+    [
+     "2c907f76a0350d3301a05e919bdc30fd",
+     "veto mantido",
+     "01/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019ebd244949157e",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo Turno",
+    "data": "12/06/2026"
+   }
+  },
+  "244/2025": {
+   "autoria": "Ver.(a) Loíde Gonçalves",
+   "ementa": "Institui a campanha \"Check-up Geral das Mulheres\", para alerta e prevenção de doenças, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699c349280199c541506e07f5",
+     "aprovado o projeto na parte não destacada. Rejeitado o inciso IV do artigo 3º em votação destacada. Primeiro Turno. Concluso em Segundo Turno",
+     "08/10/2025"
+    ],
+    [
+     "2c907f7699ce86020199df0de16d12d3",
+     "aprovado em segundo turno",
+     "13/10/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7699ce86020199df0de16d12d3",
+    "decisao": "aprovado em segundo turno",
+    "data": "13/10/2025"
+   }
+  },
+  "249/2025": {
+   "autoria": "Ver.(a) Vile Santos; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Flávia Borja; Ver.(a) Marilda Portela; Ver.(a) Professora Marli",
+   "ementa": "Institui o SENTINELA, alerta de desaparecidos no Município de Belo Horizonte, para divulgação regional via SMS de informações sobre desaparecimento de crianças, adolescentes e pessoa idosa, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699ce86020199cfe25b1907c3",
+     "aprovado em primeiro turno",
+     "10/10/2025"
+    ],
+    [
+     "2c907f769f1426cd019f48a29837586b",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo Turno",
+     "09/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f48a29837586b",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo Turno",
+    "data": "09/07/2026"
+   }
+  },
+  "251/2025": {
+   "autoria": "Ver.(a) Pablo Almeida; Ver.(a) Uner Augusto",
+   "ementa": "Torna obrigatória para servidor público, empregado público e agente com função pública municipal a realização de exame toxicológico na avaliação médica de aptidão para o trabalho.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d6ea54df77751",
+     "aprovados os artigos 1º ao 4º do projeto em votação destacada e o projeto na parte não destacada (art. 5º). Primeiro turno",
+     "08/04/2026"
+    ],
+    [
+     "2c907f769fc06af1019ff29721d246ce",
+     "Aprovado o Substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo Turno",
+     "11/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ff29721d246ce",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicados o projeto e as demais emendas e subemendas. Segundo Turno",
+    "data": "11/08/2026"
+   }
+  },
+  "255/2025": {
+   "autoria": "Ver.(a) Loíde Gonçalves",
+   "ementa": "Determina a identificação de forma clara e acessível de atendimento preferencial para pessoas com mais de oitenta anos nos locais que especifica e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699b902630199c054007d132c",
+     "aprovado em primeiro turno",
+     "07/10/2025"
+    ],
+    [
+     "2c907f769dce5a7c019dfec0eece5293",
+     "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+     "06/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769dce5a7c019dfec0eece5293",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+    "data": "06/05/2026"
+   }
+  },
+  "258/2025": {
+   "autoria": "Executivo: Mensagem nº 4, de 09/05/2025",
+   "ementa": "Autoriza o Poder Executivo a abrir créditos adicionais aos Orçamentos Fiscal e da Seguridade Social do Município, para adequação das emendas parlamentares individuais de caráter impositivo constantes da Lei Orçamentária 2025 que apresentaram impedimentos em suas programações.",
+   "decisoes": [
+    [
+     "2c907f769735375901973c9279511912",
+     "Aprovado em primeiro turno",
+     "04/06/2025"
+    ],
+    [
+     "2c907f769735375901975b71ef784777",
+     "Aprovado em segundo turno",
+     "10/06/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769735375901975b71ef784777",
+    "decisao": "Aprovado em segundo turno",
+    "data": "10/06/2025"
+   }
+  },
+  "261/2025": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Obriga o Poder Público Municipal a adotar medidas eficazes para combater a cultura do crime organizado no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae9701992b3795d67e0d",
+     "aprovado em primeiro turno",
+     "08/09/2025"
+    ]
+   ],
+   "segundoTurno": null
+  },
+  "266/2025": {
+   "autoria": "Ver.(a) Iza Lourença; Ver.(a) Cida Falabella; Ver.(a) Juhlia Santos; Ver.(a) Luiza Dulci",
+   "ementa": "Institui o Programa de Cooperação Municipal para Promoção da Equidade Salarial no âmbito do município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769ce16adc019ce3d0491f0a67",
+     "aprovado em primeiro turno",
+     "12/03/2026"
+    ],
+    [
+     "2c907f76a0350d3301a05e8e7b1730ad",
+     "aprovadas as subemendas nºs 1, 2 e 3 ao substitutivo nº 2. Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno",
+     "01/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a0350d3301a05e8e7b1730ad",
+    "decisao": "aprovadas as subemendas nºs 1, 2 e 3 ao substitutivo nº 2. Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno",
+    "data": "01/09/2026"
+   }
+  },
+  "270/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Declara como patrimônio cultural de natureza imaterial do município de Belo Horizonte o concurso \"Comida di Buteco\".",
+   "decisoes": [
+    [
+     "2c907f7699e208200199e49644e40a25",
+     "aprovado em primeiro turno",
+     "14/10/2025"
+    ],
+    [
+     "2c907f769a2f4770019a6027eb2f4da0",
+     "aprovado o substitutivo nº 2. Prejudicado o projeto. Segundo turno",
+     "07/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a6027eb2f4da0",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicado o projeto. Segundo turno",
+    "data": "07/11/2025"
+   }
+  },
+  "275/2025": {
+   "autoria": "Ver.(a) Diego Sanches",
+   "ementa": "Institui o Programa de Coleta Domiciliar de Sangue para Pessoas com Transtorno do Espectro Autista (TEA), no âmbito do Município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cbfc7e49b7935",
+     "aprovado em primeiro turno",
+     "05/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f3df96a8b3d3e",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+     "07/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f3df96a8b3d3e",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+    "data": "07/07/2026"
+   }
+  },
+  "279/2025": {
+   "autoria": "Ver.(a) Helton Junior",
+   "ementa": "Institui a meia-entrada para professores da educação básica das redes pública e privada em eventos culturais, eventos esportivos, espetáculos artísticos-culturais, shows, teatros, cinemas e museus no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76992ded790199351a8b8a148f",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "10/09/2025"
+    ],
+    [
+     "2c907f7699383d9d01993a6c8ffe07a5",
+     "aprovado em segundo turno",
+     "11/09/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7699383d9d01993a6c8ffe07a5",
+    "decisao": "aprovado em segundo turno",
+    "data": "11/09/2025"
+   }
+  },
+  "281/2025": {
+   "autoria": "Ver.(a) Dra. Michelly Siqueira",
+   "ementa": "Dispõe sobre a prioridade no atendimento a mães, pais ou responsáveis legais que exerçam o cuidado direto, contínuo e não remunerado de pessoas com deficiência, especialmente quando acompanhados por seus filhos ou dependentes, no âmbito do Município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a603bff4d4e43",
+     "aprovado em primeiro turno",
+     "07/11/2025"
+    ],
+    [
+     "2c907f769e168db0019e22eefff923fc",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e a emenda nº 2. Segundo turno",
+     "13/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e22eefff923fc",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e a emenda nº 2. Segundo turno",
+    "data": "13/05/2026"
+   }
+  },
+  "286/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Dispõe sobre a autorização para a doação de segmentos amputados e de cadáveres do corpo humano para utilização no treinamento de cães farejadores em atividades de busca e resgate pelos órgãos de segurança pública, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699ce86020199cfd7db4c078b",
+     "Aprovados os artigos 1° ao 4° do projeto em votação destacada e o projeto na parte não destacada (artigo 6°). Rejeitado o artigo 5º do projeto em votação destacada. Primeiro Turno.",
+     "10/10/2025"
+    ],
+    [
+     "2c907f769a6e6b76019a8416da2f2dc9",
+     "aprovado em segundo turno.",
+     "14/11/2025"
+    ],
+    [
+     "2c907f769c51422e019cbfc0c71078f0",
+     "veto mantido",
+     "05/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a6e6b76019a8416da2f2dc9",
+    "decisao": "aprovado em segundo turno.",
+    "data": "14/11/2025"
+   }
+  },
+  "287/2025": {
+   "autoria": "Ver.(a) Rudson Paixão",
+   "ementa": "Institui o Programa Municipal de Incentivo à Doação de Cabelos para Pessoas em Tratamento de Câncer e Vítimas de Escalpelamento no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699ce86020199cfd68d2d0788",
+     "aprovado em primeiro turno",
+     "10/10/2025"
+    ],
+    [
+     "2c907f769d246df5019d698ff2bf6aeb",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "07/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d698ff2bf6aeb",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "07/04/2026"
+   }
+  },
+  "288/2025": {
+   "autoria": "Ver.(a) Trópia; Ver.(a) Cida Falabella; Ver.(a) Iza Lourença; Ver.(a) Janaina Cardoso; Ver.(a) Juhlia Santos; Ver.(a) Loíde Gonçalves; Ver.(a) Luiza Dulci",
+   "ementa": "Institui o programa \"Mulher Empreendedora\", que visa promover a capacitação de mulheres e o fornecimento de microcrédito para incentivo ao empreendedorismo feminino no município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cc4e4bc740414",
+     "aprovado em primeiro turno",
+     "06/03/2026"
+    ],
+    [
+     "2c907f769e168db0019e22ec5c4323c6",
+     "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+     "13/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e22ec5c4323c6",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+    "data": "13/05/2026"
+   }
+  },
+  "290/2025": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Proíbe, no âmbito do Município de Belo Horizonte, o constrangimento aos vigilantes que se encontrem no exercício de sua profissão, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76987b849c0198a4f612de48f9",
+     "aprovado em primeiro turno",
+     "13/08/2025"
+    ],
+    [
+     "2c907f769c51422e019c53623d610829",
+     "aprovado o Substitutivo nº 1 na parte não destacada (arts. 1º, 2º, 3º, 4º e 7º). Rejeitados os arts. 5º e 6º do Substitutivo nº 1. Prejudicados o projeto, a emenda nº 2 e as subemendas nº 1, 2 e 3 ao Substitutivo nº 1. Segundo turno",
+     "12/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019c53623d610829",
+    "decisao": "aprovado o Substitutivo nº 1 na parte não destacada (arts. 1º, 2º, 3º, 4º e 7º). Rejeitados os arts. 5º e 6º do Substitutivo nº 1. Prejudicados o projeto, a emenda nº 2 e as subemendas nº 1, 2 e 3 ao Substitutivo nº 1. Segundo turno",
+    "data": "12/02/2026"
+   }
+  },
+  "296/2025": {
+   "autoria": "Ver.(a) Fernanda Pereira Altoé; Ver.(a) Braulio Lara; Ver.(a) Cleiton Xavier; Ver.(a) Dr. Bruno Pedralva; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Flávia Borja; Ver.(a) Irlan Melo; Ver.(a) José Ferreira; Ver.(a) Loíde Gonçalves; Ver.(a) Lucas Ganem; Ver.(a) Maninho Félix; Ver.(a) Marilda Portela; Ver.(a) Osvaldo Lopes; Ver.(a) Professora Marli; Ver.(a) Sargento Jalyson; Ver.(a) Trópia; Ver.(a) Uner Augusto; Ver.(a) Vile Santos; Ver.(a) Wanderley Porto",
+   "ementa": "Dispõe sobre a instituição do Programa Municipal de Incentivo à Telemedicina no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699ce86020199cfe11d0307b7",
+     "aprovado em primeiro turno",
+     "10/10/2025"
+    ],
+    [
+     "2c907f769aec74b0019b09efa2901918",
+     "aprovados a subemenda nº 1 ao substitutivo nº 1 e o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+     "10/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b09efa2901918",
+    "decisao": "aprovados a subemenda nº 1 ao substitutivo nº 1 e o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+    "data": "10/12/2025"
+   }
+  },
+  "299/2025": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Altera a Lei nº 11.813/2025, que \"Veda a nomeação pela administração pública de pessoas condenadas pelos crimes que menciona.\"",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a7efbf08e2717",
+     "aprovado o projeto na parte não destacada. Rejeitado o artigo 1º do projeto em votação destacada. Concluso em segundo turno",
+     "13/11/2025"
+    ],
+    [
+     "2c907f769a6e6b76019a841a1d972ddf",
+     "aprovado em segundo turno",
+     "14/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a6e6b76019a841a1d972ddf",
+    "decisao": "aprovado em segundo turno",
+    "data": "14/11/2025"
+   }
+  },
+  "302/2025": {
+   "autoria": "Executivo: Mensagem nº 7, de 23/05/2025",
+   "ementa": "Dispõe sobre a desafetação e autoriza a alienação das áreas públicas que menciona à Fundação Hospitalar do Estado de Minas Gerais - Fhemig -, com a finalidade específica de instalação do novo Complexo de Saúde Hospital Padre Eustáquio - HoPE - e do novo Laboratório Central de Saúde Pública - LACEN-MG.",
+   "decisoes": [
+    [
+     "2c907f7697e672900197fb4e5c16314c",
+     "Aprovados os artigos 1º ao 4º do projeto em votação destacada e em bloco. Aprovado o projeto na parte não destacada (Art. 5º). Primeiro turno",
+     "11/07/2025"
+    ],
+    [
+     "2c907f76992ded7901992fff99660800",
+     "Aprovados a subemenda nº 1 à emenda nº 9, os artigos 1º, 2º, 3º e 4º do projeto em votação destacada e o projeto na parte não destacada (artigo 5º). Rejeitadas as emendas nº 10, 11, 12, 13, 14 e 15. Prejudicadas as demais emendas e subemendas. Segundo Turno",
+     "09/09/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76992ded7901992fff99660800",
+    "decisao": "Aprovados a subemenda nº 1 à emenda nº 9, os artigos 1º, 2º, 3º e 4º do projeto em votação destacada e o projeto na parte não destacada (artigo 5º). Rejeitadas as emendas nº 10, 11, 12, 13, 14 e 15. Prejudicadas as demais emendas e subemendas. Segundo Turno",
+    "data": "09/09/2025"
+   }
+  },
+  "303/2025": {
+   "autoria": "Executivo: Mensagem nº 8, de 23/05/2025",
+   "ementa": "Dispõe sobre o ingresso do Município ao Consórcio Público Intermunicipal Multifinalitário  COMGRANBEL , a ratificação e a adesão aos termos do Protocolo de Intenções, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7697e672900197f103b9871c32",
+     "Aprovados os artigos 1º ao 9º do projeto em votação destacada e em bloco e o projeto na parte não destacada. Primeiro turno.",
+     "09/07/2025"
+    ],
+    [
+     "2c907f769aec74b0019b469d0d955912",
+     "aprovadas as emendas nº 1, 2, 5 e 7 e o projeto. Segundo turno.",
+     "22/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b469d0d955912",
+    "decisao": "aprovadas as emendas nº 1, 2, 5 e 7 e o projeto. Segundo turno.",
+    "data": "22/12/2025"
+   }
+  },
+  "304/2025": {
+   "autoria": "Ver.(a) Maninho Félix",
+   "ementa": "Institui o Certificado de Selo \"Empresa Parceira dos PCDs\" no Município de Belo Horizonte, destinado a reconhecer e valorizar empresas que promovem a inclusão de pessoas com deficiência no mercado de trabalho.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a55d618ae3997",
+     "aprovado em primeiro turno",
+     "05/11/2025"
+    ],
+    [
+     "2c907f76a10b76cd01a1d18a6946358b",
+     "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+     "12/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1d18a6946358b",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno",
+    "data": "12/11/2026"
+   }
+  },
+  "305/2025": {
+   "autoria": "Ver.(a) Luiza Dulci",
+   "ementa": "Prevê a publicação mensal, nos sítios eletrônicos dos órgãos da administração direta e indireta, de listagem dos empregados contratados pela administração pública junto a empresas prestadoras de serviços terceirizados.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d6eb556ae7852",
+     "aprovado em primeiro turno",
+     "08/04/2026"
+    ],
+    [
+     "2c907f76a066b84501a06e20ea980973",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "04/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a066b84501a06e20ea980973",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "04/09/2026"
+   }
+  },
+  "308/2025": {
+   "autoria": "Ver.(a) Juhlia Santos",
+   "ementa": "Institui o Programa de Atendimento Humanizado às Mães em Situação de Rua no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cc4dfed9b03ec",
+     "aprovado em primeiro turno",
+     "06/03/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1a30d03f978db",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e o substitutivo nº 2. Segundo turno",
+     "03/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1a30d03f978db",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e o substitutivo nº 2. Segundo turno",
+    "data": "03/11/2026"
+   }
+  },
+  "313/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson; Ver.(a) Pablo Almeida",
+   "ementa": "Acrescenta o inciso VI ao art. 105 da Lei nº 11.397/22, que consolida legislação que institui datas comemorativas no Município, para declarar o Município de Belo Horizonte como a Capital Nacional da Corrida de Rua.",
+   "decisoes": [
+    [
+     "2c907f7699383d9d01993f7ee5680f57",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "12/09/2025"
+    ],
+    [
+     "2c907f7699b902630199bb4640f808b5",
+     "aprovado em segundo turno",
+     "06/10/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7699b902630199bb4640f808b5",
+    "decisao": "aprovado em segundo turno",
+    "data": "06/10/2025"
+   }
+  },
+  "315/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Dispõe sobre diretrizes gerais para a atuação administrativa relacionada à constituição, alteração, suspensão, inscrição em dívida ativa e cobrança de créditos tributários e não tributários no Município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b0ef95fd521af",
+     "aprovado em primeiro turno",
+     "11/12/2025"
+    ],
+    [
+     "2c907f769e5062dd019ed1e957512a70",
+     "Aprovados a Emenda nº 2 e o Substitutivo nº 3. Prejudicados o projeto e as demais emendas. Segundo Turno",
+     "16/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019ed1e957512a70",
+    "decisao": "Aprovados a Emenda nº 2 e o Substitutivo nº 3. Prejudicados o projeto e as demais emendas. Segundo Turno",
+    "data": "16/06/2026"
+   }
+  },
+  "316/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Institui o Programa Municipal de Inclusão Sensorial nas Escolas da Rede Pública de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c2dee88019c346fe36a0f55",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "06/02/2026"
+    ],
+    [
+     "2c907f769d246df5019d69a828bd6bb3",
+     "aprovado em segundo turno.",
+     "07/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d69a828bd6bb3",
+    "decisao": "aprovado em segundo turno.",
+    "data": "07/04/2026"
+   }
+  },
+  "323/2025": {
+   "autoria": "Ver.(a) Professora Marli",
+   "ementa": "Dispõe sobre medidas de combate ao assédio online e ao cyberbullying contra pessoa com deficiência, pessoa com doença rara e pessoa com síndrome, no Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cbfb586af785b",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "05/03/2026"
+    ],
+    [
+     "2c907f769dce5a7c019e0912c9e76a78",
+     "aprovado em segundo turno",
+     "08/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769dce5a7c019e0912c9e76a78",
+    "decisao": "aprovado em segundo turno",
+    "data": "08/05/2026"
+   }
+  },
+  "332/2025": {
+   "autoria": "Ver.(a) Pedro Rousseff",
+   "ementa": "Institui a Política Municipal de Atenção à Saúde Mental de Pessoas com Transtornos Associados à Dependência em Jogos de Azar (Ludopatia), em especial os jogos de azar eletrônicos, no Município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a5aa9014542b5",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "06/11/2025"
+    ],
+    [
+     "2c907f769a6e6b76019a6f8bf41405b3",
+     "aprovado em segundo turno",
+     "10/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a6e6b76019a6f8bf41405b3",
+    "decisao": "aprovado em segundo turno",
+    "data": "10/11/2025"
+   }
+  },
+  "335/2025": {
+   "autoria": "Ver.(a) Edmar Branco",
+   "ementa": "Institui no contraturno escolar o \"Ensino de Educação Ambiental e Resíduos Sólidos\" nas escolas municipais de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769bbcccb3019c257f54782d8d",
+     "aprovado em primeiro turno",
+     "03/02/2026"
+    ],
+    [
+     "2c907f769f1426cd019f5d216e086c0e",
+     "Aprovado o projeto na parte não destacada (arts. 1º, 2º, 4º e 6º). Rejeitados os artigos 3º e 5º do projeto em votação destacada. Segundo Turno",
+     "13/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f5d216e086c0e",
+    "decisao": "Aprovado o projeto na parte não destacada (arts. 1º, 2º, 4º e 6º). Rejeitados os artigos 3º e 5º do projeto em votação destacada. Segundo Turno",
+    "data": "13/07/2026"
+   }
+  },
+  "336/2025": {
+   "autoria": "Ver.(a) Osvaldo Lopes",
+   "ementa": "Institui a Politica Municipal de Atenção aos Acumuladores de Animais no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a60303aaa4e12",
+     "aprovado em primeiro turno",
+     "07/11/2025"
+    ],
+    [
+     "2c907f769d246df5019d8dd0c4503060",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno.",
+     "14/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d8dd0c4503060",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo turno.",
+    "data": "14/04/2026"
+   }
+  },
+  "340/2025": {
+   "autoria": "Ver.(a) Luiza Dulci; Ver.(a) Cida Falabella; Ver.(a) Dr. Bruno Pedralva; Ver.(a) Edmar Branco; Ver.(a) Iza Lourença; Ver.(a) Juhlia Santos; Ver.(a) Pedro Patrus; Ver.(a) Pedro Rousseff; Ver.(a) Wagner Ferreira",
+   "ementa": "Prevê a obrigação de revisão a cada cinco anos das normas para o plantio de árvores em logradouros públicos no Município de Belo Horizonte e dá outras disposições.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019af00e76f80662",
+     "aprovado em primeiro turno",
+     "05/12/2025"
+    ],
+    [
+     "2c907f769f1426cd019f5d42af756c6f",
+     "Aprovado o substitutivo nº 3. Prejudicados o projeto e os substitutivos nºs 1 e 2. Segundo turno.",
+     "13/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f5d42af756c6f",
+    "decisao": "Aprovado o substitutivo nº 3. Prejudicados o projeto e os substitutivos nºs 1 e 2. Segundo turno.",
+    "data": "13/07/2026"
+   }
+  },
+  "347/2025": {
+   "autoria": "Ver.(a) Juhlia Santos; Ver.(a) Cida Falabella; Ver.(a) Dr. Bruno Pedralva; Ver.(a) Helton Junior; Ver.(a) Iza Lourença; Ver.(a) Luiza Dulci; Ver.(a) Pedro Patrus",
+   "ementa": "Dispõe sobre o Programa de Assistência às Vítimas de Intolerância Religiosa no âmbito do Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769bbcccb3019c24b8f4fb28aa",
+     "aprovado em primeiro turno",
+     "03/02/2026"
+    ],
+    [
+     "2c907f769fc06af1019ff292c3534695",
+     "Aprovado o Substitutivo nº 7 na parte não destacada (art. 7º) e na parte destacada (arts. 1º a 6º). Prejudicados o projeto e as demais emendas e subemendas. Segundo Turno",
+     "11/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ff292c3534695",
+    "decisao": "Aprovado o Substitutivo nº 7 na parte não destacada (art. 7º) e na parte destacada (arts. 1º a 6º). Prejudicados o projeto e as demais emendas e subemendas. Segundo Turno",
+    "data": "11/08/2026"
+   }
+  },
+  "351/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Institui o Cadastro Profissional da Pessoa Idosa no Município.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a55dd5ad539c4",
+     "aprovado em primeiro turno.",
+     "05/11/2025"
+    ],
+    [
+     "2c907f769d246df5019d6ea8013777d1",
+     "aprovada a Subemenda nº 1 ao Substitutivo nº 1. Prejudicados o projeto e o Substitutivo nº 1. Segundo turno",
+     "08/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d6ea8013777d1",
+    "decisao": "aprovada a Subemenda nº 1 ao Substitutivo nº 1. Prejudicados o projeto e o Substitutivo nº 1. Segundo turno",
+    "data": "08/04/2026"
+   }
+  },
+  "366/2025": {
+   "autoria": "Ver.(a) Professor Juliano Lopes; Ver.(a) Cláudio do Mundo Novo",
+   "ementa": "Reconhecimento do Arraial de Belô como manifestação artístico cultural popular e democrática de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019e8f26ca7558dd",
+     "aprovado em primeiro turno",
+     "03/06/2026"
+    ],
+    [
+     "2c907f769e5062dd019ed1f8d5db2b03",
+     "Aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo Turno.",
+     "16/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019ed1f8d5db2b03",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo Turno.",
+    "data": "16/06/2026"
+   }
+  },
+  "370/2025": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Altera a Lei nº 11.285/2021, que dispõe sobre a criação do Programa de Substituição Gradativa dos Veículos de Tração Animal no Município de Belo Horizonte",
+   "decisoes": [
+    [
+     "2c907f769c2dee88019c43e48aa7182e",
+     "aprovado em primeiro turno",
+     "09/02/2026"
+    ],
+    [
+     "2c907f769e5062dd019e8f2da6bf5981",
+     "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+     "03/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019e8f2da6bf5981",
+    "decisao": "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+    "data": "03/06/2026"
+   }
+  },
+  "375/2025": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Altera a Lei nº 5.641/89 que \"Dispõe sobre os tributos cobrados pelo Município de Belo Horizonte e contém outras providências\".",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cb52d8a705c57",
+     "aprovado em primeiro turno",
+     "03/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f39091cb731e0",
+     "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo Turno.",
+     "06/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f39091cb731e0",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo Turno.",
+    "data": "06/07/2026"
+   }
+  },
+  "378/2025": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Reconhece as festas juninas e os grupos juninos belo-horizontinos como de relevante interesse cultural do Município e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a55ded85b39cc",
+     "aprovado em primeiro turno.",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": null
+  },
+  "380/2025": {
+   "autoria": "Ver.(a) Helton Junior; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Pablo Almeida; Ver.(a) Trópia",
+   "ementa": "Institui a disciplina de Inteligência Artificial no contraturno da rede pública municipal de ensino de Belo Horizonte e estabelece diretrizes para a promoção da inclusão digital, nos termos do Art. 205 da Constituição Federal e do Art. 172 da Lei Orgânica do Município.",
+   "decisoes": [
+    [
+     "2c907f769ce16adc019ce8ff6dd01716",
+     "aprovado em primeiro turno",
+     "13/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f5d251af66c20",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "13/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f5d251af66c20",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "13/07/2026"
+   }
+  },
+  "383/2025": {
+   "autoria": "Ver.(a) Trópia; Ver.(a) Cleiton Xavier; Ver.(a) Edmar Branco; Ver.(a) Helton Junior; Ver.(a) Iza Lourença; Ver.(a) Vile Santos",
+   "ementa": "Institui a Política Municipal de Fomento aos Jogos Eletrônicos e aos Esportes Eletrônicos (eSports) no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a5aadc84142f2",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "06/11/2025"
+    ],
+    [
+     "2c907f769a6e6b76019a6f8d7ca705c0",
+     "aprovado em segundo turno",
+     "10/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a6e6b76019a6f8d7ca705c0",
+    "decisao": "aprovado em segundo turno",
+    "data": "10/11/2025"
+   }
+  },
+  "391/2025": {
+   "autoria": "Ver.(a) Pablo Almeida",
+   "ementa": "Altera a lei 11.387/2022 que obriga a afixação de placas informativas em todas as intervenções em logradouros públicos realizadas no Município e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b09eaa8cc190c",
+     "aprovado em primeiro turno",
+     "10/12/2025"
+    ],
+    [
+     "2c907f769e5062dd019eb862da170c0e",
+     "Aprovado o Substitutivo nº 2. Prejudicados o Projeto e o Substitutivo nº 1. Segundo Turno.",
+     "11/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eb862da170c0e",
+    "decisao": "Aprovado o Substitutivo nº 2. Prejudicados o Projeto e o Substitutivo nº 1. Segundo Turno.",
+    "data": "11/06/2026"
+   }
+  },
+  "395/2025": {
+   "autoria": "Executivo: Mensagem nº 17, de 15/07/2025",
+   "ementa": "Concede reajustes remuneratórios aos servidores e empregados públicos da administração direta e indireta do Poder Executivo e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76987b849c01987c0abd81039e",
+     "aprovado em primeiro turno. Concluso em segundo turno.",
+     "05/08/2025"
+    ],
+    [
+     "2c907f76987b849c019880f00d84106e",
+     "aprovado em segundo turno.",
+     "06/08/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76987b849c019880f00d84106e",
+    "decisao": "aprovado em segundo turno.",
+    "data": "06/08/2025"
+   }
+  },
+  "396/2025": {
+   "autoria": "Executivo: Mensagem nº 16, de 15/07/2025",
+   "ementa": "Institui a Operação Urbana Simplificada para implantação do Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae970198e2e1e7da0918",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "25/08/2025"
+    ],
+    [
+     "2c907f7698e0ae970198ecda8e6a1ff4",
+     "aprovado em segundo turno",
+     "27/08/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7698e0ae970198ecda8e6a1ff4",
+    "decisao": "aprovado em segundo turno",
+    "data": "27/08/2025"
+   }
+  },
+  "399/2025": {
+   "autoria": "Executivo: Mensagem nº 13, de 11/07/2025",
+   "ementa": "Altera a Lei n° 11.797, de 30 dezembro de 2024, que \"Autoriza o Executivo a contratar operações de crédito externo com a Agência Francesa de Desenvolvimento - AFD - ou com outra instituição financeira e dá outras providências.\" e a Lei n° 11.798, de 30 de dezembro de 2024, que \"Autoriza o Executivo a contratar operações de crédito com a Caixa Econômica Federal ou com outra instituição financeira\".",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a84131e1e2d92",
+     "aprovado em primeiro turno. Concluso em segundo turno.",
+     "14/11/2025"
+    ],
+    [
+     "2c907f769ad965b9019ae5fadbd924a1",
+     "aprovado em segundo turno",
+     "03/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769ad965b9019ae5fadbd924a1",
+    "decisao": "aprovado em segundo turno",
+    "data": "03/12/2025"
+   }
+  },
+  "400/2025": {
+   "autoria": "Executivo: Mensagem nº 18, de 15/07/2025",
+   "ementa": "Estabelece a largura das faixas edificáveis ao longo da faixas de domínio de rodovias no Município.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae97019906ab57f54565",
+     "aprovado em primeiro turno",
+     "01/09/2025"
+    ],
+    [
+     "2c907f7699e208200199e4a212170a69",
+     "rejeitados as subemendas nº 1 e nº 2 ao substitutivo nº 1 e o substitutivo nº 1. Aprovado o artigo 1º do projeto em votação destacada e o projeto na parte não destacada (art. 2º). Segundo turno",
+     "14/10/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7699e208200199e4a212170a69",
+    "decisao": "rejeitados as subemendas nº 1 e nº 2 ao substitutivo nº 1 e o substitutivo nº 1. Aprovado o artigo 1º do projeto em votação destacada e o projeto na parte não destacada (art. 2º). Segundo turno",
+    "data": "14/10/2025"
+   }
+  },
+  "401/2025": {
+   "autoria": "Executivo: Mensagem nº 11, de 11/07/2025",
+   "ementa": "Autoriza o Poder Executivo a contratar operação de crédito junto ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES - ou a outra instituição financeira, com ou sem garantia da União, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769bbcccb3019c2a3762283990",
+     "aprovados os artigos 1º ao 7º do projeto em votação destacada e o projeto na parte não destacada (art. 8º). Primeiro turno",
+     "04/02/2026"
+    ],
+    [
+     "2c907f769d91c1a9019d93076b190a81",
+     "aprovados o projeto na parte não destacada (artigo 8º) e os artigos 1º ao 7º do projeto em votação destacada. Prejudicado o substitutivo nº 3. Rejeitada a emenda nº 1. Segundo turno",
+     "15/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d91c1a9019d93076b190a81",
+    "decisao": "aprovados o projeto na parte não destacada (artigo 8º) e os artigos 1º ao 7º do projeto em votação destacada. Prejudicado o substitutivo nº 3. Rejeitada a emenda nº 1. Segundo turno",
+    "data": "15/04/2026"
+   }
+  },
+  "403/2025": {
+   "autoria": "Executivo: Mensagem nº 12, de 11/07/2025",
+   "ementa": "Autoriza o Poder Executivo a contratar operações de crédito externo junto ao Banco Interamericano de Desenvolvimento - BID - ou a outra instituição financeira, com garantia da União, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b144880192c45",
+     "aprovado em primeiro turno",
+     "12/12/2025"
+    ],
+    [
+     "2c907f769d246df5019d4afe46fc52af",
+     "aprovados os artigos 1º ao 6º do projeto em votação destacada e o projeto na parte não destacada (art. 7º), e rejeitada a Emenda nº 1. Segundo Turno.",
+     "01/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d4afe46fc52af",
+    "decisao": "aprovados os artigos 1º ao 6º do projeto em votação destacada e o projeto na parte não destacada (art. 7º), e rejeitada a Emenda nº 1. Segundo Turno.",
+    "data": "01/04/2026"
+   }
+  },
+  "404/2025": {
+   "autoria": "Executivo: Mensagem nº 14, de 11/07/2025",
+   "ementa": "Altera a Lei nº 11.216, de 4 de fevereiro de 2020, que \"Dispõe sobre a aplicação dos instrumentos de política urbana previstos nos Capítulos II, III e IV do Título II da Lei nº 11.181, de 8 de agosto de 2019, que aprova o Plano Diretor do Município de Belo Horizonte.\".",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d8863434d1d46",
+     "aprovados os artigos 1º e 2º do projeto em votação destacada e o projeto na parte não destacada (art. 3º). Primeiro turno",
+     "13/04/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1ad7466fa0517",
+     "Aprovados o projeto na parte não destacada (art. 3º), os artigos 1º e 2º do projeto em votação destacada, e as emendas aditivas nº 2 e nº 3. Prejudicada a emenda nº 1. Segundo turno.",
+     "05/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1ad7466fa0517",
+    "decisao": "Aprovados o projeto na parte não destacada (art. 3º), os artigos 1º e 2º do projeto em votação destacada, e as emendas aditivas nº 2 e nº 3. Prejudicada a emenda nº 1. Segundo turno.",
+    "data": "05/11/2026"
+   }
+  },
+  "405/2025": {
+   "autoria": "Ver.(a) Arruda; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Diego Sanches; Ver.(a) Juhlia Santos; Ver.(a) Professora Marli",
+   "ementa": "Altera a Lei nº 11.609/23, que dispõe sobre a promoção da dignidade da gestante, da parturiente e da puérpera e sobre o enfrentamento da violência obstétrica no município.",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a8426e7cd2e10",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "14/11/2025"
+    ],
+    [
+     "2c907f769bbcccb3019c25847a042e2c",
+     "aprovado em segundo turno",
+     "03/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769bbcccb3019c25847a042e2c",
+    "decisao": "aprovado em segundo turno",
+    "data": "03/02/2026"
+   }
+  },
+  "412/2025": {
+   "autoria": "Ver.(a) Professora Marli",
+   "ementa": "Institui a pulseira ou o cartão com QR code para identificar pessoa idosa, pessoa com deficiência ou pessoa com condições de saúde, como o transtorno mental, o diabetes, a doença de Alzheimer, entre outras, no Município.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cd9843b8e1f23",
+     "aprovado em primeiro turno",
+     "10/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f62328fbe76c5",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e a subemenda nº 1 ao substitutivo nº 1. Segundo turno",
+     "14/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f62328fbe76c5",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e a subemenda nº 1 ao substitutivo nº 1. Segundo turno",
+    "data": "14/07/2026"
+   }
+  },
+  "416/2025": {
+   "autoria": "Ver.(a) Dr. Bruno Pedralva",
+   "ementa": "Dispõe sobre o reconhecimento da função de conselheiro(a) de saúde como de relevante interesse público no âmbito do Município de Belo Horizonte e outras providências.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f5d2dd33e6c33",
+     "aprovado o projeto na parte não destacada (arts. 1º, 2º e 4º). Rejeitado o artigo 3º do projeto em votação destacada. Primeiro turno. Concluso em segundo turno",
+     "13/07/2026"
+    ],
+    [
+     "2c907f769f1426cd019f62348e4576ce",
+     "aprovado em segundo turno",
+     "14/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f62348e4576ce",
+    "decisao": "aprovado em segundo turno",
+    "data": "14/07/2026"
+   }
+  },
+  "418/2025": {
+   "autoria": "Ver.(a) Vile Santos; Ver.(a) Braulio Lara; Ver.(a) Cleiton Xavier; Ver.(a) Irlan Melo; Ver.(a) Neném da Farmácia; Ver.(a) Sargento Jalyson; Ver.(a) Wanderley Porto",
+   "ementa": "Dá nova redação ao artigo 4º da Lei nº 11.318/2021, que \"Institui a Política Municipal de Promoção da Arte Urbana do Grafite e de Combate à Pichação no Espaço Público Urbano\".",
+   "decisoes": [
+    [
+     "2c907f769a2f4770019a603f17654e58",
+     "aprovado em primeiro turno",
+     "07/11/2025"
+    ],
+    [
+     "2c907f769d91c1a9019d985f526c1807",
+     "rejeitada a emenda nº 1, aprovado o projeto. Segundo turno",
+     "16/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d91c1a9019d985f526c1807",
+    "decisao": "rejeitada a emenda nº 1, aprovado o projeto. Segundo turno",
+    "data": "16/04/2026"
+   }
+  },
+  "419/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "\"Altera a Lei Municipal nº 11.416, de 3 de outubro de 2022, que institui a Lei Municipal de Inclusão da Pessoa com Deficiência e da Pessoa com Mobilidade Reduzida\".",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cbfba34f37896",
+     "aprovado em primeiro turno",
+     "05/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f4352a93f4a42",
+     "aprovado o Substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno",
+     "08/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f4352a93f4a42",
+    "decisao": "aprovado o Substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno",
+    "data": "08/07/2026"
+   }
+  },
+  "420/2025": {
+   "autoria": "Ver.(a) Professora Marli",
+   "ementa": "Acrescenta o art. 78-A à Lei nº 11.416/22, que \"Institui a Lei Municipal de Inclusão da Pessoa com Deficiência e da Pessoa com Mobilidade Reduzida\".",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cd43272d21206",
+     "aprovado em primeiro turno",
+     "09/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f5d2be7916c2a",
+     "Aprovados a subemenda nº 1 ao substitutivo nº 1 e o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+     "13/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f5d2be7916c2a",
+    "decisao": "Aprovados a subemenda nº 1 ao substitutivo nº 1 e o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+    "data": "13/07/2026"
+   }
+  },
+  "422/2025": {
+   "autoria": "Ver.(a) José Ferreira",
+   "ementa": "Institui a Carteira de Identificação das Pessoas Acometidas pela Fibromialgia e estabelece prioridade de atendimentos a estas, no Município de Belo Horizonte - MG.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae9701991115e9045ec4",
+     "aprovado em primeiro turno",
+     "03/09/2025"
+    ],
+    [
+     "2c907f7699b902630199bb3c6f6b0878",
+     "aprovado o Substitutivo nº 3. Prejudicados o projeto e os Substitutivos nº 1 e nº 2. Segundo Turno",
+     "06/10/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7699b902630199bb3c6f6b0878",
+    "decisao": "aprovado o Substitutivo nº 3. Prejudicados o projeto e os Substitutivos nº 1 e nº 2. Segundo Turno",
+    "data": "06/10/2025"
+   }
+  },
+  "425/2025": {
+   "autoria": "Ver.(a) Diego Sanches",
+   "ementa": "Dispõe sobre o reconhecimento do \"Câmbio - Vôlei Adaptado para a Terceira Idade \" como prática esportiva no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e2d6cdd103a93",
+     "aprovado em primeiro turno",
+     "15/05/2026"
+    ],
+    [
+     "2c907f76a0ee65b901a0f8e545680d61",
+     "Aprovado o projeto na parte não destacada. Prejudicado o substitutivo nº 1. Rejeitado o projeto na parte destacada (art. 4º). Segundo turno",
+     "01/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a0ee65b901a0f8e545680d61",
+    "decisao": "Aprovado o projeto na parte não destacada. Prejudicado o substitutivo nº 1. Rejeitado o projeto na parte destacada (art. 4º). Segundo turno",
+    "data": "01/10/2026"
+   }
+  },
+  "428/2025": {
+   "autoria": "Executivo: Mensagem nº 19, de 22/07/2025",
+   "ementa": "Altera a Lei nº 11.216, de 4 de fevereiro de 2020, que \"Dispõe sobre a aplicação dos instrumentos de política urbana previstos nos Capítulos II, III e IV do Título II da Lei nº 11.181, de 8 de agosto de 2019, que aprova o Plano Diretor do Município de Belo Horizonte.\".",
+   "decisoes": [
+    [
+     "2c907f769c51422e019c536998130874",
+     "aprovados o projeto na parte não destacada (art. 2º), o caput do art. 1º e arts. 6º-A ao 6º-D propostos pelo art. 1º do projeto em votação destacada. Primeiro turno",
+     "12/02/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1415e022331a8",
+     "Aprovados: as emendas nºs 4, 5, 8, 9 e 13, o projeto na parte não destacada (art. 2º) e o art. 1º do projeto em votação destacada. Prejudicadas: a Emenda nº 10, a Subemenda nº 1 à Emenda nº 8, e as Emendas nºs 1, 2, 12 e 14. Rejeitadas as Emendas nºs 3, 6, 7, 11 e 15. Segundo Turno",
+     "15/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1415e022331a8",
+    "decisao": "Aprovados: as emendas nºs 4, 5, 8, 9 e 13, o projeto na parte não destacada (art. 2º) e o art. 1º do projeto em votação destacada. Prejudicadas: a Emenda nº 10, a Subemenda nº 1 à Emenda nº 8, e as Emendas nºs 1, 2, 12 e 14. Rejeitadas as Emendas nºs 3, 6, 7, 11 e 15. Segundo Turno",
+    "data": "15/10/2026"
+   }
+  },
+  "432/2025": {
+   "autoria": "Ver.(a) Irlan Melo; Ver.(a) Trópia",
+   "ementa": "Dá nova redação à Seção III do Capítulo IV do Título III da Lei n° 8.616/03, que \"Contém o Código de Posturas do Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f7699b902630199bb48cd2208bf",
+     "aprovado em primeiro turno",
+     "06/10/2025"
+    ],
+    [
+     "2c907f769a6e6b76019a841253352d80",
+     "aprovada a Subemenda nº 1 ao Substitutivo nº 3. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "14/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a6e6b76019a841253352d80",
+    "decisao": "aprovada a Subemenda nº 1 ao Substitutivo nº 3. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "14/11/2025"
+   }
+  },
+  "433/2025": {
+   "autoria": "Ver.(a) Wagner Ferreira",
+   "ementa": "Dá nova redação ao art. 150 da Lei nº 8.616/03, que \"Contém o Código de Posturas do Município de Belo Horizonte\".",
+   "decisoes": [
+    [
+     "2c907f769994e7f80199a154d2091cbb",
+     "aprovado em primeiro turno",
+     "01/10/2025"
+    ],
+    [
+     "2c907f769a6e6b76019a6f916ff905dd",
+     "rejeitados o Substitutivo nº 1, as Emendas nº 2 e 3, e o Projeto. Segundo turno",
+     "10/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a6e6b76019a6f916ff905dd",
+    "decisao": "rejeitados o Substitutivo nº 1, as Emendas nº 2 e 3, e o Projeto. Segundo turno",
+    "data": "10/11/2025"
+   }
+  },
+  "434/2025": {
+   "autoria": "Ver.(a) Helton Junior; Ver.(a) Arruda; Ver.(a) Cleiton Xavier; Ver.(a) Helinho da Farmácia; Ver.(a) Irlan Melo; Ver.(a) Lucas Ganem; Ver.(a) Maninho Félix; Ver.(a) Trópia; Ver.(a) Wagner Ferreira",
+   "ementa": "Institui a Política Municipal de Robótica, Letramento Digital e Tecnologia Educacional nas Escolas da Rede Pública de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b0efb044221b6",
+     "aprovado em primeiro turno",
+     "11/12/2025"
+    ],
+    [
+     "2c907f769fc06af1019fc9476e2306ef",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "03/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fc9476e2306ef",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "03/08/2026"
+   }
+  },
+  "436/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Proíbe o emprego unitário de Guardas Civis Municipais em policiamento ostensivo e comunitário.",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a74d90f35127f",
+     "aprovado em primeiro turno",
+     "11/11/2025"
+    ],
+    [
+     "2c907f769d91c1a9019d93048e350a55",
+     "aprovado o substitutivo nº 3. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "15/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d91c1a9019d93048e350a55",
+    "decisao": "aprovado o substitutivo nº 3. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "15/04/2026"
+   }
+  },
+  "437/2025": {
+   "autoria": "Ver.(a) Cleiton Xavier",
+   "ementa": "Institui o Programa de Atenção Psicossocial da Guarda Civil Municipal de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769d91c1a9019d930b34c10ab8",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "15/04/2026"
+    ],
+    [
+     "2c907f769e168db0019e2d830db03b34",
+     "aprovado em segundo turno",
+     "15/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e2d830db03b34",
+    "decisao": "aprovado em segundo turno",
+    "data": "15/05/2026"
+   }
+  },
+  "438/2025": {
+   "autoria": "Ver.(a) Diego Sanches",
+   "ementa": "Dispõe sobre a obrigatoriedade da elaboração de ficha de anamnese ampliada para estudantes com Transtorno do Espectro Autista (TEA) nas escolas públicas, privadas e conveniadas do município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019af0172cec06af",
+     "aprovado em primeiro turno",
+     "05/12/2025"
+    ],
+    [
+     "2c907f769e5062dd019eccd04e5f1e85",
+     "aprovado o Substitutivo nº 2. Prejudicados o projeto e o Substitutivo nº 1. Segundo turno",
+     "15/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eccd04e5f1e85",
+    "decisao": "aprovado o Substitutivo nº 2. Prejudicados o projeto e o Substitutivo nº 1. Segundo turno",
+    "data": "15/06/2026"
+   }
+  },
+  "448/2025": {
+   "autoria": "Ver.(a) Tileléo; Ver.(a) Professor Juliano Lopes; Ver.(a) Wanderley Porto",
+   "ementa": "Estabelece regras e procedimentos para o regime jurídico das parcerias entre a Secretaria Municipal de Educação e as OSCs de educação infantil e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7699ce86020199cfd90592078e",
+     "aprovado em primeiro turno",
+     "10/10/2025"
+    ],
+    [
+     "2c907f769aec74b0019b146085cb2cfe",
+     "Aprovada a subemenda substitutivo nº 1 ao substitutivo nº 1. Prejudicados o projeto e as demais emendas. Segundo turno.",
+     "12/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b146085cb2cfe",
+    "decisao": "Aprovada a subemenda substitutivo nº 1 ao substitutivo nº 1. Prejudicados o projeto e as demais emendas. Segundo turno.",
+    "data": "12/12/2025"
+   }
+  },
+  "454/2025": {
+   "autoria": "Ver.(a) José Ferreira",
+   "ementa": "Altera a Lei nº 1.523/68, que dispõe sobre o uso da Represa da Pampulha e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d8dc414fe2f83",
+     "aprovado em primeiro turno.",
+     "14/04/2026"
+    ],
+    [
+     "2c907f769fc06af1019fc94f1db60751",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo Turno",
+     "03/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fc94f1db60751",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo Turno",
+    "data": "03/08/2026"
+   }
+  },
+  "455/2025": {
+   "autoria": "Ver.(a) José Ferreira",
+   "ementa": "Autoriza a desafetação da área que menciona.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d8863f83d1d49",
+     "aprovado em primeiro turno",
+     "13/04/2026"
+    ],
+    [
+     "2c907f769e168db0019e28418e853056",
+     "aprovado em segundo turno",
+     "14/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e28418e853056",
+    "decisao": "aprovado em segundo turno",
+    "data": "14/05/2026"
+   }
+  },
+  "456/2025": {
+   "autoria": "Mesa - Ver.(a) Professor Juliano Lopes; Ver.(a) Fernanda Pereira Altoé; Ver.(a) Wagner Ferreira; Ver.(a) Wanderley Porto",
+   "ementa": "Cria vagas para cargos efetivos na estrutura organizacional da CMBH e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae9701991b55afa2722c",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "05/09/2025"
+    ],
+    [
+     "2c907f76992ded790199351764ed1462",
+     "aprovado em segundo turno",
+     "10/09/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76992ded790199351764ed1462",
+    "decisao": "aprovado em segundo turno",
+    "data": "10/09/2025"
+   }
+  },
+  "460/2025": {
+   "autoria": "Ver.(a) Helton Junior",
+   "ementa": "Institui o Selo \"+ Vida: Motorista com Diabetes\" no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b09d7a95d18b2",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "10/12/2025"
+    ],
+    [
+     "2c907f769d246df5019d4afcd37052a6",
+     "aprovado em segundo turno",
+     "01/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d4afcd37052a6",
+    "decisao": "aprovado em segundo turno",
+    "data": "01/04/2026"
+   }
+  },
+  "464/2025": {
+   "autoria": "Ver.(a) Pedro Rousseff",
+   "ementa": "Institui a Política Municipal de Prevenção e Enfrentamento à Violência Digital de Crianças e Adolescentes em Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019af0116ced0689",
+     "aprovado em primeiro turno",
+     "05/12/2025"
+    ],
+    [
+     "2c907f769e168db0019e22e228fd230d",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+     "13/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e22e228fd230d",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+    "data": "13/05/2026"
+   }
+  },
+  "468/2025": {
+   "autoria": "Ver.(a) Neném da Farmácia",
+   "ementa": "Dispõe sobre a exigência de disponibilização de cadeiras para idosos, pessoas com deficiência (PCDs), gestantes e pessoas com bebês de colo nas agências bancárias do Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769ce16adc019ce3c8120a0a1f",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "12/03/2026"
+    ],
+    [
+     "2c907f769e168db0019e2821ae972ed6",
+     "Aprovado em segundo turno",
+     "14/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e2821ae972ed6",
+    "decisao": "Aprovado em segundo turno",
+    "data": "14/05/2026"
+   }
+  },
+  "47/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de acesso gratuito à internet em estabelecimentos comerciais, no âmbito de Belo Horizonte, quando optarem por oferecer aos consumidores cardápio na forma digital.",
+   "decisoes": [
+    [
+     "2c907f769735375901973c8ee81918e7",
+     "Aprovado em primeiro turno",
+     "04/06/2025"
+    ],
+    [
+     "2c907f769a2f4770019a4b799bf7226e",
+     "rejeitado o substitutivo nº 1. Aprovado o substitutivo nº 2. Prejudicado o projeto. Segundo Turno",
+     "03/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a4b799bf7226e",
+    "decisao": "rejeitado o substitutivo nº 1. Aprovado o substitutivo nº 2. Prejudicado o projeto. Segundo Turno",
+    "data": "03/11/2025"
+   }
+  },
+  "471/2025": {
+   "autoria": "Ver.(a) Iza Lourença; Ver.(a) Cida Falabella; Ver.(a) Juhlia Santos; Ver.(a) Luiza Dulci",
+   "ementa": "Institui o Programa Municipal de Apoio ao Aleitamento Humano em Emergências (PRAME) e autoriza a organização de equipes de resposta rápida para sua execução.",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e282642952efb",
+     "Aprovado em primeiro turno",
+     "14/05/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a13bd2ecfa29ea",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+     "14/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a13bd2ecfa29ea",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e o substitutivo nº 1. Segundo Turno",
+    "data": "14/10/2026"
+   }
+  },
+  "479/2025": {
+   "autoria": "Ver.(a) Dr. Bruno Pedralva",
+   "ementa": "Institui o Programa Municipal de Proteção e Valorização dos Profissionais de Limpeza Urbana - PROGARI, no âmbito do Município de Belo Horizonte, e dá outras providências",
+   "decisoes": [
+    [
+     "2c907f769c51422e019c536599120844",
+     "aprovado em primeiro turno",
+     "12/02/2026"
+    ],
+    [
+     "2c907f769fc06af1019ff28f98344656",
+     "Aprovados o Substitutivo nº 4 e a subemenda nº 4 ao Substitutivo nº 4. Prejudicados o projeto e as emendas nºs 1, 2 e 3. Rejeitadas as subemendas nº 1, 2, 3, 5, 6 e 7 ao Substitutivo nº 4. Segundo Turno",
+     "11/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ff28f98344656",
+    "decisao": "Aprovados o Substitutivo nº 4 e a subemenda nº 4 ao Substitutivo nº 4. Prejudicados o projeto e as emendas nºs 1, 2 e 3. Rejeitadas as subemendas nº 1, 2, 3, 5, 6 e 7 ao Substitutivo nº 4. Segundo Turno",
+    "data": "11/08/2026"
+   }
+  },
+  "480/2025": {
+   "autoria": "Ver.(a) Luiza Dulci",
+   "ementa": "Institui a Política Municipal de Manejo Integrado do Fogo (PMMIF) no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769ce16adc019ce3cce2610a4b",
+     "aprovado em primeiro turno",
+     "12/03/2026"
+    ],
+    [
+     "2c907f76a066b84501a087ae8f3f1746",
+     "aprovada a Subemenda Substitutivo nº 1 ao Substitutivo nº 2 na parte não destacada. Rejeitado o art. 8º da Subemenda Substitutivo nº 1 ao Substitutivo nº 2 em votação destacada. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "09/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a066b84501a087ae8f3f1746",
+    "decisao": "aprovada a Subemenda Substitutivo nº 1 ao Substitutivo nº 2 na parte não destacada. Rejeitado o art. 8º da Subemenda Substitutivo nº 1 ao Substitutivo nº 2 em votação destacada. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "09/09/2026"
+   }
+  },
+  "492/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Institui o Programa Municipal de Proteção e Escolta a Parlamentares Ameaçados, no âmbito do Município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c2dee88019c2f6422e106e6",
+     "aprovado em primeiro turno",
+     "05/02/2026"
+    ],
+    [
+     "2c907f769c51422e019cc4d8786b03bb",
+     "aprovado em segundo turno",
+     "06/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cc4d8786b03bb",
+    "decisao": "aprovado em segundo turno",
+    "data": "06/03/2026"
+   }
+  },
+  "494/2025": {
+   "autoria": "Ver.(a) José Ferreira; Ver.(a) Bruno Miranda",
+   "ementa": "Autoriza a desafetação e a alienação, na forma de venda ou permuta, da área que menciona.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f62373ad376f3",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "14/07/2026"
+    ],
+    [
+     "2c907f769fc06af1019fc95243cf0770",
+     "aprovado em segundo turno",
+     "03/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fc95243cf0770",
+    "decisao": "aprovado em segundo turno",
+    "data": "03/08/2026"
+   }
+  },
+  "497/2025": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Dispõe sobre o ressarcimento ao Município de Belo Horizonte das despesas públicas decorrentes do atendimento de animais vítimas de maus-tratos e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cd430d81b11fb",
+     "aprovado em primeiro turno",
+     "09/03/2026"
+    ],
+    [
+     "2c907f769fc06af1019fd35c99a01a9c",
+     "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo turno",
+     "05/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fd35c99a01a9c",
+    "decisao": "Aprovado o Substitutivo nº 1. Prejudicado o Projeto. Segundo turno",
+    "data": "05/08/2026"
+   }
+  },
+  "499/2025": {
+   "autoria": "Ver.(a) José Ferreira",
+   "ementa": "Institui a Política de Estímulo à Prática de Atividades Náuticas no Lagoa da Pampulha.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d8db900c32e7c",
+     "aprovado em primeiro turno",
+     "14/04/2026"
+    ],
+    [
+     "2c907f769fc06af1019fc956c1540793",
+     "aprovada a subemenda nº 1 ao substitutivo nº 5. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "03/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fc956c1540793",
+    "decisao": "aprovada a subemenda nº 1 ao substitutivo nº 5. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "03/08/2026"
+   }
+  },
+  "501/2025": {
+   "autoria": "Ver.(a) Helinho da Farmácia",
+   "ementa": "Desafeta e autoriza a alienação o bem imóvel que menciona.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f62352b4276da",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "14/07/2026"
+    ],
+    [
+     "2c907f769fc06af1019ffcb2b83a591b",
+     "aprovado em segundo turno",
+     "13/08/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1a3246ed57953",
+     "veto mantido",
+     "03/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ffcb2b83a591b",
+    "decisao": "aprovado em segundo turno",
+    "data": "13/08/2026"
+   }
+  },
+  "504/2025": {
+   "autoria": "Executivo: Mensagem nº 22, de 11/09/2025",
+   "ementa": "Altera as leis que menciona e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769a03efa8019a17e7c7de299b",
+     "aprovados a subemenda nº 25 ao substitutivo nº 41 (art. 124) na parte não destacada e os artigos 1º ao 123 e anexos I ao XXVI da subemenda nº 25 ao substitutivo nº 41 em votação destacada. Prejudicados o projeto e suas demais emendas e subemendas. Segundo turno",
+     "24/10/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a03efa8019a17e7c7de299b",
+    "decisao": "aprovados a subemenda nº 25 ao substitutivo nº 41 (art. 124) na parte não destacada e os artigos 1º ao 123 e anexos I ao XXVI da subemenda nº 25 ao substitutivo nº 41 em votação destacada. Prejudicados o projeto e suas demais emendas e subemendas. Segundo turno",
+    "data": "24/10/2025"
+   }
+  },
+  "506/2025": {
+   "autoria": "Ver.(a) Arruda; Ver.(a) Loíde Gonçalves",
+   "ementa": "Institui a Política Municipal de Prevenção e Combate ao Abandono de Idosos em Hospitais e Instituições de Saúde no âmbito do Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769dce5a7c019e044218416118",
+     "aprovado em primeiro turno",
+     "07/05/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a10d867a4d030e",
+     "aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "05/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a10d867a4d030e",
+    "decisao": "aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "05/10/2026"
+   }
+  },
+  "516/2025": {
+   "autoria": "Ver.(a) Trópia",
+   "ementa": "Altera a Lei nº 8.616/03, que contém o Código de Posturas do Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019e8f2e4db2598a",
+     "aprovado em primeiro turno",
+     "03/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1d18a52183588",
+     "rejeitado o substitutivo nº 1 e aprovado o projeto em segundo turno",
+     "12/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1d18a52183588",
+    "decisao": "rejeitado o substitutivo nº 1 e aprovado o projeto em segundo turno",
+    "data": "12/11/2026"
+   }
+  },
+  "517/2025": {
+   "autoria": "Ver.(a) Wagner Ferreira",
+   "ementa": "Dispõe sobre a instituição do Programa Municipal de Incentivo à Regularização Fiscal - REGULARIZA BH e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f390f7086323a",
+     "aprovado em primeiro turno",
+     "06/07/2026"
+    ],
+    [
+     "2c907f76a066b84501a0a6a7e22535fd",
+     "Aprovado o substitutivo nº1. Prejudicado o projeto. Segundo Turno",
+     "15/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a066b84501a0a6a7e22535fd",
+    "decisao": "Aprovado o substitutivo nº1. Prejudicado o projeto. Segundo Turno",
+    "data": "15/09/2026"
+   }
+  },
+  "518/2025": {
+   "autoria": "Ver.(a) Cida Falabella; Ver.(a) Iza Lourença",
+   "ementa": "Altera a Lei nº 7.597/98, que \"Dispõe sobre assentamento de famílias no Município e dá outras providências\".",
+   "decisoes": [
+    [
+     "2c907f769c2dee88019c346ac3f40f45",
+     "aprovado em primeiro turno",
+     "06/02/2026"
+    ],
+    [
+     "2c907f769f1426cd019f623d91c07728",
+     "Aprovado o projeto. Prejudicadas as emendas nº 1 e 2. Segundo Turno.",
+     "14/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f623d91c07728",
+    "decisao": "Aprovado o projeto. Prejudicadas as emendas nº 1 e 2. Segundo Turno.",
+    "data": "14/07/2026"
+   }
+  },
+  "519/2025": {
+   "autoria": "Ver.(a) Maninho Félix",
+   "ementa": "Institui o Programa Guardião da Cidadania no Município.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eadea22256feb",
+     "aprovado em primeiro turno",
+     "09/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a136b83448229e",
+     "Aprovado o Substituto nº 2. Prejudicados o projeto e a Emenda nº 1. Segundo turno",
+     "13/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a136b83448229e",
+    "decisao": "Aprovado o Substituto nº 2. Prejudicados o projeto e a Emenda nº 1. Segundo turno",
+    "data": "13/10/2026"
+   }
+  },
+  "521/2025": {
+   "autoria": "Ver.(a) Dra. Michelly Siqueira",
+   "ementa": "Institui a Carteira Municipal de Identificação da Pessoa com Deficiência no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d69aa72796bcc",
+     "aprovado em primeiro turno",
+     "07/04/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a11d0e010615c2",
+     "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "08/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a11d0e010615c2",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "08/10/2026"
+   }
+  },
+  "526/2025": {
+   "autoria": "Ver.(a) Trópia",
+   "ementa": "Cria o Programa Oftalmologia nas Escolas com o objetivo de promover a realização de exames oftalmológicos nos alunos da Educação Infantil e do Ensino Fundamental da rede pública de ensino de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e1dfd57561735",
+     "aprovado em primeiro turno.",
+     "12/05/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1cc17ce8a2b52",
+     "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº1. Segundo Turno",
+     "11/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1cc17ce8a2b52",
+    "decisao": "Aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº1. Segundo Turno",
+    "data": "11/11/2026"
+   }
+  },
+  "527/2025": {
+   "autoria": "Ver.(a) Professor Juliano Lopes",
+   "ementa": "Altera a Lei n° 8.616/03, que \"Contém o Código de Posturas do Município de Belo Horizonte\".",
+   "decisoes": [
+    [
+     "2c907f769bbcccb3019c20128da21dc2",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "02/02/2026"
+    ],
+    [
+     "2c907f769bbcccb3019c258200e62ddf",
+     "aprovado em segundo turno",
+     "03/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769bbcccb3019c258200e62ddf",
+    "decisao": "aprovado em segundo turno",
+    "data": "03/02/2026"
+   }
+  },
+  "528/2025": {
+   "autoria": "Ver.(a) Loíde Gonçalves; Ver.(a) Juhlia Santos; Ver.(a) Luiza Dulci",
+   "ementa": "Acrescenta o parágrafo único ao art. 1º da Lei nº 11.243/2020, que Institui Empreendedorismo e Noções de Direito e Cidadania como temas a serem abordados no contraturno das escolas municipais de educação integral.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d6eae131d7820",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "08/04/2026"
+    ],
+    [
+     "2c907f769d246df5019d8857e75c1d15",
+     "aprovado em segundo turno",
+     "13/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d8857e75c1d15",
+    "decisao": "aprovado em segundo turno",
+    "data": "13/04/2026"
+   }
+  },
+  "531/2025": {
+   "autoria": "Ver.(a) Vile Santos",
+   "ementa": "Dispõe sobre a definição do local de entrega por entregadores em condomínios residenciais e comerciais no Município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cd98312481f18",
+     "aprovados os artigos 1º ao 4º do projeto em votação destacada e o projeto na parte não destacada (art. 5º). Primeiro turno",
+     "10/03/2026"
+    ],
+    [
+     "2c907f769f1426cd019f3903a561318a",
+     "aprovado o substitutivo nº 3. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "06/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f3903a561318a",
+    "decisao": "aprovado o substitutivo nº 3. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "06/07/2026"
+   }
+  },
+  "533/2025": {
+   "autoria": "Ver.(a) Helton Junior",
+   "ementa": "Institui a Política Municipal de Logística Reversa no Município de Belo Horizonte em conformidade com a Política Nacional de Resíduos Sólidos prevista na Lei Federal nº 12.305/2010 e com o Sistema de Logística Reversa previsto na Deliberação Normativa nº 249 do Conselho Estadual de Política Ambiental - COPAM, de 30/01/2024.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d73c150e2044b",
+     "aprovado em primeiro turno",
+     "09/04/2026"
+    ],
+    [
+     "2c907f769f1426cd019f48a4d508587e",
+     "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+     "09/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f48a4d508587e",
+    "decisao": "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno",
+    "data": "09/07/2026"
+   }
+  },
+  "540/2025": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Extingue as cláusulas de inalienabilidade, impenhorabilidade e reversão ao domínio do Município do imóvel correspondente à Casa dos Padres Seculares - Organização São Pedro.",
+   "decisoes": [
+    [
+     "2c907f769dce5a7c019dfeb9f81f520f",
+     "aprovado em primeiro turno",
+     "06/05/2026"
+    ],
+    [
+     "2c907f769e168db0019e2827f6f42f0a",
+     "Aprovado em segundo turno",
+     "14/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e2827f6f42f0a",
+    "decisao": "Aprovado em segundo turno",
+    "data": "14/05/2026"
+   }
+  },
+  "543/2025": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Dá nova redação ao art. 5º da Lei nº 11.285/21, que \"Dispõe sobre a criação do Programa de Substituição Gradativa dos Veículos de Tração Animal no Município e dá outras providências.\"",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e2d7b58cb3b20",
+     "aprovado em primeiro turno",
+     "15/05/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a12279b2601ba4",
+     "aprovado o projeto. Prejudicados o substitutivo nº 1 e a emenda nº 2. Segundo turno",
+     "09/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a12279b2601ba4",
+    "decisao": "aprovado o projeto. Prejudicados o substitutivo nº 1 e a emenda nº 2. Segundo turno",
+    "data": "09/10/2026"
+   }
+  },
+  "552/2025": {
+   "autoria": "Executivo: Mensagem nº 25, de 15/10/2025",
+   "ementa": "Institui o Programa de Incentivo ao Estudante Atleta, cria os Centros Municipais Escolares de Treinamento Esportivo - CEMETEs - e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769ad965b9019ae601619524e1",
+     "aprovado em primeiro turno",
+     "03/12/2025"
+    ],
+    [
+     "2c907f769d246df5019d8dc066ff2f10",
+     "aprovado o Substitutivo nº 1 na parte não destacada (art. 21 e Anexo) e os artigos 1º ao 20 do Substitutivo nº 1 em votação destacada. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "14/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d8dc066ff2f10",
+    "decisao": "aprovado o Substitutivo nº 1 na parte não destacada (art. 21 e Anexo) e os artigos 1º ao 20 do Substitutivo nº 1 em votação destacada. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "14/04/2026"
+   }
+  },
+  "558/2025": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Dispõe sobre o combate à poluição atmosférica e sonora proveniente de veículos de duas rodas e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d8dc0222a2f08",
+     "aprovados os artigos 1º ao 11 do projeto em votação destacada e o projeto na parte não destacada. Primeiro turno",
+     "14/04/2026"
+    ],
+    [
+     "2c907f76a066b84501a082c242050fe5",
+     "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno.",
+     "08/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a066b84501a082c242050fe5",
+    "decisao": "Aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo Turno.",
+    "data": "08/09/2026"
+   }
+  },
+  "575/2025": {
+   "autoria": "Ver.(a) Flávia Borja",
+   "ementa": "Reconhece como de relevante interesse cultural o evento \"Vira Brasil – a Virada da Família Mineira” no Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769ad965b9019ae6054e552508",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "03/12/2025"
+    ],
+    [
+     "2c907f769aec74b0019af0113bb00682",
+     "aprovado em segundo turno",
+     "05/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019af0113bb00682",
+    "decisao": "aprovado em segundo turno",
+    "data": "05/12/2025"
+   }
+  },
+  "576/2025": {
+   "autoria": "Ver.(a) Professor Juliano Lopes",
+   "ementa": "Regulamenta o § 8° do art. 2° da Lei Federal n° 6.766, de 19 de dezembro de 1979.",
+   "decisoes": [
+    [
+     "2c907f76a066b84501a082bc7cb80fc5",
+     "aprovado em primeiro turno",
+     "08/09/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1b292b5ea0f97",
+     "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "06/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1b292b5ea0f97",
+    "decisao": "aprovado o substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "06/11/2026"
+   }
+  },
+  "58/2025": {
+   "autoria": "Ver.(a) Uner Augusto",
+   "ementa": "\"Dispõe sobre a fixação de placas informativas nas unidades públicas e privadas de saúde do município de Belo Horizonte, versando sobre a Entrega Legal, instituída pela lei nº 13.509, de 22/11/2017.\"",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a7a35236d1dcf",
+     "aprovado em primeiro turno.",
+     "12/11/2025"
+    ],
+    [
+     "2c907f769fc06af1019ffcb45147592e",
+     "aprovados a emenda nº 4 e o projeto. Prejudicadas as demais emendas e subemendas. Segundo turno",
+     "13/08/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1a316ec687919",
+     "veto rejeitado",
+     "03/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ffcb45147592e",
+    "decisao": "aprovados a emenda nº 4 e o projeto. Prejudicadas as demais emendas e subemendas. Segundo turno",
+    "data": "13/08/2026"
+   }
+  },
+  "583/2025": {
+   "autoria": "Ver.(a) Edmar Branco",
+   "ementa": "Institui o Programa Municipal de Promoção da Liberdade de Expressão Artística e de Valorização da Cultura Popular, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019e8f347c5b59f1",
+     "aprovado em primeiro turno",
+     "03/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1b2906d440f7b",
+     "aprovado o projeto e as emendas nºs 1, 2 e 5. Rejeitada a emenda nº 4. Prejudicada a emenda nº 3 e a votação destacada do art. 6º do projeto. Segundo Turno",
+     "06/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1b2906d440f7b",
+    "decisao": "aprovado o projeto e as emendas nºs 1, 2 e 5. Rejeitada a emenda nº 4. Prejudicada a emenda nº 3 e a votação destacada do art. 6º do projeto. Segundo Turno",
+    "data": "06/11/2026"
+   }
+  },
+  "584/2025": {
+   "autoria": "Ver.(a) Fernanda Pereira Altoé; Ver.(a) Braulio Lara",
+   "ementa": "Consolida a legislação que institui Selos e Certificações Públicas no Município.",
+   "decisoes": [
+    [
+     "2c907f769d91c1a9019d93120b690b54",
+     "aprovado em primeiro turno",
+     "15/04/2026"
+    ],
+    [
+     "2c907f769e168db0019e2d7150b13ad7",
+     "aprovada a Subemenda Substitutivo nº 1 ao Substitutivo nº 1. Prejudicados o Projeto e o Substitutivo nº 1. Segundo turno",
+     "15/05/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e168db0019e2d7150b13ad7",
+    "decisao": "aprovada a Subemenda Substitutivo nº 1 ao Substitutivo nº 1. Prejudicados o Projeto e o Substitutivo nº 1. Segundo turno",
+    "data": "15/05/2026"
+   }
+  },
+  "589/2025": {
+   "autoria": "Ver.(a) Professor Juliano Lopes",
+   "ementa": "Altera a Lei n° 11.841/25, que \"Autoriza a desafetação da área que menciona\".",
+   "decisoes": [
+    [
+     "2c907f769d91c1a9019d93098be00a9c",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "15/04/2026"
+    ],
+    [
+     "2c907f769d91c1a9019d9863bdbb1819",
+     "aprovado em segundo turno.",
+     "16/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d91c1a9019d9863bdbb1819",
+    "decisao": "aprovado em segundo turno.",
+    "data": "16/04/2026"
+   }
+  },
+  "595/2025": {
+   "autoria": "Ver.(a) Cida Falabella; Ver.(a) Iza Lourença",
+   "ementa": "Institui o Programa Municipal de Incentivo ao Breaking nas Escolas no município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019e8f24f77658cf",
+     "aprovado em primeiro turno",
+     "03/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1b2885d6a0f00",
+     "Aprovado o substitutivo nº 4. Prejudicado o projeto e as demais emendas. Segundo Turno",
+     "06/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1b2885d6a0f00",
+    "decisao": "Aprovado o substitutivo nº 4. Prejudicado o projeto e as demais emendas. Segundo Turno",
+    "data": "06/11/2026"
+   }
+  },
+  "602/2025": {
+   "autoria": "Ver.(a) Helton Junior",
+   "ementa": "Dispõe sobre a criação do Programa Municipal de Navegação de Pacientes para Pessoas com Neoplasia Maligna Oncológica.",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e1de97c38169c",
+     "Aprovado em primeiro turno. Concluso em segundo turno",
+     "12/05/2026"
+    ],
+    [
+     "2c907f769e5062dd019eccdedb3d1ff2",
+     "aprovado em segundo turno",
+     "15/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eccdedb3d1ff2",
+    "decisao": "aprovado em segundo turno",
+    "data": "15/06/2026"
+   }
+  },
+  "603/2025": {
+   "autoria": "Executivo: Mensagem nº 27, de 14/11/2025",
+   "ementa": "Concede reajustes remuneratórios aos servidores e empregados públicos da administração direta e indireta do Poder Executivo e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b0f04d12d2207",
+     "aprovado em primeiro turno",
+     "11/12/2025"
+    ],
+    [
+     "2c907f769aec74b0019b469efbc55928",
+     "aprovado o substitutivo nº 2, prejudicados o projeto e a emenda nº 1. Segundo turno",
+     "22/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b469efbc55928",
+    "decisao": "aprovado o substitutivo nº 2, prejudicados o projeto e a emenda nº 1. Segundo turno",
+    "data": "22/12/2025"
+   }
+  },
+  "605/2025": {
+   "autoria": "Ver.(a) Maninho Félix",
+   "ementa": "Institui a Política Municipal de Atenção às Pessoas com Transtorno de Acumulação no município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eb36e096b0080",
+     "rejeitados o inciso I do art. 3º e o art. 6º do projeto em votação destacada. Aprovado o projeto na parte não destacada. Primeiro turno. Concluso em segundo turno",
+     "10/06/2026"
+    ],
+    [
+     "2c907f769e5062dd019ed1f49efc2aeb",
+     "aprovado em segundo turno",
+     "16/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019ed1f49efc2aeb",
+    "decisao": "aprovado em segundo turno",
+    "data": "16/06/2026"
+   }
+  },
+  "610/2025": {
+   "autoria": "Ver.(a) Helton Junior",
+   "ementa": "Institui o Programa Municipal de Proteção ao Denunciante de Corrupção e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e2843eae6306f",
+     "aprovado em primeiro turno. Concluso em segundo turno.",
+     "14/05/2026"
+    ],
+    [
+     "2c907f769e5062dd019eb33eaeea7fc1",
+     "aprovado em segundo turno",
+     "10/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eb33eaeea7fc1",
+    "decisao": "aprovado em segundo turno",
+    "data": "10/06/2026"
+   }
+  },
+  "615/2025": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Altera a Lei nº 11.713/24, que \"Proíbe a incitação, a defesa ou a apologia a ato realizado por indivíduos ou grupos extremistas que tenham praticado terrorismo ou crime contra a humanidade\".",
+   "decisoes": [
+    [
+     "2c907f769fc06af1019fce78ba8a1071",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "04/08/2026"
+    ],
+    [
+     "2c907f769fc06af1019ff77a49225165",
+     "aprovado em segundo turno",
+     "12/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ff77a49225165",
+    "decisao": "aprovado em segundo turno",
+    "data": "12/08/2026"
+   }
+  },
+  "616/2025": {
+   "autoria": "Executivo: Mensagem nº 28, de 18/11/2025",
+   "ementa": "Altera as leis que menciona e dá outras providências .",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d409e082d3708",
+     "Aprovados os artigos 1º ao 28 do projeto em votação destacada e o projeto na parte não destacada (artigo 29). Primeiro turno",
+     "30/03/2026"
+    ],
+    [
+     "2c907f769fc06af1019fed59a6083938",
+     "aprovados a subemenda nº 11 ao substitutivo nº 1 na parte não destacada (art. 40) e os artigos 1º ao 39 da subemenda nº 11 ao substitutivo nº 1 em votação destacada. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+     "10/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fed59a6083938",
+    "decisao": "aprovados a subemenda nº 11 ao substitutivo nº 1 na parte não destacada (art. 40) e os artigos 1º ao 39 da subemenda nº 11 ao substitutivo nº 1 em votação destacada. Prejudicados o projeto e as demais emendas e subemendas. Segundo turno",
+    "data": "10/08/2026"
+   }
+  },
+  "62/2025": {
+   "autoria": "Ver.(a) Maninho Félix",
+   "ementa": "Autoriza o Poder Executivo a instituir a Política Municipal de Atenção Integral à Saúde do Homem.",
+   "decisoes": [
+    [
+     "2c907f7697c55c830197e65d544c31b0",
+     "Aprovado em Primeiro Turno",
+     "07/07/2025"
+    ],
+    [
+     "2c907f769ad965b9019adbbf5e1a079a",
+     "aprovado o projeto na parte não destacada (arts. 1º, 2º, 3º, 4º, 5º e 7º). Prejudicadas todas as emendas. Rejeitado o art. 6º do projeto em votação destacada. Segundo turno",
+     "01/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769ad965b9019adbbf5e1a079a",
+    "decisao": "aprovado o projeto na parte não destacada (arts. 1º, 2º, 3º, 4º, 5º e 7º). Prejudicadas todas as emendas. Rejeitado o art. 6º do projeto em votação destacada. Segundo turno",
+    "data": "01/12/2025"
+   }
+  },
+  "621/2025": {
+   "autoria": "Executivo: Mensagem nº 29, de 27/11/2025",
+   "ementa": "Altera a classificação viária da Rua Valdiano Martins Inácio, no trecho compreendido entre a Rua Antenor Prata e a Avenida José Gonçalves Vidal, localizada no Bairro Ouro Preto, Regional Pampulha.",
+   "decisoes": [
+    [
+     "2c907f769d246df5019d6ead2290780e",
+     "aprovado em primeiro turno. Concluso em segundo turno.",
+     "08/04/2026"
+    ],
+    [
+     "2c907f769d246df5019d78de196f101e",
+     "aprovado em segundo turno",
+     "10/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d78de196f101e",
+    "decisao": "aprovado em segundo turno",
+    "data": "10/04/2026"
+   }
+  },
+  "624/2025": {
+   "autoria": "Ver.(a) Arruda",
+   "ementa": "Altera a Lei n° 11.813/2025, que “veda a nomeação pela administração pública de pessoas condenadas pelos crimes que menciona”.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f5d1cc42c6bfe",
+     "aprovado o projeto na parte não destacada (arts. 2º e 3º). Rejeitado o artigo 1º do projeto em votação destacada. Primeiro turno",
+     "13/07/2026"
+    ],
+    [
+     "2c907f76a066b84501a087b87ac417bc",
+     "aprovado em segundo turno",
+     "09/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a066b84501a087b87ac417bc",
+    "decisao": "aprovado em segundo turno",
+    "data": "09/09/2026"
+   }
+  },
+  "629/2025": {
+   "autoria": "Ver.(a) Dr. Bruno Pedralva",
+   "ementa": "Autoriza o Executivo a fornecer aparelho sensor de monitoramento contínuo de glicose, para pacientes com diabetes tipo 2 e diabetes autoimune latente em adultos (LADA) e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f623a1f5f770c",
+     "aprovado em primeiro turno",
+     "14/07/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1cc1833a12b57",
+     "aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno",
+     "11/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1cc1833a12b57",
+    "decisao": "aprovado o substitutivo nº 2. Prejudicados o projeto e a emenda nº 1. Segundo turno",
+    "data": "11/11/2026"
+   }
+  },
+  "630/2025": {
+   "autoria": "Executivo: Mensagem nº 31, de 05/12/2025",
+   "ementa": "Estabelece o plano de carreira para os ocupantes dos empregos públicos de Agente Comunitário de Saúde e de Agente de Combate a Endemias do Poder Executivo municipal e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769aec74b0019b36e0fbdc5113",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "19/12/2025"
+    ],
+    [
+     "2c907f769aec74b0019b46a039025935",
+     "aprovado em segundo turno.",
+     "22/12/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b46a039025935",
+    "decisao": "aprovado em segundo turno.",
+    "data": "22/12/2025"
+   }
+  },
+  "64/2025": {
+   "autoria": "Ver.(a) Osvaldo Lopes; Ver.(a) Pedro Rousseff",
+   "ementa": "Autoriza o Poder Executivo a construir, em toda Casa de Passagem e Abrigo de Belo Horizonte, espaço destinado ao abrigamento de animais pertencentes à população em situação de rua.",
+   "decisoes": [
+    [
+     "2c907f7697e672900197f0dd79221ae1",
+     "aprovado em primeiro turno",
+     "09/07/2025"
+    ],
+    [
+     "2c907f769a2f4770019a55dee5c639cf",
+     "Aprovados o projeto e as emendas nº 1 e 2. Segundo Turno.",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a55dee5c639cf",
+    "decisao": "Aprovados o projeto e as emendas nº 1 e 2. Segundo Turno.",
+    "data": "05/11/2025"
+   }
+  },
+  "646/2026": {
+   "autoria": "Executivo: Mensagem nº 32, de 05/12/2025",
+   "ementa": "Autoriza o Poder Executivo a contratar operações de crédito junto ao Novo Banco de Desenvolvimento - NBD-, outros organismos multilaterais ou instituições financeiras nacionais ou internacionais , com ou sem garantia da União, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eb88ac7d80dd4",
+     "Aprovados os artigos 1º ao 7º do projeto em votação destacada e o projeto na parte não destacada (art. 8º). Primeiro Turno.",
+     "11/06/2026"
+    ],
+    [
+     "2c907f76a066b84501a0a6b302fb36dd",
+     "Aprovados os §§ 2º e 3º da subemenda substitutivo nº 1 à emenda aditiva nº 1 em votação destacada, a subemenda substitutivo nº 1 à emenda aditiva nº 1 na parte não destacada, os artigos 1º ao 7º do projeto em votação destacada e o projeto na parte não destacada. Prejudicada a emenda nº 1. Segundo Turno",
+     "15/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a066b84501a0a6b302fb36dd",
+    "decisao": "Aprovados os §§ 2º e 3º da subemenda substitutivo nº 1 à emenda aditiva nº 1 em votação destacada, a subemenda substitutivo nº 1 à emenda aditiva nº 1 na parte não destacada, os artigos 1º ao 7º do projeto em votação destacada e o projeto na parte não destacada. Prejudicada a emenda nº 1. Segundo Turno",
+    "data": "15/09/2026"
+   }
+  },
+  "648/2026": {
+   "autoria": "Executivo: Mensagem nº 34, de 10/12/2025",
+   "ementa": "Altera a classificação viária dos locais que menciona .",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e18ac69070961",
+     "aprovado em primeiro turno",
+     "11/05/2026"
+    ],
+    [
+     "2c907f769fc06af1019fce8914bd113c",
+     "aprovada a subemenda substitutivo nº 1 à emenda nº 2. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "04/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019fce8914bd113c",
+    "decisao": "aprovada a subemenda substitutivo nº 1 à emenda nº 2. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "04/08/2026"
+   }
+  },
+  "652/2026": {
+   "autoria": "Ver.(a) Cida Falabella; Ver.(a) Iza Lourença; Ver.(a) Janaina Cardoso; Ver.(a) Juhlia Santos; Ver.(a) Luiza Dulci",
+   "ementa": "Institui a Política Municipal de Comunicação de Riscos e Prevenção de Desastres no Ambiente Escolar, estabelece diretrizes para a comunicação de alertas junto às instituições de ensino e para a cooperação entre os órgãos de Educação e de Proteção e Defesa Civil.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eb89005e30e07",
+     "aprovado em primeiro turno",
+     "11/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a136bcb75c22f0",
+     "aprovado o Substitutivo nº 4. Prejudicado o projeto e as demais emendas. Segundo turno",
+     "13/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a136bcb75c22f0",
+    "decisao": "aprovado o Substitutivo nº 4. Prejudicado o projeto e as demais emendas. Segundo turno",
+    "data": "13/10/2026"
+   }
+  },
+  "668/2023": {
+   "autoria": "Ver.(a) Fernanda Pereira Altoé",
+   "ementa": "Dispõe sobre o recebimento de doações de bens móveis e serviços e de bens móveis em comodato pela administração pública direta, autárquica e fundacional do Poder Executivo.",
+   "decisoes": [
+    [
+     "2c907f768dec5bee018e102cfc801fc5",
+     "Aprovado em Primeiro Turno",
+     "05/03/2024"
+    ],
+    [
+     "2c907f769e5062dd019e84c0f6703e92",
+     "Aprovado o Substitutivo nº 2. Prejudicado o projeto e o Substitutivo nº1. Segundo turno.",
+     "01/06/2026"
+    ],
+    [
+     "2c907f76a0350d3301a059078efe2830",
+     "mantidos o veto em votação destacada (art. 26 e inciso III do art. 28) e o veto na parte não destacada (art. 33)",
+     "31/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019e84c0f6703e92",
+    "decisao": "Aprovado o Substitutivo nº 2. Prejudicado o projeto e o Substitutivo nº1. Segundo turno.",
+    "data": "01/06/2026"
+   }
+  },
+  "668/2026": {
+   "autoria": "Ver.(a) Sargento Jalyson",
+   "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de banheiros exclusivos, ponto de hidratação e espaço de apoio para alimentação aos servidores da segurança pública em serviço, em eventos de grande porte, no Município de Belo Horizonte, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769fc06af1019fcea30a7e11a6",
+     "aprovado em primeiro turno",
+     "04/08/2026"
+    ],
+    [
+     "2c907f769fc06af101a001cb23d65e93",
+     "Rejeitado o art. 5º do projeto em votação destacada. Aprovado o projeto na parte não destacada (arts. 1º, 2º, 3º, 4º, 6º e 7º). Segundo Turno",
+     "14/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af101a001cb23d65e93",
+    "decisao": "Rejeitado o art. 5º do projeto em votação destacada. Aprovado o projeto na parte não destacada (arts. 1º, 2º, 3º, 4º, 6º e 7º). Segundo Turno",
+    "data": "14/08/2026"
+   }
+  },
+  "669/2026": {
+   "autoria": "Mesa - Ver.(a) Professor Juliano Lopes; Ver.(a) Fernanda Pereira Altoé; Ver.(a) Flávia Borja; Ver.(a) Wagner Ferreira; Ver.(a) Wanderley Porto",
+   "ementa": "Altera a Lei nº 7.863/99, que institui o Estatuto dos Servidores da Câmara Municipal de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cdeccc5a42dcd",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "11/03/2026"
+    ],
+    [
+     "2c907f769ce16adc019ce3e69d210ac2",
+     "aprovado em segundo turno",
+     "12/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769ce16adc019ce3e69d210ac2",
+    "decisao": "aprovado em segundo turno",
+    "data": "12/03/2026"
+   }
+  },
+  "67/2025": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Dispõe sobre o reaproveitamento de materiais didáticos em escolas públicas e privadas no município de Belo Horizonte, proibindo práticas abusivas relacionadas ao fornecimento desses materiais e promovendo a sustentabilidade ambiental e a economia familiar.",
+   "decisoes": [
+    [
+     "2c907f7698e0ae9701990c02a0da51c5",
+     "aprovado em primeiro turno",
+     "02/09/2025"
+    ],
+    [
+     "2c907f769aec74b0019b0f04c8e42204",
+     "rejeitado o substitutivo nº 1. Prejudicada a subemenda nº 1 ao substitutivo nº 1. Aprovado o projeto. Prejudicadas as demais emendas e subemendas. Segundo turno.",
+     "11/12/2025"
+    ],
+    [
+     "2c907f769c51422e019cbfbdb9e778cb",
+     "veto mantido",
+     "05/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769aec74b0019b0f04c8e42204",
+    "decisao": "rejeitado o substitutivo nº 1. Prejudicada a subemenda nº 1 ao substitutivo nº 1. Aprovado o projeto. Prejudicadas as demais emendas e subemendas. Segundo turno.",
+    "data": "11/12/2025"
+   }
+  },
+  "676/2026": {
+   "autoria": "Executivo: Mensagem nº 1, de 03/02/2026",
+   "ementa": "Altera as Leis nº 9.725, de 15 de julho de 2009, e nº 10.534, de 10 de setembro de 2012, e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019ea8ca69cc6482",
+     "aprovado em primeiro turno",
+     "08/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1d689f7b43ef3",
+     "aprovados as Subemendas Substitutivas nºs 1, 3 e 4 ao Substitutivo nº 7, os artigos 1º ao 65 e anexos I ao III do Substitutivo nº 7 em votação destacada, o Substitutivo nº 7 na parte não destacada (art. 66) e a Subemenda Aditiva nº 2 ao Substitutivo nº 7. Prejudicados o projeto e as demais emendas. Segundo turno",
+     "13/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1d689f7b43ef3",
+    "decisao": "aprovados as Subemendas Substitutivas nºs 1, 3 e 4 ao Substitutivo nº 7, os artigos 1º ao 65 e anexos I ao III do Substitutivo nº 7 em votação destacada, o Substitutivo nº 7 na parte não destacada (art. 66) e a Subemenda Aditiva nº 2 ao Substitutivo nº 7. Prejudicados o projeto e as demais emendas. Segundo turno",
+    "data": "13/11/2026"
+   }
+  },
+  "683/2026": {
+   "autoria": "Mesa - Ver.(a) Professor Juliano Lopes; Ver.(a) Fernanda Pereira Altoé; Ver.(a) Flávia Borja; Ver.(a) Wagner Ferreira; Ver.(a) Wanderley Porto",
+   "ementa": "Altera a Lei n° 11.631/23, que \"Considera período aquisitivo e contabiliza, para fins do adicional por tempo de serviço e da indenização por término de vínculo com a CMBH, o período compreendido entre 28 de maio de 2020 e 31 de dezembro de 2021 \", e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769ce16adc019ce3e8ff550acb",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "12/03/2026"
+    ],
+    [
+     "2c907f769ce16adc019ce8f0639416a5",
+     "aprovado em segundo turno",
+     "13/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769ce16adc019ce8f0639416a5",
+    "decisao": "aprovado em segundo turno",
+    "data": "13/03/2026"
+   }
+  },
+  "685/2026": {
+   "autoria": "Mesa - Ver.(a) Professor Juliano Lopes; Ver.(a) Fernanda Pereira Altoé; Ver.(a) Flávia Borja; Ver.(a) Wagner Ferreira; Ver.(a) Wanderley Porto",
+   "ementa": "Promove o reajuste da remuneração dos servidores da Câmara Municipal de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769c51422e019cbfb49bc4784a",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "05/03/2026"
+    ],
+    [
+     "2c907f769c51422e019cc4e83c45041e",
+     "aprovado em segundo turno",
+     "06/03/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c51422e019cc4e83c45041e",
+    "decisao": "aprovado em segundo turno",
+    "data": "06/03/2026"
+   }
+  },
+  "688/2026": {
+   "autoria": "Ver.(a) Fernanda Pereira Altoé; Ver.(a) Uner Augusto",
+   "ementa": "Consolida a legislação que declara o valor ecológico, paisagístico, cultural, comunitário, histórico ou simbólico de áreas do Município e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f2971b56d2524",
+     "aprovado em primeiro turno",
+     "03/07/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a136b95db922cf",
+     "Aprovado o projeto. Prejudicado o Substitutivo nº 1. Segundo Turno",
+     "13/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a136b95db922cf",
+    "decisao": "Aprovado o projeto. Prejudicado o Substitutivo nº 1. Segundo Turno",
+    "data": "13/10/2026"
+   }
+  },
+  "692/2026": {
+   "autoria": "Executivo: Mensagem nº 2, de 10/02/2026",
+   "ementa": "Altera a Lei nº 8.725, de 30 de dezembro de 2003, que \"Dispõe sobre o Imposto sobre Serviços de Qualquer Natureza – ISSQN – e dá outras providências.\".",
+   "decisoes": [
+    [
+     "2c907f76a10b76cd01a11d0beb6415a7",
+     "aprovado em primeiro turno",
+     "08/10/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1c219387a199f",
+     "aprovados os artigos 1º ao 3º do projeto em votação destacada e o projeto na parte não destacada (art. 4º). Segundo turno",
+     "09/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1c219387a199f",
+    "decisao": "aprovados os artigos 1º ao 3º do projeto em votação destacada e o projeto na parte não destacada (art. 4º). Segundo turno",
+    "data": "09/11/2026"
+   }
+  },
+  "694/2026": {
+   "autoria": "Executivo: Mensagem nº 4, de 23/02/2026",
+   "ementa": "Altera a classificação viária de trecho da Rua Adriano Chaves e Matos, localizada no Bairro Olhos D’Água.",
+   "decisoes": [
+    [
+     "2c907f769e168db0019e2d88d2f93b4b",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "15/05/2026"
+    ],
+    [
+     "2c907f769e5062dd019e84bfc6ec3e77",
+     "aprovado em segundo turno",
+     "01/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019e84bfc6ec3e77",
+    "decisao": "aprovado em segundo turno",
+    "data": "01/06/2026"
+   }
+  },
+  "700/2026": {
+   "autoria": "Executivo: Mensagem nº 6, de 26/02/2026",
+   "ementa": "Altera a Lei nº 9.145, de 12 de janeiro de 2006, que \"Autoriza a isenção de tributos municipais, nas hipóteses em que o ônus do pagamento recair sobre a Administração Pública Direta ou Indireta do Município.\".",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eb3469dbd0003",
+     "aprovado em primeiro turno",
+     "10/06/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1c21c528219b6",
+     "aprovado o projeto. Prejudicada a emenda nº 1. Segundo turno",
+     "09/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1c21c528219b6",
+    "decisao": "aprovado o projeto. Prejudicada a emenda nº 1. Segundo turno",
+    "data": "09/11/2026"
+   }
+  },
+  "722/2026": {
+   "autoria": "Executivo: Mensagem nº 7, de 06/03/2026",
+   "ementa": "Institui o Programa Mulheres na Obra.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f435fee494ab7",
+     "aprovado em primeiro turno",
+     "08/07/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1d18cc3df35ad",
+     "aprovados o projeto e as emendas nº 1 e 3. Segundo turno",
+     "12/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1d18cc3df35ad",
+    "decisao": "aprovados o projeto e as emendas nº 1 e 3. Segundo turno",
+    "data": "12/11/2026"
+   }
+  },
+  "73/2025": {
+   "autoria": "Ver.(a) Braulio Lara",
+   "ementa": "Altera a Lei 8.616 de 14 de julho de 2003 que contém o Código de Posturas do Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f7697c55c830197c77574ea08bc",
+     "Aprovado em primeiro turno",
+     "01/07/2025"
+    ],
+    [
+     "2c907f769a2f4770019a55dbcdf139b5",
+     "Aprovado o Substitutivo nº 2 na parte não destacada. Prejudicados o projeto e as demais emendas e subemendas. Rejeitado o artigo 2º do Substitutivo nº 2 em votação destacada. Segundo turno.",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a55dbcdf139b5",
+    "decisao": "Aprovado o Substitutivo nº 2 na parte não destacada. Prejudicados o projeto e as demais emendas e subemendas. Rejeitado o artigo 2º do Substitutivo nº 2 em votação destacada. Segundo turno.",
+    "data": "05/11/2025"
+   }
+  },
+  "733/2026": {
+   "autoria": "Ver.(a) Fernanda Pereira Altoé; Ver.(a) Uner Augusto",
+   "ementa": "Consolida legislação que estabelece a obrigatoriedade de concessão de meia-entrada no Município.",
+   "decisoes": [
+    [
+     "2c907f769f1426cd019f48a3585b5874",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "09/07/2026"
+    ],
+    [
+     "2c907f769f1426cd019f5d3e94366c66",
+     "aprovado em segundo turno",
+     "13/07/2026"
+    ],
+    [
+     "2c907f76a0ee65b901a0f8de977f0d33",
+     "veto mantido",
+     "01/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f5d3e94366c66",
+    "decisao": "aprovado em segundo turno",
+    "data": "13/07/2026"
+   }
+  },
+  "76/2025": {
+   "autoria": "Ver.(a) José Ferreira",
+   "ementa": "Dispõe sobre o reconhecimento da Corrida de Rolimã como prática esportiva na cidade de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f7697353759019760754f7e573d",
+     "Aprovado em primeiro turno. Concluso em segundo turno.",
+     "11/06/2025"
+    ],
+    [
+     "2c907f7697c55c830197cca6a1461413",
+     "aprovado em segundo turno",
+     "02/07/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7697c55c830197cca6a1461413",
+    "decisao": "aprovado em segundo turno",
+    "data": "02/07/2025"
+   }
+  },
+  "760/2026": {
+   "autoria": "Ver.(a) Leonardo Ângelo",
+   "ementa": "Altera a Lei nº 11.416, de 3 de outubro de 2022, para dispor sobre medidas de efetivação do atendimento prioritário, inclusive mediante assistência ao empacotamento de compras, em estabelecimentos comerciais no Município.",
+   "decisoes": [
+    [
+     "2c907f76a066b84501a087b79ef817b6",
+     "aprovado em primeiro turno",
+     "09/09/2026"
+    ]
+   ],
+   "segundoTurno": null
+  },
+  "768/2026": {
+   "autoria": "Ver.(a) Wanderley Porto",
+   "ementa": "Acrescenta o art. 5-A à Lei nº 11.285/2021, que dispõe sobre o Programa de Substituição Gradativa dos Veículos de Tração Animal no Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f76a10b76cd01a1226d9a2e1b7f",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "09/10/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1ad76b366052f",
+     "aprovado em segundo turno",
+     "05/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1ad76b366052f",
+    "decisao": "aprovado em segundo turno",
+    "data": "05/11/2026"
+   }
+  },
+  "79/2025": {
+   "autoria": "Ver.(a) Wanderley Porto; Ver.(a) Dr. Bruno Pedralva",
+   "ementa": "Acrescenta o art. 1°-A à Lei nº 11.821/2025, que obriga os estabelecimentos comerciais que menciona a garantir a segurança, a saúde e o bem-estar de animais.",
+   "decisoes": [
+    [
+     "2c907f769735375901976065a26b5613",
+     "Aprovado em primeiro turno",
+     "11/06/2025"
+    ],
+    [
+     "2c907f769a2f4770019a55e67a583a05",
+     "aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a55e67a583a05",
+    "decisao": "aprovado o Substitutivo nº 1. Prejudicado o projeto. Segundo turno",
+    "data": "05/11/2025"
+   }
+  },
+  "794/2026": {
+   "autoria": "Ver.(a) Leonardo Ângelo; Ver.(a) Dra. Michelly Siqueira",
+   "ementa": "Estabelece diretrizes para a promoção da saúde mental e do bem-estar psicológico no Município de Belo Horizonte, em articulação com o Sistema Único de Saúde e a Rede de Atenção Psicossocial, e dá outras providências",
+   "decisoes": [
+    [
+     "2c907f76a066b84501a0a1635fc12ac4",
+     "aprovado em primeiro turno",
+     "14/09/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a11d0eddce15ce",
+     "aprovado em segundo turno",
+     "08/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a11d0eddce15ce",
+    "decisao": "aprovado em segundo turno",
+    "data": "08/10/2026"
+   }
+  },
+  "82/2025": {
+   "autoria": "Ver.(a) Dra. Michelly Siqueira",
+   "ementa": "\"Permite que alunos com espectro autistas sejam desobrigados a usarem uniforme escolar, considerando suas sensibilidades sensoriais.\"",
+   "decisoes": [
+    [
+     "2c907f7697c55c830197d1cc2e5b1e19",
+     "aprovado em primeiro turno",
+     "03/07/2025"
+    ],
+    [
+     "2c907f769a2f4770019a55e31a0839f8",
+     "aprovado o projeto. Prejudicadas todas as emendas e subemendas. Segundo Turno.",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a55e31a0839f8",
+    "decisao": "aprovado o projeto. Prejudicadas todas as emendas e subemendas. Segundo Turno.",
+    "data": "05/11/2025"
+   }
+  },
+  "824/2026": {
+   "autoria": "Ver.(a) Irlan Melo; Ver.(a) Arruda; Ver.(a) Cláudio do Mundo Novo; Ver.(a) Diego Sanches; Ver.(a) Dr. Bruno Pedralva; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Helinho da Farmácia; Ver.(a) Helton Junior; Ver.(a) Iza Lourença; Ver.(a) Janaina Cardoso; Ver.(a) José Ferreira; Ver.(a) Juhlia Santos; Ver.(a) Lucas Ganem; Ver.(a) Luiza Dulci; Ver.(a) Maninho Félix; Ver.(a) Neném da Farmácia; Ver.(a) Pedro Patrus; Ver.(a) Professor Juliano Lopes; Ver.(a) Professora Marli; Ver.(a) Professora Nara; Ver.(a) Tileléo",
+   "ementa": "Dispõe sobre o reaproveitamento de material didático na instituições de educação infantil criadas e mantidas pela iniciativa privada.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eccf3bb0b205a",
+     "aprovado em primeiro turno",
+     "15/06/2026"
+    ],
+    [
+     "2c907f769f1426cd019f390b7cc131f8",
+     "aprovado em segundo turno",
+     "06/07/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769f1426cd019f390b7cc131f8",
+    "decisao": "aprovado em segundo turno",
+    "data": "06/07/2026"
+   }
+  },
+  "829/2026": {
+   "autoria": "Ver.(a) Tileléo",
+   "ementa": "Autoriza o Poder Executivo a desenvolver e disponibilizar a expansão das funcionabilidades do aplicativo digital BH SIM para acompanhamento em tempo real da coleta de resíduos sólidos entre outros, no Município de Belo Horizonte, denominado \"Lixo na Hora e Longe da sua Porta\", e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76a066b84501a0a15da5892a3f",
+     "aprovado em primeiro turno. Concluso em segundo turno.",
+     "14/09/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1ad62160704bb",
+     "aprovado em segundo turno",
+     "05/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1ad62160704bb",
+    "decisao": "aprovado em segundo turno",
+    "data": "05/11/2026"
+   }
+  },
+  "830/2026": {
+   "autoria": "Executivo: Mensagem nº 10, de 08/05/2026",
+   "ementa": "Autoriza o Poder Executivo a abrir créditos adicionais aos Orçamentos Fiscal e da Seguridade Social do Município, para adequação das emendas parlamentares individuais de caráter impositivo constantes da Lei Orçamentária 2026 que apresentaram impedimentos em suas programações.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019eadeb3efa6ff7",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "09/06/2026"
+    ],
+    [
+     "2c907f769e5062dd019eb88fe19b0e04",
+     "aprovado em segundo turno",
+     "11/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019eb88fe19b0e04",
+    "decisao": "aprovado em segundo turno",
+    "data": "11/06/2026"
+   }
+  },
+  "836/2024": {
+   "autoria": "Ver.(a) Fernanda Pereira Altoé",
+   "ementa": "Altera a Lei n° 11.520/23, que \"Revoga a Legislação que menciona\".",
+   "decisoes": [
+    [
+     "2c907f769c2dee88019c2f65bcf306f4",
+     "aprovado em primeiro turno",
+     "05/02/2026"
+    ],
+    [
+     "2c907f769d246df5019d69ab5fd46bd5",
+     "aprovados o substitutivo nº 1 na parte não destacada (art. 4º) e os artigos 1º ao 3º do substitutivo nº 1 em votação destacada. Prejudicado o projeto. Segundo turno",
+     "07/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d69ab5fd46bd5",
+    "decisao": "aprovados o substitutivo nº 1 na parte não destacada (art. 4º) e os artigos 1º ao 3º do substitutivo nº 1 em votação destacada. Prejudicado o projeto. Segundo turno",
+    "data": "07/04/2026"
+   }
+  },
+  "84/2025": {
+   "autoria": "Ver.(a) Wanderley Porto; Ver.(a) Diego Sanches; Ver.(a) Dra. Michelly Siqueira; Ver.(a) Juninho Los Hermanos; Ver.(a) Leonardo Ângelo; Ver.(a) Rudson Paixão; Ver.(a) Wagner Ferreira",
+   "ementa": "Acrescenta o art. 17-A à Lei nº 7.031/96, que dispõe sobre a normatização complementar dos procedimentos relativos à saúde pelo Código Sanitário Municipal e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76987b849c019885f129501986",
+     "aprovado em segundo turno",
+     "07/08/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76987b849c019885f129501986",
+    "decisao": "aprovado em segundo turno",
+    "data": "07/08/2025"
+   }
+  },
+  "840/2026": {
+   "autoria": "Executivo: Mensagem nº 13, de 15/05/2026",
+   "ementa": "Dispõe sobre a desafetação e autoriza a doação da área que menciona ao Estado de Minas Gerais.",
+   "decisoes": [
+    [
+     "2c907f769e5062dd019e8f2a39ac5927",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "03/06/2026"
+    ],
+    [
+     "2c907f769e5062dd019ea8ca5fd2647f",
+     "aprovado em segundo turno",
+     "08/06/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769e5062dd019ea8ca5fd2647f",
+    "decisao": "aprovado em segundo turno",
+    "data": "08/06/2026"
+   }
+  },
+  "863/2026": {
+   "autoria": "Ver.(a) Irlan Melo",
+   "ementa": "Altera a Lei n° 11.891, de 28 de agosto de 2025.",
+   "decisoes": [
+    [
+     "2c907f769fc06af1019fd8b2e4d024f0",
+     "aprovado em primeiro turno. Concluso em segundo turno.",
+     "06/08/2026"
+    ],
+    [
+     "2c907f769fc06af1019ff27d611f4563",
+     "aprovado em segundo turno",
+     "11/08/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769fc06af1019ff27d611f4563",
+    "decisao": "aprovado em segundo turno",
+    "data": "11/08/2026"
+   }
+  },
+  "87/2025": {
+   "autoria": "Executivo: Mensagem nº 2, de 12/02/2025",
+   "ementa": "Altera a classificação quanto à permissividade de uso da Rua Borges, no trecho entre a rua Intendente Câmara e Rua Dom Rodrigo, localizado no Bairro Indaiá.",
+   "decisoes": [
+    [
+     "2c907f76987b849c01989ad9da982f63",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "11/08/2025"
+    ],
+    [
+     "2c907f7699383d9d01993f8120f70f6a",
+     "aprovado em segundo turno",
+     "12/09/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f7699383d9d01993f8120f70f6a",
+    "decisao": "aprovado em segundo turno",
+    "data": "12/09/2025"
+   }
+  },
+  "890/2026": {
+   "autoria": "Mesa -",
+   "ementa": "Altera a Lei n° 7.863/99, que institui o Estatuto dos Servidores da Câmara Municipal de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76a10b76cd01a11d129f4c15f2",
+     "aprovado em primeiro turno. Concluso em segundo turno",
+     "08/10/2026"
+    ],
+    [
+     "2c907f76a10b76cd01a1227088921b8f",
+     "aprovado em segundo turno",
+     "09/10/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1227088921b8f",
+    "decisao": "aprovado em segundo turno",
+    "data": "09/10/2026"
+   }
+  },
+  "9/2025": {
+   "autoria": "Executivo: Mensagem nº 44, de 28/11/2023",
+   "ementa": "Altera a Lei n° 7.431, de 5 de janeiro de 1998, que dá o nome de Parque Jacques Cousteau ou horto florestal da Betânia.",
+   "decisoes": [
+    [
+     "2c907f7699c349280199caf71baf1909",
+     "aprovados os artigos 1º e 2º do projeto em votação destacada. Aprovado o projeto na parte não destacada (artigo 3º). Primeiro Turno",
+     "09/10/2025"
+    ],
+    [
+     "2c907f769c2dee88019c49649b062901",
+     "Aprovados o Substitutivo nº 10 na parte não destacada (art. 3º) e os artigos 1º e 2º do Substitutivo nº 10 em votação destacada. Prejudicados o projeto e as demais emendas. Segundo Turno.",
+     "10/02/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769c2dee88019c49649b062901",
+    "decisao": "Aprovados o Substitutivo nº 10 na parte não destacada (art. 3º) e os artigos 1º e 2º do Substitutivo nº 10 em votação destacada. Prejudicados o projeto e as demais emendas. Segundo Turno.",
+    "data": "10/02/2026"
+   }
+  },
+  "90/2025": {
+   "autoria": "Ver.(a) Luiza Dulci",
+   "ementa": "Dispõe sobre a instalação de bebedouros públicos com água potável em praças, parques, calçadões e demais espaços públicos no Município de Belo Horizonte.",
+   "decisoes": [
+    [
+     "2c907f769a6e6b76019a7ef73a7a2711",
+     "aprovado em primeiro turno",
+     "13/11/2025"
+    ],
+    [
+     "2c907f769d246df5019d8dc2db732f5f",
+     "aprovado o substitutivo nº1, prejudicados o projeto e demais emendas. Segundo turno.",
+     "14/04/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769d246df5019d8dc2db732f5f",
+    "decisao": "aprovado o substitutivo nº1, prejudicados o projeto e demais emendas. Segundo turno.",
+    "data": "14/04/2026"
+   }
+  },
+  "908/2026": {
+   "autoria": "Executivo: Mensagem nº 17, de 31/07/2026",
+   "ementa": "Concede reajustes remuneratórios a servidores e empregados públicos da administração direta e indireta do Poder Executivo e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f76a066b84501a0a15f1d8a2a5f",
+     "aprovados o projeto na parte não destacada (art. 61) e os artigos 1º ao 60 e anexos I ao XVI em votação destacada. Primeiro turno",
+     "14/09/2026"
+    ],
+    [
+     "2c907f76a0aeb6eb01a0ca93f77d14c5",
+     "aprovadas as subemendas nº 1, 7 e 14 à emenda nº 31. Prejudicadas as emendas nº 1, 5 e 18. Aprovadas a emenda nº 31 na parte não destacada (art. 58) e a emenda nº 31 na parte destacada (arts. 1º ao 57 e anexos I ao XVI). Prejudicados o projeto e as demais emendas e subemendas, exceto as subemendas nº 2, 6 e 18 ao substitutivo nº 31. Rejeitadas as subemendas nº 2, 6 e 18 à emenda nº 31. Segundo turno",
+     "22/09/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a0aeb6eb01a0ca93f77d14c5",
+    "decisao": "aprovadas as subemendas nº 1, 7 e 14 à emenda nº 31. Prejudicadas as emendas nº 1, 5 e 18. Aprovadas a emenda nº 31 na parte não destacada (art. 58) e a emenda nº 31 na parte destacada (arts. 1º ao 57 e anexos I ao XVI). Prejudicados o projeto e as demais emendas e subemendas, exceto as subemendas nº 2, 6 e 18 ao substitutivo nº 31. Rejeitadas as subemendas nº 2, 6 e 18 à emenda nº 31. Segundo turno",
+    "data": "22/09/2026"
+   }
+  },
+  "93/2025": {
+   "autoria": "Ver.(a) Diego Sanches",
+   "ementa": "Institui o programa de vacinação domiciliar para pessoas com transtorno do espectro autista (TEA) no município de Belo Horizonte e dá outras providências.",
+   "decisoes": [
+    [
+     "2c907f7697e6729001980a7f8b763d87",
+     "aprovado em primeiro turno.",
+     "14/07/2025"
+    ],
+    [
+     "2c907f769a2f4770019a55db2d1539ae",
+     "aprovado o substitutivo nº 2, prejudicados o projeto e as demais emendas e subemendas. Segundo turno.",
+     "05/11/2025"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f769a2f4770019a55db2d1539ae",
+    "decisao": "aprovado o substitutivo nº 2, prejudicados o projeto e as demais emendas e subemendas. Segundo turno.",
+    "data": "05/11/2025"
+   }
+  },
+  "958/2026": {
+   "autoria": "Ver.(a) José Ferreira",
+   "ementa": "",
+   "decisoes": [
+    [
+     "2c907f76a10b76cd01a1d19433ef3620",
+     "aprovado em segundo turno",
+     "12/11/2026"
+    ]
+   ],
+   "segundoTurno": {
+    "id": "2c907f76a10b76cd01a1d19433ef3620",
+    "decisao": "aprovado em segundo turno",
+    "data": "12/11/2026"
+   }
+  }
+ }
+}
