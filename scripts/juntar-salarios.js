@@ -5,6 +5,7 @@
 //   node scripts/juntar-salarios.js salarios-AAAA-MM.json
 //
 // entrada: { mes: "AAAA-MM", servidores: { cm: { rend: [[rubrica, "R$ 1,00"]], desc: [[rubrica, "R$ 1,00"]], liq: "1,00" } } }
+// Uma ficha respondida sem nenhuma rubrica e com líquido R$ 0,00 é gravada como zero (nada pago no mês).
 // Conferência: rendimentos menos descontos tem de dar o líquido da ficha (até R$ 0,01), e a matrícula tem de
 // estar num gabinete em dados/gabinetes.json no mesmo mês. Se algo não bater, nada é gravado.
 const fs = require("fs");
@@ -44,7 +45,9 @@ for (const [cm, s] of Object.entries(entrada.servidores)) {
   const bruto = Math.round(rend.reduce((t, x) => t + x[1], 0) * 100) / 100;
   const descontos = Math.round(desc.reduce((t, x) => t + x[1], 0) * 100) / 100;
   const liquido = real(s.liq);
-  if (!rend.length || Math.abs(bruto - descontos - liquido) > 0.011) {
+  // ficha sem nenhuma rubrica e líquido R$ 0,00 = nada pago no mês (aceito); rubricas que não fecham = erro
+  const zerada = !rend.length && !desc.length && liquido === 0;
+  if ((!rend.length && !zerada) || Math.abs(bruto - descontos - liquido) > 0.011) {
     erros.push(`${cm}: rendimentos ${bruto} - descontos ${descontos} não dá o líquido ${liquido}`);
     continue;
   }

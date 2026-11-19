@@ -396,7 +396,8 @@
         eq.lista.forEach(function (s) {
           var li = el("li");
           li.append(el("b", null, s[0]), " ", el("span", "suave", "· " + cargoLegivel(s[1]) + " · " + String(s[2]).replace(".", ",") + " h/semana · desde " + s[3] + (s[4] ? " · saiu em " + s[4] : "")));
-          if (s[5]) {
+          if (s[5] && !s[5][2].length && s[5][1] === 0) li.append(el("span", "salario", " · R$ 0,00 neste mês (a ficha oficial não traz pagamento)"));
+          else if (s[5]) {
             var extrasSal = s[5][2].filter(function (x) { return x[0] !== "VENCIMENTO"; }).map(function (x) { return x[0].toLowerCase() + " " + reais(x[1]); });
             li.append(el("span", "salario", " · " + reais(s[5][0]) + " bruto, " + reais(s[5][1]) + " líquido" + (extrasSal.length ? " (inclui " + extrasSal.join("; ") + ")" : "")));
           }
