@@ -44,7 +44,11 @@ Pasta do projeto: `C:\Users\wallp\Documents\Codex\radarBH`. Git: `C:\Program Fil
    **Equipe dos gabinetes** (uma vez por mês, NÃO automática): a Consulta à Remuneração pede uma
    verificação anti-robô na entrada, que só uma pessoa pode responder. Quando o usuário estiver presente
    e responder, seguir `scripts/navegador-equipes.js` e rodar `node scripts/juntar-equipes.js arquivo.json`.
-   Sem isso, o site continua mostrando a equipe do último mês coletado. O subsídio e os benefícios são
+   Sem isso, o site continua mostrando a equipe do último mês coletado.
+   **Salários da equipe** (também só com o usuário presente): abrir a ficha (detalhes.php) de cada servidor
+   do gabinete em abas do navegador do app (até 8 por vez); o usuário responde a pergunta de cada aba e
+   clica em "Ver rendimentos"; ler rendimentos, descontos e líquido de cada aba e rodar
+   `node scripts/juntar-salarios.js arquivo.json` (confere rendimentos − descontos = líquido). O subsídio e os benefícios são
    calculados sozinhos pelo `gerar-site.js`, pela regra oficial.
 8. **Publicar**: `node scripts/gerar-site.js`, `node scripts/lista-fichas.js`, depois commit de
    `dados/fichas-encontradas.json`, `dados/transcricoes-2turno.json`, `dados/votos-nominais.json`,
