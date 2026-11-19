@@ -227,6 +227,8 @@ const REGRA = {
 };
 const gabinetesDados = extra("gabinetes.json");
 const mesEquipe = Object.keys(gabinetesDados?.meses || {}).at(-1) || null;
+const salariosDados = extra("salarios-gabinete.json");
+const salariosMes = salariosDados?.meses?.[mesEquipe] || {};
 const equipePorSlug = new Map();
 const inicioPorSlug = new Map();
 const equipesSemDono = [];
@@ -247,10 +249,20 @@ for (const [lotacao, g] of Object.entries(gabinetesDados?.meses[mesEquipe]?.gabi
     pessoas: ativos.length,
     saiuNoMes: g.servidores.length - ativos.length,
     porCargo: [...grupos].map(([k, n]) => [...k.split("|").map((x, i) => (i ? Number(x) : x)), n]).sort((a, b) => b[2] - a[2]),
-    // [nome, cargo, horas por semana, admissão, exoneração no mês?], em ordem alfabética
+    // [nome, cargo, horas por semana, admissão, exoneração no mês?, salário?], em ordem alfabética
+    // salário = [bruto, líquido, [[rubrica, valor], ...]] quando a ficha foi lida
     lista: g.servidores
-      .map(([, cargo, h, adm, exo, nome]) => [nome || "(sem nome na fonte)", cargo, h, adm, exo])
+      .map(([cm, cargo, h, adm, exo, nome]) => {
+        const s = salariosMes[cm];
+        return [nome || "(sem nome na fonte)", cargo, h, adm, exo, s ? [s.bruto, s.liquido, s.rend] : null];
+      })
       .sort((a, b) => a[0].localeCompare(b[0], "pt-BR")),
+    salarios: (() => {
+      const lidos = g.servidores.filter((s) => salariosMes[s[0]]);
+      if (!lidos.length) return null;
+      const soma = (k) => Math.round(lidos.reduce((t, s) => t + salariosMes[s[0]][k], 0) * 100) / 100;
+      return { lidos: lidos.length, de: g.servidores.length, bruto: soma("bruto"), liquido: soma("liquido") };
+    })(),
   });
   if (g.vereador?.admissao) inicioPorSlug.set(slug, g.vereador.admissao.split("/").reverse().join("-"));
 }

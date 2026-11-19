@@ -384,11 +384,22 @@
         ue.append(li);
       });
       b.append(ue);
+      var sal = eq.salarios;
+      if (sal) {
+        var ps = el("p");
+        if (sal.lidos === sal.de) ps.append("Salários da equipe em " + nomeMes(md.equipeMes) + ": ", el("b", null, reais(sal.bruto)), " brutos (" + reais(sal.liquido) + " líquidos), somando as " + sal.de + " fichas oficiais.");
+        else ps.append("Salários lidos até agora: " + sal.lidos + " de " + sal.de + " fichas, somando " + reais(sal.bruto) + " brutos. A soma do gabinete só aparece quando todas forem lidas.");
+        b.append(ps);
+      }
       if (eq.lista && eq.lista.length) {
         var ln = el("ul", "lista-simples lista-equipe");
         eq.lista.forEach(function (s) {
           var li = el("li");
           li.append(el("b", null, s[0]), " ", el("span", "suave", "· " + cargoLegivel(s[1]) + " · " + String(s[2]).replace(".", ",") + " h/semana · desde " + s[3] + (s[4] ? " · saiu em " + s[4] : "")));
+          if (s[5]) {
+            var extrasSal = s[5][2].filter(function (x) { return x[0] !== "VENCIMENTO"; }).map(function (x) { return x[0].toLowerCase() + " " + reais(x[1]); });
+            li.append(el("span", "salario", " · " + reais(s[5][0]) + " bruto, " + reais(s[5][1]) + " líquido" + (extrasSal.length ? " (inclui " + extrasSal.join("; ") + ")" : "")));
+          }
           ln.append(li);
         });
         var bt = el("button", "ver-mais", "Ver os nomes (" + eq.lista.length + ")");
@@ -399,7 +410,10 @@
         b.append(pb, ln);
       }
     }
-    b.append(el("p", "suave nota-mes", "Salários da equipe: a Câmara mostra o salário de cada servidor só um por um, com uma verificação anti-robô a cada consulta, e não publica a soma por gabinete; por isso não estão aqui. Carro: a Câmara não publica gasto com carro por vereador."));
+    b.append(el("p", "suave nota-mes", (eq && eq.salarios && eq.salarios.lidos === eq.salarios.de
+      ? "Salários da equipe: copiados da ficha de cada servidor na Consulta à Remuneração, uma a uma (cada ficha pede uma verificação anti-robô). São de um mês só e não entram na soma acima. "
+      : "Salários da equipe: a Câmara mostra o salário de cada servidor só um por um, com uma verificação anti-robô a cada consulta, e não publica a soma por gabinete; ainda não lemos todas as fichas deste gabinete. ") +
+      "Carro: a Câmara não publica gasto com carro por vereador."));
     var f = el("p", "acoes-bloco");
     f.append(link(R.fonte, "Fonte oficial do subsídio e benefícios"));
     if (md.equipeFonte) f.append(link(md.equipeFonte, "Fonte oficial da equipe e dos salários (consulta um a um)"));
