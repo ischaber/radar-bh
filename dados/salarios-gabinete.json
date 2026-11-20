@@ -68,6 +68,34 @@
     "liquido": 3505.2,
     "lidoEm": "2026-11-19T01:21:41.157Z"
    },
+   "11590": {
+    "rend": [
+     [
+      "ADIC. PRODUTIVIDADE PARLAMENTAR RPPS",
+      3484.08
+     ]
+    ],
+    "desc": [],
+    "bruto": 3484.08,
+    "liquido": 3484.08,
+    "lidoEm": "2026-11-20T14:46:07.936Z"
+   },
+   "11595": {
+    "rend": [
+     [
+      "DIFER. ADIC.PRODUTIVIDADE PARLAMENT.RPPS",
+      21.12
+     ],
+     [
+      "ADIC. PRODUTIVIDADE PARLAMENTAR RPPS",
+      3484.08
+     ]
+    ],
+    "desc": [],
+    "bruto": 3505.2,
+    "liquido": 3505.2,
+    "lidoEm": "2026-11-20T14:46:07.966Z"
+   },
    "11650": {
     "rend": [
      [
@@ -96,6 +124,22 @@
     "bruto": 2023.01,
     "liquido": 1739.79,
     "lidoEm": "2026-11-20T13:52:08.139Z"
+   },
+   "16182": {
+    "rend": [
+     [
+      "AUXÍLIO-TRANSPORTE ESTÁGIO",
+      250
+     ],
+     [
+      "ESTÁGIO BOLSA_AUXÍLIO",
+      1000
+     ]
+    ],
+    "desc": [],
+    "bruto": 1250,
+    "liquido": 1250,
+    "lidoEm": "2026-11-20T14:32:18.386Z"
    },
    "16247": {
     "rend": [
@@ -137,6 +181,27 @@
     "bruto": 10931.32,
     "liquido": 7717.13,
     "lidoEm": "2026-11-20T13:52:08.222Z"
+   },
+   "37822": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      17490.13
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      3629.34
+     ]
+    ],
+    "bruto": 17490.13,
+    "liquido": 12872.72,
+    "lidoEm": "2026-11-20T14:32:18.258Z"
    },
    "39479": {
     "rend": [
@@ -271,6 +336,27 @@
     "liquido": 10128.34,
     "lidoEm": "2026-11-19T00:40:38.563Z"
    },
+   "42098": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      26235.19
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      6034.23
+     ]
+    ],
+    "bruto": 26235.19,
+    "liquido": 19212.89,
+    "lidoEm": "2026-11-20T14:46:07.981Z"
+   },
    "42103": {
     "rend": [
      [
@@ -295,6 +381,27 @@
     "bruto": 26235.19,
     "liquido": 18039.94,
     "lidoEm": "2026-11-19T11:27:17.417Z"
+   },
+   "42219": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      8745.07
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1224.45
+     ]
+    ],
+    "bruto": 8745.07,
+    "liquido": 6532.55,
+    "lidoEm": "2026-11-20T14:46:07.873Z"
    },
    "42334": {
     "rend": [
@@ -621,6 +728,27 @@
     "liquido": 6367.42,
     "lidoEm": "2026-11-20T13:34:34.236Z"
    },
+   "42875": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      10931.32
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1825.66
+     ]
+    ],
+    "bruto": 10931.32,
+    "liquido": 8117.59,
+    "lidoEm": "2026-11-20T14:53:53.282Z"
+   },
    "42981": {
     "rend": [
      [
@@ -667,6 +795,23 @@
     "liquido": 2626.93,
     "lidoEm": "2026-11-19T11:27:17.383Z"
    },
+   "43009": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2186.25
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      172.44
+     ]
+    ],
+    "bruto": 2186.25,
+    "liquido": 2013.81,
+    "lidoEm": "2026-11-20T14:46:07.950Z"
+   },
    "43037": {
     "rend": [
      [
@@ -691,6 +836,44 @@
     "bruto": 8745.07,
     "liquido": 6284.69,
     "lidoEm": "2026-11-19T11:27:17.350Z"
+   },
+   "43064": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      3279.38
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      282.11
+     ]
+    ],
+    "bruto": 3279.38,
+    "liquido": 2997.27,
+    "lidoEm": "2026-11-20T14:32:18.416Z"
+   },
+   "43085": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      16220.68
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      3280.24
+     ]
+    ],
+    "bruto": 16220.68,
+    "liquido": 11952.37,
+    "lidoEm": "2026-11-20T14:46:07.918Z"
    },
    "43106": {
     "rend": [
@@ -762,6 +945,31 @@
     "bruto": 3279.38,
     "liquido": 2858.09,
     "lidoEm": "2026-11-19T01:21:41.272Z"
+   },
+   "43145": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      20769.5
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      4531.16
+     ],
+     [
+      "OUTROS DESCONTOS",
+      897.29
+     ]
+    ],
+    "bruto": 20769.5,
+    "liquido": 14352.98,
+    "lidoEm": "2026-11-20T14:46:07.858Z"
    },
    "43148": {
     "rend": [
@@ -855,6 +1063,48 @@
     "liquido": 4722.51,
     "lidoEm": "2026-11-19T01:21:41.183Z"
    },
+   "43272": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      8198.48
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      949.28
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1084.8
+     ],
+     [
+      "OUTROS DESCONTOS",
+      274.05
+     ]
+    ],
+    "bruto": 8198.48,
+    "liquido": 5890.35,
+    "lidoEm": "2026-11-20T14:32:18.317Z"
+   },
+   "43316": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      3279.38
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      282.11
+     ]
+    ],
+    "bruto": 3279.38,
+    "liquido": 2997.27,
+    "lidoEm": "2026-11-20T14:32:18.370Z"
+   },
    "43364": {
     "rend": [
      [
@@ -900,6 +1150,27 @@
     "bruto": 7228.78,
     "liquido": 4693.7,
     "lidoEm": "2026-11-19T00:58:11.207Z"
+   },
+   "43413": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      14457.57
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      2795.38
+     ]
+    ],
+    "bruto": 14457.57,
+    "liquido": 10674.12,
+    "lidoEm": "2026-11-20T14:46:07.865Z"
    },
    "43441": {
     "rend": [
@@ -988,6 +1259,39 @@
     "bruto": 5465.64,
     "liquido": 4722.51,
     "lidoEm": "2026-11-20T13:09:18.012Z"
+   },
+   "43483": {
+    "rend": [
+     [
+      "DÉCIMO TERCEIRO - ACERTO - LEI 9118/05",
+      8198.49
+     ],
+     [
+      "VENCIMENTO",
+      1410.49
+     ],
+     [
+      "INDENIZAÇÃO POR TERMINO DE VINCULO",
+      458.03
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      105.78
+     ],
+     [
+      "INSS-DECIMO TERCEIRO",
+      949.29
+     ],
+     [
+      "IRRF DE 13.SALARIO RESCISAO",
+      1084.8
+     ]
+    ],
+    "bruto": 10067.01,
+    "liquido": 7927.14,
+    "lidoEm": "2026-11-20T14:32:18.343Z"
    },
    "43490": {
     "rend": [
@@ -1109,6 +1413,31 @@
     "bruto": 9415.04,
     "liquido": 6839.03,
     "lidoEm": "2026-11-20T13:44:34.342Z"
+   },
+   "43644": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      8745.07
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1224.45
+     ],
+     [
+      "OUTROS DESCONTOS",
+      261.79
+     ]
+    ],
+    "bruto": 8745.07,
+    "liquido": 6270.76,
+    "lidoEm": "2026-11-20T14:32:18.280Z"
    },
    "43647": {
     "rend": [
@@ -1357,6 +1686,27 @@
     "bruto": 6558.77,
     "liquido": 4219.73,
     "lidoEm": "2026-11-20T13:44:34.358Z"
+   },
+   "43740": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      7651.94
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      872.77
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      903.4
+     ]
+    ],
+    "bruto": 7651.94,
+    "liquido": 5875.77,
+    "lidoEm": "2026-11-20T14:53:53.303Z"
    },
    "43777": {
     "rend": [
@@ -1715,6 +2065,40 @@
     "bruto": 3279.38,
     "liquido": 2800.51,
     "lidoEm": "2026-11-19T11:27:17.403Z"
+   },
+   "43881": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2186.25
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      172.44
+     ]
+    ],
+    "bruto": 2186.25,
+    "liquido": 2013.81,
+    "lidoEm": "2026-11-20T14:32:18.355Z"
+   },
+   "43884": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2186.25
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      172.44
+     ]
+    ],
+    "bruto": 2186.25,
+    "liquido": 2013.81,
+    "lidoEm": "2026-11-20T14:32:18.401Z"
    },
    "43886": {
     "rend": [
@@ -2128,6 +2512,23 @@
     "bruto": 15303.87,
     "liquido": 10571.86,
     "lidoEm": "2026-11-19T11:27:17.425Z"
+   },
+   "44018": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2186.25
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      172.44
+     ]
+    ],
+    "bruto": 2186.25,
+    "liquido": 2013.81,
+    "lidoEm": "2026-11-20T14:46:07.897Z"
    },
    "44019": {
     "rend": [
