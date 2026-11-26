@@ -168,6 +168,23 @@
     "liquido": 3484.08,
     "lidoEm": "2026-11-19T23:51:30.862Z"
    },
+   "11662": {
+    "rend": [
+     [
+      "ADIC. PRODUTIVIDADE PARLAMENTAR RGPS",
+      2023.01
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      223.22
+     ]
+    ],
+    "bruto": 2023.01,
+    "liquido": 1799.79,
+    "lidoEm": "2026-11-26T02:19:55.739Z"
+   },
    "11663": {
     "rend": [
      [
@@ -253,6 +270,22 @@
     "bruto": 1300,
     "liquido": 1300,
     "lidoEm": "2026-11-20T15:52:15.055Z"
+   },
+   "16211": {
+    "rend": [
+     [
+      "AUXÍLIO-TRANSPORTE ESTÁGIO",
+      480
+     ],
+     [
+      "ESTÁGIO BOLSA_AUXÍLIO",
+      800
+     ]
+    ],
+    "desc": [],
+    "bruto": 1280,
+    "liquido": 1280,
+    "lidoEm": "2026-11-26T02:31:52.979Z"
    },
    "16247": {
     "rend": [
@@ -965,6 +998,27 @@
     "bruto": 2915.01,
     "liquido": 2915.01,
     "lidoEm": "2026-11-19T01:21:41.262Z"
+   },
+   "42530": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      14210.72
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      2727.5
+     ]
+    ],
+    "bruto": 14210.72,
+    "liquido": 10495.15,
+    "lidoEm": "2026-11-26T02:19:55.845Z"
    },
    "42560": {
     "rend": [
@@ -1744,6 +1798,31 @@
     "liquido": 5392.47,
     "lidoEm": "2026-11-20T13:44:34.311Z"
    },
+   "43494": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      5465.64
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      566.69
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      176.44
+     ],
+     [
+      "OUTROS DESCONTOS",
+      189.94
+     ]
+    ],
+    "bruto": 5465.64,
+    "liquido": 4532.57,
+    "lidoEm": "2026-11-26T02:19:55.877Z"
+   },
    "43506": {
     "rend": [
      [
@@ -2393,6 +2472,81 @@
     "liquido": 2245.13,
     "lidoEm": "2026-11-26T02:12:56.342Z"
    },
+   "43688": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2750.46
+     ],
+     [
+      "SALARIO MATERNIDADE - AMPLO",
+      11460.26
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      2727.5
+     ]
+    ],
+    "bruto": 14210.72,
+    "liquido": 10495.15,
+    "lidoEm": "2026-11-26T02:19:55.861Z"
+   },
+   "43691": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      6558.77
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      719.73
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      591.65
+     ],
+     [
+      "OUTROS DESCONTOS",
+      1594.5
+     ]
+    ],
+    "bruto": 6558.77,
+    "liquido": 3652.89,
+    "lidoEm": "2026-11-26T02:19:55.885Z"
+   },
+   "43698": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      6558.77
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      719.73
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      591.65
+     ],
+     [
+      "OUTROS DESCONTOS",
+      2014.41
+     ]
+    ],
+    "bruto": 6558.77,
+    "liquido": 3232.98,
+    "lidoEm": "2026-11-26T02:19:55.797Z"
+   },
    "43701": {
     "rend": [
      [
@@ -2931,6 +3085,27 @@
     "liquido": 4748.5,
     "lidoEm": "2026-11-20T00:33:09.779Z"
    },
+   "43904": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      13117.58
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      2426.89
+     ]
+    ],
+    "bruto": 13117.58,
+    "liquido": 9702.62,
+    "lidoEm": "2026-11-26T02:17:34.125Z"
+   },
    "43906": {
     "rend": [
      [
@@ -3277,6 +3452,27 @@
     "liquido": 5367.13,
     "lidoEm": "2026-11-20T00:49:53.334Z"
    },
+   "44007": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      8745.07
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1224.45
+     ]
+    ],
+    "bruto": 8745.07,
+    "liquido": 6532.55,
+    "lidoEm": "2026-11-26T02:17:34.241Z"
+   },
    "44014": {
     "rend": [
      [
@@ -3429,6 +3625,27 @@
     "liquido": 4591.91,
     "lidoEm": "2026-11-20T15:52:15.087Z"
    },
+   "44063": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      4372.51
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      413.65
+     ],
+     [
+      "OUTROS DESCONTOS",
+      262.35
+     ]
+    ],
+    "bruto": 4372.51,
+    "liquido": 3696.51,
+    "lidoEm": "2026-11-26T02:17:34.178Z"
+   },
    "44078": {
     "rend": [
      [
@@ -3558,6 +3775,216 @@
     "bruto": 10585.69,
     "liquido": 8072.57,
     "lidoEm": "2026-11-20T13:44:34.279Z"
+   },
+   "44120": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2856.23
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      232.74
+     ]
+    ],
+    "bruto": 2856.23,
+    "liquido": 2623.49,
+    "lidoEm": "2026-11-26T02:31:52.998Z"
+   },
+   "44122": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      6664.59
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      734.54
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      630.77
+     ]
+    ],
+    "bruto": 6664.59,
+    "liquido": 5299.28,
+    "lidoEm": "2026-11-26T02:17:34.146Z"
+   },
+   "44123": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      8568.75
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1175.96
+     ]
+    ],
+    "bruto": 8568.75,
+    "liquido": 6404.72,
+    "lidoEm": "2026-11-26T02:19:55.829Z"
+   },
+   "44124": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      18089.56
+     ],
+     [
+      "AUXÍLIO CRECHE MENOR DE 6 ANOS",
+      373.75
+     ],
+     [
+      "AUXÍLIO CRECHE MENOR DE 6 ANOS",
+      373.75
+     ],
+     [
+      "AUXÍLIO CRECHE MENOR DE 6 ANOS",
+      373.75
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      3794.18
+     ]
+    ],
+    "bruto": 19210.81,
+    "liquido": 14428.56,
+    "lidoEm": "2026-11-26T02:17:34.196Z"
+   },
+   "44126": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      7616.67
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      867.83
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      947.2
+     ]
+    ],
+    "bruto": 7616.67,
+    "liquido": 5801.64,
+    "lidoEm": "2026-11-26T02:17:34.109Z"
+   },
+   "44127": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      6664.59
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      734.54
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      630.77
+     ]
+    ],
+    "bruto": 6664.59,
+    "liquido": 5299.28,
+    "lidoEm": "2026-11-26T02:17:34.160Z"
+   },
+   "44128": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      6664.59
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      734.54
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      630.77
+     ]
+    ],
+    "bruto": 6664.59,
+    "liquido": 5299.28,
+    "lidoEm": "2026-11-26T02:17:34.229Z"
+   },
+   "44129": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      9520.83
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      988.07
+     ],
+     [
+      "IRRF - IMP.RENDA RETIDO NA FONTE",
+      1437.78
+     ]
+    ],
+    "bruto": 9520.83,
+    "liquido": 7094.98,
+    "lidoEm": "2026-11-26T02:17:34.212Z"
+   },
+   "44130": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      2856.23
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      232.74
+     ]
+    ],
+    "bruto": 2856.23,
+    "liquido": 2623.49,
+    "lidoEm": "2026-11-26T02:19:55.816Z"
+   },
+   "44131": {
+    "rend": [
+     [
+      "VENCIMENTO",
+      3332.29
+     ]
+    ],
+    "desc": [
+     [
+      "INSS",
+      288.46
+     ]
+    ],
+    "bruto": 3332.29,
+    "liquido": 3043.83,
+    "lidoEm": "2026-11-26T02:19:55.773Z"
    },
    "44136": {
     "rend": [
